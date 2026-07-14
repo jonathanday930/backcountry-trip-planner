@@ -1,0 +1,666 @@
+[
+  {
+    "id": "001-boundary-creek",
+    "name": "001 - Boundary Creek",
+    "lat": 40.498026,
+    "lon": -105.518316,
+    "type": "designated_campsite",
+    "context": "4.6 mi from Dunraven Trailhead, 9120 ft"
+  },
+  {
+    "id": "004-halfway",
+    "name": "004 - Halfway",
+    "lat": 40.496742,
+    "lon": -105.536296,
+    "type": "designated_campsite",
+    "context": "5.6 mi from Dunraven Trailhead, 9340 ft"
+  },
+  {
+    "id": "005-aspen-meadow-group",
+    "name": "005 - Aspen Meadow Group",
+    "lat": 40.497653,
+    "lon": -105.544282,
+    "type": "corridor_campground",
+    "context": "5.9 mi from Dunraven Trailhead, 9520 ft"
+  },
+  {
+    "id": "006-happily-lost",
+    "name": "006 - Happily Lost",
+    "lat": 40.498943,
+    "lon": -105.553021,
+    "type": "designated_campsite",
+    "context": "6.2 mi from Dunraven Trailhead, 9560 ft"
+  },
+  {
+    "id": "013-rabbit-ears",
+    "name": "013 - Rabbit Ears",
+    "lat": 40.42593,
+    "lon": -105.52483,
+    "type": "designated_campsite",
+    "context": "1.4 mi from Lawn Lake Trailhead, 8100 ft"
+  },
+  {
+    "id": "014-peregrine",
+    "name": "014 - Peregrine",
+    "lat": 40.428238,
+    "lon": -105.538794,
+    "type": "designated_campsite",
+    "context": "2 mi from Lawn Lake Trailhead, 8480 ft"
+  },
+  {
+    "id": "017-lower-tileston-meadows",
+    "name": "017 - Lower Tileston Meadows",
+    "lat": 40.450805,
+    "lon": -105.610715,
+    "type": "designated_campsite",
+    "context": "6.6 mi from Lawn Lake Trailhead, 10650 ft"
+  },
+  {
+    "id": "021-cutbank",
+    "name": "021 - Cutbank",
+    "lat": 40.433681,
+    "lon": -105.636944,
+    "type": "designated_campsite",
+    "context": "2.4 mi from Lawn Lake Trailhead, 9620 ft"
+  },
+  {
+    "id": "022-golden-banner",
+    "name": "022 - Golden Banner",
+    "lat": 40.435476,
+    "lon": -105.63386,
+    "type": "designated_campsite",
+    "context": "2.5 mi from Lawn Lake Trailhead, 9600 ft"
+  },
+  {
+    "id": "023-lawn-lake",
+    "name": "023 - Lawn Lake",
+    "lat": 40.465846,
+    "lon": -105.627402,
+    "type": "designated_campsite",
+    "context": "6.2 mi from Lawn Lake Trailhead, 10990 ft"
+  },
+  {
+    "id": "024-little-rock-lake",
+    "name": "024 - Little Rock Lake",
+    "lat": 40.389334,
+    "lon": -105.747591,
+    "type": "designated_campsite",
+    "context": "6 mi from Milner Pass Trailhead, 10280 ft"
+  },
+  {
+    "id": "025-ute-meadow-llama",
+    "name": "025 - Ute Meadow Llama",
+    "lat": 40.362474,
+    "lon": -105.649972,
+    "type": "corridor_campground",
+    "context": "2.7 mi from Bear Lake Trailhead, 9450 ft"
+  },
+  {
+    "id": "026-arch-rock",
+    "name": "026 - Arch Rock",
+    "lat": 40.350095,
+    "lon": -105.653916,
+    "type": "designated_campsite",
+    "context": "1.6 mi from Bear Lake Trailhead, 8240 ft"
+  },
+  {
+    "id": "027-old-forest-inn",
+    "name": "027 - Old Forest Inn",
+    "lat": 40.349451,
+    "lon": -105.661238,
+    "type": "designated_campsite",
+    "context": "1.7 mi from Bear Lake Trailhead, 8400 ft"
+  },
+  {
+    "id": "028-fern-lake",
+    "name": "028 - Fern Lake",
+    "lat": 40.3386,
+    "lon": -105.678821,
+    "type": "designated_campsite",
+    "context": "3.8 mi from Bear Lake Trailhead, 9530 ft"
+  },
+  {
+    "id": "028g-fern-lake-group",
+    "name": "028g - Fern Lake Group",
+    "lat": 40.3386,
+    "lon": -105.678821,
+    "type": "corridor_campground",
+    "context": "3.8 mi from Bear Lake Trailhead, 9530 ft"
+  },
+  {
+    "id": "030-odessa-lake",
+    "name": "030 - Odessa Lake",
+    "lat": 40.332219,
+    "lon": -105.684488,
+    "type": "designated_campsite",
+    "context": "4.1 mi from Bear Lake Trailhead, 10020 ft"
+  },
+  {
+    "id": "031-sourdough",
+    "name": "031 - Sourdough",
+    "lat": 40.323882,
+    "lon": -105.678771,
+    "type": "designated_campsite",
+    "context": "2.5 mi from Bear Lake Trailhead, 10600 ft"
+  },
+  {
+    "id": "032-cub-creek",
+    "name": "032 - Cub Creek",
+    "lat": 40.347491,
+    "lon": -105.639025,
+    "type": "designated_campsite",
+    "context": "2.2 mi from Bear Lake Trailhead, 8600 ft"
+  },
+  {
+    "id": "034-upper-mill-creek",
+    "name": "034 - Upper Mill Creek",
+    "lat": 40.332824,
+    "lon": -105.63399,
+    "type": "designated_campsite",
+    "context": "1.7 mi from Bear Lake Trailhead, 9200 ft"
+  },
+  {
+    "id": "035-wind-river-bluff",
+    "name": "035 - Wind River Bluff",
+    "lat": 40.319097,
+    "lon": -105.585024,
+    "type": "designated_campsite",
+    "context": "1 mi from Bear Lake Trailhead, 8800 ft"
+  },
+  {
+    "id": "036-over-the-hill",
+    "name": "036 - Over the Hill",
+    "lat": 40.314167,
+    "lon": -105.593937,
+    "type": "designated_campsite",
+    "context": "1.3 mi from Bear Lake Trailhead, 8870 ft"
+  },
+  {
+    "id": "037-upper-wind-river",
+    "name": "037 - Upper Wind River",
+    "lat": 40.312112,
+    "lon": -105.600465,
+    "type": "designated_campsite",
+    "context": "1.6 mi from Bear Lake Trailhead, 8940 ft"
+  },
+  {
+    "id": "038-boulder-brook",
+    "name": "038 - Boulder Brook",
+    "lat": 40.291342,
+    "lon": -105.618739,
+    "type": "designated_campsite",
+    "context": "3.9 mi from Bear Lake Trailhead, 10200 ft"
+  },
+  {
+    "id": "038g-boulder-brook-group",
+    "name": "038g - Boulder Brook Group",
+    "lat": 40.291342,
+    "lon": -105.618739,
+    "type": "corridor_campground",
+    "context": "3.9 mi from Bear Lake Trailhead, 10200 ft"
+  },
+  {
+    "id": "039-glacier-gorge",
+    "name": "039 - Glacier Gorge",
+    "lat": 40.281763,
+    "lon": -105.639663,
+    "type": "designated_campsite",
+    "context": "3.8 mi from Bear Lake Trailhead, 10000 ft"
+  },
+  {
+    "id": "040-andrews-creek",
+    "name": "040 - Andrews Creek",
+    "lat": 40.290146,
+    "lon": -105.665007,
+    "type": "designated_campsite",
+    "context": "3.6 mi from Bear Lake Trailhead, 10560 ft"
+  },
+  {
+    "id": "041-moore-park",
+    "name": "041 - Moore Park",
+    "lat": 40.28623,
+    "lon": -105.567888,
+    "type": "designated_campsite",
+    "context": "1.7 mi from Longs Peak Trailhead, 9760 ft"
+  },
+  {
+    "id": "042-goblins-forest",
+    "name": "042 - Goblins Forest",
+    "lat": 40.272369,
+    "lon": -105.571164,
+    "type": "designated_campsite",
+    "context": "1.2 mi from Longs Peak Trailhead, 10120 ft"
+  },
+  {
+    "id": "043-battle-mountain-group",
+    "name": "043 - Battle Mountain Group",
+    "lat": 40.272261,
+    "lon": -105.58414,
+    "type": "corridor_campground",
+    "context": "2.8 mi from Longs Peak Trailhead, 11000 ft"
+  },
+  {
+    "id": "044-boulderfield",
+    "name": "044 - Boulderfield",
+    "lat": 40.263588,
+    "lon": -105.615547,
+    "type": "designated_campsite",
+    "context": "6 mi from Longs Peak Trailhead, 12760 ft"
+  },
+  {
+    "id": "045-hole-in-the-wall",
+    "name": "045 - Hole-in-the-Wall",
+    "lat": 40.215864,
+    "lon": -105.560226,
+    "type": "designated_campsite",
+    "context": "1.9 mi from Wild Basin Trailhead, 9240 ft"
+  },
+  {
+    "id": "046-campers-creek",
+    "name": "046 - Campers Creek",
+    "lat": 40.215816,
+    "lon": -105.565522,
+    "type": "designated_campsite",
+    "context": "2.3 mi from Wild Basin Trailhead, 9600 ft"
+  },
+  {
+    "id": "047-beaver-mill",
+    "name": "047 - Beaver Mill",
+    "lat": 40.215611,
+    "lon": -105.579234,
+    "type": "designated_campsite",
+    "context": "3 mi from Wild Basin Trailhead, 9640 ft"
+  },
+  {
+    "id": "048-hunters-creek",
+    "name": "048 - Hunters Creek",
+    "lat": 40.216586,
+    "lon": -105.58371,
+    "type": "designated_campsite",
+    "context": "3.3 mi from Wild Basin Trailhead, 9760 ft"
+  },
+  {
+    "id": "049-sandbeach-lake",
+    "name": "049 - Sandbeach Lake",
+    "lat": 40.221224,
+    "lon": -105.601083,
+    "type": "designated_campsite",
+    "context": "4.2 mi from Sandbeach Lake Trailhead, 10280 ft"
+  },
+  {
+    "id": "049g-sandbeach-lake-group",
+    "name": "049g - Sandbeach Lake Group",
+    "lat": 40.221224,
+    "lon": -105.601083,
+    "type": "corridor_campground",
+    "context": "4.2 mi from Sandbeach Lake Trailhead, 10280 ft"
+  },
+  {
+    "id": "050-pine-ridge",
+    "name": "050 - Pine Ridge",
+    "lat": 40.20062,
+    "lon": -105.587941,
+    "type": "designated_campsite",
+    "context": "1.4 mi from Wild Basin Trailhead, 8880 ft"
+  },
+  {
+    "id": "051-tahosa",
+    "name": "051 - Tahosa",
+    "lat": 40.199281,
+    "lon": -105.592392,
+    "type": "designated_campsite",
+    "context": "1.7 mi from Wild Basin Trailhead, 9040 ft"
+  },
+  {
+    "id": "052-aspen-knoll-llama",
+    "name": "052 - Aspen Knoll Llama",
+    "lat": 40.201979,
+    "lon": -105.59662,
+    "type": "corridor_campground",
+    "context": "2.3 mi from Wild Basin Trailhead, 9400 ft"
+  },
+  {
+    "id": "053-siskin",
+    "name": "053 - Siskin",
+    "lat": 40.206331,
+    "lon": -105.607757,
+    "type": "designated_campsite",
+    "context": "3.7 mi from Wild Basin Trailhead, 9600 ft"
+  },
+  {
+    "id": "054-north-st-vrain",
+    "name": "054 - North St. Vrain",
+    "lat": 40.205514,
+    "lon": -105.607013,
+    "type": "designated_campsite",
+    "context": "3.5 mi from Wild Basin Trailhead, 9560 ft"
+  },
+  {
+    "id": "055-thunder-lake",
+    "name": "055 - Thunder Lake",
+    "lat": 40.222224,
+    "lon": -105.643433,
+    "type": "designated_campsite",
+    "context": "6.8 mi from Wild Basin Trailhead, 10570 ft"
+  },
+  {
+    "id": "055g-thunder-lake-group",
+    "name": "055g - Thunder Lake Group",
+    "lat": 40.222224,
+    "lon": -105.643433,
+    "type": "corridor_campground",
+    "context": "6.8 mi from Wild Basin Trailhead, 10570 ft"
+  },
+  {
+    "id": "056-ouzel-lake",
+    "name": "056 - Ouzel Lake",
+    "lat": 40.199952,
+    "lon": -105.631217,
+    "type": "designated_campsite",
+    "context": "4.9 mi from Wild Basin Trailhead, 10020 ft"
+  },
+  {
+    "id": "061-east-meadow",
+    "name": "061 - East Meadow",
+    "lat": 40.237143,
+    "lon": -105.785959,
+    "type": "designated_campsite",
+    "context": "1.5 mi from East Inlet Trailhead, 8550 ft"
+  },
+  {
+    "id": "062-lower-east-inlet",
+    "name": "062 - Lower East Inlet",
+    "lat": 40.234236,
+    "lon": -105.769562,
+    "type": "designated_campsite",
+    "context": "2.3 mi from East Inlet Trailhead, 8640 ft"
+  },
+  {
+    "id": "063-cat-s-lair",
+    "name": "063 - Cat's Lair",
+    "lat": 40.22621,
+    "lon": -105.75162,
+    "type": "designated_campsite",
+    "context": "4 mi from East Inlet Trailhead, 9200 ft"
+  },
+  {
+    "id": "064-gray-jay-group",
+    "name": "064 - Gray Jay Group",
+    "lat": 40.230654,
+    "lon": -105.736032,
+    "type": "corridor_campground",
+    "context": "4.9 mi from East Inlet Trailhead, 9650 ft"
+  },
+  {
+    "id": "065-slickrock",
+    "name": "065 - Slickrock",
+    "lat": 40.232486,
+    "lon": -105.727603,
+    "type": "designated_campsite",
+    "context": "6 mi from East Inlet Trailhead, 10000 ft"
+  },
+  {
+    "id": "066-solitaire",
+    "name": "066 - Solitaire",
+    "lat": 40.231617,
+    "lon": -105.725866,
+    "type": "designated_campsite",
+    "context": "6.2 mi from East Inlet Trailhead, 10120 ft"
+  },
+  {
+    "id": "067-upper-east-inlet",
+    "name": "067 - Upper East Inlet",
+    "lat": 40.2293,
+    "lon": -105.716209,
+    "type": "designated_campsite",
+    "context": "6.6 mi from East Inlet Trailhead, 10200 ft"
+  },
+  {
+    "id": "068-lake-verna",
+    "name": "068 - Lake Verna",
+    "lat": 40.227943,
+    "lon": -105.711715,
+    "type": "designated_campsite",
+    "context": "6.9 mi from East Inlet Trailhead, 10280 ft"
+  },
+  {
+    "id": "077-porcupine",
+    "name": "077 - Porcupine",
+    "lat": 40.283587,
+    "lon": -105.730189,
+    "type": "designated_campsite",
+    "context": "6.8 mi from North Inlet Trailhead, 9360 ft"
+  },
+  {
+    "id": "078-north-inlet-junction",
+    "name": "078 - North Inlet Junction",
+    "lat": 40.280972,
+    "lon": -105.720792,
+    "type": "designated_campsite",
+    "context": "7.5 mi from North Inlet Trailhead, 9600 ft"
+  },
+  {
+    "id": "107-dutch-town",
+    "name": "107 - Dutch Town",
+    "lat": 40.434638,
+    "lon": -105.880228,
+    "type": "designated_campsite",
+    "context": "6 mi from Colorado River Trailhead, 10760 ft"
+  },
+  {
+    "id": "109-ditch-camp",
+    "name": "109 - Ditch Camp",
+    "lat": 40.458011,
+    "lon": -105.862018,
+    "type": "designated_campsite",
+    "context": "4.6 mi from Colorado River Trailhead, 10160 ft"
+  },
+  {
+    "id": "109g-ditch-camp-group",
+    "name": "109g - Ditch Camp Group",
+    "lat": 40.458011,
+    "lon": -105.862018,
+    "type": "corridor_campground",
+    "context": "4.6 mi from Colorado River Trailhead, 10160 ft"
+  },
+  {
+    "id": "111-box-canyon",
+    "name": "111 - Box Canyon",
+    "lat": 40.468663,
+    "lon": -105.867259,
+    "type": "designated_campsite",
+    "context": "5.5 mi from Colorado River Trailhead, 10480 ft"
+  },
+  {
+    "id": "115-hague-creek",
+    "name": "115 - Hague Creek",
+    "lat": 40.517427,
+    "lon": -105.741447,
+    "type": "designated_campsite",
+    "context": "1.6 mi from Corral Creek Trailhead, 9720 ft"
+  },
+  {
+    "id": "115g-hague-creek-group",
+    "name": "115g - Hague Creek Group",
+    "lat": 40.517427,
+    "lon": -105.741447,
+    "type": "corridor_campground",
+    "context": "1.6 mi from Corral Creek Trailhead, 9720 ft"
+  },
+  {
+    "id": "116-desolation",
+    "name": "116 - Desolation",
+    "lat": 40.517672,
+    "lon": -105.735192,
+    "type": "designated_campsite",
+    "context": "Corral Creek Trailhead"
+  },
+  {
+    "id": "120-mirror-lake",
+    "name": "120 - Mirror Lake",
+    "lat": 40.535352,
+    "lon": -105.69602,
+    "type": "designated_campsite",
+    "context": "6.0 mi from Corral Creek Trailhead, 11000 ft"
+  },
+  {
+    "id": "dunraven-trailhead",
+    "name": "Dunraven Trailhead",
+    "lat": 40.481286,
+    "lon": -105.474299,
+    "type": "trailhead",
+    "context": "7960 ft"
+  },
+  {
+    "id": "lawn-lake-trailhead",
+    "name": "Lawn Lake Trailhead",
+    "lat": 40.407118,
+    "lon": -105.626235,
+    "type": "trailhead",
+    "context": "8540 ft"
+  },
+  {
+    "id": "lumpy-ridge-trailhead",
+    "name": "Lumpy Ridge Trailhead",
+    "lat": 40.396521,
+    "lon": -105.513195,
+    "type": "trailhead",
+    "context": "7840 ft"
+  },
+  {
+    "id": "cow-creek-trailhead",
+    "name": "Cow Creek Trailhead",
+    "lat": 40.430581,
+    "lon": -105.500722,
+    "type": "trailhead",
+    "context": "7840 ft"
+  },
+  {
+    "id": "milner-pass-trailhead",
+    "name": "Milner Pass Trailhead",
+    "lat": 40.420296,
+    "lon": -105.811437,
+    "type": "trailhead",
+    "context": "10760 ft"
+  },
+  {
+    "id": "bear-lake-trailhead",
+    "name": "Bear Lake Trailhead",
+    "lat": 40.31196,
+    "lon": -105.645946,
+    "type": "trailhead",
+    "context": "9475 ft"
+  },
+  {
+    "id": "glacier-gorge-trailhead",
+    "name": "Glacier Gorge Trailhead",
+    "lat": 40.310344,
+    "lon": -105.640371,
+    "type": "trailhead",
+    "context": "9240 ft"
+  },
+  {
+    "id": "fern-lake-trailhead",
+    "name": "Fern Lake Trailhead",
+    "lat": 40.354858,
+    "lon": -105.631125,
+    "type": "trailhead",
+    "context": "8150 ft"
+  },
+  {
+    "id": "cub-lake-trailhead",
+    "name": "Cub Lake Trailhead",
+    "lat": 40.356219,
+    "lon": -105.615768,
+    "type": "trailhead",
+    "context": "8150 ft"
+  },
+  {
+    "id": "longs-peak-trailhead",
+    "name": "Longs Peak Trailhead",
+    "lat": 40.271994,
+    "lon": -105.556616,
+    "type": "trailhead",
+    "context": "9405 ft"
+  },
+  {
+    "id": "wild-basin-trailhead",
+    "name": "Wild Basin Trailhead",
+    "lat": 40.207812,
+    "lon": -105.566487,
+    "type": "trailhead",
+    "context": "8500 ft"
+  },
+  {
+    "id": "sandbeach-lake-trailhead",
+    "name": "Sandbeach Lake Trailhead",
+    "lat": 40.2197,
+    "lon": -105.534428,
+    "type": "trailhead",
+    "context": "8310 ft"
+  },
+  {
+    "id": "east-inlet-trailhead",
+    "name": "East Inlet Trailhead",
+    "lat": 40.239626,
+    "lon": -105.800176,
+    "type": "trailhead",
+    "context": "8390 ft"
+  },
+  {
+    "id": "north-inlet-trailhead",
+    "name": "North Inlet Trailhead",
+    "lat": 40.256548,
+    "lon": -105.814695,
+    "type": "trailhead",
+    "context": "8540 ft"
+  },
+  {
+    "id": "tonahutu-trailhead",
+    "name": "Tonahutu Trailhead",
+    "lat": 40.256186,
+    "lon": -105.815936,
+    "type": "trailhead",
+    "context": "8540 ft"
+  },
+  {
+    "id": "green-mountain-trailhead",
+    "name": "Green Mountain Trailhead",
+    "lat": 40.307336,
+    "lon": -105.841176,
+    "type": "trailhead",
+    "context": "8800 ft"
+  },
+  {
+    "id": "timber-lake-trailhead",
+    "name": "Timber Lake Trailhead",
+    "lat": 40.399667,
+    "lon": -105.847574,
+    "type": "trailhead",
+    "context": "9010 ft"
+  },
+  {
+    "id": "colorado-river-trailhead",
+    "name": "Colorado River Trailhead",
+    "lat": 40.401836,
+    "lon": -105.848694,
+    "type": "trailhead",
+    "context": "9000 ft"
+  },
+  {
+    "id": "corral-creek-trailhead",
+    "name": "Corral Creek Trailhead",
+    "lat": 40.517936,
+    "lon": -105.770521,
+    "type": "trailhead",
+    "context": "10000 ft"
+  },
+  {
+    "id": "sprague-lake-trailhead",
+    "name": "Sprague Lake Trailhead",
+    "lat": 40.320446,
+    "lon": -105.607863,
+    "type": "trailhead",
+    "context": "8710 ft"
+  }
+]

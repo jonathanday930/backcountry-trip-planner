@@ -1,0 +1,111 @@
+[
+  {
+    "id": "hermits-rest",
+    "name": "Hermit's Rest",
+    "lat": 36.0617,
+    "lon": -112.2123,
+    "type": "trailhead",
+    "context": "Main rim overlook & shuttle drop-off"
+  },
+  {
+    "id": "bright-angel-trailhead",
+    "name": "Bright Angel Trailhead",
+    "lat": 36.0573,
+    "lon": -112.1432,
+    "type": "trailhead",
+    "context": "Grand Canyon Village"
+  },
+  {
+    "id": "bm7-hermit-creek",
+    "name": "BM7 – Hermit Creek",
+    "lat": 36.0792,
+    "lon": -112.2118,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bl7-monument-creek",
+    "name": "BL7 – Monument Creek",
+    "lat": 36.0793,
+    "lon": -112.1852,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bf5-horseshoe-mesa",
+    "name": "BF5 – Horseshoe Mesa",
+    "lat": 36.0203,
+    "lon": -111.9759,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bl4-horn-creek",
+    "name": "BL4 – Horn Creek",
+    "lat": 36.0935,
+    "lon": -112.1383,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "ccg-cottonwood-campground",
+    "name": "CCG – Cottonwood Campground",
+    "lat": 36.1686,
+    "lon": -112.0408,
+    "type": "corridor_campground"
+  },
+  {
+    "id": "bg9-cottonwood-creek",
+    "name": "BG9 – Cottonwood Creek",
+    "lat": 36.0201,
+    "lon": -111.9758,
+    "type": "at_large",
+    "context": "Trail junction point"
+  },
+  {
+    "id": "bj9-cremation-canyon",
+    "name": "BJ9 – Cremation Canyon",
+    "lat": 36.0827,
+    "lon": -112.0747,
+    "type": "at_large",
+    "context": "Central ridge point"
+  },
+  {
+    "id": "cbg-bright-angel-campground",
+    "name": "CBG – Bright Angel Campground",
+    "lat": 36.1008,
+    "lon": -112.0891,
+    "type": "corridor_campground"
+  },
+  {
+    "id": "cig-havasupai-gardens-campground",
+    "name": "CIG – Havasupai Gardens Campground",
+    "lat": 36.0755,
+    "lon": -112.1295,
+    "type": "corridor_campground"
+  },
+  {
+    "id": "granite-rapids-campground",
+    "name": "Granite Rapids Campground",
+    "lat": 36.0975,
+    "lon": -112.1820,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "hermit-rapids-campground",
+    "name": "Hermit Rapids Campground",
+    "lat": 36.0982,
+    "lon": -112.2144,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bl5-salt-creek-campsite",
+    "name": "BL5 – Salt Creek Campsite",
+    "lat": 36.0781,
+    "lon": -112.1620,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bl6-cedar-spring-campsite",
+    "name": "BL6 – Cedar Spring Campsite",
+    "lat": 36.0822,
+    "lon": -112.1783,
+    "type": "designated_campsite"
+  }
+]

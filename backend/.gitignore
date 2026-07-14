@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/elevation-cache.json
+data/app.db
+data/app.db-shm
+data/app.db-wal
+.env
