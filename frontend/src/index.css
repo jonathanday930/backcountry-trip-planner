@@ -242,6 +242,40 @@ html, body, #root {
   margin: 0 0 16px;
 }
 
+.starting-point-row {
+  margin-bottom: 14px;
+}
+
+.starting-point-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 4px;
+}
+
+.starting-point-optional {
+  font-weight: 400;
+  color: #888;
+}
+
+.starting-point-select {
+  width: 100%;
+  padding: 8px 10px;
+  font-size: 14px;
+  font-family: inherit;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: white;
+  cursor: pointer;
+}
+
+.starting-point-select:hover,
+.starting-point-select:focus {
+  border-color: #22c55e;
+  box-shadow: 0 0 0 1px #22c55e;
+}
+
 .stops-list {
   margin-bottom: 8px;
 }
@@ -393,6 +427,16 @@ html, body, #root {
 .popup-actions button:disabled {
   opacity: 0.45;
   cursor: default;
+}
+
+.popup-actions button.popup-remove {
+  color: #c0392b;
+  border-color: #e6b0aa;
+}
+
+.popup-actions button.popup-remove:hover {
+  background: #fdedec;
+  border-color: #c0392b;
 }
 
 .results {

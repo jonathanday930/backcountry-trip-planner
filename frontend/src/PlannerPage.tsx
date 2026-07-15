@@ -54,6 +54,7 @@ interface StopActions {
   onSetStart: (value: string) => void
   onSetDestination: (value: string) => void
   onAddStop: (value: string) => void
+  onRemoveStop: (index: number) => void
 }
 
 const TYPE_COLORS: Record<string, string> = {
@@ -81,6 +82,17 @@ function markerIcon(color: string, highlighted: boolean) {
   })
 }
 
+/** A large green flag used to mark the route's starting point, so it stands out from ordinary stop markers. */
+const START_FLAG_ICON = L.divIcon({
+  className: '',
+  html: `<svg width="36" height="36" viewBox="0 0 36 36" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.6));">
+    <line x1="8" y1="4" x2="8" y2="33" stroke="#1a4d2e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M8 5 L31 12 L8 19 Z" fill="#22c55e" stroke="#15803d" stroke-width="1.5" stroke-linejoin="round"/>
+  </svg>`,
+  iconSize: [36, 36],
+  iconAnchor: [8, 33],
+})
+
 const DEFAULT_MAP_CENTER: [number, number] = [39, -105.5]
 
 /** A stop is either a known campsite id, or a raw "lat,lon" point the user clicked on the map. */
@@ -100,21 +112,52 @@ function stopLabel(stopValue: string, campsiteById: Map<string, Campsite>): stri
   return stopValue
 }
 
-/** Fits the map to all campsites once they load, padding the left edge so markers don't land under the sidebar. */
+/**
+ * Fits the map to all campsites once they load, padding the left edge so markers don't land
+ * under the sidebar. Also caps how far out the map can be zoomed/panned — a generously-padded
+ * box around the park's campsites, rather than the whole state/country — and locks panning to
+ * that same area so the view stays focused on the park.
+ */
 function FitBoundsToCampsites({ campsites }: { campsites: Campsite[] }) {
   const map = useMap()
   useEffect(() => {
     if (campsites.length === 0) return
     const bounds = L.latLngBounds(campsites.map((c) => [c.lat, c.lon] as [number, number]))
     map.fitBounds(bounds, { paddingTopLeft: [40, 40], paddingBottomRight: [40, 40] })
+
+    const maxBounds = bounds.pad(0.5)
+    map.setMaxBounds(maxBounds)
+    map.setMinZoom(map.getBoundsZoom(maxBounds))
   }, [campsites, map])
   return null
 }
 
-/** Lets the user click any spot on the map to open a "custom point" popup for it. */
-function MapClickHandler({ onPick }: { onPick: (lat: number, lon: number) => void }) {
+/**
+ * Lets the user click any spot on the map to open a "custom point" popup for it — but if a card
+ * (campsite or custom-point popup) is already open, the first blank-map click should just close
+ * it rather than immediately opening a new one in its place. `preclick` fires before Leaflet's own
+ * popup auto-close logic runs, so it's used to snapshot "was something open" ahead of that.
+ */
+function MapClickHandler({ onPick, onDismissPending }: { onPick: (lat: number, lon: number) => void; onDismissPending: () => void }) {
+  const popupOpenRef = useRef(false)
+  const suppressNextClickRef = useRef(false)
+
   useMapEvents({
+    popupopen() {
+      popupOpenRef.current = true
+    },
+    popupclose() {
+      popupOpenRef.current = false
+    },
+    preclick() {
+      suppressNextClickRef.current = popupOpenRef.current
+    },
     click(e) {
+      if (suppressNextClickRef.current) {
+        suppressNextClickRef.current = false
+        onDismissPending()
+        return
+      }
       onPick(e.latlng.lat, e.latlng.lng)
     },
   })
@@ -128,8 +171,11 @@ function StopActionButtons({
   onSetStart,
   onSetDestination,
   onAddStop,
+  onRemoveStop,
   onDone,
 }: StopActions & { value: string; stops: (string | null)[]; onDone: () => void }) {
+  const stopIndex = stops.indexOf(value)
+  const isSelected = stopIndex !== -1
   const isStart = stops[0] === value
   const isDestination = stops[stops.length - 1] === value
   const destinationSet = stops[stops.length - 1] !== null
@@ -163,6 +209,17 @@ function StopActionButtons({
       >
         Set as destination
       </button>
+      {isSelected && (
+        <button
+          className="popup-remove"
+          onClick={() => {
+            onRemoveStop(stopIndex)
+            onDone()
+          }}
+        >
+          Remove waypoint
+        </button>
+      )}
     </div>
   )
 }
@@ -179,8 +236,15 @@ function CampsiteMarker({
   actions: StopActions
 }) {
   const markerRef = useRef<L.Marker>(null)
+  const isStart = stops[0] === campsite.id
+  const icon = isStart ? START_FLAG_ICON : markerIcon(TYPE_COLORS[campsite.type] ?? '#666', highlighted)
   return (
-    <Marker position={[campsite.lat, campsite.lon]} icon={markerIcon(TYPE_COLORS[campsite.type] ?? '#666', highlighted)} ref={markerRef}>
+    <Marker
+      position={[campsite.lat, campsite.lon]}
+      icon={icon}
+      zIndexOffset={isStart ? 1000 : 0}
+      ref={markerRef}
+    >
       <Popup>
         <strong>{campsite.name}</strong>
         {campsite.context && (
@@ -190,6 +254,34 @@ function CampsiteMarker({
           </>
         )}
         <StopActionButtons value={campsite.id} stops={stops} {...actions} onDone={() => markerRef.current?.closePopup()} />
+      </Popup>
+    </Marker>
+  )
+}
+
+/** A raw lat/lon stop already selected on the route (not a known campsite). */
+function SelectedPointMarker({
+  value,
+  lat,
+  lon,
+  stops,
+  actions,
+}: {
+  value: string
+  lat: number
+  lon: number
+  stops: (string | null)[]
+  actions: StopActions
+}) {
+  const markerRef = useRef<L.Marker>(null)
+  const isStart = stops[0] === value
+  return (
+    <Marker position={[lat, lon]} icon={isStart ? START_FLAG_ICON : markerIcon('#4a5568', true)} zIndexOffset={isStart ? 1000 : 0} ref={markerRef}>
+      <Popup>
+        Custom point
+        <br />
+        {lat.toFixed(5)}, {lon.toFixed(5)}
+        <StopActionButtons value={value} stops={stops} {...actions} onDone={() => markerRef.current?.closePopup()} />
       </Popup>
     </Marker>
   )
@@ -216,7 +308,7 @@ function PendingPointMarker({
 
   return (
     <Marker position={[point.lat, point.lon]} icon={markerIcon('#4a5568', false)} ref={markerRef}>
-      <Popup>
+      <Popup eventHandlers={{ remove: onDismiss }}>
         Custom point
         <br />
         {point.lat.toFixed(5)}, {point.lon.toFixed(5)}
@@ -404,7 +496,12 @@ export default function PlannerPage() {
     })
   }
 
-  const stopActions: StopActions = { onSetStart: setAsStart, onSetDestination: setAsDestination, onAddStop: addAsStop }
+  const stopActions: StopActions = {
+    onSetStart: setAsStart,
+    onSetDestination: setAsDestination,
+    onAddStop: addAsStop,
+    onRemoveStop: clearOrRemoveStop,
+  }
 
   function setSlot(index: number, value: string | null) {
     setStops((prev) => {
@@ -510,6 +607,26 @@ export default function PlannerPage() {
         ) : (
           <>
             <p className="hint">Click a campsite marker or any spot on the map, then choose start / stop / destination.</p>
+
+            <div className="starting-point-row">
+              <label className="starting-point-label" htmlFor="starting-point-select">
+                Starting point <span className="starting-point-optional">(optional)</span>
+              </label>
+              <select
+                id="starting-point-select"
+                className="starting-point-select"
+                value={stops[0] ?? ''}
+                onChange={(e) => setSlot(0, e.target.value || null)}
+              >
+                <option value="">No starting point selected</option>
+                {campsites.map((c) => (
+                  <option key={c.id} value={c.id}>
+                    {c.name}
+                  </option>
+                ))}
+                {stops[0] && !campsiteById.has(stops[0]) && <option value={stops[0]}>{stopLabel(stops[0], campsiteById)}</option>}
+              </select>
+            </div>
 
             <div className="stops-list">
               {stops.map((stopId, i) => {
@@ -649,14 +766,14 @@ export default function PlannerPage() {
       </div>
 
       <div className="map-container">
-        <MapContainer center={DEFAULT_MAP_CENTER} zoom={13} scrollWheelZoom={true}>
+        <MapContainer center={DEFAULT_MAP_CENTER} zoom={13} scrollWheelZoom={true} maxBoundsViscosity={1.0}>
           <TileLayer
             attribution="Tiles courtesy of the U.S. Geological Survey"
             url="https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}"
             maxZoom={16}
           />
           <FitBoundsToCampsites campsites={campsites} />
-          <MapClickHandler onPick={(lat, lon) => setPendingPoint({ lat, lon })} />
+          <MapClickHandler onPick={(lat, lon) => setPendingPoint({ lat, lon })} onDismissPending={() => setPendingPoint(null)} />
           {trails && (
             // interactive: false so trail lines don't swallow clicks meant for picking a custom point on the map
             <GeoJSON
@@ -673,13 +790,14 @@ export default function PlannerPage() {
             const raw = parseRawPoint(stopValue)
             if (!raw) return null
             return (
-              <Marker key={`custom-${i}`} position={[raw.lat, raw.lon]} icon={markerIcon('#4a5568', true)}>
-                <Popup>
-                  Custom point
-                  <br />
-                  {raw.lat.toFixed(5)}, {raw.lon.toFixed(5)}
-                </Popup>
-              </Marker>
+              <SelectedPointMarker
+                key={`custom-${i}`}
+                value={stopValue}
+                lat={raw.lat}
+                lon={raw.lon}
+                stops={stops}
+                actions={stopActions}
+              />
             )
           })}
           {pendingPoint && (
