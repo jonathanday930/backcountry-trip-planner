@@ -1,4 +1,4 @@
-import { existsSync, readFileSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
 import { densifyPolyline, type LonLat } from './geo.js'
@@ -10,7 +10,11 @@ const GLOBAL_CONCURRENCY = 16
 const MAX_RETRIES = 2
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const DISK_CACHE_FILE = path.join(__dirname, '..', 'data', 'elevation-cache.json')
+// Same PERSIST_DIR convention as db.ts — a Fly.io volume mount in production, the local
+// backend/data directory by default, so the cache survives deploys/restarts either way.
+const PERSIST_DIR = process.env.PERSIST_DIR ?? path.join(__dirname, '..', 'data')
+mkdirSync(PERSIST_DIR, { recursive: true })
+const DISK_CACHE_FILE = path.join(PERSIST_DIR, 'elevation-cache.json')
 
 function coordKey(p: LonLat): string {
   return `${p.lon.toFixed(6)},${p.lat.toFixed(6)}`

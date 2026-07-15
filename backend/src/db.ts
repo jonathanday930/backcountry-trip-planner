@@ -1,9 +1,14 @@
 import Database from 'better-sqlite3'
 import { fileURLToPath } from 'node:url'
 import path from 'node:path'
+import { mkdirSync } from 'node:fs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const DB_PATH = path.join(__dirname, '..', 'data', 'app.db')
+// PERSIST_DIR points at a Fly.io volume mount (e.g. "/data") in production, so the database
+// survives deploys/restarts. Defaults to the local backend/data directory for local dev.
+const PERSIST_DIR = process.env.PERSIST_DIR ?? path.join(__dirname, '..', 'data')
+mkdirSync(PERSIST_DIR, { recursive: true })
+const DB_PATH = path.join(PERSIST_DIR, 'app.db')
 
 export const db = new Database(DB_PATH)
 db.pragma('journal_mode = WAL')

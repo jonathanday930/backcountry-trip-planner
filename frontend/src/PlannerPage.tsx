@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState, type DragEvent } from 'react'
 import { useNavigate, useParams } from 'react-router-dom'
 import { MapContainer, TileLayer, Marker, Popup, Polyline, GeoJSON, useMap, useMapEvents } from 'react-leaflet'
 import L from 'leaflet'
@@ -70,6 +70,12 @@ const TYPE_LABELS: Record<string, string> = {
   corridor_campground: 'Corridor campground',
   at_large: 'At-large camping area',
 }
+
+/** Trailheads are the natural starting point for most trips, so they're listed first in the starting-point search. */
+const STARTING_POINT_TYPE_ORDER = ['trailhead', 'designated_campsite', 'corridor_campground', 'at_large']
+
+/** Each additional stop costs another shortest-path + live elevation lookup, so routes are capped well short of unusable. */
+const MAX_STOPS = 25
 
 function markerIcon(color: string, highlighted: boolean) {
   const size = highlighted ? 20 : 14
@@ -179,6 +185,7 @@ function StopActionButtons({
   const isStart = stops[0] === value
   const isDestination = stops[stops.length - 1] === value
   const destinationSet = stops[stops.length - 1] !== null
+  const atStopLimit = stops.length >= MAX_STOPS
   return (
     <div className="popup-actions">
       <button
@@ -192,6 +199,8 @@ function StopActionButtons({
       </button>
       {destinationSet && (
         <button
+          disabled={atStopLimit}
+          title={atStopLimit ? `Routes are limited to ${MAX_STOPS} stops` : undefined}
           onClick={() => {
             onAddStop(value)
             onDone()
@@ -340,6 +349,8 @@ export default function PlannerPage() {
   const [error, setError] = useState<string | null>(null)
   const [editingIndex, setEditingIndex] = useState<number | null>(null)
   const [searchText, setSearchText] = useState('')
+  const [dragIndex, setDragIndex] = useState<number | null>(null)
+  const [dragOverIndex, setDragOverIndex] = useState<number | null>(null)
 
   const [user, setUser] = useState<User | null>(null)
   const [authChecked, setAuthChecked] = useState(false)
@@ -490,10 +501,23 @@ export default function PlannerPage() {
 
   function addAsStop(value: string) {
     setStops((prev) => {
+      if (prev.length >= MAX_STOPS) return prev
       const next = [...prev]
       next.splice(next.length - 1, 0, value)
       return next
     })
+  }
+
+  /** Appends a blank stop after the current destination — it becomes the new destination, and the
+   * old destination becomes a via-stop. Opens its search box right away. */
+  function addBlankStop() {
+    if (stops.length >= MAX_STOPS) return
+    const newIndex = stops.length
+    setStops((prev) => {
+      if (prev.length >= MAX_STOPS) return prev
+      return [...prev, null]
+    })
+    startEditing(newIndex)
   }
 
   const stopActions: StopActions = {
@@ -520,16 +544,68 @@ export default function PlannerPage() {
     }
   }
 
+  /** Moves the stop at `from` to position `to`, shifting the rest — used by drag-and-drop reordering.
+   * Whichever stop ends up at index 0 or at the end automatically becomes the new start/destination,
+   * since those roles are derived from position rather than tracked separately. */
+  function moveStop(from: number, to: number) {
+    setStops((prev) => {
+      if (from === to || from < 0 || to < 0 || from >= prev.length || to >= prev.length) return prev
+      const next = [...prev]
+      const [moved] = next.splice(from, 1)
+      next.splice(to, 0, moved)
+      return next
+    })
+    setEditingIndex(null)
+  }
+
+  function handleStopDragStart(index: number, e: DragEvent) {
+    setDragIndex(index)
+    e.dataTransfer.effectAllowed = 'move'
+    e.dataTransfer.setData('text/plain', String(index))
+  }
+
+  function handleStopDragOver(index: number, e: DragEvent) {
+    e.preventDefault()
+    e.dataTransfer.dropEffect = 'move'
+    if (dragIndex === null || dragIndex === index) return
+    setDragOverIndex(index)
+  }
+
+  function handleStopDrop(index: number, e: DragEvent) {
+    e.preventDefault()
+    if (dragIndex !== null && dragIndex !== index) moveStop(dragIndex, index)
+    setDragIndex(null)
+    setDragOverIndex(null)
+  }
+
+  function handleStopDragEnd() {
+    setDragIndex(null)
+    setDragOverIndex(null)
+  }
+
   function startEditing(index: number) {
     setEditingIndex(index)
     setSearchText('')
   }
 
   const searchResults = useMemo(() => {
-    if (editingIndex === null) return []
+    if (editingIndex === null || editingIndex === 0) return []
     const q = searchText.trim().toLowerCase()
     const results = q ? campsites.filter((c) => c.name.toLowerCase().includes(q)) : campsites
     return results.slice(0, 8)
+  }, [editingIndex, searchText, campsites])
+
+  /** For the initial stop, trailheads are the natural starting point, so they're grouped first,
+   * then the rest of the campsite types, each under its own labeled heading. */
+  const startSearchGroups = useMemo(() => {
+    if (editingIndex !== 0) return []
+    const q = searchText.trim().toLowerCase()
+    const matches = q ? campsites.filter((c) => c.name.toLowerCase().includes(q)) : campsites
+    return STARTING_POINT_TYPE_ORDER.map((type) => ({
+      type,
+      label: TYPE_LABELS[type] ?? type,
+      items: matches.filter((c) => c.type === type).slice(0, 8),
+    })).filter((group) => group.items.length > 0)
   }, [editingIndex, searchText, campsites])
 
   const routeLatLngs = useMemo<[number, number][]>(
@@ -608,34 +684,28 @@ export default function PlannerPage() {
           <>
             <p className="hint">Click a campsite marker or any spot on the map, then choose start / stop / destination.</p>
 
-            <div className="starting-point-row">
-              <label className="starting-point-label" htmlFor="starting-point-select">
-                Starting point <span className="starting-point-optional">(optional)</span>
-              </label>
-              <select
-                id="starting-point-select"
-                className="starting-point-select"
-                value={stops[0] ?? ''}
-                onChange={(e) => setSlot(0, e.target.value || null)}
-              >
-                <option value="">No starting point selected</option>
-                {campsites.map((c) => (
-                  <option key={c.id} value={c.id}>
-                    {c.name}
-                  </option>
-                ))}
-                {stops[0] && !campsiteById.has(stops[0]) && <option value={stops[0]}>{stopLabel(stops[0], campsiteById)}</option>}
-              </select>
-            </div>
-
             <div className="stops-list">
               {stops.map((stopId, i) => {
                 const label = stopId ? stopLabel(stopId, campsiteById) : null
                 const isLast = i === stops.length - 1
                 const isEditing = editingIndex === i
                 return (
-                  <div key={i}>
+                  <div
+                    key={i}
+                    className={`stop-item ${dragOverIndex === i ? 'drag-over' : ''} ${dragIndex === i ? 'dragging' : ''}`}
+                    onDragOver={(e) => handleStopDragOver(i, e)}
+                    onDrop={(e) => handleStopDrop(i, e)}
+                  >
                     <div className="stop-row">
+                      <div
+                        className="stop-drag-handle"
+                        draggable
+                        onDragStart={(e) => handleStopDragStart(i, e)}
+                        onDragEnd={handleStopDragEnd}
+                        aria-label="Drag to reorder stop"
+                      >
+                        &#8942;&#8942;
+                      </div>
                       <div className="stop-marker-col">
                         <div className={isLast ? 'stop-icon-pin' : 'stop-icon-circle'} />
                       </div>
@@ -645,7 +715,7 @@ export default function PlannerPage() {
                             className="stop-search-input"
                             autoFocus
                             value={searchText}
-                            placeholder="Search campsites…"
+                            placeholder={i === 0 ? 'Search trailheads or campsites…' : 'Search campsites…'}
                             onChange={(e) => setSearchText(e.target.value)}
                             onBlur={() => setTimeout(() => setEditingIndex(null), 150)}
                             onKeyDown={(e) => {
@@ -662,7 +732,28 @@ export default function PlannerPage() {
                             )}
                           </>
                         )}
-                        {isEditing && searchResults.length > 0 && (
+                        {isEditing && i === 0 && startSearchGroups.length > 0 && (
+                          <div className="stop-suggestions">
+                            {startSearchGroups.map((group) => (
+                              <div key={group.type}>
+                                <div className="stop-suggestion-group-header">{group.label}</div>
+                                {group.items.map((c) => (
+                                  <div
+                                    key={c.id}
+                                    className="stop-suggestion"
+                                    onMouseDown={() => {
+                                      setSlot(0, c.id)
+                                      setEditingIndex(null)
+                                    }}
+                                  >
+                                    {c.name}
+                                  </div>
+                                ))}
+                              </div>
+                            ))}
+                          </div>
+                        )}
+                        {isEditing && i !== 0 && searchResults.length > 0 && (
                           <div className="stop-suggestions">
                             {searchResults.map((c) => (
                               <div
@@ -682,6 +773,7 @@ export default function PlannerPage() {
                     </div>
                     {!isLast && (
                       <div className="stop-connector-row">
+                        <div className="stop-drag-handle-spacer" />
                         <div className="stop-marker-col">
                           <div className="stop-connector" />
                         </div>
@@ -692,6 +784,14 @@ export default function PlannerPage() {
                 )
               })}
             </div>
+
+            {stops.length < MAX_STOPS ? (
+              <button className="add-stop-button" onClick={addBlankStop}>
+                + Add another stop
+              </button>
+            ) : (
+              <p className="hint">Maximum of {MAX_STOPS} stops reached.</p>
+            )}
 
             {loading && (
               <p className="loading-note">

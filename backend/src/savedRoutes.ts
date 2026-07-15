@@ -6,6 +6,9 @@ import { requireAuth } from './auth.js'
 export const savedRoutesRouter = express.Router()
 savedRoutesRouter.use(requireAuth)
 
+/** Matches the /api/route stop cap in server.ts. */
+const MAX_STOPS = 25
+
 function currentUser(req: express.Request): UserRow {
   return (req as express.Request & { user: UserRow }).user
 }
@@ -40,6 +43,10 @@ savedRoutesRouter.post('/', (req, res) => {
   }
   if (!Array.isArray(stops) || stops.length < 2 || !stops.every((s) => typeof s === 'string')) {
     res.status(400).json({ error: 'stops must be an array of at least 2 strings' })
+    return
+  }
+  if (stops.length > MAX_STOPS) {
+    res.status(400).json({ error: `stops must have at most ${MAX_STOPS} entries` })
     return
   }
 

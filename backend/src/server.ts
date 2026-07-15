@@ -1,4 +1,7 @@
 import 'dotenv/config'
+import { existsSync } from 'node:fs'
+import path from 'node:path'
+import { fileURLToPath } from 'node:url'
 import express from 'express'
 import cors from 'cors'
 import cookieParser from 'cookie-parser'
@@ -11,8 +14,12 @@ import { PARKS } from './parks.js'
 import { authRouter } from './auth.js'
 import { savedRoutesRouter } from './savedRoutes.js'
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
+
 const METERS_TO_MILES = 1 / 1609.344
 const METERS_TO_FEET = 3.28084
+/** Matches the frontend's cap — each additional stop is another shortest-path + live elevation lookup. */
+const MAX_STOPS = 25
 /** stops are "|"-separated; each token is either a known campsite id, or a raw "lat,lon" point. */
 const RAW_POINT_RE = /^(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)$/
 
@@ -90,6 +97,10 @@ app.get('/api/route', async (req, res) => {
     res.status(400).json({ error: 'Provide at least two stops, e.g. ?stops=id1|id2|36.08,-112.15' })
     return
   }
+  if (stopIds.length > MAX_STOPS) {
+    res.status(400).json({ error: `Routes are limited to ${MAX_STOPS} stops` })
+    return
+  }
 
   const stopNodes = stopIds.map((id) => ({ id, node: resolveStop(graph, id) }))
   const unknown = stopNodes.find((s) => !s.node)
@@ -160,6 +171,26 @@ app.get('/api/trails', (req, res) => {
   if (!state) return
   res.json(state.trails)
 })
+
+// Any /api/* route that fell through the handlers above doesn't exist — 404 as JSON rather than
+// letting it fall into the SPA catch-all below and get served index.html.
+app.use('/api', (_req, res) => {
+  res.status(404).json({ error: 'Not found' })
+})
+
+// In production the frontend is built (`npm run build` in frontend/) and served from here, so
+// the whole app is one process/one port. In local dev frontend/dist doesn't exist — the frontend
+// runs on its own Vite dev server (port 5173) and proxies /api here instead, exactly as before.
+const FRONTEND_DIST = path.join(__dirname, '..', '..', 'frontend', 'dist')
+if (existsSync(FRONTEND_DIST)) {
+  app.use(express.static(FRONTEND_DIST))
+  app.get('*', (_req, res) => {
+    res.sendFile(path.join(FRONTEND_DIST, 'index.html'))
+  })
+  console.log(`[server] serving frontend build from ${FRONTEND_DIST}`)
+} else {
+  console.log('[server] frontend/dist not found — API-only mode (run the frontend dev server separately)')
+}
 
 const PORT = process.env.PORT ? Number(process.env.PORT) : 3001
 app.listen(PORT, () => {
