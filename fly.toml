@@ -1,29 +1,31 @@
-# Fly.io app config. `app` must be globally unique — `fly launch` will ask you to confirm or
-# change this name the first time you deploy. See README.md for the full deploy walkthrough.
-app = "backcountry-trip-planner"
-primary_region = "iad"
+# fly.toml app configuration file generated for backcountry-trip-planner on 2026-07-15T00:45:19Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'backcountry-trip-planner'
+primary_region = 'iad'
 
 [build]
 
 [env]
-  PORT = "3001"
-  PERSIST_DIR = "/data"
-  SESSION_COOKIE_SECURE = "true"
-  # FRONTEND_URL and GOOGLE_REDIRECT_URI depend on this app's final hostname (or a custom
-  # domain), so they're set as secrets after `fly launch` reveals it — see README.md.
+  PERSIST_DIR = '/data'
+  PORT = '3001'
+  SESSION_COOKIE_SECURE = 'true'
 
 [[mounts]]
-  source = "backcountry_data"
-  destination = "/data"
+  source = 'backcountry_data'
+  destination = '/data'
 
 [http_service]
   internal_port = 3001
   force_https = true
-  auto_stop_machines = "stop"
+  auto_stop_machines = 'stop'
   auto_start_machines = true
   min_machines_running = 1
 
 [[vm]]
-  memory = "1gb"
-  cpu_kind = "shared"
+  memory = '1gb'
+  cpu_kind = 'shared'
   cpus = 1
+  memory_mb = 1024
