@@ -30,23 +30,35 @@ const JUNCTION_SNAP_METERS = 15
 const NEGLIGIBLE_SPUR_METERS = 3
 
 /**
- * A small number of real, physical trail connections aren't contiguously digitized in the OSM
- * source data (e.g. a river crossing mapped as a separate, unnamed bridge way, or simply a gap
- * between two independently-traced ways) and so don't get picked up by the automatic exact/fuzzy
- * junction merge above. Rather than a blanket "snap anything within N meters" heuristic — which
- * risks fabricating shortcuts across canyon switchbacks that happen to pass close to each other
- * horizontally without being connected — each of these is manually identified and verified by
- * inspecting the underlying trail geometry. Currently just one: River Trail has a ~156m gap
- * right where it should cross the Colorado River (Silver/Black Bridge) to reach Phantom Ranch
- * and the North Kaibab Trail, which otherwise leaves Cottonwood Campground unreachable from the
- * rest of the network.
+ * A small number of real, physical trail/road connections aren't contiguously digitized in the
+ * OSM source data (e.g. a river crossing mapped as a separate, unnamed bridge way, or a short
+ * unmapped stretch between a trailhead parking spur and where the trail itself starts) and so
+ * don't get picked up by the automatic exact/fuzzy junction merge above. Rather than a blanket
+ * "snap anything within N meters" heuristic — which risks fabricating shortcuts across canyon
+ * switchbacks that happen to pass close to each other horizontally without being connected —
+ * each of these is manually identified and verified by inspecting the underlying geometry.
+ * Keyed by park id, since `nearestNodeTo` below has no distance cutoff and would otherwise
+ * silently attach another park's coordinates to whichever node happens to be closest.
  */
-const MANUAL_CONNECTORS: [LonLat, LonLat][] = [
-  [
-    { lon: -112.09571, lat: 36.09697 }, // River Trail, south bank
-    { lon: -112.09539, lat: 36.09835 }, // River Trail, north bank (continues to North Kaibab Trail)
+const MANUAL_CONNECTORS: Record<string, [LonLat, LonLat][]> = {
+  'grand-canyon': [
+    [
+      // River Trail has a ~156m gap right where it should cross the Colorado River (Silver/Black
+      // Bridge) to reach Phantom Ranch and the North Kaibab Trail, which otherwise leaves
+      // Cottonwood Campground unreachable from the rest of the network.
+      { lon: -112.09571, lat: 36.09697 }, // River Trail, south bank
+      { lon: -112.09539, lat: 36.09835 }, // River Trail, north bank (continues to North Kaibab Trail)
+    ],
   ],
-]
+  'rocky-mountain': [
+    [
+      // Summerland Park Road ends ~100m short of where North Inlet Trail actually starts — the
+      // gap is the short walk across the trailhead parking area, not captured by either way.
+      { lon: -105.815935, lat: 40.2563304 }, // Summerland Park Road, north (parking) end
+      { lon: -105.8146948, lat: 40.2565483 }, // North Inlet Trail trailhead
+    ],
+  ],
+}
 
 function coordKey(lon: number, lat: number): string {
   return `${lon.toFixed(6)},${lat.toFixed(6)}`
@@ -78,7 +90,7 @@ class UnionFind {
   }
 }
 
-export function buildGraph(trails: TrailsGeoJson, campsites: Campsite[]): TrailGraph {
+export function buildGraph(trails: TrailsGeoJson, campsites: Campsite[], parkId: string): TrailGraph {
   let nodeSeq = 0
   let edgeSeq = 0
   const rawNodes = new Map<string, GraphNode>()
@@ -199,7 +211,7 @@ export function buildGraph(trails: TrailsGeoJson, campsites: Campsite[]): TrailG
     return best!.node
   }
 
-  for (const [pointA, pointB] of MANUAL_CONNECTORS) {
+  for (const [pointA, pointB] of MANUAL_CONNECTORS[parkId] ?? []) {
     const nodeA = nearestNodeTo(pointA)
     const nodeB = nearestNodeTo(pointB)
     addUndirectedEdge({

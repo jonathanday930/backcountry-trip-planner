@@ -31,6 +31,7 @@ interface SavedRoute {
   parkId: string
   name: string
   stops: string[]
+  sleepStops: string[]
   createdAt: string
 }
 
@@ -40,6 +41,7 @@ interface RouteLeg {
   distanceMiles: number
   elevationGainFt: number
   elevationLossFt: number
+  coordinates: [number, number][]
 }
 
 interface RouteResult {
@@ -53,6 +55,7 @@ interface RouteResult {
 interface StopActions {
   onSetStart: (value: string) => void
   onSetDestination: (value: string) => void
+  onSetNewDestination: (value: string) => void
   onAddStop: (value: string) => void
   onRemoveStop: (index: number) => void
 }
@@ -89,15 +92,58 @@ function markerIcon(color: string, highlighted: boolean) {
 }
 
 /** A large green flag used to mark the route's starting point, so it stands out from ordinary stop markers. */
+function flagIconHtml(fill: string, stroke: string) {
+  return `<svg width="36" height="36" viewBox="0 0 36 36" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.6));">
+    <line x1="8" y1="4" x2="8" y2="33" stroke="#1a4d2e" stroke-width="3" stroke-linecap="round"/>
+    <path d="M8 5 L31 12 L8 19 Z" fill="${fill}" stroke="${stroke}" stroke-width="1.5" stroke-linejoin="round"/>
+  </svg>`
+}
+
 const START_FLAG_ICON = L.divIcon({
   className: '',
-  html: `<svg width="36" height="36" viewBox="0 0 36 36" style="filter:drop-shadow(0 1px 3px rgba(0,0,0,0.6));">
-    <line x1="8" y1="4" x2="8" y2="33" stroke="#1a4d2e" stroke-width="3" stroke-linecap="round"/>
-    <path d="M8 5 L31 12 L8 19 Z" fill="#22c55e" stroke="#15803d" stroke-width="1.5" stroke-linejoin="round"/>
-  </svg>`,
+  html: flagIconHtml('#22c55e', '#15803d'),
   iconSize: [36, 36],
   iconAnchor: [8, 33],
 })
+
+const DESTINATION_FLAG_ICON = L.divIcon({
+  className: '',
+  html: flagIconHtml('#e34948', '#a82c2b'),
+  iconSize: [36, 36],
+  iconAnchor: [8, 33],
+})
+
+/**
+ * Colors for successive days of a multi-day trek, applied to the route once via-stops are marked
+ * as overnight stays. Fixed order from the validated categorical palette (dataviz skill); Day 1's
+ * blue is a deliberate change from the old single-color red route line — red is now reserved for
+ * the destination flag. Beyond 8 days the sequence repeats.
+ */
+const DAY_COLORS = ['#2a78d6', '#1baf7a', '#eda100', '#008300', '#4a3aa7', '#e34948', '#e87ba4', '#eb6834']
+
+function dayColor(day: number): string {
+  return DAY_COLORS[day % DAY_COLORS.length]
+}
+
+/** Small flag icon used in the stop list next to the start/destination rows. */
+function FlagIcon({ color }: { color: string }) {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+      <line x1="5" y1="2" x2="5" y2="22" stroke="#555" strokeWidth="2" strokeLinecap="round" />
+      <path d="M5 3 L20 8 L5 13 Z" fill={color} />
+    </svg>
+  )
+}
+
+/** Tent icon shown on a via-stop row — on hover as a preview, permanently once marked as an overnight stay. */
+function TentIcon({ color }: { color: string }) {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M12 3 L22 20 H2 Z" fill={color} />
+      <path d="M9.3 20 L12 10.5 L14.7 20 Z" fill="white" fillOpacity="0.55" />
+    </svg>
+  )
+}
 
 const DEFAULT_MAP_CENTER: [number, number] = [39, -105.5]
 
@@ -170,12 +216,13 @@ function MapClickHandler({ onPick, onDismissPending }: { onPick: (lat: number, l
   return null
 }
 
-/** The Set as start / Add as a stop / Set as destination buttons shown in every marker popup. */
+/** The Set as start / Add to route / Set as (new) destination buttons shown in every marker popup. */
 function StopActionButtons({
   value,
   stops,
   onSetStart,
   onSetDestination,
+  onSetNewDestination,
   onAddStop,
   onRemoveStop,
   onDone,
@@ -206,18 +253,31 @@ function StopActionButtons({
             onDone()
           }}
         >
-          Add as a stop
+          Add to route
         </button>
       )}
-      <button
-        disabled={isDestination}
-        onClick={() => {
-          onSetDestination(value)
-          onDone()
-        }}
-      >
-        Set as destination
-      </button>
+      {destinationSet ? (
+        <button
+          disabled={isDestination || atStopLimit}
+          title={atStopLimit ? `Routes are limited to ${MAX_STOPS} stops` : undefined}
+          onClick={() => {
+            onSetNewDestination(value)
+            onDone()
+          }}
+        >
+          Set as new destination
+        </button>
+      ) : (
+        <button
+          disabled={isDestination}
+          onClick={() => {
+            onSetDestination(value)
+            onDone()
+          }}
+        >
+          Set as destination
+        </button>
+      )}
       {isSelected && (
         <button
           className="popup-remove"
@@ -246,12 +306,17 @@ function CampsiteMarker({
 }) {
   const markerRef = useRef<L.Marker>(null)
   const isStart = stops[0] === campsite.id
-  const icon = isStart ? START_FLAG_ICON : markerIcon(TYPE_COLORS[campsite.type] ?? '#666', highlighted)
+  const isDestination = stops[stops.length - 1] === campsite.id
+  const icon = isStart
+    ? START_FLAG_ICON
+    : isDestination
+      ? DESTINATION_FLAG_ICON
+      : markerIcon(TYPE_COLORS[campsite.type] ?? '#666', highlighted)
   return (
     <Marker
       position={[campsite.lat, campsite.lon]}
       icon={icon}
-      zIndexOffset={isStart ? 1000 : 0}
+      zIndexOffset={isStart || isDestination ? 1000 : 0}
       ref={markerRef}
     >
       <Popup>
@@ -284,8 +349,10 @@ function SelectedPointMarker({
 }) {
   const markerRef = useRef<L.Marker>(null)
   const isStart = stops[0] === value
+  const isDestination = stops[stops.length - 1] === value
+  const icon = isStart ? START_FLAG_ICON : isDestination ? DESTINATION_FLAG_ICON : markerIcon('#4a5568', true)
   return (
-    <Marker position={[lat, lon]} icon={isStart ? START_FLAG_ICON : markerIcon('#4a5568', true)} zIndexOffset={isStart ? 1000 : 0} ref={markerRef}>
+    <Marker position={[lat, lon]} icon={icon} zIndexOffset={isStart || isDestination ? 1000 : 0} ref={markerRef}>
       <Popup>
         Custom point
         <br />
@@ -351,6 +418,8 @@ export default function PlannerPage() {
   const [searchText, setSearchText] = useState('')
   const [dragIndex, setDragIndex] = useState<number | null>(null)
   const [dragOverIndex, setDragOverIndex] = useState<number | null>(null)
+  /** Via-stop values (not indices, so marks survive reordering/add/remove) marked as an overnight stay. */
+  const [sleepStops, setSleepStops] = useState<Set<string>>(new Set())
 
   const [user, setUser] = useState<User | null>(null)
   const [authChecked, setAuthChecked] = useState(false)
@@ -360,8 +429,8 @@ export default function PlannerPage() {
   const [saveName, setSaveName] = useState('')
   const [saveStatus, setSaveStatus] = useState<'idle' | 'saving' | 'saved'>('idle')
   /** Set right before switching parks to load a saved route, so the park-switch effect applies
-   * these stops instead of resetting to blank. */
-  const [pendingLoadStops, setPendingLoadStops] = useState<string[] | null>(null)
+   * these stops (and which of them are overnight stays) instead of resetting to blank. */
+  const [pendingLoadRoute, setPendingLoadRoute] = useState<{ stops: string[]; sleepStops: string[] } | null>(null)
 
   useEffect(() => {
     fetch('/api/parks')
@@ -389,11 +458,13 @@ export default function PlannerPage() {
     setEditingIndex(null)
     setSaveStatus('idle')
     setSaveName('')
-    if (pendingLoadStops) {
-      setStops(pendingLoadStops)
-      setPendingLoadStops(null)
+    if (pendingLoadRoute) {
+      setStops(pendingLoadRoute.stops)
+      setSleepStops(new Set(pendingLoadRoute.sleepStops))
+      setPendingLoadRoute(null)
     } else {
       setStops([null, null])
+      setSleepStops(new Set())
     }
     fetch(`/api/campsites?park=${parkId}`)
       .then((res) => (res.ok ? res.json() : Promise.reject(new Error('bad response'))))
@@ -425,8 +496,9 @@ export default function PlannerPage() {
     setView('planner')
     if (saved.parkId === parkId) {
       setStops(saved.stops)
+      setSleepStops(new Set(saved.sleepStops))
     } else {
-      setPendingLoadStops(saved.stops)
+      setPendingLoadRoute({ stops: saved.stops, sleepStops: saved.sleepStops })
       navigate(`/park/${saved.parkId}`)
     }
   }
@@ -443,7 +515,7 @@ export default function PlannerPage() {
     fetch('/api/saved-routes', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ parkId, name: saveName.trim(), stops: stopIds }),
+      body: JSON.stringify({ parkId, name: saveName.trim(), stops: stopIds, sleepStops: [...sleepStops] }),
     })
       .then((res) => {
         if (!res.ok) throw new Error('save failed')
@@ -467,6 +539,12 @@ export default function PlannerPage() {
       setRoute(null)
       return
     }
+    // Guards against out-of-order responses: e.g. switching to a saved route in a different park
+    // changes `parkId` and `stops` in separate renders, so a transient (stale-stops, new-park)
+    // request can briefly fire, 400, and — if that fast error response arrives after a slower but
+    // correct one — clobber the valid result. Once this effect reruns (deps changed again), the
+    // cleanup below marks this run's callbacks as stale so they no longer touch state.
+    let cancelled = false
     setLoading(true)
     setError(null)
     setRoute(null)
@@ -478,9 +556,18 @@ export default function PlannerPage() {
         }
         return res.json()
       })
-      .then(setRoute)
-      .catch((err) => setError(err.message))
-      .finally(() => setLoading(false))
+      .then((data) => {
+        if (!cancelled) setRoute(data)
+      })
+      .catch((err) => {
+        if (!cancelled) setError(err.message)
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
   }, [stops, parkId])
 
   function setAsStart(value: string) {
@@ -496,6 +583,15 @@ export default function PlannerPage() {
       const next = [...prev]
       next[next.length - 1] = value
       return next
+    })
+  }
+
+  /** Appends a new destination after the current one, keeping the old destination in the route as a
+   * via-stop rather than overwriting it. */
+  function setAsNewDestination(value: string) {
+    setStops((prev) => {
+      if (prev.length >= MAX_STOPS) return prev
+      return [...prev, value]
     })
   }
 
@@ -523,6 +619,7 @@ export default function PlannerPage() {
   const stopActions: StopActions = {
     onSetStart: setAsStart,
     onSetDestination: setAsDestination,
+    onSetNewDestination: setAsNewDestination,
     onAddStop: addAsStop,
     onRemoveStop: clearOrRemoveStop,
   }
@@ -542,6 +639,15 @@ export default function PlannerPage() {
     } else {
       setStops((prev) => prev.filter((_, i) => i !== index))
     }
+  }
+
+  function toggleSleepStop(value: string) {
+    setSleepStops((prev) => {
+      const next = new Set(prev)
+      if (next.has(value)) next.delete(value)
+      else next.add(value)
+      return next
+    })
   }
 
   /** Moves the stop at `from` to position `to`, shifting the rest — used by drag-and-drop reordering.
@@ -608,10 +714,58 @@ export default function PlannerPage() {
     })).filter((group) => group.items.length > 0)
   }, [editingIndex, searchText, campsites])
 
-  const routeLatLngs = useMemo<[number, number][]>(
-    () => route?.routeGeoJson.coordinates.map(([lon, lat]) => [lat, lon]) ?? [],
-    [route],
-  )
+  /** Indices (within `stops`) of via-stops marked as an overnight stay — each one ends a "day" of the trek. */
+  const sleepBreakIndices = useMemo(() => {
+    const idxs: number[] = []
+    for (let i = 1; i < stops.length - 1; i++) {
+      const value = stops[i]
+      if (value && sleepStops.has(value)) idxs.push(i)
+    }
+    return idxs
+  }, [stops, sleepStops])
+
+  /** Which day (0-indexed) the leg connecting stop[legIndex] to stop[legIndex + 1] falls on. */
+  function dayIndexForLeg(legIndex: number): number {
+    let day = 0
+    for (const breakIndex of sleepBreakIndices) {
+      if (legIndex >= breakIndex) day++
+    }
+    return day
+  }
+
+  /** Route legs grouped into per-day polylines (lat,lng) for map rendering, split at overnight stays. */
+  const dayPolylines = useMemo<[number, number][][]>(() => {
+    if (!route) return []
+    const groups: [number, number][][] = []
+    route.legs.forEach((leg, legIndex) => {
+      const day = dayIndexForLeg(legIndex)
+      if (!groups[day]) groups[day] = []
+      const legLatLngs: [number, number][] = leg.coordinates.map(([lon, lat]) => [lat, lon])
+      const tail = groups[day][groups[day].length - 1]
+      const head = legLatLngs[0]
+      if (tail && head && tail[0] === head[0] && tail[1] === head[1]) {
+        groups[day].push(...legLatLngs.slice(1))
+      } else {
+        groups[day].push(...legLatLngs)
+      }
+    })
+    return groups
+  }, [route, sleepBreakIndices])
+
+  /** Per-day distance/elevation subtotals, for the day-by-day breakdown in the results panel. */
+  const dayTotals = useMemo(() => {
+    if (!route) return []
+    const totals: { distanceMiles: number; elevationGainFt: number; elevationLossFt: number; legs: RouteLeg[] }[] = []
+    route.legs.forEach((leg, legIndex) => {
+      const day = dayIndexForLeg(legIndex)
+      if (!totals[day]) totals[day] = { distanceMiles: 0, elevationGainFt: 0, elevationLossFt: 0, legs: [] }
+      totals[day].distanceMiles += leg.distanceMiles
+      totals[day].elevationGainFt += leg.elevationGainFt
+      totals[day].elevationLossFt += leg.elevationLossFt
+      totals[day].legs.push(leg)
+    })
+    return totals
+  }, [route, sleepBreakIndices])
 
   return (
     <div className="app">
@@ -669,6 +823,7 @@ export default function PlannerPage() {
                     <div className="saved-route-name">{r.name}</div>
                     <div className="saved-route-meta">
                       {parks.find((p) => p.id === r.parkId)?.name ?? r.parkId} &middot; {r.stops.length} stops
+                      {r.sleepStops.length > 0 && <> &middot; {r.sleepStops.length + 1} days</>}
                     </div>
                   </div>
                   <div className="saved-route-actions">
@@ -687,12 +842,14 @@ export default function PlannerPage() {
             <div className="stops-list">
               {stops.map((stopId, i) => {
                 const label = stopId ? stopLabel(stopId, campsiteById) : null
+                const isFirst = i === 0
                 const isLast = i === stops.length - 1
                 const isEditing = editingIndex === i
+                const isSleepStop = !isFirst && !isLast && !!stopId && sleepStops.has(stopId)
                 return (
                   <div
                     key={i}
-                    className={`stop-item ${dragOverIndex === i ? 'drag-over' : ''} ${dragIndex === i ? 'dragging' : ''}`}
+                    className={`stop-item ${dragOverIndex === i ? 'drag-over' : ''} ${dragIndex === i ? 'dragging' : ''} ${isSleepStop ? 'stop-item-sleep' : ''}`}
                     onDragOver={(e) => handleStopDragOver(i, e)}
                     onDrop={(e) => handleStopDrop(i, e)}
                   >
@@ -707,7 +864,23 @@ export default function PlannerPage() {
                         &#8942;&#8942;
                       </div>
                       <div className="stop-marker-col">
-                        <div className={isLast ? 'stop-icon-pin' : 'stop-icon-circle'} />
+                        {isFirst ? (
+                          <FlagIcon color="#22c55e" />
+                        ) : isLast ? (
+                          <FlagIcon color="#e34948" />
+                        ) : (
+                          <button
+                            type="button"
+                            className={`stop-sleep-toggle ${isSleepStop ? 'marked' : ''}`}
+                            onClick={() => stopId && toggleSleepStop(stopId)}
+                            disabled={!stopId}
+                            aria-label={isSleepStop ? 'Unmark overnight stay' : 'Mark as overnight stay'}
+                            title={isSleepStop ? 'Overnight stay — click to unmark' : 'Mark as overnight stay'}
+                          >
+                            <span className="stop-icon-circle" />
+                            <TentIcon color={isSleepStop ? '#8a5a12' : '#555'} />
+                          </button>
+                        )}
                       </div>
                       <div className={`stop-input ${!label ? 'empty' : ''} ${isEditing ? 'editing' : ''}`}>
                         {isEditing ? (
@@ -775,7 +948,7 @@ export default function PlannerPage() {
                       <div className="stop-connector-row">
                         <div className="stop-drag-handle-spacer" />
                         <div className="stop-marker-col">
-                          <div className="stop-connector" />
+                          <div className="stop-connector" style={{ borderLeftColor: dayColor(dayIndexForLeg(i)) }} />
                         </div>
                         <div className="spacer" />
                       </div>
@@ -816,19 +989,45 @@ export default function PlannerPage() {
                   <span className="label">Elevation loss</span>
                   <span className="value">{Math.round(route.elevationLossFt).toLocaleString()} ft</span>
                 </div>
-                {route.legs.length > 1 && (
-                  <div className="legs">
-                    {route.legs.map((leg, i) => (
-                      <div className="leg-row" key={i}>
-                        <span>
-                          {stopLabel(leg.from, campsiteById)} &rarr; {stopLabel(leg.to, campsiteById)}
-                        </span>
-                        <span>
-                          {leg.distanceMiles.toFixed(2)} mi, +{Math.round(leg.elevationGainFt)}/-{Math.round(leg.elevationLossFt)} ft
-                        </span>
+                {dayTotals.length > 1 ? (
+                  <div className="legs day-breakdown">
+                    {dayTotals.map((day, dayIdx) => (
+                      <div className="day-group" key={dayIdx}>
+                        <div className="day-group-header">
+                          <span className="legend-line" style={{ borderTopColor: dayColor(dayIdx) }} />
+                          <span className="day-group-label">Day {dayIdx + 1}</span>
+                          <span className="day-group-total">
+                            {day.distanceMiles.toFixed(2)} mi, +{Math.round(day.elevationGainFt)}/-{Math.round(day.elevationLossFt)} ft
+                          </span>
+                        </div>
+                        {day.legs.map((leg, i) => (
+                          <div className="leg-row" key={i}>
+                            <span>
+                              {stopLabel(leg.from, campsiteById)} &rarr; {stopLabel(leg.to, campsiteById)}
+                            </span>
+                            <span>
+                              {leg.distanceMiles.toFixed(2)} mi, +{Math.round(leg.elevationGainFt)}/-{Math.round(leg.elevationLossFt)} ft
+                            </span>
+                          </div>
+                        ))}
                       </div>
                     ))}
                   </div>
+                ) : (
+                  route.legs.length > 1 && (
+                    <div className="legs">
+                      {route.legs.map((leg, i) => (
+                        <div className="leg-row" key={i}>
+                          <span>
+                            {stopLabel(leg.from, campsiteById)} &rarr; {stopLabel(leg.to, campsiteById)}
+                          </span>
+                          <span>
+                            {leg.distanceMiles.toFixed(2)} mi, +{Math.round(leg.elevationGainFt)}/-{Math.round(leg.elevationLossFt)} ft
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  )
                 )}
 
                 {user && (
@@ -852,15 +1051,6 @@ export default function PlannerPage() {
                 )}
               </div>
             )}
-
-            <div className="legend">
-              {Object.entries(TYPE_LABELS).map(([type, label]) => (
-                <div className="legend-item" key={type}>
-                  <span className="legend-dot" style={{ background: TYPE_COLORS[type] }} />
-                  <span>{label}</span>
-                </div>
-              ))}
-            </div>
           </>
         )}
       </div>
@@ -875,11 +1065,15 @@ export default function PlannerPage() {
           <FitBoundsToCampsites campsites={campsites} />
           <MapClickHandler onPick={(lat, lon) => setPendingPoint({ lat, lon })} onDismissPending={() => setPendingPoint(null)} />
           {trails && (
-            // interactive: false so trail lines don't swallow clicks meant for picking a custom point on the map
+            // interactive: false so trail/road lines don't swallow clicks meant for picking a custom point on the map
             <GeoJSON
               data={trails as FeatureCollection}
               interactive={false}
-              style={() => ({ color: '#e67e22', weight: 3, opacity: 0.85, dashArray: '6,5' })}
+              style={(feature) =>
+                feature?.properties?.kind === 'road'
+                  ? { color: '#7a5230', weight: 3, opacity: 0.85 }
+                  : { color: '#e67e22', weight: 3, opacity: 0.85, dashArray: '6,5' }
+              }
             />
           )}
           {campsites.map((c) => (
@@ -903,8 +1097,27 @@ export default function PlannerPage() {
           {pendingPoint && (
             <PendingPointMarker point={pendingPoint} stops={stops} actions={stopActions} onDismiss={() => setPendingPoint(null)} />
           )}
-          {routeLatLngs.length > 0 && <Polyline positions={routeLatLngs} color="#c0392b" weight={4} opacity={0.9} />}
+          {dayPolylines.map((positions, day) => (
+            <Polyline key={day} positions={positions} color={dayColor(day)} weight={4} opacity={0.9} />
+          ))}
         </MapContainer>
+
+        <div className="legend">
+          {Object.entries(TYPE_LABELS).map(([type, label]) => (
+            <div className="legend-item" key={type}>
+              <span className="legend-dot" style={{ background: TYPE_COLORS[type] }} />
+              <span>{label}</span>
+            </div>
+          ))}
+          <div className="legend-item">
+            <span className="legend-line legend-line-trail" />
+            <span>Trail</span>
+          </div>
+          <div className="legend-item">
+            <span className="legend-line legend-line-road" />
+            <span>Walkable road</span>
+          </div>
+        </div>
       </div>
     </div>
   )

@@ -43,6 +43,13 @@ db.exec(`
   CREATE INDEX IF NOT EXISTS idx_saved_routes_user ON saved_routes(user_id);
 `)
 
+// `CREATE TABLE IF NOT EXISTS` above doesn't retroactively add columns to a database file that
+// already exists from before this column was introduced, so it's added here as a one-off migration.
+const savedRouteColumns = db.prepare(`PRAGMA table_info(saved_routes)`).all() as { name: string }[]
+if (!savedRouteColumns.some((c) => c.name === 'sleep_stops')) {
+  db.exec(`ALTER TABLE saved_routes ADD COLUMN sleep_stops TEXT NOT NULL DEFAULT '[]'`)
+}
+
 export interface UserRow {
   id: string
   google_sub: string
@@ -58,5 +65,6 @@ export interface SavedRouteRow {
   park_id: string
   name: string
   stops: string
+  sleep_stops: string
   created_at: string
 }

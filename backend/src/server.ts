@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url'
 import express from 'express'
 import cors from 'cors'
 import cookieParser from 'cookie-parser'
-import { loadCampsites, loadTrails } from './data.js'
+import { loadCampsites, loadRoads, loadTrails } from './data.js'
 import { attachPointToNetwork, buildGraph, shortestPath, type TrailGraph } from './graph.js'
 import { computeRouteElevation } from './elevation.js'
 import type { LonLat } from './geo.js'
@@ -33,9 +33,22 @@ const parkStates = new Map<string, ParkState>()
 for (const park of PARKS) {
   const campsites = loadCampsites(park.dataDir)
   const trails = loadTrails(park.dataDir)
-  const graph = buildGraph(trails, campsites)
-  parkStates.set(park.id, { campsites, trails, graph })
-  console.log(`[graph] ${park.id}: ${graph.nodes.size} nodes, ${graph.edges.length} edges, ${campsites.length} campsites snapped`)
+  const roads = loadRoads(park.dataDir)
+  // Roads (e.g. an unpaved trailhead access road) are just as walkable as trails, so they're
+  // merged into one network graph; `kind` is kept on each feature so the frontend can still draw
+  // trails and roads with distinct line styles.
+  const network: TrailsGeoJson = {
+    type: 'FeatureCollection',
+    features: [
+      ...trails.features.map((f) => ({ ...f, properties: { ...f.properties, kind: 'trail' as const } })),
+      ...roads.features.map((f) => ({ ...f, properties: { ...f.properties, kind: 'road' as const } })),
+    ],
+  }
+  const graph = buildGraph(network, campsites, park.id)
+  parkStates.set(park.id, { campsites, trails: network, graph })
+  console.log(
+    `[graph] ${park.id}: ${graph.nodes.size} nodes, ${graph.edges.length} edges, ${campsites.length} campsites snapped, ${roads.features.length} road segments`,
+  )
 }
 
 function getParkState(req: express.Request, res: express.Response): ParkState | null {
@@ -110,7 +123,15 @@ app.get('/api/route', async (req, res) => {
   }
 
   try {
-    const legs: { from: string; to: string; distanceMiles: number; elevationGainFt: number; elevationLossFt: number }[] = []
+    const legs: {
+      from: string
+      to: string
+      distanceMiles: number
+      elevationGainFt: number
+      elevationLossFt: number
+      /** This leg's own polyline (lon,lat), so the frontend can color each day of a multi-day trek separately. */
+      coordinates: [number, number][]
+    }[] = []
     const coordinates: [number, number][] = []
     let totalDistanceMeters = 0
     let totalGainMeters = 0
@@ -121,7 +142,7 @@ app.get('/api/route', async (req, res) => {
       const toStop = stopNodes[i + 1]
 
       if (fromStop.node === toStop.node) {
-        legs.push({ from: fromStop.id, to: toStop.id, distanceMiles: 0, elevationGainFt: 0, elevationLossFt: 0 })
+        legs.push({ from: fromStop.id, to: toStop.id, distanceMiles: 0, elevationGainFt: 0, elevationLossFt: 0, coordinates: [] })
         continue
       }
 
@@ -133,12 +154,18 @@ app.get('/api/route', async (req, res) => {
 
       const { gainMeters, lossMeters } = await computeRouteElevation(path.edges)
 
+      const legCoordinates: [number, number][] = []
       for (const edge of path.edges) {
         for (const p of edge.polyline as LonLat[]) {
-          const last = coordinates[coordinates.length - 1]
+          const last = legCoordinates[legCoordinates.length - 1]
           if (last && last[0] === p.lon && last[1] === p.lat) continue
-          coordinates.push([p.lon, p.lat])
+          legCoordinates.push([p.lon, p.lat])
         }
+      }
+      for (const p of legCoordinates) {
+        const last = coordinates[coordinates.length - 1]
+        if (last && last[0] === p[0] && last[1] === p[1]) continue
+        coordinates.push(p)
       }
 
       totalDistanceMeters += path.totalDistanceMeters
@@ -150,6 +177,7 @@ app.get('/api/route', async (req, res) => {
         distanceMiles: path.totalDistanceMeters * METERS_TO_MILES,
         elevationGainFt: gainMeters * METERS_TO_FEET,
         elevationLossFt: lossMeters * METERS_TO_FEET,
+        coordinates: legCoordinates,
       })
     }
 

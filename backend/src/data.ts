@@ -15,3 +15,9 @@ export function loadTrails(parkDataDir: string): TrailsGeoJson {
   const raw = readFileSync(path.join(DATA_DIR, parkDataDir, 'trails.geojson'), 'utf-8')
   return JSON.parse(raw)
 }
+
+/** Roads a hiker can walk to reach or connect trail segments (e.g. an unpaved access road to a trailhead). */
+export function loadRoads(parkDataDir: string): TrailsGeoJson {
+  const raw = readFileSync(path.join(DATA_DIR, parkDataDir, 'roads.geojson'), 'utf-8')
+  return JSON.parse(raw)
+}

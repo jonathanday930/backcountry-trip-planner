@@ -9,7 +9,8 @@ export interface Campsite {
 
 export interface TrailFeature {
   type: 'Feature'
-  properties: { name: string; osm_way_id?: number }
+  /** `kind` distinguishes a hiking trail from a walkable road segment (e.g. a gravel road leading to a trailhead); both are equally valid for routing. */
+  properties: { name: string; osm_way_id?: number; kind?: 'trail' | 'road' }
   geometry: { type: 'LineString'; coordinates: [number, number][] }
 }
 

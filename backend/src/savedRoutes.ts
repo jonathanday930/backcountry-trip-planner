@@ -24,6 +24,7 @@ savedRoutesRouter.get('/', (req, res) => {
       parkId: r.park_id,
       name: r.name,
       stops: JSON.parse(r.stops) as string[],
+      sleepStops: JSON.parse(r.sleep_stops) as string[],
       createdAt: r.created_at,
     })),
   )
@@ -31,7 +32,7 @@ savedRoutesRouter.get('/', (req, res) => {
 
 savedRoutesRouter.post('/', (req, res) => {
   const user = currentUser(req)
-  const { parkId, name, stops } = req.body ?? {}
+  const { parkId, name, stops, sleepStops } = req.body ?? {}
 
   if (typeof parkId !== 'string' || !parkId) {
     res.status(400).json({ error: 'parkId is required' })
@@ -49,16 +50,21 @@ savedRoutesRouter.post('/', (req, res) => {
     res.status(400).json({ error: `stops must have at most ${MAX_STOPS} entries` })
     return
   }
+  if (sleepStops !== undefined && (!Array.isArray(sleepStops) || !sleepStops.every((s) => typeof s === 'string'))) {
+    res.status(400).json({ error: 'sleepStops must be an array of strings' })
+    return
+  }
 
   const id = randomBytes(12).toString('hex')
-  db.prepare('INSERT INTO saved_routes (id, user_id, park_id, name, stops) VALUES (?, ?, ?, ?, ?)').run(
+  db.prepare('INSERT INTO saved_routes (id, user_id, park_id, name, stops, sleep_stops) VALUES (?, ?, ?, ?, ?, ?)').run(
     id,
     user.id,
     parkId,
     name.trim(),
     JSON.stringify(stops),
+    JSON.stringify(sleepStops ?? []),
   )
-  res.status(201).json({ id, parkId, name: name.trim(), stops })
+  res.status(201).json({ id, parkId, name: name.trim(), stops, sleepStops: sleepStops ?? [] })
 })
 
 savedRoutesRouter.delete('/:id', (req, res) => {
