@@ -1,0 +1,7 @@
+backend/scripts/rec-gov-profile/
+backend/scripts/rec-gov-debug/
+backend/scripts/rec-gov-storage-state.json
+
+# Large re-fetchable DEM rasters (see backend/scripts/README.md, fetchDem.ts)
+backend/data/*/dem/
+node_modules/

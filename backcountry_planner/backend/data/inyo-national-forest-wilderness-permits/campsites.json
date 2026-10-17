@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "fish-creek-aa14",
+    "name": "Fish Creek - AA14",
+    "lat": 37.61211111,
+    "lon": -119.07744444,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "haiwee-pass-non-quota-ss64",
+    "name": "Haiwee Pass (Non Quota) - SS64",
+    "lat": 36.13911111,
+    "lon": -118.01744444,
+    "type": "trailhead",
+    "context": "Olancha",
+    "startingAreas": []
+  },
+  {
+    "id": "happy-isles-yosemite-valley-exit-only-yosemite-np-yos01",
+    "name": "Happy Isles - Yosemite Valley (Exit Only) Yosemite NP - YOS01",
+    "lat": 37.73222222,
+    "lon": -119.55833333,
+    "type": "trailhead",
+    "context": "Yosemite",
+    "startingAreas": []
+  },
+  {
+    "id": "fern-lake-aa13",
+    "name": "Fern Lake - AA13",
+    "lat": 37.62944444,
+    "lon": -119.08771944,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "deer-lakes-jm00",
+    "name": "Deer Lakes - JM00",
+    "lat": 37.60166667,
+    "lon": -119.01583333,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "big-pine-creek-south-fork-jm24",
+    "name": "Big Pine Creek South Fork - JM24",
+    "lat": 37.12377778,
+    "lon": -118.443,
+    "type": "trailhead",
+    "context": "Big Pine",
+    "startingAreas": []
+  },
+  {
+    "id": "river-trail-aa08",
+    "name": "River Trail - AA08",
+    "lat": 37.68222222,
+    "lon": -119.08638889,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "florence-lake-exit-only-sierra-nf-jm57",
+    "name": "Florence Lake (Exit Only) Sierra NF - JM57",
+    "lat": 37.3625,
+    "lon": -118.98472222,
+    "type": "trailhead",
+    "context": "Fresno",
+    "startingAreas": []
+  },
+  {
+    "id": "kearsarge-pass-jm31",
+    "name": "Kearsarge Pass - JM31",
+    "lat": 36.77222222,
+    "lon": -118.34194444,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "shadow-creek-aa07",
+    "name": "Shadow Creek - AA07",
+    "lat": 37.68194444,
+    "lon": -119.08666667,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "wawona-exit-only-yosemite-np-yos04",
+    "name": "Wawona (Exit Only) Yosemite NP - YOS04",
+    "lat": 37.55083333,
+    "lon": -119.63527778,
+    "type": "trailhead",
+    "context": "Yosemite",
+    "startingAreas": []
+  },
+  {
+    "id": "warren-fork-non-quota-hh13",
+    "name": "Warren Fork (Non Quota) - HH13",
+    "lat": 37.9525,
+    "lon": -119.22611111,
+    "type": "trailhead",
+    "context": "Lee Vining - Hoover/Inyo",
+    "startingAreas": []
+  },
+  {
+    "id": "cottonwood-lakes-jm39",
+    "name": "Cottonwood Lakes - JM39",
+    "lat": 36.45305556,
+    "lon": -118.1695,
+    "type": "trailhead",
+    "context": "Lone Pine - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "tamarack-lakes-jm07",
+    "name": "Tamarack Lakes - JM07",
+    "lat": 37.44944444,
+    "lon": -118.73511111,
+    "type": "trailhead",
+    "context": "Toms Place",
+    "startingAreas": []
+  },
+  {
+    "id": "little-lakes-valley-jm09",
+    "name": "Little Lakes Valley - JM09",
+    "lat": 37.43463889,
+    "lon": -118.74763889,
+    "type": "trailhead",
+    "context": "Toms Place",
+    "startingAreas": []
+  },
+  {
+    "id": "forks-of-the-kern-exit-only-sequoia-nf-gt137",
+    "name": "Forks of the Kern (Exit Only) Sequoia NF - GT137",
+    "lat": 36.13861111,
+    "lon": -118.45166667,
+    "type": "trailhead",
+    "context": "Kernville",
+    "startingAreas": []
+  },
+  {
+    "id": "pine-creek-jm11",
+    "name": "Pine Creek - JM11",
+    "lat": 37.36166667,
+    "lon": -118.69166667,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "golden-trout-lakes-jm30",
+    "name": "Golden Trout Lakes - JM30",
+    "lat": 36.77505556,
+    "lon": -118.34325,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "taboose-pass-jm27",
+    "name": "Taboose Pass - JM27",
+    "lat": 37.00944444,
+    "lon": -118.32722222,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "glacier-canyon-aa01",
+    "name": "Glacier Canyon - AA01",
+    "lat": 37.91175,
+    "lon": -119.25744444,
+    "type": "trailhead",
+    "context": "Lee Vining - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "baker-and-green-lakes-jm22",
+    "name": "Baker and Green Lakes - JM22",
+    "lat": 37.13416667,
+    "lon": -118.44658333,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "sabrina-lake-jm17",
+    "name": "Sabrina Lake - JM17",
+    "lat": 37.21333333,
+    "lon": -118.60916667,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "gibbs-lake-aa02",
+    "name": "Gibbs Lake - AA02",
+    "lat": 37.92055556,
+    "lon": -119.15222222,
+    "type": "trailhead",
+    "context": "Lee Vining - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "horton-lakes-jm13",
+    "name": "Horton Lakes - JM13",
+    "lat": 37.313025,
+    "lon": -118.62608333,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "george-lake-jm18",
+    "name": "George Lake  - JM18",
+    "lat": 37.21111111,
+    "lon": -118.60933333,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "high-trail-aa09",
+    "name": "High Trail - AA09",
+    "lat": 37.68277778,
+    "lon": -119.08575,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "upper-buttermilk-jm14",
+    "name": "Upper Buttermilk - JM14",
+    "lat": 37.27583333,
+    "lon": -118.61972222,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "italy-pass-jm10",
+    "name": "Italy Pass - JM10",
+    "lat": 37.36136111,
+    "lon": -118.69216667,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "baxter-pass-jm29",
+    "name": "Baxter Pass - JM29",
+    "lat": 36.84475,
+    "lon": -118.29772222,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "beck-lake-aa12",
+    "name": "Beck Lake - AA12",
+    "lat": 37.63027778,
+    "lon": -119.08661111,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "lundy-canyon-non-quota-hh01",
+    "name": "Lundy Canyon (Non Quota) - HH01",
+    "lat": 38.0215,
+    "lon": -119.265,
+    "type": "trailhead",
+    "context": "Lee Vining - Hoover/Inyo",
+    "startingAreas": []
+  },
+  {
+    "id": "tuolumne-meadows-exit-only-yosemite-np-yos02",
+    "name": "Tuolumne Meadows (Exit Only) Yosemite NP - YOS02",
+    "lat": 37.87694444,
+    "lon": -119.34527778,
+    "type": "trailhead",
+    "context": "Yosemite",
+    "startingAreas": []
+  },
+  {
+    "id": "rush-creek-aa05",
+    "name": "Rush Creek - AA05",
+    "lat": 37.78305556,
+    "lon": -119.1275,
+    "type": "trailhead",
+    "context": "June Lake",
+    "startingAreas": []
+  },
+  {
+    "id": "minaret-lake-aa11",
+    "name": "Minaret Lake - AA11",
+    "lat": 37.63027778,
+    "lon": -119.08472222,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "mono-pass-jm08",
+    "name": "Mono Pass - JM08",
+    "lat": 37.43438889,
+    "lon": -118.74825,
+    "type": "trailhead",
+    "context": "Toms Place",
+    "startingAreas": []
+  },
+  {
+    "id": "meysan-lake-jm37",
+    "name": "Meysan Lake - JM37",
+    "lat": 36.58777778,
+    "lon": -118.225,
+    "type": "trailhead",
+    "context": "Lone Pine - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "saddlebag-lake-non-quota-hh14",
+    "name": "Saddlebag Lake (Non Quota) - HH14",
+    "lat": 37.96444444,
+    "lon": -119.27277778,
+    "type": "trailhead",
+    "context": "Lee Vining - Hoover/Inyo",
+    "startingAreas": []
+  },
+  {
+    "id": "parker-dana-meadow-exit-only-yosemite-np-yos03",
+    "name": "Parker - Dana Meadow (Exit Only) Yosemite NP - YOS03",
+    "lat": 37.89166667,
+    "lon": -119.26166667,
+    "type": "trailhead",
+    "context": "Yosemite",
+    "startingAreas": []
+  },
+  {
+    "id": "lakes-canyon-non-quota-hh12",
+    "name": "Lakes Canyon (Non Quota) - HH12",
+    "lat": 37.03183333,
+    "lon": -119.21927778,
+    "type": "trailhead",
+    "context": "Lee Vining - Hoover/Inyo",
+    "startingAreas": []
+  },
+  {
+    "id": "lamarck-lakes-jm16",
+    "name": "Lamarck Lakes - JM16",
+    "lat": 37.22647222,
+    "lon": -118.62733333,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "tuttle-creek-jm38",
+    "name": "Tuttle Creek - JM38",
+    "lat": 36.55361111,
+    "lon": -118.18444444,
+    "type": "trailhead",
+    "context": "Lone Pine - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "olancha-pass-non-quota-ss63",
+    "name": "Olancha Pass (Non Quota) - SS63",
+    "lat": 36.22591667,
+    "lon": -118.05944444,
+    "type": "trailhead",
+    "context": "Olancha",
+    "startingAreas": []
+  },
+  {
+    "id": "treasure-lakes-jm20",
+    "name": "Treasure Lakes - JM20",
+    "lat": 37.15888889,
+    "lon": -118.56583333,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "john-muir-trail-south-of-devils-postpile-aa15",
+    "name": "John Muir Trail South of Devils Postpile - AA15",
+    "lat": 37.61166667,
+    "lon": -119.07694444,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "john-muir-trail-north-of-devils-postpile-aa10",
+    "name": "John Muir Trail North of Devils Postpile - AA10",
+    "lat": 37.63111111,
+    "lon": -119.08555556,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "red-cones-aa16",
+    "name": "Red Cones - AA16",
+    "lat": 37.61236111,
+    "lon": -119.02208333,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "mcgee-pass-jm05",
+    "name": "McGee Pass - JM05",
+    "lat": 37.5475,
+    "lon": -118.82092222,
+    "type": "trailhead",
+    "context": "Crowley Lake",
+    "startingAreas": []
+  },
+  {
+    "id": "north-fork-of-lone-pine-creek-jm34",
+    "name": "North Fork of Lone Pine Creek - JM34",
+    "lat": 36.58833333,
+    "lon": -118.23972222,
+    "type": "trailhead",
+    "context": "Lone Pine - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "mt-whitney-trail-crest-exit-jm35",
+    "name": "Mt. Whitney (Trail Crest Exit) - JM35",
+    "lat": 36.58777778,
+    "lon": -118.23916667,
+    "type": "trailhead",
+    "context": "Lone Pine - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "bishop-pass-south-lake-jm21",
+    "name": "Bishop Pass -South Lake - JM21",
+    "lat": 37.16852778,
+    "lon": -118.56611111,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "red-lake-jm26",
+    "name": "Red Lake - JM26",
+    "lat": 37.03666667,
+    "lon": -118.36055556,
+    "type": "trailhead",
+    "context": "Big Pine",
+    "startingAreas": []
+  },
+  {
+    "id": "shepherd-pass-jm32",
+    "name": "Shepherd Pass - JM32",
+    "lat": 36.72722222,
+    "lon": -118.27861111,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "sawmill-pass-jm28",
+    "name": "Sawmill Pass - JM28",
+    "lat": 36.93972222,
+    "lon": -118.29583333,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "cottonwood-pass-gt60",
+    "name": "Cottonwood Pass - GT60",
+    "lat": 36.43583333,
+    "lon": -118.17075,
+    "type": "trailhead",
+    "context": "Lone Pine - Golden Trout",
+    "startingAreas": []
+  },
+  {
+    "id": "convict-creek-jm04",
+    "name": "Convict Creek - JM04",
+    "lat": 37.595,
+    "lon": -118.85269444,
+    "type": "trailhead",
+    "context": "Crowley Lake",
+    "startingAreas": []
+  },
+  {
+    "id": "gable-lakes-jm12",
+    "name": "Gable Lakes - JM12",
+    "lat": 37.36119444,
+    "lon": -118.69065556,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "piute-pass-jm15",
+    "name": "Piute Pass - JM15",
+    "lat": 37.22666667,
+    "lon": -118.62777778,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "george-creek-jm33",
+    "name": "George Creek - JM33",
+    "lat": 36.64972222,
+    "lon": -118.23555556,
+    "type": "trailhead",
+    "context": "Independence",
+    "startingAreas": []
+  },
+  {
+    "id": "lodgepole-giant-forest-exit-only-seki-np-seki02",
+    "name": "Lodgepole - Giant Forest (Exit Only) SEKI NP - SEKI02",
+    "lat": 36.45305556,
+    "lon": -118.59305556,
+    "type": "trailhead",
+    "context": "Three Rivers",
+    "startingAreas": []
+  },
+  {
+    "id": "big-pine-creek-north-fork-jm23",
+    "name": "Big Pine Creek North Fork - JM23",
+    "lat": 37.12691667,
+    "lon": -118.44386111,
+    "type": "trailhead",
+    "context": "Big Pine",
+    "startingAreas": []
+  },
+  {
+    "id": "yost-fern-lakes-aa-06-oh",
+    "name": "Yost / Fern Lakes - AA-06-OH",
+    "lat": 37.96694444,
+    "lon": -119.1275,
+    "type": "trailhead",
+    "context": "June Lake - Owens River Headwaters",
+    "startingAreas": []
+  },
+  {
+    "id": "duck-pass-jm01",
+    "name": "Duck Pass - JM01",
+    "lat": 37.5915,
+    "lon": -118.990625,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "hilton-lakes-jm06",
+    "name": "Hilton Lakes - JM06",
+    "lat": 37.45219444,
+    "lon": -118.74222222,
+    "type": "trailhead",
+    "context": "Toms Place",
+    "startingAreas": []
+  },
+  {
+    "id": "blackrock-non-quota-gt66",
+    "name": "Blackrock (Non Quota) - GT66",
+    "lat": 36.175,
+    "lon": -118.26916667,
+    "type": "trailhead",
+    "context": "Lone Pine - Golden Trout",
+    "startingAreas": []
+  },
+  {
+    "id": "bloody-canyon-aa03",
+    "name": "Bloody Canyon - AA03",
+    "lat": 37.87105556,
+    "lon": -119.16144444,
+    "type": "trailhead",
+    "context": "Lee Vining - Ansel Adams",
+    "startingAreas": []
+  },
+  {
+    "id": "parker-lake-aa04",
+    "name": "Parker Lake - AA04",
+    "lat": 37.85161111,
+    "lon": -119.13744444,
+    "type": "trailhead",
+    "context": "June Lake",
+    "startingAreas": []
+  },
+  {
+    "id": "tyee-lakes-jm19",
+    "name": "Tyee Lakes - JM19",
+    "lat": 37.19583333,
+    "lon": -118.56472222,
+    "type": "trailhead",
+    "context": "Bishop",
+    "startingAreas": []
+  },
+  {
+    "id": "birch-lake-jm25",
+    "name": "Birch Lake - JM25",
+    "lat": 37.08777778,
+    "lon": -118.35277778,
+    "type": "trailhead",
+    "context": "Big Pine",
+    "startingAreas": []
+  },
+  {
+    "id": "sonora-pass-pct-exit-only-ht-nf-ht01",
+    "name": "Sonora Pass - PCT (Exit Only) HT NF - HT01",
+    "lat": 38.32861111,
+    "lon": -119.63722222,
+    "type": "trailhead",
+    "context": "Bridgeport - Hoover/ Humboldt Toiyabe NF",
+    "startingAreas": []
+  },
+  {
+    "id": "kennedy-meadows-non-quota-ss65",
+    "name": "Kennedy Meadows (Non Quota) - SS65",
+    "lat": 36.05444444,
+    "lon": -118.13138889,
+    "type": "trailhead",
+    "context": "Pearsonville",
+    "startingAreas": []
+  },
+  {
+    "id": "trail-pass-non-quota-gt62",
+    "name": "Trail Pass (Non Quota) - GT62",
+    "lat": 36.44722222,
+    "lon": -118.17166667,
+    "type": "trailhead",
+    "context": "Lone Pine - Golden Trout",
+    "startingAreas": []
+  },
+  {
+    "id": "mammoth-exit-only-sierra-nf-aa56",
+    "name": "Mammoth (Exit Only) Sierra NF - AA56",
+    "lat": 36.555,
+    "lon": -118.74888889,
+    "type": "trailhead",
+    "context": "Three Rivers",
+    "startingAreas": []
+  },
+  {
+    "id": "valentine-lake-jm02",
+    "name": "Valentine Lake - JM02",
+    "lat": 37.62388889,
+    "lon": -118.94444444,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "laurel-lakes-jm03",
+    "name": "Laurel Lakes - JM03",
+    "lat": 37.58408333,
+    "lon": -118.90711111,
+    "type": "trailhead",
+    "context": "Mammoth Lakes - John Muir",
+    "startingAreas": []
+  },
+  {
+    "id": "cedar-grove-roads-end-exit-only-seki-np-seki01",
+    "name": "Cedar Grove - Roads End (Exit Only) SEKI NP - SEKI01",
+    "lat": 36.60444444,
+    "lon": -118.72555556,
+    "type": "trailhead",
+    "context": "Three Rivers",
+    "startingAreas": []
+  },
+  {
+    "id": "aa01-glacier-canyon",
+    "name": "AA01 – Glacier Canyon",
+    "lat": 37.91175,
+    "lon": -119.25744444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa04-parker-lake",
+    "name": "AA04 – Parker Lake",
+    "lat": 37.85161111,
+    "lon": -119.13744444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa05-rush-creek",
+    "name": "AA05 – Rush Creek",
+    "lat": 37.78305556,
+    "lon": -119.1275,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa06-oh-yost-fern-lakes",
+    "name": "AA06-OH – Yost / Fern Lakes",
+    "lat": 37.96694444,
+    "lon": -119.1275,
+    "type": "designated_campsite",
+    "context": "Owens River Headwaters",
+    "startingAreas": [
+      "Owens River Headwaters"
+    ]
+  },
+  {
+    "id": "aa08-river-trail",
+    "name": "AA08 – River Trail",
+    "lat": 37.68222222,
+    "lon": -119.08638889,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa11-minaret-lake",
+    "name": "AA11 – Minaret Lake",
+    "lat": 37.63027778,
+    "lon": -119.08472222,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa12-beck-lake",
+    "name": "AA12 – Beck Lake",
+    "lat": 37.63027778,
+    "lon": -119.08661111,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa13-fern-lake",
+    "name": "AA13 – Fern Lake",
+    "lat": 37.62944444,
+    "lon": -119.08771944,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa16-red-cones",
+    "name": "AA16 – Red Cones",
+    "lat": 37.61236111,
+    "lon": -119.02208333,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "gt60-cottonwood-pass",
+    "name": "GT60 – Cottonwood Pass",
+    "lat": 36.43583333,
+    "lon": -118.17075,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "hh01-lundy-canyon-non-quota",
+    "name": "HH01 – Lundy Canyon (Non Quota)",
+    "lat": 38.0215,
+    "lon": -119.265,
+    "type": "designated_campsite",
+    "context": "Hoover / Inyo",
+    "startingAreas": [
+      "Hoover / Inyo"
+    ]
+  },
+  {
+    "id": "jm30-golden-trout-lakes",
+    "name": "JM30 – Golden Trout Lakes",
+    "lat": 36.77505556,
+    "lon": -118.34325,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm00-deer-lakes",
+    "name": "JM00 – Deer Lakes",
+    "lat": 37.60166667,
+    "lon": -119.01583333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm01-duck-pass",
+    "name": "JM01 – Duck Pass",
+    "lat": 37.5915,
+    "lon": -118.990625,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm02-valentine-lake",
+    "name": "JM02 – Valentine Lake",
+    "lat": 37.62388889,
+    "lon": -118.94444444,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm03-laurel-lakes",
+    "name": "JM03 – Laurel Lakes",
+    "lat": 37.58408333,
+    "lon": -118.90711111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm04-convict-creek",
+    "name": "JM04 – Convict Creek",
+    "lat": 37.595,
+    "lon": -118.85269444,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm05-mcgee-pass",
+    "name": "JM05 – McGee Pass",
+    "lat": 37.5475,
+    "lon": -118.82092222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm06-hilton-lakes",
+    "name": "JM06 – Hilton Lakes",
+    "lat": 37.45219444,
+    "lon": -118.74222222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm07-tamarack-lakes",
+    "name": "JM07 – Tamarack Lakes",
+    "lat": 37.44944444,
+    "lon": -118.73511111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm09-little-lakes-valley",
+    "name": "JM09 – Little Lakes Valley",
+    "lat": 37.43463889,
+    "lon": -118.74763889,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm10-italy-pass",
+    "name": "JM10 – Italy Pass",
+    "lat": 37.36136111,
+    "lon": -118.69216667,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm12-gable-lakes",
+    "name": "JM12 – Gable Lakes",
+    "lat": 37.36119444,
+    "lon": -118.69065556,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm13-horton-lakes",
+    "name": "JM13 – Horton Lakes",
+    "lat": 37.313025,
+    "lon": -118.62608333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm15-piute-pass",
+    "name": "JM15 – Piute Pass",
+    "lat": 37.22666667,
+    "lon": -118.62777778,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm19-tyee-lakes",
+    "name": "JM19 – Tyee Lakes",
+    "lat": 37.19583333,
+    "lon": -118.56472222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm20-treasure-lakes",
+    "name": "JM20 – Treasure Lakes",
+    "lat": 37.15888889,
+    "lon": -118.56583333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm21-bishop-pass-south-lake",
+    "name": "JM21 – Bishop Pass -South Lake",
+    "lat": 37.16852778,
+    "lon": -118.56611111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm22-baker-and-green-lakes",
+    "name": "JM22 – Baker and Green Lakes",
+    "lat": 37.13416667,
+    "lon": -118.44658333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm24-big-pine-creek-south-fork",
+    "name": "JM24 – Big Pine Creek South Fork",
+    "lat": 37.12377778,
+    "lon": -118.443,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm25-birch-lake",
+    "name": "JM25 – Birch Lake",
+    "lat": 37.08777778,
+    "lon": -118.35277778,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm26-red-lake",
+    "name": "JM26 – Red Lake",
+    "lat": 37.03666667,
+    "lon": -118.36055556,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm29-baxter-pass",
+    "name": "JM29 – Baxter Pass",
+    "lat": 36.84475,
+    "lon": -118.29772222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm31-kearsarge-pass",
+    "name": "JM31 – Kearsarge Pass",
+    "lat": 36.77222222,
+    "lon": -118.34194444,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm32-shepherd-pass",
+    "name": "JM32 – Shepherd Pass",
+    "lat": 36.72722222,
+    "lon": -118.27861111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm33-george-creek",
+    "name": "JM33 – George Creek",
+    "lat": 36.64972222,
+    "lon": -118.23555556,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm37-meysan-lake",
+    "name": "JM37 – Meysan Lake",
+    "lat": 36.58777778,
+    "lon": -118.225,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "ss65-kennedy-meadows-non-quota",
+    "name": "SS65 – Kennedy Meadows (Non Quota)",
+    "lat": 36.05444444,
+    "lon": -118.13138889,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "gt66-blackrock-non-quota",
+    "name": "GT66 – Blackrock (Non Quota)",
+    "lat": 36.175,
+    "lon": -118.26916667,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "aa14-fish-creek",
+    "name": "AA14 – Fish Creek",
+    "lat": 37.61211111,
+    "lon": -119.07744444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "gt62-trail-pass-non-quota",
+    "name": "GT62 – Trail Pass (Non Quota)",
+    "lat": 36.44722222,
+    "lon": -118.17166667,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "aa15-john-muir-trail-south-of-devils-postpile",
+    "name": "AA15 – John Muir Trail South of Devils Postpile",
+    "lat": 37.61166667,
+    "lon": -119.07694444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "jm27-taboose-pass",
+    "name": "JM27 – Taboose Pass",
+    "lat": 37.00944444,
+    "lon": -118.32722222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm28-sawmill-pass",
+    "name": "JM28 – Sawmill Pass",
+    "lat": 36.93972222,
+    "lon": -118.29583333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "ss64-haiwee-pass-non-quota",
+    "name": "SS64 – Haiwee Pass (Non Quota)",
+    "lat": 36.13911111,
+    "lon": -118.01744444,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "jm11-pine-creek",
+    "name": "JM11 – Pine Creek",
+    "lat": 37.36166667,
+    "lon": -118.69166667,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm17-sabrina-lake",
+    "name": "JM17 – Sabrina Lake",
+    "lat": 37.21333333,
+    "lon": -118.60916667,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm18-george-lake",
+    "name": "JM18 – George Lake ",
+    "lat": 37.21111111,
+    "lon": -118.60933333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "aa09-high-trail",
+    "name": "AA09 – High Trail",
+    "lat": 37.68277778,
+    "lon": -119.08575,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa10-john-muir-trail-north-of-devils-postpile",
+    "name": "AA10 – John Muir Trail North of Devils Postpile",
+    "lat": 37.63111111,
+    "lon": -119.08555556,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "aa07-shadow-creek",
+    "name": "AA07 – Shadow Creek",
+    "lat": 37.68194444,
+    "lon": -119.08666667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "hh12-lakes-canyon-non-quota",
+    "name": "HH12 – Lakes Canyon (Non Quota)",
+    "lat": 38.0215,
+    "lon": -119.265,
+    "type": "designated_campsite",
+    "context": "Hoover / Inyo",
+    "startingAreas": [
+      "Hoover / Inyo"
+    ]
+  },
+  {
+    "id": "jm14-upper-buttermilk",
+    "name": "JM14 – Upper Buttermilk",
+    "lat": 37.27583333,
+    "lon": -118.61972222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm08-mono-pass",
+    "name": "JM08 – Mono Pass",
+    "lat": 37.43438889,
+    "lon": -118.74825,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm23-big-pine-creek-north-fork",
+    "name": "JM23 – Big Pine Creek North Fork",
+    "lat": 37.12691667,
+    "lon": -118.44386111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm16-lamarck-lakes",
+    "name": "JM16 – Lamarck Lakes",
+    "lat": 37.22647222,
+    "lon": -118.62733333,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "hh13-warren-fork-non-quota",
+    "name": "HH13 – Warren Fork (Non Quota)",
+    "lat": 37.9525,
+    "lon": -119.22611111,
+    "type": "designated_campsite",
+    "context": "Hoover / Inyo",
+    "startingAreas": [
+      "Hoover / Inyo"
+    ]
+  },
+  {
+    "id": "hh14-saddlebag-lake-non-quota",
+    "name": "HH14 – Saddlebag Lake (Non Quota)",
+    "lat": 37.96444444,
+    "lon": -119.27277778,
+    "type": "designated_campsite",
+    "context": "Hoover / Inyo",
+    "startingAreas": [
+      "Hoover / Inyo"
+    ]
+  },
+  {
+    "id": "aa02-gibbs-lake",
+    "name": "AA02 – Gibbs Lake",
+    "lat": 37.92055556,
+    "lon": -119.15222222,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "jm34-north-fork-of-lone-pine-creek",
+    "name": "JM34 – North Fork of Lone Pine Creek",
+    "lat": 36.58833333,
+    "lon": -118.23972222,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm35-mt-whitney-trail-crest-exit",
+    "name": "JM35 – Mt. Whitney (Trail Crest Exit)",
+    "lat": 36.58777778,
+    "lon": -118.23916667,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "aa03-bloody-canyon",
+    "name": "AA03 – Bloody Canyon",
+    "lat": 37.87105556,
+    "lon": -119.16144444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "ss63-olancha-pass-non-quota",
+    "name": "SS63 – Olancha Pass (Non Quota)",
+    "lat": 36.22591667,
+    "lon": -118.05944444,
+    "type": "designated_campsite",
+    "context": "Golden Trout",
+    "startingAreas": [
+      "Golden Trout"
+    ]
+  },
+  {
+    "id": "jm38-tuttle-creek",
+    "name": "JM38 – Tuttle Creek",
+    "lat": 36.55361111,
+    "lon": -118.18444444,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "jm39-cottonwood-lakes",
+    "name": "JM39 – Cottonwood Lakes",
+    "lat": 36.45305556,
+    "lon": -118.1695,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  }
+]

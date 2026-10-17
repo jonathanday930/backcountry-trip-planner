@@ -1,0 +1,522 @@
+[
+  {
+    "id": "capitol-creek-trailhead",
+    "name": "Capitol Creek Trailhead",
+    "lat": 39.23424,
+    "lon": -107.08018,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "conundrum-trailhead",
+    "name": "Conundrum Trailhead",
+    "lat": 39.1193,
+    "lon": -106.85601,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "copper-lake-trailhead",
+    "name": "Copper Lake Trailhead",
+    "lat": 38.96606,
+    "lon": -106.99366,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "geneva-lake-trailhead",
+    "name": "Geneva Lake Trailhead",
+    "lat": 39.07737,
+    "lon": -107.08629,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "maroon-scenic-area-trailheads-maroon-lake-and-west-maroon",
+    "name": "Maroon Scenic Area Trailheads (Maroon Lake and West Maroon)",
+    "lat": 39.09988,
+    "lon": -106.93775,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "maroon-snowmass-snowmass-creek-trailhead",
+    "name": "Maroon Snowmass (Snowmass Creek) Trailhead",
+    "lat": 39.20011,
+    "lon": -106.99406,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-fork-trailhead-schofield-park-crested-butte",
+    "name": "East Fork Trailhead (Schofield Park-Crested Butte)",
+    "lat": 39.02461,
+    "lon": -107.0508,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "avalanche-trailhead",
+    "name": "Avalanche Trailhead",
+    "lat": 39.23487,
+    "lon": -107.20179,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-maroon-trailhead",
+    "name": "East Maroon Trailhead",
+    "lat": 39.12483,
+    "lon": -106.90488,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-snowmass-trailhead",
+    "name": "East Snowmass Trailhead",
+    "lat": 39.2008,
+    "lon": -106.98992,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "conundrum-hot-springs-site-1",
+    "name": "Conundrum Hot Springs Site 1",
+    "lat": 39.011512,
+    "lon": -106.892008,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-2",
+    "name": "Conundrum Hot Springs Site 2",
+    "lat": 39.011203,
+    "lon": -106.892219,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-3",
+    "name": "Conundrum Hot Springs Site 3",
+    "lat": 39.011155,
+    "lon": -106.891271,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-4",
+    "name": "Conundrum Hot Springs Site 4",
+    "lat": 39.010509,
+    "lon": -106.891092,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-5",
+    "name": "Conundrum Hot Springs Site 5",
+    "lat": 39.010466,
+    "lon": -106.890987,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-6",
+    "name": "Conundrum Hot Springs Site 6",
+    "lat": 39.010503,
+    "lon": -106.890884,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-7",
+    "name": "Conundrum Hot Springs Site 7",
+    "lat": 39.011598,
+    "lon": -106.89007,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-8",
+    "name": "Conundrum Hot Springs Site 8",
+    "lat": 39.01187,
+    "lon": -106.889927,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-9",
+    "name": "Conundrum Hot Springs Site 9",
+    "lat": 39.010682,
+    "lon": -106.893753,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-10",
+    "name": "Conundrum Hot Springs Site 10",
+    "lat": 39.010978,
+    "lon": -106.894396,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-11",
+    "name": "Conundrum Hot Springs Site 11",
+    "lat": 39.010866,
+    "lon": -106.894659,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-12",
+    "name": "Conundrum Hot Springs Site 12",
+    "lat": 39.014009,
+    "lon": -106.890296,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-13",
+    "name": "Conundrum Hot Springs Site 13",
+    "lat": 39.014303,
+    "lon": -106.889946,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-14",
+    "name": "Conundrum Hot Springs Site 14",
+    "lat": 39.015428,
+    "lon": -106.889468,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-15",
+    "name": "Conundrum Hot Springs Site 15",
+    "lat": 39.015515,
+    "lon": -106.889632,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-16",
+    "name": "Conundrum Hot Springs Site 16",
+    "lat": 39.016611,
+    "lon": -106.889314,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-17",
+    "name": "Conundrum Hot Springs Site 17",
+    "lat": 39.018258,
+    "lon": -106.888319,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-18",
+    "name": "Conundrum Hot Springs Site 18",
+    "lat": 39.018471,
+    "lon": -106.888498,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-19",
+    "name": "Conundrum Hot Springs Site 19",
+    "lat": 39.018622,
+    "lon": -106.888097,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "conundrum-hot-springs-site-20",
+    "name": "Conundrum Hot Springs Site 20",
+    "lat": 39.019023,
+    "lon": -106.887819,
+    "type": "designated_campsite",
+    "context": "Conundrum Hot Springs Zone",
+    "startingAreas": [
+      "Conundrum Hot Springs Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-1",
+    "name": "Capitol Lake Site 1",
+    "lat": 39.165732,
+    "lon": -107.081609,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-2",
+    "name": "Capitol Lake Site 2",
+    "lat": 39.165479,
+    "lon": -107.08262,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-3",
+    "name": "Capitol Lake Site 3",
+    "lat": 39.166126,
+    "lon": -107.082246,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-4",
+    "name": "Capitol Lake Site 4",
+    "lat": 39.165889,
+    "lon": -107.082898,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-5",
+    "name": "Capitol Lake Site 5",
+    "lat": 39.16813,
+    "lon": -107.081541,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-6",
+    "name": "Capitol Lake Site 6",
+    "lat": 39.16715,
+    "lon": -107.080424,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-7",
+    "name": "Capitol Lake Site 7",
+    "lat": 39.167415,
+    "lon": -107.0802,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-8",
+    "name": "Capitol Lake Site 8",
+    "lat": 39.167343,
+    "lon": -107.080163,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "capitol-lake-site-9",
+    "name": "Capitol Lake Site 9",
+    "lat": 39.16813,
+    "lon": -107.081541,
+    "type": "designated_campsite",
+    "context": "Capitol Lake Zone",
+    "startingAreas": [
+      "Capitol Lake Zone"
+    ]
+  },
+  {
+    "id": "crater-lake-site-1",
+    "name": "Crater Lake Site 1",
+    "lat": 39.087974,
+    "lon": -106.966575,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-2",
+    "name": "Crater Lake Site 2",
+    "lat": 39.087946,
+    "lon": -106.966632,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-3",
+    "name": "Crater Lake Site 3",
+    "lat": 39.087643,
+    "lon": -106.969595,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-4",
+    "name": "Crater Lake Site 4",
+    "lat": 39.087273,
+    "lon": -106.969619,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-5",
+    "name": "Crater Lake Site 5",
+    "lat": 39.087453,
+    "lon": -106.966988,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-6",
+    "name": "Crater Lake Site 6",
+    "lat": 39.089504,
+    "lon": -106.973069,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-large-group-site-7",
+    "name": "Crater Lake Large Group Site 7",
+    "lat": 39.089504,
+    "lon": -106.973069,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-8",
+    "name": "Crater Lake Site 8",
+    "lat": 39.084669,
+    "lon": -106.971755,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-9",
+    "name": "Crater Lake Site 9",
+    "lat": 39.083795,
+    "lon": -106.971256,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-10",
+    "name": "Crater Lake Site 10",
+    "lat": 39.19539,
+    "lon": -106.830711,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  },
+  {
+    "id": "crater-lake-site-11",
+    "name": "Crater Lake Site 11",
+    "lat": 39.080427,
+    "lon": -106.971151,
+    "type": "designated_campsite",
+    "context": "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake",
+    "startingAreas": [
+      "Four Pass Loop/Snowmass Lake/Crater Lake/Geneva Lake"
+    ]
+  }
+]

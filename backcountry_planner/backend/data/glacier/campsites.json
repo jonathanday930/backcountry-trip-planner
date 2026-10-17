@@ -1,0 +1,780 @@
+[
+  {
+    "id": "fif-fifty-mountain-no-campfires",
+    "name": "FIF - Fifty Mountain (No Campfires)",
+    "lat": 48.8525,
+    "lon": -113.86149,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "fra-lake-frances-no-campfires",
+    "name": "FRA - Lake Frances (No Campfires)",
+    "lat": 48.9411704,
+    "lon": -114.0044067,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "goa-goat-haunt-shelters",
+    "name": "GOA - Goat Haunt Shelters",
+    "lat": 48.9593333,
+    "lon": -113.8880406,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "haw-hawksbill-no-campfires",
+    "name": "HAW - Hawksbill (No Campfires)",
+    "lat": 48.94566,
+    "lon": -114.01046,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "jan-lake-janet",
+    "name": "JAN - Lake Janet",
+    "lat": 48.9423421,
+    "lon": -113.9528416,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "koo-kootenai-lake-no-campfires",
+    "name": "KOO - Kootenai Lake (No Campfires)",
+    "lat": 48.92631,
+    "lon": -113.90203,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "wat-waterton-river-no-campfires",
+    "name": "WAT - Waterton River (No Campfires)",
+    "lat": 48.9563602,
+    "lon": -113.8979266,
+    "type": "designated_campsite",
+    "context": "Goat Haunt",
+    "startingAreas": [
+      "Goat Haunt"
+    ]
+  },
+  {
+    "id": "arr-arrow-lake-no-campfires",
+    "name": "ARR - Arrow Lake (No Campfires)",
+    "lat": 48.70309,
+    "lon": -113.88645,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "cam-camas-lake-no-campfires",
+    "name": "CAM - Camas Lake (No Campfires)",
+    "lat": 48.7380484,
+    "lon": -113.8839922,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "ell-lake-ellen-wilson-no-campfires",
+    "name": "ELL - Lake Ellen Wilson (No Campfires)",
+    "lat": 48.60516,
+    "lon": -113.75369,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "fla-flattop-no-campfires",
+    "name": "FLA - Flattop (No Campfires)",
+    "lat": 48.7863467,
+    "lon": -113.8424702,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "grn-granite-park-no-campfires",
+    "name": "GRN - Granite Park (No Campfires)",
+    "lat": 48.7716569,
+    "lon": -113.7779607,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "lin-lincoln-lake-no-campfires",
+    "name": "LIN - Lincoln Lake (No Campfires)",
+    "lat": 48.58926,
+    "lon": -113.7748,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "mcd-lake-mcdonald",
+    "name": "MCD - Lake McDonald",
+    "lat": 48.5950125,
+    "lon": -113.9269168,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "sny-snyder-lake-no-campfires",
+    "name": "SNY - Snyder Lake (No Campfires)",
+    "lat": 48.625832,
+    "lon": -113.8044796,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "spe-sperry-no-campfires",
+    "name": "SPE - Sperry (No Campfires)",
+    "lat": 48.60361,
+    "lon": -113.78605,
+    "type": "designated_campsite",
+    "context": "Lake McDonald",
+    "startingAreas": [
+      "Lake McDonald"
+    ]
+  },
+  {
+    "id": "cos-cosley-lake-no-campfires",
+    "name": "COS - Cosley Lake (No Campfires)",
+    "lat": 48.92525,
+    "lon": -113.75686,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "elf-elizabeth-lake-foot-no-campfires",
+    "name": "ELF - Elizabeth Lake Foot (No Campfires)",
+    "lat": 48.89184,
+    "lon": -113.72533,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "elh-elizabeth-lake-head-no-campfires",
+    "name": "ELH - Elizabeth Lake Head (No Campfires)",
+    "lat": 48.87233,
+    "lon": -113.72714,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "gab-gable-creek-no-campfires",
+    "name": "GAB - Gable Creek (No Campfires)",
+    "lat": 48.93475,
+    "lon": -113.71306,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "hel-helen-lake-no-campfires",
+    "name": "HEL - Helen Lake (No Campfires)",
+    "lat": 48.8408765,
+    "lon": -113.7453624,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "mol-mokowanis-lake-no-campfires",
+    "name": "MOL - Mokowanis Lake (No Campfires)",
+    "lat": 48.8774167,
+    "lon": -113.8125251,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "poi-poia-lake-no-campfires",
+    "name": "POI - Poia Lake (No Campfires)",
+    "lat": 48.85001,
+    "lon": -113.60641,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "sli-slide-lake-no-campfires",
+    "name": "SLI - Slide Lake (No Campfires)",
+    "lat": 48.90522,
+    "lon": -113.61847,
+    "type": "designated_campsite",
+    "context": "Many Glacier Zone",
+    "startingAreas": [
+      "Many Glacier Zone"
+    ]
+  },
+  {
+    "id": "ada-adair",
+    "name": "ADA - Adair",
+    "lat": 48.76755,
+    "lon": -114.0516,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "ako-akokala-lake-no-campfires",
+    "name": "AKO - Akokala Lake (No Campfires)",
+    "lat": 48.87511,
+    "lon": -114.20055,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "bou-boulder-pass-no-campfires",
+    "name": "BOU - Boulder Pass (No Campfires)",
+    "lat": 48.9645198,
+    "lon": -114.1037696,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "bow-bowman-lake",
+    "name": "BOW - Bowman Lake",
+    "lat": 48.8291567,
+    "lon": -114.2032819,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "bro-brown-pass-no-campfires",
+    "name": "BRO - Brown Pass (No Campfires)",
+    "lat": 48.9526475,
+    "lon": -114.0393603,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "gra-grace-lake-no-campfires",
+    "name": "GRA - Grace Lake (No Campfires)",
+    "lat": 48.78721,
+    "lon": -114.00279,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "kin-kintla-lake",
+    "name": "KIN - Kintla Lake",
+    "lat": 48.9357377,
+    "lon": -114.3461239,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lof-logging-lake",
+    "name": "LOF - Logging Lake",
+    "lat": 48.74221,
+    "lon": -114.12847,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lqu-lower-quartz-lake-no-campfires",
+    "name": "LQU - Lower Quartz Lake (No Campfires)",
+    "lat": 48.79814,
+    "lon": -114.17297,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "qua-quartz-lake-no-campfires",
+    "name": "QUA - Quartz Lake (No Campfires)",
+    "lat": 48.82372,
+    "lon": -114.13665,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "rou-round-prairie-no-campfires",
+    "name": "ROU - Round Prairie (No Campfires)",
+    "lat": 48.85773,
+    "lon": -114.36639,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "upk-upper-kintla-lake-no-campfires",
+    "name": "UPK - Upper Kintla Lake (No Campfires)",
+    "lat": 48.98048,
+    "lon": -114.15483,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "atl-atlantic-creek-no-campfires",
+    "name": "ATL - Atlantic Creek (No Campfires)",
+    "lat": 48.57545,
+    "lon": -113.45363,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "gun-gunsight-lake-no-campfires",
+    "name": "GUN - Gunsight Lake (No Campfires)",
+    "lat": 48.62711,
+    "lon": -113.70864,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "mor-morning-star-lake-no-campfires",
+    "name": "MOR - Morning Star Lake (No Campfires)",
+    "lat": 48.54097,
+    "lon": -113.45642,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "oto-otokomi-lake-no-campfires",
+    "name": "OTO - Otokomi Lake (No Campfires)",
+    "lat": 48.7194859,
+    "lon": -113.5935926,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "ref-red-eagle-lake-foot",
+    "name": "REF - Red Eagle Lake Foot",
+    "lat": 48.65602,
+    "lon": -113.50192,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "reh-red-eagle-lake-head",
+    "name": "REH - Red Eagle Lake Head",
+    "lat": 48.64591,
+    "lon": -113.5102,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "rey-reynolds-creek",
+    "name": "REY - Reynolds Creek",
+    "lat": 48.66685,
+    "lon": -113.63521,
+    "type": "designated_campsite",
+    "context": "St. Mary",
+    "startingAreas": [
+      "St. Mary"
+    ]
+  },
+  {
+    "id": "cob-cobalt-lake-no-campfires",
+    "name": "COB - Cobalt Lake (No Campfires)",
+    "lat": 48.43561,
+    "lon": -113.42498,
+    "type": "designated_campsite",
+    "context": "Two Medicine",
+    "startingAreas": [
+      "Two Medicine"
+    ]
+  },
+  {
+    "id": "non-no-name-lake-no-campfires",
+    "name": "NON - No Name Lake (No Campfires)",
+    "lat": 48.47986,
+    "lon": -113.4492,
+    "type": "designated_campsite",
+    "context": "Two Medicine",
+    "startingAreas": [
+      "Two Medicine"
+    ]
+  },
+  {
+    "id": "old-oldman-lake-no-campfires",
+    "name": "OLD - Oldman Lake (No Campfires)",
+    "lat": 48.51282,
+    "lon": -113.45552,
+    "type": "designated_campsite",
+    "context": "Two Medicine",
+    "startingAreas": [
+      "Two Medicine"
+    ]
+  },
+  {
+    "id": "tmc-two-medicine-no-campfires-in-2026",
+    "name": "TMC - Two Medicine (No Campfires in 2026)",
+    "lat": 48.4863116,
+    "lon": -113.3674028,
+    "type": "designated_campsite",
+    "context": "Two Medicine",
+    "startingAreas": [
+      "Two Medicine"
+    ]
+  },
+  {
+    "id": "upt-upper-two-medicine-lake-no-campfires",
+    "name": "UPT - Upper Two Medicine Lake (No Campfires)",
+    "lat": 48.46787,
+    "lon": -113.4466,
+    "type": "designated_campsite",
+    "context": "Two Medicine",
+    "startingAreas": [
+      "Two Medicine"
+    ]
+  },
+  {
+    "id": "bea-beaver-woman-lake",
+    "name": "BEA - Beaver Woman Lake",
+    "lat": 48.48336,
+    "lon": -113.57497,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "coa-coal-creek",
+    "name": "COA - Coal Creek",
+    "lat": 48.41253,
+    "lon": -113.61282,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "har-harrison-lake",
+    "name": "HAR - Harrison Lake",
+    "lat": 48.52368,
+    "lon": -113.76521,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "isa-lake-isabel",
+    "name": "ISA - Lake Isabel",
+    "lat": 48.42462,
+    "lon": -113.492,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "lny-lower-nyack",
+    "name": "LNY - Lower Nyack",
+    "lat": 48.4819979,
+    "lon": -113.7191855,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "olc-ole-creek",
+    "name": "OLC - Ole Creek",
+    "lat": 48.30635,
+    "lon": -113.48324,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "oll-ole-lake",
+    "name": "OLL - Ole Lake",
+    "lat": 48.38222,
+    "lon": -113.38441,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "par-park-creek",
+    "name": "PAR - Park Creek",
+    "lat": 48.33398,
+    "lon": -113.54711,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "upp-upper-park-creek",
+    "name": "UPP - Upper Park Creek",
+    "lat": 48.41511,
+    "lon": -113.45996,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "upn-upper-nyack",
+    "name": "UPN - Upper Nyack",
+    "lat": 48.5496,
+    "lon": -113.58584,
+    "type": "designated_campsite",
+    "context": "Walton",
+    "startingAreas": [
+      "Walton"
+    ]
+  },
+  {
+    "id": "ace-akokala-creek",
+    "name": "ACE - Akokala Creek",
+    "lat": 48.8367787,
+    "lon": -114.3365959,
+    "type": "trailhead"
+  },
+  {
+    "id": "afe-apikuni-falls",
+    "name": "AFE - Apikuni Falls",
+    "lat": 48.8054453,
+    "lon": -113.6345976,
+    "type": "trailhead"
+  },
+  {
+    "id": "bce-baring-creek-sunrift-gorge",
+    "name": "BCE - Baring Creek (Sunrift Gorge)",
+    "lat": 48.6785487,
+    "lon": -113.5954952,
+    "type": "trailhead"
+  },
+  {
+    "id": "ble-bowman-lake-foot",
+    "name": "BLE - Bowman Lake Foot",
+    "lat": 48.8301136,
+    "lon": -114.2017369,
+    "type": "trailhead"
+  },
+  {
+    "id": "bre-belly-river-trail",
+    "name": "BRE - Belly River Trail",
+    "lat": 48.9959071,
+    "lon": -113.6596809,
+    "type": "trailhead"
+  },
+  {
+    "id": "cbe-cut-bank-creek",
+    "name": "CBE - Cut Bank Creek",
+    "lat": 48.6024653,
+    "lon": -113.3836756,
+    "type": "trailhead"
+  },
+  {
+    "id": "cce-camas-creek",
+    "name": "CCE - Camas Creek",
+    "lat": 48.6243035,
+    "lon": -114.0278418,
+    "type": "trailhead"
+  },
+  {
+    "id": "coe-coal-creek",
+    "name": "COE - Coal Creek",
+    "lat": 48.2843967,
+    "lon": -113.4522885,
+    "type": "trailhead"
+  },
+  {
+    "id": "hbe-headquarters-boundary-trail",
+    "name": "HBE - Headquarters Boundary Trail",
+    "lat": 48.5001805,
+    "lon": -113.9697736,
+    "type": "trailhead"
+  },
+  {
+    "id": "ipe-iceberg-ptarmigan-trail",
+    "name": "IPE - Iceberg/Ptarmigan Trail",
+    "lat": 48.7967109,
+    "lon": -113.6568733,
+    "type": "trailhead"
+  },
+  {
+    "id": "kle-kintla-lake",
+    "name": "KLE - Kintla Lake",
+    "lat": 48.9770871,
+    "lon": -114.2472703,
+    "type": "trailhead"
+  },
+  {
+    "id": "lle-lincoln-lake",
+    "name": "LLE - Lincoln Lake",
+    "lat": 48.5994493,
+    "lon": -113.8878726,
+    "type": "trailhead"
+  },
+  {
+    "id": "lre-lee-ridge-trail",
+    "name": "LRE - Lee Ridge Trail",
+    "lat": 48.9897409,
+    "lon": -113.6520063,
+    "type": "trailhead"
+  },
+  {
+    "id": "lte-loop-trail",
+    "name": "LTE - Loop Trail",
+    "lat": 48.8290414,
+    "lon": -114.2002277,
+    "type": "trailhead"
+  },
+  {
+    "id": "ree-red-eagle-trail",
+    "name": "REE - Red Eagle Trail",
+    "lat": 48.7383773,
+    "lon": -113.4377109,
+    "type": "trailhead"
+  },
+  {
+    "id": "sbe-siyeh-bend",
+    "name": "SBE - Siyeh Bend",
+    "lat": 48.7015153,
+    "lon": -113.6674682,
+    "type": "trailhead"
+  },
+  {
+    "id": "sce-swiftcurrent-trail",
+    "name": "SCE - Swiftcurrent Trail",
+    "lat": 48.7967109,
+    "lon": -113.6568733,
+    "type": "trailhead"
+  },
+  {
+    "id": "ste-sperry-trail",
+    "name": "STE - Sperry Trail",
+    "lat": 48.6169611,
+    "lon": -113.8755885,
+    "type": "trailhead"
+  },
+  {
+    "id": "tne-two-medicine-north-shore-trail",
+    "name": "TNE - Two Medicine North Shore Trail",
+    "lat": 48.4921502,
+    "lon": -113.3654919,
+    "type": "trailhead"
+  },
+  {
+    "id": "tse-two-medicine-south-shore-trail",
+    "name": "TSE - Two Medicine South Shore Trail",
+    "lat": 48.4832962,
+    "lon": -113.3694904,
+    "type": "trailhead"
+  }
+]

@@ -379,6 +379,16 @@ const ZONE_MAP_OVERLAYS: Record<string, ZoneMapOverlayConfig> = {
     topRight: [49.02576, -113.20823],
     bottomLeft: [48.19928, -114.53959],
   },
+  /* Official NPS Yosemite Wilderness Trailheads map (wildernesstrailheads.pdf). This is a
+   * geographic park map with trailhead-specific dispersed-camping arrows, not a GIS zone
+   * polygon layer; keep it as a visual permit-planning reference and do not treat its arrows
+   * as exact campsite boundaries. Corners are aligned to the map's surrounding Yosemite extent. */
+  yosemite: {
+    url: '/zone-overlays/yosemite-trailheads.jpg',
+    topLeft: [38.17699, -120.16089],
+    topRight: [38.17699, -118.82269],
+    bottomLeft: [37.32052, -120.16089],
+  },
 }
 
 /** Our own generated zone polygons are still being tuned; keep them fetched (harmless) but

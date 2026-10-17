@@ -1,0 +1,122 @@
+[
+  {
+    "id": "brokeoff-mountain",
+    "name": "Brokeoff Mountain",
+    "lat": 40.429384,
+    "lon": -121.535394,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "kohm-yah-mah-nee-visitor-center",
+    "name": "Kohm Yah-mah-nee Visitor Center",
+    "lat": 40.436823,
+    "lon": -121.533377,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "sulphur-works",
+    "name": "Sulphur Works",
+    "lat": 40.448953,
+    "lon": -121.535921,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "lassen-peak",
+    "name": "Lassen Peak",
+    "lat": 40.474645,
+    "lon": -121.505613,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "terrace-lake",
+    "name": "Terrace Lake",
+    "lat": 40.476305,
+    "lon": -121.479511,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "kings-creek-picnic-area",
+    "name": "Kings Creek Picnic Area",
+    "lat": 40.460168,
+    "lon": -121.474695,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "summit-lake",
+    "name": "Summit Lake",
+    "lat": 40.498106,
+    "lon": -121.427313,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "hat-creek",
+    "name": "Hat Creek",
+    "lat": 40.509721,
+    "lon": -121.464938,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "manzanita-lake",
+    "name": "Manzanita Lake",
+    "lat": 40.535127,
+    "lon": -121.567925,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "butte-lake",
+    "name": "Butte Lake",
+    "lat": 40.56857,
+    "lon": -121.296052,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "juniper-lake",
+    "name": "Juniper Lake",
+    "lat": 40.466692,
+    "lon": -121.307448,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  },
+  {
+    "id": "warner-valley",
+    "name": "Warner Valley",
+    "lat": 40.441858,
+    "lon": -121.403524,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lassen Volcanic Wilderness"
+    ]
+  }
+]

@@ -1,0 +1,3613 @@
+[
+  {
+    "id": "wagonwheel-lake-no-campfires",
+    "name": "Wagonwheel Lake (No Campfires)",
+    "lat": 47.5332226394494,
+    "lon": -123.300106585863,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "spike-camp",
+    "name": "Spike Camp",
+    "lat": 47.5462846576323,
+    "lon": -123.375915370789,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "flapjack-lakes-gladys-divide-no-campfires",
+    "name": "Flapjack Lakes/Gladys Divide (No Campfires)",
+    "lat": 47.334294,
+    "lon": -123.203209,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "flapjack-lakes-group-site-no-campfires",
+    "name": "Flapjack Lakes Group Site (No Campfires)",
+    "lat": 47.5619338954365,
+    "lon": -123.34226428432,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "big-log",
+    "name": "Big Log",
+    "lat": 47.5676188994757,
+    "lon": -123.377601149063,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "belview-no-campfires-not-accessible-via-staircase",
+    "name": "Belview (No Campfires, Not Accessible via Staircase)",
+    "lat": 47.554857784844,
+    "lon": -123.454358361917,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "camp-pleasant",
+    "name": "Camp Pleasant",
+    "lat": 47.58019658023,
+    "lon": -123.366535193154,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "camp-pleasant-stock-camp",
+    "name": "Camp Pleasant Stock Camp",
+    "lat": 47.58019658023,
+    "lon": -123.366535193154,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "nine-stream",
+    "name": "Nine Stream",
+    "lat": 47.6142184817653,
+    "lon": -123.341400219177,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "nine-stream-stock-camp",
+    "name": "Nine Stream Stock Camp",
+    "lat": 47.6142184817653,
+    "lon": -123.341400219177,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "two-bear-no-campfires",
+    "name": "Two Bear (No Campfires)",
+    "lat": 47.6260537928844,
+    "lon": -123.32160872449,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "upper-lena-lake-no-campfires",
+    "name": "Upper Lena Lake (No Campfires)",
+    "lat": 47.634109121366,
+    "lon": -123.209464538608,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "upper-lena-lake-group-site-no-campfires",
+    "name": "Upper Lena Lake Group Site (No Campfires)",
+    "lat": 47.634109121366,
+    "lon": -123.209464538608,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "ten-mile",
+    "name": "Ten-Mile",
+    "lat": 47.403513,
+    "lon": -123.1206,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "ten-mile-stock-camp",
+    "name": "Ten-Mile Stock Camp",
+    "lat": 47.403513,
+    "lon": -123.1206,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "upper-duckabush-not-accessible-from-staircase",
+    "name": "Upper Duckabush (Not Accessible from Staircase)",
+    "lat": 47.6549232642326,
+    "lon": -123.319950688034,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "upper-duckabush-stock-camp-not-accessible-from-staircase",
+    "name": "Upper Duckabush Stock Camp (Not Accessible from Staircase)",
+    "lat": 47.6549232642326,
+    "lon": -123.319950688034,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "home-sweet-home-no-campfires-not-accessible-via-staircase",
+    "name": "Home Sweet Home (No Campfires, Not Accessible via Staircase)",
+    "lat": 47.6384675528701,
+    "lon": -123.306329707611,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "marmot-lake-no-campfires",
+    "name": "Marmot Lake (No Campfires)",
+    "lat": 47.6489490915368,
+    "lon": -123.363634218526,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "marmot-lake-group-site-no-campfires",
+    "name": "Marmot Lake Group Site (No Campfires)",
+    "lat": 47.6489490915368,
+    "lon": -123.363634218526,
+    "type": "designated_campsite",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "lake-constance-avalanche-canyon",
+    "name": "Lake Constance/Avalanche Canyon",
+    "lat": 47.44579,
+    "lon": -123.82727,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "lake-constance-group-site",
+    "name": "Lake Constance Group Site",
+    "lat": 47.7494224835679,
+    "lon": -123.140925276635,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "dose-forks",
+    "name": "Dose Forks",
+    "lat": 47.7426134187776,
+    "lon": -123.193866828851,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "big-timber",
+    "name": "Big Timber",
+    "lat": 47.7331686454201,
+    "lon": -123.235687909945,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "big-timber-stock-camp",
+    "name": "Big Timber Stock Camp",
+    "lat": 47.7331686454201,
+    "lon": -123.235687909945,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "diamond-meadows",
+    "name": "Diamond Meadows",
+    "lat": 47.7206316259116,
+    "lon": -123.277424130236,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "diamond-meadows-stock-camp",
+    "name": "Diamond Meadows Stock Camp",
+    "lat": 47.7206316259116,
+    "lon": -123.277424130236,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "honeymoon-meadows-no-campfires",
+    "name": "Honeymoon Meadows (No Campfires)",
+    "lat": 47.7079235689082,
+    "lon": -123.310362789652,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "camp-siberia-no-campfires",
+    "name": "Camp Siberia (No Campfires)",
+    "lat": 47.415434,
+    "lon": -123.191908,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "sunnybrook-meadows-no-campfires",
+    "name": "Sunnybrook Meadows (No Campfires)",
+    "lat": 47.7701389971038,
+    "lon": -123.192683670204,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "home-lake-no-campfires",
+    "name": "Home Lake (No Campfires)",
+    "lat": 47.7711242382437,
+    "lon": -123.163698664766,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "deception-creek",
+    "name": "Deception Creek",
+    "lat": 47.7973967293626,
+    "lon": -123.265038247642,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "deception-creek-stock-camp",
+    "name": "Deception Creek Stock Camp",
+    "lat": 47.7973967293626,
+    "lon": -123.265038247642,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "bear-camp-no-campfires",
+    "name": "Bear Camp (No Campfires)",
+    "lat": 47.8091545580583,
+    "lon": -123.313961853169,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "bear-camp-stock-camp",
+    "name": "Bear Camp Stock Camp",
+    "lat": 47.8091545580583,
+    "lon": -123.313961853169,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "dose-meadows-no-campfires",
+    "name": "Dose Meadows (No Campfires)",
+    "lat": 47.7971042654731,
+    "lon": -123.344671714458,
+    "type": "designated_campsite",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "royal-creek",
+    "name": "Royal Creek",
+    "lat": 47.8630079993833,
+    "lon": -123.197788634169,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "lower-royal-meadow-no-campfires",
+    "name": "Lower Royal Meadow (No Campfires)",
+    "lat": 47.8399,
+    "lon": -123.2121,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "royal-lake-no-campfires",
+    "name": "Royal Lake (No Campfires)",
+    "lat": 47.8313417698317,
+    "lon": -123.212114022138,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "royal-lake-group-site-no-campfires",
+    "name": "Royal Lake Group Site (No Campfires)",
+    "lat": 47.8313417698317,
+    "lon": -123.212114022138,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "three-forks",
+    "name": "Three Forks",
+    "lat": 47.9156165086526,
+    "lon": -123.247736756722,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "gray-wolf",
+    "name": "Gray Wolf",
+    "lat": 47.9077,
+    "lon": -123.2414,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "camp-ellis",
+    "name": "Camp Ellis",
+    "lat": 47.8820452025417,
+    "lon": -123.248742383115,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "falls-camp",
+    "name": "Falls Camp",
+    "lat": 47.8560633028741,
+    "lon": -123.278935353758,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "lower-cameron",
+    "name": "Lower Cameron",
+    "lat": 47.8764525600189,
+    "lon": -123.316660537711,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "upper-cameron-no-campfires",
+    "name": "Upper Cameron (No Campfires)",
+    "lat": 47.837876737967,
+    "lon": -123.356815965296,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "roaring-winds-no-campfires",
+    "name": "Roaring Winds (No Campfires)",
+    "lat": 47.9277504295056,
+    "lon": -123.327319922141,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "grand-lake-no-campfires",
+    "name": "Grand Lake (No Campfires)",
+    "lat": 47.8893338330491,
+    "lon": -123.34576855313,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "moose-lake-no-campfires",
+    "name": "Moose Lake (No Campfires)",
+    "lat": 47.8835809310702,
+    "lon": -123.351391904522,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "moose-lake-group-site-no-campfires",
+    "name": "Moose Lake Group Site (No Campfires)",
+    "lat": 47.8835809310702,
+    "lon": -123.351391904522,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "gladys-lake-no-campfires",
+    "name": "Gladys Lake (No Campfires)",
+    "lat": 48.878,
+    "lon": -123.3579,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "lake-angeles-no-campfires",
+    "name": "Lake Angeles (No Campfires)",
+    "lat": 48.0088372623709,
+    "lon": -123.432930589433,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "heather-park-no-campfires",
+    "name": "Heather Park (No Campfires)",
+    "lat": 48.0093105112265,
+    "lon": -123.461587217592,
+    "type": "designated_campsite",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "humes-ranch",
+    "name": "Humes Ranch",
+    "lat": 47.9485853272529,
+    "lon": -123.546284582605,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "lillian-river",
+    "name": "Lillian River",
+    "lat": 47.9385,
+    "lon": -123.5148,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "mary-s-falls",
+    "name": "Mary's Falls",
+    "lat": 47.9023126138921,
+    "lon": -123.490328071237,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "canyon-camp",
+    "name": "Canyon Camp",
+    "lat": 47.8862375987326,
+    "lon": -123.479960601086,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "elkhorn",
+    "name": "Elkhorn",
+    "lat": 47.8719603445944,
+    "lon": -123.469775880844,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "hayes-river",
+    "name": "Hayes River",
+    "lat": 47.8093790231828,
+    "lon": -123.453981013283,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "camp-wilder",
+    "name": "Camp Wilder",
+    "lat": 47.7667332481673,
+    "lon": -123.460105357251,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "chicago-camp",
+    "name": "Chicago Camp",
+    "lat": 47.7358870054095,
+    "lon": -123.529537860736,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "dodger-point-no-campfires",
+    "name": "Dodger Point (No Campfires)",
+    "lat": 47.8734058250541,
+    "lon": -123.509535169503,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "happy-lake-no-campfires",
+    "name": "Happy Lake (No Campfires)",
+    "lat": 48.0087987133259,
+    "lon": -123.686451319147,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "boulder-lake-no-campfires",
+    "name": "Boulder Lake (No Campfires)",
+    "lat": 47.9775866432605,
+    "lon": -123.749167927988,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "appleton-pass-no-campfires",
+    "name": "Appleton Pass (No Campfires)",
+    "lat": 47.9386433975493,
+    "lon": -123.71934865651,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "boulder-creek-no-campfires",
+    "name": "Boulder Creek (No Campfires)",
+    "lat": 47.9780766888253,
+    "lon": -123.688808961958,
+    "type": "designated_campsite",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "mink-lake",
+    "name": "Mink Lake",
+    "lat": 47.9471689065433,
+    "lon": -123.868910211316,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-falls",
+    "name": "Sol Duc Falls",
+    "lat": 47.572837,
+    "lon": -123.491058,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "canyon-creek-1",
+    "name": "Canyon Creek #1",
+    "lat": 47.562512,
+    "lon": -123.491594,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "canyon-creek-2",
+    "name": "Canyon Creek #2",
+    "lat": 47.56252,
+    "lon": -123.491487,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "canyon-creek-3",
+    "name": "Canyon Creek #3",
+    "lat": 47.561227,
+    "lon": -123.491597,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "deer-lake-no-campfires",
+    "name": "Deer Lake (No Campfires)",
+    "lat": 47.9265225190066,
+    "lon": -123.822116791273,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "deer-lake-group-site-no-campfires",
+    "name": "Deer Lake Group Site (No Campfires)",
+    "lat": 47.9265225190066,
+    "lon": -123.822116791273,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "lunch-lake-no-campfires",
+    "name": "Lunch Lake (No Campfires)",
+    "lat": 47.9166975598455,
+    "lon": -123.784136445319,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "heart-lake-no-campfires",
+    "name": "Heart Lake (No Campfires)",
+    "lat": 47.9108533740182,
+    "lon": -123.733120657316,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-park-no-campfires",
+    "name": "Sol Duc Park (No Campfires)",
+    "lat": 47.9194916347572,
+    "lon": -123.728760415454,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-park-group-site-no-campfires",
+    "name": "Sol Duc Park Group Site (No Campfires)",
+    "lat": 47.9194916347572,
+    "lon": -123.728760415454,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "lower-bridge-creek-no-campfires",
+    "name": "Lower Bridge Creek (No Campfires)",
+    "lat": 47.551751,
+    "lon": -123.434843,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-crossing",
+    "name": "Sol Duc Crossing",
+    "lat": 47.552598,
+    "lon": -123.435874,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "rocky-creek",
+    "name": "Rocky Creek",
+    "lat": 47.555483,
+    "lon": -123.445355,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "seven-mile-group-site",
+    "name": "Seven Mile Group Site",
+    "lat": 47.555032,
+    "lon": -123.443554,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "horse-head-stock-camp",
+    "name": "Horse Head Stock Camp",
+    "lat": 47.9302201666374,
+    "lon": -123.738749425226,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "appleton-junction",
+    "name": "Appleton Junction",
+    "lat": 47.9322069529229,
+    "lon": -123.751871296306,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-river-1",
+    "name": "Sol Duc River #1",
+    "lat": 47.564573,
+    "lon": -123.473263,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-river-2",
+    "name": "Sol Duc River #2",
+    "lat": 47.562344,
+    "lon": -123.464857,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-river-3",
+    "name": "Sol Duc River #3",
+    "lat": 47.5605,
+    "lon": -123.4608,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-river-4",
+    "name": "Sol Duc River #4",
+    "lat": 47.5606,
+    "lon": -123.454206,
+    "type": "designated_campsite",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "bogachiel",
+    "name": "Bogachiel",
+    "lat": 47.8830483153312,
+    "lon": -124.167767625367,
+    "type": "designated_campsite",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "flapjack",
+    "name": "Flapjack",
+    "lat": 47.8841211262843,
+    "lon": -124.089711270734,
+    "type": "designated_campsite",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "flapjack-stock-camp",
+    "name": "Flapjack Stock Camp",
+    "lat": 47.8841211262843,
+    "lon": -124.089711270734,
+    "type": "designated_campsite",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "hyak",
+    "name": "Hyak",
+    "lat": 47.9240172247438,
+    "lon": -123.971802912868,
+    "type": "designated_campsite",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "mt-tom-creek",
+    "name": "Mt. Tom Creek",
+    "lat": 47.521173,
+    "lon": -123.525219,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "mt-tom-creek-group-site",
+    "name": "Mt. Tom Creek Group Site",
+    "lat": 47.521173,
+    "lon": -123.525219,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "five-mile-island",
+    "name": "Five Mile Island",
+    "lat": 47.8668753885913,
+    "lon": -123.841174586313,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "five-mile-island-group-site",
+    "name": "Five Mile Island Group Site",
+    "lat": 47.8668753885913,
+    "lon": -123.841174586313,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "five-mile-island-stock-site",
+    "name": "Five Mile Island Stock Site",
+    "lat": 47.8668753885913,
+    "lon": -123.841174586313,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "happy-four",
+    "name": "Happy Four",
+    "lat": 47.8676102907573,
+    "lon": -123.82920343462,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "olympus-guard-station",
+    "name": "Olympus Guard Station",
+    "lat": 47.8777635057153,
+    "lon": -123.765793684179,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "ogs-group-sites",
+    "name": "OGS Group Sites",
+    "lat": 47.523992,
+    "lon": -123.45568,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "lewis-meadow",
+    "name": "Lewis Meadow",
+    "lat": 47.8789161069664,
+    "lon": -123.738176482265,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "lewis-meadow-group-site",
+    "name": "Lewis Meadow Group Site",
+    "lat": 47.8789161069664,
+    "lon": -123.738176482265,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "lewis-meadow-stock-site",
+    "name": "Lewis Meadow Stock Site",
+    "lat": 47.8789161069664,
+    "lon": -123.738176482265,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "martin-creek-stock-site",
+    "name": "Martin Creek Stock Site",
+    "lat": 47.8595791360362,
+    "lon": -123.690688390116,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "martin-creek",
+    "name": "Martin Creek",
+    "lat": 47.8595791360362,
+    "lon": -123.690688390116,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "elk-lake-no-campfires",
+    "name": "Elk Lake (No Campfires)",
+    "lat": 47.8574527552864,
+    "lon": -123.692675933887,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "elk-lake-group-site-no-campfires",
+    "name": "Elk Lake Group Site (No Campfires)",
+    "lat": 47.8574527552864,
+    "lon": -123.692675933887,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "glacier-meadows-no-campfires",
+    "name": "Glacier Meadows (No Campfires)",
+    "lat": 47.8322760491945,
+    "lon": -123.691467239578,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "glacier-meadows-group-site-no-campfires",
+    "name": "Glacier Meadows Group Site (No Campfires)",
+    "lat": 47.8322760491945,
+    "lon": -123.691467239578,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "c-b-flats-group-site-no-campfires",
+    "name": "C.B. Flats Group Site (No Campfires)",
+    "lat": 47.8947408712356,
+    "lon": -123.78982271826,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "hoh-lake-no-campfires",
+    "name": "Hoh Lake (No Campfires)",
+    "lat": 47.8975362656586,
+    "lon": -123.788922412909,
+    "type": "designated_campsite",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "spruce-bottom",
+    "name": "Spruce Bottom",
+    "lat": 47.6528788554657,
+    "lon": -123.941863389232,
+    "type": "designated_campsite",
+    "context": "Queets",
+    "startingAreas": [
+      "Queets"
+    ]
+  },
+  {
+    "id": "bob-creek",
+    "name": "Bob Creek",
+    "lat": 47.6910972160424,
+    "lon": -123.851023763292,
+    "type": "designated_campsite",
+    "context": "Queets",
+    "startingAreas": [
+      "Queets"
+    ]
+  },
+  {
+    "id": "pelton-creek",
+    "name": "Pelton Creek",
+    "lat": 47.7006719731467,
+    "lon": -123.766592414228,
+    "type": "designated_campsite",
+    "context": "Queets",
+    "startingAreas": [
+      "Queets"
+    ]
+  },
+  {
+    "id": "wolf-bar",
+    "name": "Wolf Bar",
+    "lat": 47.599345774379,
+    "lon": -123.619483593393,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "elip-creek",
+    "name": "Elip Creek",
+    "lat": 47.6400478116914,
+    "lon": -123.650286406076,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "trapper",
+    "name": "Trapper",
+    "lat": 47.658160562351,
+    "lon": -123.642265380194,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "16-mile",
+    "name": "16-mile",
+    "lat": 47.411969,
+    "lon": -123.352985,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "low-divide",
+    "name": "Low Divide",
+    "lat": 47.7234292759938,
+    "lon": -123.559044355968,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "three-prune-no-campfires",
+    "name": "Three Prune (No Campfires)",
+    "lat": 47.6461476864545,
+    "lon": -123.718278220534,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "three-lakes-no-campfires",
+    "name": "Three Lakes (No Campfires)",
+    "lat": 47.6016382454105,
+    "lon": -123.724257773269,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "pony-bridge-campsite-2-5-miles-from-trailhead",
+    "name": "Pony Bridge Campsite (2.5 miles from trailhead)",
+    "lat": 47.5966495901973,
+    "lon": -123.541478244494,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "lake-beauty-no-campfires",
+    "name": "Lake Beauty (No Campfires)",
+    "lat": 47.7158384965782,
+    "lon": -123.640630259219,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "o-neil-creek-campsite-7-miles-from-trailhead",
+    "name": "O'Neil Creek Campsite (7 miles from trailhead)",
+    "lat": 47.6157643938584,
+    "lon": -123.472509040131,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "pyrites-creek-campsite-10-miles-from-trailhead",
+    "name": "Pyrites Creek Campsite (10 miles from trailhead)",
+    "lat": 47.6402250454062,
+    "lon": -123.432556452945,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "enchanted-valley-campsite-14-miles-from-trailhead",
+    "name": "Enchanted Valley Campsite (14 miles from trailhead)",
+    "lat": 47.6723622756025,
+    "lon": -123.389358775031,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "success-creek",
+    "name": "Success Creek",
+    "lat": 47.5666690848559,
+    "lon": -123.508826768847,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "lake-sundown-no-campfires",
+    "name": "Lake Sundown (No Campfires)",
+    "lat": 47.5359776974285,
+    "lon": -123.511872346612,
+    "type": "designated_campsite",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "shi-shi-beach",
+    "name": "Shi Shi Beach",
+    "lat": 48.151378,
+    "lon": -124.414187,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "seafield-creek",
+    "name": "Seafield Creek",
+    "lat": 48.2087118949158,
+    "lon": -124.692206418464,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "north-side-of-ozette-river",
+    "name": "North Side of Ozette River",
+    "lat": 48.105418,
+    "lon": -124.422577,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "south-side-of-ozette-river",
+    "name": "South Side of Ozette River",
+    "lat": 48.105164,
+    "lon": -124.424537,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "cape-alava",
+    "name": "Cape Alava",
+    "lat": 48.1635310405745,
+    "lon": -124.732794492392,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "wedding-rocks",
+    "name": "Wedding Rocks",
+    "lat": 48.1451869286013,
+    "lon": -124.716916672293,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "sand-point-no-campfires",
+    "name": "Sand Point (No Campfires)",
+    "lat": 48.125782232556,
+    "lon": -124.709381602983,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "erickson-s-bay-lake-ozette",
+    "name": "Erickson's Bay (Lake Ozette)",
+    "lat": 48.71681,
+    "lon": -124.394015,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "south-sand-point-no-campfires",
+    "name": "South Sand Point (No Campfires)",
+    "lat": 48.1191538210233,
+    "lon": -124.696815249294,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "yellow-banks-no-access-via-rialto-7-8-11-9",
+    "name": "Yellow Banks (no access via Rialto 7/8-11/9)",
+    "lat": 48.0946956825007,
+    "lon": -124.686578835228,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "norwegian-memorial-no-access-via-rialto-7-8-11-9",
+    "name": "Norwegian Memorial (no access via Rialto 7/8-11/9)",
+    "lat": 48.0336352235978,
+    "lon": -124.681289679517,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "cedar-creek-no-access-via-rialto-7-8-11-9",
+    "name": "Cedar Creek (no access via Rialto 7/8-11/9)",
+    "lat": 48.0194971359012,
+    "lon": -124.680260667039,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "chilean-memorial-no-access-via-rialto-7-8-11-9",
+    "name": "Chilean Memorial (no access via Rialto 7/8-11/9)",
+    "lat": 47.963859269335,
+    "lon": -124.663969623407,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "hole-in-the-wall-no-access-via-rialto-7-8-11-9",
+    "name": "Hole-in-the-Wall (no access via Rialto 7/8-11/9)",
+    "lat": 47.9449586571948,
+    "lon": -124.652829551184,
+    "type": "designated_campsite",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "second-beach",
+    "name": "Second Beach",
+    "lat": 47.8900929973729,
+    "lon": -124.626209489519,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "third-beach",
+    "name": "Third Beach",
+    "lat": 47.8786222743452,
+    "lon": -124.588193612904,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "scott-creek",
+    "name": "Scott Creek",
+    "lat": 47.8601257450538,
+    "lon": -124.557784467739,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "strawberry-point",
+    "name": "Strawberry Point",
+    "lat": 47.8462197191553,
+    "lon": -124.550142123341,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "toleak-point",
+    "name": "Toleak Point",
+    "lat": 47.8346002819511,
+    "lon": -124.540364267051,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "mosquito-creek",
+    "name": "Mosquito Creek",
+    "lat": 47.7980079565902,
+    "lon": -124.481110257839,
+    "type": "designated_campsite",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "slide-camp",
+    "name": "Slide Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "beaver-flats-four-stream",
+    "name": "Beaver Flats/Four Stream",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "madeline-creek-flapjack-trail",
+    "name": "Madeline Creek (Flapjack Trail)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "donahue-creek-flapjack-trail",
+    "name": "Donahue Creek (Flapjack Trail)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "black-white-lakes-no-campfires",
+    "name": "Black & White Lakes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "smith-lake-no-campfires",
+    "name": "Smith Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "lake-success-no-campfires",
+    "name": "Lake Success (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "mcgravey-lakes-no-campfires",
+    "name": "McGravey Lakes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "first-divide-no-campfires",
+    "name": "First Divide (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "hagen-lakes-no-campfires",
+    "name": "Hagen Lakes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "north-fork-skokomish-river-cross-country",
+    "name": "North Fork Skokomish River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "lake-of-the-angels-no-campfires",
+    "name": "Lake of the Angels (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "hamma-hamma-river-cross-country",
+    "name": "Hamma Hamma River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "lacrosse-junction-no-campfires",
+    "name": "LaCrosse Junction (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "upper-duckabush-to-marmot-lake",
+    "name": "Upper Duckabush to Marmot Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "hart-lake-no-campfires",
+    "name": "Hart Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "lake-lacrosse-no-campfires",
+    "name": "Lake LaCrosse (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "duckabush-river-cross-country",
+    "name": "Duckabush River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Staircase",
+    "startingAreas": [
+      "Staircase"
+    ]
+  },
+  {
+    "id": "wildcat-lake",
+    "name": "Wildcat Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "dose-campground",
+    "name": "Dose Campground",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "anderson-glacier-camp-no-campfires",
+    "name": "Anderson Glacier Camp (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "burdick-creek",
+    "name": "Burdick Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "thousand-acre-meadow-no-campfires",
+    "name": "Thousand Acre Meadow (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "lost-pass-lost-basin-3-sons",
+    "name": "Lost Pass & Lost Basin (3 Sons)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "dee-lake-no-campfires",
+    "name": "Dee Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "dosewallips-river-cross-country",
+    "name": "Dosewallips River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Dosewallips",
+    "startingAreas": [
+      "Dosewallips"
+    ]
+  },
+  {
+    "id": "upper-royal-basin-no-campfires",
+    "name": "Upper Royal Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "deception-basin-no-campfires",
+    "name": "Deception Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "royal-basin-cross-country",
+    "name": "Royal Basin Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "cedar-lake-no-campfires",
+    "name": "Cedar Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "graywolf-river-cross-country",
+    "name": "Graywolf River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "badger-valley-no-campfires",
+    "name": "Badger Valley (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "grand-pass-no-campfires",
+    "name": "Grand Pass (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "lake-lillian-no-campfires",
+    "name": "Lake Lillian (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "grand-valley-cross-country",
+    "name": "Grand Valley Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "p-j-lake-no-campfires",
+    "name": "P.J. Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "little-river-trail",
+    "name": "Little River Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "hurricane-ridge-cross-country",
+    "name": "Hurricane Ridge Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "upper-lake-mills-site",
+    "name": "Upper Lake Mills site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "krause-bottom-rica-canyon",
+    "name": "Krause Bottom-Rica Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "remann-s-cabin",
+    "name": "Remann's Cabin",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "chateau-camp",
+    "name": "Chateau Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "happy-hollow",
+    "name": "Happy Hollow",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "elwha-basin",
+    "name": "Elwha Basin",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "lillian-river-trail",
+    "name": "Lillian River Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "long-ridge-trail-no-campfires",
+    "name": "Long Ridge Trail (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "dodger-point-trail-no-campfires",
+    "name": "Dodger Point Trail (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "hayden-pass-trail",
+    "name": "Hayden Pass Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "elwha-river-cross-country",
+    "name": "Elwha River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "happy-lake-ridge-no-campfires",
+    "name": "Happy Lake Ridge (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "three-horse-lakes-no-campfires",
+    "name": "Three Horse Lakes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "blue-lake-no-campfires",
+    "name": "Blue Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "boulder-creek-cross-country",
+    "name": "Boulder Creek Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Elwha",
+    "startingAreas": [
+      "Elwha"
+    ]
+  },
+  {
+    "id": "barnes-creek-trail",
+    "name": "Barnes Creek Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lake Crescent",
+    "startingAreas": [
+      "Lake Crescent"
+    ]
+  },
+  {
+    "id": "eagle-lakes",
+    "name": "Eagle Lakes",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lake Crescent",
+    "startingAreas": [
+      "Lake Crescent"
+    ]
+  },
+  {
+    "id": "aurora-springs-no-campfires",
+    "name": "Aurora Springs (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lake Crescent",
+    "startingAreas": [
+      "Lake Crescent"
+    ]
+  },
+  {
+    "id": "aurora-ridge-cross-country",
+    "name": "Aurora Ridge Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lake Crescent",
+    "startingAreas": [
+      "Lake Crescent"
+    ]
+  },
+  {
+    "id": "north-fork-sol-duc-river-trail",
+    "name": "North Fork Sol Duc River Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "little-divide-no-campfires",
+    "name": "Little Divide (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "blackwood-lake-no-campfires",
+    "name": "Blackwood Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "deer-lake-llama-site-no-campfires",
+    "name": "Deer Lake Llama Site (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "potholes-no-campfires",
+    "name": "Potholes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "round-lake-no-campfires",
+    "name": "Round Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-lake-no-campfires",
+    "name": "Sol Duc Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "clear-lake-no-campfires",
+    "name": "Clear Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "long-lake-no-campfires",
+    "name": "Long Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "morgenroth-lake-no-campfires",
+    "name": "Morgenroth Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "lake-8-no-campfires",
+    "name": "Lake #8 (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "silver-snag-no-campfires",
+    "name": "Silver Snag (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "heart-lake-junction-camp-no-campfires",
+    "name": "Heart Lake Junction Camp (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "bruce-s-roost-no-campfires",
+    "name": "Bruce's Roost (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "cat-basin-no-campfires",
+    "name": "Cat Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "cat-basin-stock-camp-no-campfires",
+    "name": "Cat Basin Stock Camp (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "swimming-bear-lake-no-campfires",
+    "name": "Swimming Bear Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "haigs-lake-no-campfires",
+    "name": "Haigs Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "hidden-lake",
+    "name": "Hidden Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "sol-duc-river-cross-country",
+    "name": "Sol Duc River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Sol Duc",
+    "startingAreas": [
+      "Sol Duc"
+    ]
+  },
+  {
+    "id": "boston-charlie-s-no-campfires",
+    "name": "Boston Charlie's (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "northern-bailey-range-cross-country",
+    "name": "Northern Bailey Range Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "mt-carrie-sites-no-campfires",
+    "name": "Mt Carrie Sites (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "11-bull-basin-no-campfires",
+    "name": "11 Bull Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "stephen-lake-no-campfires",
+    "name": "Stephen Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "cream-lake-no-campfires",
+    "name": "Cream Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "ferry-basin-no-campfires",
+    "name": "Ferry Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "scott-ludden-saddle-no-campfires",
+    "name": "Scott-Ludden Saddle (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "lone-tree-pass-no-campfires",
+    "name": "Lone Tree Pass (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "queets-basin-dodwell-rixon-no-campfires",
+    "name": "Queets Basin/Dodwell-Rixon (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "mt-olympus-alpine-cross-country",
+    "name": "Mt Olympus Alpine Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "southern-bailey-range-cross-country",
+    "name": "Southern Bailey Range Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bailey Range",
+    "startingAreas": [
+      "Bailey Range"
+    ]
+  },
+  {
+    "id": "north-snider-jackson-trail",
+    "name": "North Snider-Jackson Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "15-mile",
+    "name": "15-mile",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "21-mile",
+    "name": "21-mile",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "south-snider-jackson-trail",
+    "name": "South Snider-Jackson Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "bogachiel-river-cross-country",
+    "name": "Bogachiel River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Bogachiel",
+    "startingAreas": [
+      "Bogachiel"
+    ]
+  },
+  {
+    "id": "one-mile-camp",
+    "name": "One mile Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "1-4-mile-camp",
+    "name": "1.4 mile Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "3-3-mile-camp",
+    "name": "3.3 mile Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "12-4-mile-camp",
+    "name": "12.4 mile Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "13-1-mile-site",
+    "name": "13.1 Mile Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "13-2-mile-site",
+    "name": "13.2 Mile Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "13-3-mile-site",
+    "name": "13.3 Mile Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "snow-dome-no-campfires",
+    "name": "Snow Dome (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "camp-pan",
+    "name": "Camp Pan",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "hoh-river-cross-country",
+    "name": "Hoh River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "big-flat",
+    "name": "Big Flat",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "south-fork-hoh-river-cross-country",
+    "name": "South Fork Hoh River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "caltech-rocks-no-campfires",
+    "name": "Caltech Rocks (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hoh",
+    "startingAreas": [
+      "Hoh"
+    ]
+  },
+  {
+    "id": "queets-river-cross-country",
+    "name": "Queets River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Queets",
+    "startingAreas": [
+      "Queets"
+    ]
+  },
+  {
+    "id": "half-way-house",
+    "name": "Half-way House",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "francis-creek",
+    "name": "Francis Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "12-mile",
+    "name": "12-mile",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "martin-s-park-lakes-no-campfires",
+    "name": "Martin's Park & Lakes (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "kimta-peak-no-campfires",
+    "name": "Kimta Peak (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "reflection-lake-no-campfires",
+    "name": "Reflection Lake (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "elip-creek-trail",
+    "name": "Elip Creek Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "irely-lake",
+    "name": "Irely Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "north-fork-quinault-river-cross-country",
+    "name": "North Fork Quinault River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "fire-creek-campsite-4-miles-from-trailhead",
+    "name": "Fire Creek Campsite (4 miles from trailhead)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "o-neil-creek-to-no-name-creek",
+    "name": "O'Neil Creek to No Name Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "lacrosse-loop-cross-country",
+    "name": "LaCrosse Loop Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "white-creek-basin-site",
+    "name": "White Creek Basin Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "graves-creek-basin-no-campfires",
+    "name": "Graves Creek Basin (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "east-fork-quinault-river-cross-country",
+    "name": "East Fork Quinault River Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "graves-creek-six-ridge-cross-country",
+    "name": "Graves Creek/Six Ridge Cross Country",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Quinault",
+    "startingAreas": [
+      "Quinault"
+    ]
+  },
+  {
+    "id": "point-of-the-arches",
+    "name": "Point-of-the-Arches",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "allen-s-bay",
+    "name": "Allen's Bay",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "cedar-creek-to-chilean-memorial",
+    "name": "Cedar Creek to Chilean Memorial",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "ellen-creek-no-pets-vehicles",
+    "name": "Ellen Creek (no pets, vehicles)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "tivoli-island-lake-ozette",
+    "name": "Tivoli Island (Lake Ozette)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "eagle-point-lake-ozette",
+    "name": "Eagle Point (Lake Ozette)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "benson-s-point-lake-ozette",
+    "name": "Benson's Point (Lake Ozette)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "garden-island-lake-ozette",
+    "name": "Garden Island (Lake Ozette)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "birkestol-point-lake-ozette",
+    "name": "Birkestol Point (Lake Ozette)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "North Coast",
+    "startingAreas": [
+      "North Coast"
+    ]
+  },
+  {
+    "id": "hurricane-hill-road-winter-only",
+    "name": "Hurricane Hill Road (Winter Only)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "obstruction-point-rd-winter-only",
+    "name": "Obstruction Point Rd (Winter Only)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "deer-park-campground-winter",
+    "name": "Deer Park Campground (Winter)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Hurricane",
+    "startingAreas": [
+      "Hurricane"
+    ]
+  },
+  {
+    "id": "taylor-point-overland-trail",
+    "name": "Taylor Point Overland Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "goodman-creek-overland-trail",
+    "name": "Goodman Creek Overland Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "goodman-creek-to-mosquito-creek",
+    "name": "Goodman Creek to Mosquito Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "jefferson-cove",
+    "name": "Jefferson Cove",
+    "lat": 47.7670566267779,
+    "lon": -124.45779333071,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "hoh-head-overland-trail",
+    "name": "Hoh Head Overland Trail",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "hoh-river-mouth",
+    "name": "Hoh River Mouth",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Coast",
+    "startingAreas": [
+      "South Coast"
+    ]
+  },
+  {
+    "id": "pyramid-peak-no-campfires",
+    "name": "Pyramid Peak (No Campfires)",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lake Crescent",
+    "startingAreas": [
+      "Lake Crescent"
+    ]
+  },
+  {
+    "id": "layover",
+    "name": "Layover",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Administrative",
+    "startingAreas": [
+      "Administrative"
+    ]
+  },
+  {
+    "id": "constance-pass-pnt-zone",
+    "name": "Constance Pass PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "dosewallips-pnt-zone",
+    "name": "Dosewallips PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "elwha-pnt-zone",
+    "name": "Elwha PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "boulder-creek-appleton-pass-pnt-zone",
+    "name": "Boulder Creek-Appleton Pass PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "bogachiel-pnt-zone",
+    "name": "Bogachiel PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "south-coast-pnt-zone",
+    "name": "South Coast PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "north-coast-pnt-zone",
+    "name": "North Coast PNT Zone",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "pnt-layover",
+    "name": "PNT Layover",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "PNT Thru Permit",
+    "startingAreas": [
+      "PNT Thru Permit"
+    ]
+  },
+  {
+    "id": "shi-shi-makah-reservation",
+    "name": "Shi Shi - Makah Reservation TH",
+    "lat": 48.2938737863787,
+    "lon": -124.665493779924,
+    "type": "trailhead"
+  },
+  {
+    "id": "south-fork-skokomish-usfs",
+    "name": "South Fork Skokomish (USFS) TH",
+    "lat": 47.4792056498613,
+    "lon": -123.452003402963,
+    "type": "trailhead"
+  },
+  {
+    "id": "dosewallips-road",
+    "name": "Dosewallips Road TH",
+    "lat": 47.7388355229862,
+    "lon": -123.07358104567,
+    "type": "trailhead"
+  },
+  {
+    "id": "storm-king-ranger-station",
+    "name": "Storm King Ranger Station TH",
+    "lat": 48.057970985132,
+    "lon": -123.78853132586,
+    "type": "trailhead"
+  },
+  {
+    "id": "erickson-s-bay",
+    "name": "Erickson's Bay TH",
+    "lat": 48.1100070600006,
+    "lon": -124.663386258977,
+    "type": "trailhead"
+  },
+  {
+    "id": "hoh-bogachiel",
+    "name": "Hoh-Bogachiel TH",
+    "lat": 47.8202125982176,
+    "lon": -124.024270400955,
+    "type": "trailhead"
+  },
+  {
+    "id": "south-fork-hoh-dnr",
+    "name": "South Fork Hoh (DNR) TH",
+    "lat": 47.7981305751967,
+    "lon": -123.952918171782,
+    "type": "trailhead"
+  },
+  {
+    "id": "staircase-ranger-station",
+    "name": "Staircase Ranger Station TH",
+    "lat": 47.5161200294404,
+    "lon": -123.327934177737,
+    "type": "trailhead"
+  },
+  {
+    "id": "rialto-beach",
+    "name": "Rialto Beach TH",
+    "lat": 47.9216512349984,
+    "lon": -124.638446771205,
+    "type": "trailhead"
+  },
+  {
+    "id": "graywolf-river",
+    "name": "Graywolf River TH",
+    "lat": 47.9670363246242,
+    "lon": -123.127572618679,
+    "type": "trailhead"
+  },
+  {
+    "id": "little-river",
+    "name": "Little River TH",
+    "lat": 48.0572444550375,
+    "lon": -123.501311456865,
+    "type": "trailhead"
+  },
+  {
+    "id": "duckabush-trail-usfs",
+    "name": "Duckabush Trail (USFS) TH",
+    "lat": 47.6850101454027,
+    "lon": -123.039849845075,
+    "type": "trailhead"
+  },
+  {
+    "id": "royal-creek-usfs",
+    "name": "Royal Creek (USFS) TH",
+    "lat": 47.8780494720694,
+    "lon": -123.13699037603,
+    "type": "trailhead"
+  },
+  {
+    "id": "switchback-trail",
+    "name": "Switchback Trail TH",
+    "lat": 47.9866220107207,
+    "lon": -123.461186864299,
+    "type": "trailhead"
+  },
+  {
+    "id": "aurora-trail",
+    "name": "Aurora Trail TH",
+    "lat": 48.0615828526494,
+    "lon": -123.994328357965,
+    "type": "trailhead"
+  },
+  {
+    "id": "aurora-creek",
+    "name": "Aurora Creek TH",
+    "lat": 48.0514599810273,
+    "lon": -123.839476823362,
+    "type": "trailhead"
+  },
+  {
+    "id": "obstruction-point",
+    "name": "Obstruction Point TH",
+    "lat": 47.9184183532236,
+    "lon": -123.382155864379,
+    "type": "trailhead"
+  },
+  {
+    "id": "sol-duc",
+    "name": "Sol Duc TH",
+    "lat": 47.9549596548613,
+    "lon": -123.8348768581,
+    "type": "trailhead"
+  },
+  {
+    "id": "elwha-hurricane-hill",
+    "name": "Elwha-Hurricane Hill TH",
+    "lat": 48.0131902994517,
+    "lon": -123.587276348629,
+    "type": "trailhead"
+  },
+  {
+    "id": "ozette-ranger-station",
+    "name": "Ozette Ranger Station TH",
+    "lat": 48.1545207110671,
+    "lon": -124.668921377897,
+    "type": "trailhead"
+  },
+  {
+    "id": "deer-park",
+    "name": "Deer Park TH",
+    "lat": 47.9489843850224,
+    "lon": -123.25823163004,
+    "type": "trailhead"
+  },
+  {
+    "id": "smokey-bottom",
+    "name": "Smokey Bottom TH",
+    "lat": 48.0019658162746,
+    "lon": -123.604469025286,
+    "type": "trailhead"
+  },
+  {
+    "id": "cox-valley",
+    "name": "Cox Valley TH",
+    "lat": 47.968246364359,
+    "lon": -123.481480617935,
+    "type": "trailhead"
+  },
+  {
+    "id": "hurricane-hill",
+    "name": "Hurricane Hill TH",
+    "lat": 47.9765958383473,
+    "lon": -123.517742307638,
+    "type": "trailhead"
+  },
+  {
+    "id": "irely-lake-big-creek",
+    "name": "Irely Lake (Big Creek) TH",
+    "lat": 47.5677579318908,
+    "lon": -123.655309452825,
+    "type": "trailhead"
+  },
+  {
+    "id": "north-fork-quinault",
+    "name": "North Fork Quinault TH",
+    "lat": 47.576089431501,
+    "lon": -123.647982354148,
+    "type": "trailhead"
+  },
+  {
+    "id": "west-elwha-altaire",
+    "name": "West Elwha (Altaire) TH",
+    "lat": 48.0429096587975,
+    "lon": -123.602518793268,
+    "type": "trailhead"
+  },
+  {
+    "id": "spruce-railroad-trail",
+    "name": "Spruce Railroad Trail TH",
+    "lat": 48.0932622222921,
+    "lon": -123.80246486513,
+    "type": "trailhead"
+  },
+  {
+    "id": "pyramid-peak",
+    "name": "Pyramid Peak TH",
+    "lat": 48.0658646589805,
+    "lon": -123.859421062648,
+    "type": "trailhead"
+  },
+  {
+    "id": "slab-camp-usfs",
+    "name": "Slab Camp (USFS) TH",
+    "lat": 47.9648443473229,
+    "lon": -123.194033140173,
+    "type": "trailhead"
+  },
+  {
+    "id": "lena-lake-trail-usfs",
+    "name": "Lena Lake Trail (USFS) TH",
+    "lat": 47.5996779295482,
+    "lon": -123.15117442771,
+    "type": "trailhead"
+  },
+  {
+    "id": "pj-lake",
+    "name": "PJ Lake",
+    "lat": 47.9458137784601,
+    "lon": -123.425440751553,
+    "type": "trailhead"
+  },
+  {
+    "id": "graves-creek",
+    "name": "Graves Creek TH",
+    "lat": 47.5727744777703,
+    "lon": -123.569739838568,
+    "type": "trailhead"
+  },
+  {
+    "id": "wynoochee",
+    "name": "Wynoochee TH",
+    "lat": 47.5161796995579,
+    "lon": -123.539308518611,
+    "type": "trailhead"
+  },
+  {
+    "id": "north-fork-sol-duc",
+    "name": "North Fork Sol Duc TH",
+    "lat": 48.0107985457247,
+    "lon": -123.911207594113,
+    "type": "trailhead"
+  },
+  {
+    "id": "queets",
+    "name": "Queets TH",
+    "lat": 47.6245524292611,
+    "lon": -124.014406782592,
+    "type": "trailhead"
+  },
+  {
+    "id": "hoh-visitor-center",
+    "name": "Hoh Visitor Center TH",
+    "lat": 47.8602506856459,
+    "lon": -123.934852725376,
+    "type": "trailhead"
+  },
+  {
+    "id": "whiskey-bend",
+    "name": "Whiskey Bend TH",
+    "lat": 47.9677896179368,
+    "lon": -123.582654547977,
+    "type": "trailhead"
+  },
+  {
+    "id": "oil-city-hoh-river-mouth",
+    "name": "Oil City (Hoh River Mouth) TH",
+    "lat": 47.7493163896222,
+    "lon": -124.418777897319,
+    "type": "trailhead"
+  },
+  {
+    "id": "sol-duc-campground",
+    "name": "Sol Duc Campground TH",
+    "lat": 47.9549596548613,
+    "lon": -123.8348768581,
+    "type": "trailhead"
+  },
+  {
+    "id": "heart-o-the-hills",
+    "name": "Heart O' The Hills TH",
+    "lat": 48.0389692712433,
+    "lon": -123.431531129298,
+    "type": "trailhead"
+  },
+  {
+    "id": "putvin-trail-usfs",
+    "name": "Putvin Trail (USFS) TH",
+    "lat": 47.5835433815465,
+    "lon": -123.233921542892,
+    "type": "trailhead"
+  },
+  {
+    "id": "griff-creek",
+    "name": "Griff Creek TH",
+    "lat": 48.0165655538814,
+    "lon": -123.589892422845,
+    "type": "trailhead"
+  },
+  {
+    "id": "happy-lake-ridge",
+    "name": "Happy Lake Ridge TH",
+    "lat": 47.9837163240283,
+    "lon": -123.62561969987,
+    "type": "trailhead"
+  },
+  {
+    "id": "aurora-ridge",
+    "name": "Aurora Ridge TH",
+    "lat": 48.0615828526494,
+    "lon": -123.994328357965,
+    "type": "trailhead"
+  },
+  {
+    "id": "tubal-cain",
+    "name": "Tubal Cain TH",
+    "lat": 47.8862206106212,
+    "lon": -123.091481638373,
+    "type": "trailhead"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ernest-coe-ground-sites",
+    "name": "Ernest Coe (Ground Sites)",
+    "lat": 25.331125,
+    "lon": -80.653722,
+    "type": "designated_campsite",
+    "context": "Ingraham Highway",
+    "startingAreas": [
+      "Ingraham Highway"
+    ]
+  },
+  {
+    "id": "ingraham-ground-sites",
+    "name": "Ingraham (Ground Sites)",
+    "lat": 25.32935,
+    "lon": -80.751319,
+    "type": "designated_campsite",
+    "context": "Ingraham Highway",
+    "startingAreas": [
+      "Ingraham Highway"
+    ]
+  }
+]

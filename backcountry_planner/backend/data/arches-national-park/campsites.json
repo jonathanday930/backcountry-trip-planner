@@ -1,0 +1,90 @@
+[
+  {
+    "id": "lost-and-found",
+    "name": "Lost and Found",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "mmi",
+    "name": "MMI",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "bighorn",
+    "name": "Bighorn",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonfly",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "bighorn-and-dragonfly",
+    "name": "Bighorn and Dragonfly",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "elephant-butte",
+    "name": "Elephant Butte",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "tierdrop",
+    "name": "Tierdrop",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "not-tierdrop",
+    "name": "Not Tierdrop",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "u-turn",
+    "name": "U-Turn",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "tierdrop-not-tierdrop-and-u-turn",
+    "name": "Tierdrop/Not Tierdrop and U-Turn",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "other-route",
+    "name": "Other Route",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "type": "designated_campsite",
+    "startingAreas": []
+  }
+]

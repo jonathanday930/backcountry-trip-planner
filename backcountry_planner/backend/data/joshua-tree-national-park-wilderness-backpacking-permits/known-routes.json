@@ -1,0 +1,26 @@
+[
+  {
+    "id": "boy-scout-trail",
+    "name": "Boy Scout Trail (Indian Cove to Keys West)",
+    "routeStops": ["indian-cove", "boy-scout-trail-keys-west"],
+    "stops": ["indian-cove", "boy-scout-trail-campsite-1", "boy-scout-trail-campsite-2", "boy-scout-trail-campsite-3", "boy-scout-trail-campsite-4", "boy-scout-trail-campsite-5", "boy-scout-trail-campsite-6", "boy-scout-trail-campsite-7", "boy-scout-trail-campsite-8", "boy-scout-trail-campsite-9", "boy-scout-trail-campsite-10", "boy-scout-trail-campsite-11", "boy-scout-trail-campsite-12", "boy-scout-trail-campsite-13", "boy-scout-trail-campsite-14", "boy-scout-trail-campsite-15", "campsite-16-p", "campsite-17-q", "boy-scout-trail-keys-west"],
+    "typicalNights": 1,
+    "notes": "The NPS says the Boy Scout Trail is about 7.8–8 miles one way and requires one of 14 designated sites in the high-use zone (the current export contains 17 numbered records, including two newer entries). Sites are ordered north-to-south from Indian Cove; several are short spurs, so selecting a site does not mean the route must visit every site."
+  },
+  {
+    "id": "california-riding-hiking-trail",
+    "name": "California Riding and Hiking Trail",
+    "routeStops": ["north-entrance", "covington-flats"],
+    "stops": ["north-entrance", "north-entrance-zone", "twin-tanks-zone", "juniper-flats-zone", "quail-wash-zone", "covington-zone", "covington-flats"],
+    "typicalNights": 2,
+    "notes": "The NPS management plan lists the CRHT at 37 miles one way. Outside the Boy Scout zone, Joshua Tree uses backcountry camping zones rather than fixed campsites; carry water and confirm the one-mile-from-road/500-foot-from-trail rules."
+  },
+  {
+    "id": "crht-boy-scout-extension",
+    "name": "CRHT + Boy Scout Trail Extension",
+    "routeStops": ["north-entrance", "covington-flats", "boy-scout-trail-keys-west"],
+    "stops": ["north-entrance", "north-entrance-zone", "twin-tanks-zone", "juniper-flats-zone", "boy-scout-trail-campsite-14", "boy-scout-trail-campsite-15", "campsite-16-p", "campsite-17-q", "boy-scout-trail-keys-west"],
+    "typicalNights": 2,
+    "notes": "Common winter/spring extension combining the CRHT with a designated Boy Scout site. Zone camping and water-cache logistics dominate; published trip reports vary widely in mileage."
+  }
+]

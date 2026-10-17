@@ -1,0 +1,34 @@
+[
+  {
+    "id": "flatwater",
+    "name": "Flatwater",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "cataract-canyon",
+    "name": "Cataract Canyon",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "cataract-canyon-commercial",
+    "name": "Cataract Canyon - Commercial",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "startingAreas": []
+  },
+  {
+    "id": "flatwater-commercial",
+    "name": "Flatwater - Commercial",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "startingAreas": []
+  }
+]

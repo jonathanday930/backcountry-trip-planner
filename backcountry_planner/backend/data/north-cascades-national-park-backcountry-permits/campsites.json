@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "agnes-creek-pct-trailhead-stehekin-rd",
+    "name": "Agnes Creek (PCT) Trailhead-Stehekin Rd",
+    "lat": 48.37975264,
+    "lon": -120.839589,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "anderson-watson-lakes-trailhead-mount-baker-wilderness",
+    "name": "Anderson-Watson Lakes Trailhead-Mount Baker Wilderness",
+    "lat": 48.67473,
+    "lon": -121.61466,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "baker-river-trail-baker-lake-rd",
+    "name": "Baker River Trail-Baker Lake Rd",
+    "lat": 48.7503772,
+    "lon": -121.5557316,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "boston-basin-cascade-river-rd",
+    "name": "Boston Basin-Cascade River Rd",
+    "lat": 48.48055,
+    "lon": -121.07979,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "boulder-creek-trailhead-stehekin-valley-rd",
+    "name": "Boulder Creek Trailhead-Stehekin Valley Rd",
+    "lat": 48.34406042,
+    "lon": -120.6907012,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "bridge-creek-pct-trail-sr-20",
+    "name": "Bridge Creek (PCT) Trail- SR 20",
+    "lat": 48.5044626,
+    "lon": -120.7180706,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "canyon-creek-trail-sr-20",
+    "name": "Canyon Creek Trail- SR 20",
+    "lat": 48.70599,
+    "lon": -120.91911,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "cascade-pass-trailhead-cascade-river-rd",
+    "name": "Cascade Pass Trailhead-Cascade River Rd",
+    "lat": 48.47552749,
+    "lon": -121.0749949,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "colonial-creek-campground-diablo-lake-boat-ramp-sr-20",
+    "name": "Colonial Creek Campground (Diablo Lake Boat Ramp)- SR 20",
+    "lat": 48.69008,
+    "lon": -121.0958,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "colonial-creek-campground-thunder-creek-trailhead-sr-20",
+    "name": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+    "lat": 48.68524108,
+    "lon": -121.0926023,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "company-creek-trailhead-company-creek-rd",
+    "name": "Company Creek Trailhead- Company Creek Rd",
+    "lat": 48.35214838,
+    "lon": -120.7287394,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "diablo-dock-ross-lake-resort-parking-diablo-dam-rd",
+    "name": "Diablo Dock (Ross Lake Resort Parking)- Diablo Dam Rd",
+    "lat": 48.71932,
+    "lon": -121.12403,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "diablo-lake-trailhead-elc-diablo-dam-rd",
+    "name": "Diablo Lake Trailhead/ELC- Diablo Dam Rd",
+    "lat": 48.71959,
+    "lon": -121.11995,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-bank-trailhead-sr-20",
+    "name": "East Bank Trailhead- SR 20",
+    "lat": 48.70815408,
+    "lon": -120.9782432,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "easy-pass-trail-sr-20",
+    "name": "Easy Pass Trail- SR 20",
+    "lat": 48.58819821,
+    "lon": -120.8030571,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "eldorado-creek-cascade-river-rd",
+    "name": "Eldorado Creek- Cascade River Rd",
+    "lat": 48.49275,
+    "lon": -121.12332,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "goodell-creek-sr-20",
+    "name": "Goodell Creek- SR 20",
+    "lat": 48.68275,
+    "lon": -121.26928,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hannegan-pass-trail-mount-baker-wilderness",
+    "name": "Hannegan Pass Trail- Mount Baker Wilderness",
+    "lat": 48.91013,
+    "lon": -121.59219,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hidden-lake-trail-sibley-creek-hidden-lake-rd",
+    "name": "Hidden Lake Trail (Sibley Creek) - Hidden Lake Rd",
+    "lat": 48.5140871,
+    "lon": -121.2212764,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hozomeen-ross-lake-boat-ramp-hozomeen-rd",
+    "name": "Hozomeen (Ross Lake Boat Ramp)-Hozomeen Rd",
+    "lat": 48.98671,
+    "lon": -121.0725,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hozomeen-lake-east-bank-trailhead-hozomeen-rd",
+    "name": "Hozomeen Lake (East Bank) Trailhead-Hozomeen Rd",
+    "lat": 48.98555,
+    "lon": -121.0697,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lake-ann-trail-mount-baker-wilderness",
+    "name": "Lake Ann Trail-Mount Baker Wilderness",
+    "lat": 48.85001,
+    "lon": -121.6863,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lakeshore-trailhead-stehekin-landing",
+    "name": "Lakeshore Trailhead-Stehekin Landing",
+    "lat": 48.30790806,
+    "lon": -120.6556428,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "monogram-lake-trail-cascade-river-rd",
+    "name": "Monogram Lake Trail-Cascade River Rd",
+    "lat": 48.5371362,
+    "lon": -121.2943761,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "nooksack-cirque-mount-baker-wilderness",
+    "name": "Nooksack Cirque-Mount Baker Wilderness",
+    "lat": 48.89415,
+    "lon": -121.65277,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "old-wagon-trail-pct-high-bridge-stehekin-valley-road",
+    "name": "Old Wagon Trail (PCT) @ High Bridge - Stehekin Valley Road",
+    "lat": 48.38002,
+    "lon": -120.83799,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "old-wagon-trail-pct-road-s-end-stehekin-valley-road",
+    "name": "Old Wagon Trail (PCT) @ Road's End - Stehekin Valley Road",
+    "lat": 48.39678,
+    "lon": -120.84815,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "panther-creek-trailhead-sr-20",
+    "name": "Panther Creek Trailhead-SR 20",
+    "lat": 48.70633021,
+    "lon": -120.9727297,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "purple-pass-trailhead-stehekin-landing",
+    "name": "Purple Pass Trailhead-Stehekin Landing",
+    "lat": 48.31000946,
+    "lon": -120.653702,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "pyramid-lake-trailhead-sr-20",
+    "name": "Pyramid Lake Trailhead-SR 20",
+    "lat": 48.70973356,
+    "lon": -121.1450925,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "rainbow-loop-trailhead-stehekin-valley-rd",
+    "name": "Rainbow Loop Trailhead-Stehekin Valley Rd",
+    "lat": 48.33262,
+    "lon": -120.69272,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "rainy-maple-pass-trailhead-sr-20",
+    "name": "Rainy/Maple Pass Trailhead - SR 20",
+    "lat": 48.51723225,
+    "lon": -120.7379282,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "reynolds-creek-trail-lake-chelan-sawtooth-wilderness",
+    "name": "Reynolds Creek Trail-Lake Chelan Sawtooth Wilderness",
+    "lat": 48.40567,
+    "lon": -120.48964,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "ross-dam-trailhead-happy-flats-sr-20",
+    "name": "Ross Dam Trailhead (Happy Flats)-SR 20",
+    "lat": 48.72779352,
+    "lon": -121.062752,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "shannon-ridge-mount-baker-wilderness",
+    "name": "Shannon Ridge-Mount Baker Wilderness",
+    "lat": 48.76728,
+    "lon": -121.61801,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "sourdough-mountain-trailhead-diablo",
+    "name": "Sourdough Mountain Trailhead-Diablo",
+    "lat": 48.71786997,
+    "lon": -121.1453217,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "south-creek-trail-lake-chelan-sawtooth-wilderness",
+    "name": "South Creek Trail-Lake Chelan Sawtooth Wilderness",
+    "lat": 48.76728,
+    "lon": -121.61801,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "stehekin-river-trailhead-stehekin-valley-rd",
+    "name": "Stehekin River Trailhead-Stehekin Valley Rd",
+    "lat": 48.3452527,
+    "lon": -120.7211735,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "stetattle-creek-trailhead-diablo",
+    "name": "Stetattle Creek Trailhead-Diablo",
+    "lat": 48.71725985,
+    "lon": -121.1496404,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "thornton-lake-trailhead-thornton-lake-rd",
+    "name": "Thornton Lake Trailhead-Thornton Lake Rd",
+    "lat": 48.65339769,
+    "lon": -121.3255031,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "twisp-pass-trail-lake-chelan-sawtooth-wilderness",
+    "name": "Twisp Pass Trail-Lake Chelan Sawtooth Wilderness",
+    "lat": 48.46523635,
+    "lon": -120.6088234,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "war-creek-trail-lake-chelan-sawtooth-wilderness",
+    "name": "War Creek Trail-Lake Chelan Sawtooth Wilderness",
+    "lat": 48.3582,
+    "lon": -120.41644,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "white-salmon-creek-mount-baker-wilderness",
+    "name": "White Salmon Creek-Mount Baker Wilderness",
+    "lat": 48.35833528,
+    "lon": -120.4167278,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "39-mile-camp",
+    "name": "39 Mile Camp",
+    "lat": 48.80277077,
+    "lon": -121.1432114,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "39-mile-stock-camp",
+    "name": "39 Mile Stock Camp",
+    "lat": 48.80253908,
+    "lon": -121.1425118,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "beaver-pass-group-camp",
+    "name": "Beaver Pass Group Camp",
+    "lat": 48.87244241,
+    "lon": -121.2472479,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "beaver-pass-camp",
+    "name": "Beaver Pass Camp",
+    "lat": 48.87244241,
+    "lon": -121.2472479,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "beaver-pass-stock-camp",
+    "name": "Beaver Pass Stock Camp",
+    "lat": 48.8747319,
+    "lon": -121.2498825,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "big-beaver-stock-camp",
+    "name": "Big Beaver Stock Camp",
+    "lat": 48.77575402,
+    "lon": -121.0644865,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "luna-camp",
+    "name": "Luna Camp",
+    "lat": 48.83457713,
+    "lon": -121.2024161,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "perry-creek-group-camp-closed-due-to-fire-damage",
+    "name": "Perry Creek Group Camp- Closed due to fire damage",
+    "lat": 48.92110427,
+    "lon": -121.1458463,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "perry-creek-camp-closed-due-to-fire-damage",
+    "name": "Perry Creek Camp- Closed due to fire damage",
+    "lat": 48.92110427,
+    "lon": -121.1458463,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "pumpkin-mountain-camp",
+    "name": "Pumpkin Mountain Camp",
+    "lat": 48.77400253,
+    "lon": -121.0651936,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "stillwell-camp",
+    "name": "Stillwell Camp",
+    "lat": 48.89183334,
+    "lon": -121.2684479,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "twin-rocks-camp",
+    "name": "Twin Rocks Camp",
+    "lat": 48.88230714,
+    "lon": -121.3121318,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "twin-rocks-stock-camp",
+    "name": "Twin Rocks Stock Camp",
+    "lat": 48.88281898,
+    "lon": -121.3106452,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ]
+  },
+  {
+    "id": "whatcom-camp-closed-due-to-fire-damage",
+    "name": "Whatcom Camp- Closed due to fire damage",
+    "lat": 48.87502884,
+    "lon": -121.3706528,
+    "type": "designated_campsite",
+    "context": "Beavers-Whatcom Pass",
+    "startingAreas": [
+      "Beavers-Whatcom Pass"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "hooter-camp-closed-due-to-fire-damage",
+    "name": "Hooter Camp-Closed due to fire damage",
+    "lat": 48.3482122,
+    "lon": -120.6654569,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "juanita-lake-camp",
+    "name": "Juanita Lake Camp",
+    "lat": 48.31980108,
+    "lon": -120.5900393,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ]
+  },
+  {
+    "id": "juanita-lake-stock-camp",
+    "name": "Juanita Lake Stock Camp",
+    "lat": 48.32036226,
+    "lon": -120.5902715,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ]
+  },
+  {
+    "id": "rennie-camp",
+    "name": "Rennie Camp",
+    "lat": 48.36082906,
+    "lon": -120.6176701,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ]
+  },
+  {
+    "id": "reynolds-camp",
+    "name": "Reynolds Camp",
+    "lat": 48.3591386,
+    "lon": -120.5836735,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ]
+  },
+  {
+    "id": "reynolds-stock-camp",
+    "name": "Reynolds Stock Camp",
+    "lat": 48.359561,
+    "lon": -120.5847218,
+    "type": "designated_campsite",
+    "context": "Boulder Creek-Purple Pass",
+    "startingAreas": [
+      "Boulder Creek-Purple Pass"
+    ]
+  },
+  {
+    "id": "basin-creek-camp",
+    "name": "Basin Creek Camp",
+    "lat": 48.46381118,
+    "lon": -121.0185047,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "cottonwood-group-camp",
+    "name": "Cottonwood Group Camp",
+    "lat": 48.45194882,
+    "lon": -120.9920207,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "cottonwood-camp",
+    "name": "Cottonwood Camp",
+    "lat": 48.45194882,
+    "lon": -120.9920207,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "johannesburg-camp",
+    "name": "Johannesburg Camp",
+    "lat": 48.47685547,
+    "lon": -121.0751473,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "pelton-basin-camp",
+    "name": "Pelton Basin Camp",
+    "lat": 48.46231467,
+    "lon": -121.0488725,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "pelton-basin-group-camp",
+    "name": "Pelton Basin Group Camp",
+    "lat": 48.46231467,
+    "lon": -121.0488725,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "sahale-glacier-camp",
+    "name": "Sahale Glacier Camp",
+    "lat": 48.48514798,
+    "lon": -121.0451822,
+    "type": "designated_campsite",
+    "context": "Cascade Pass Area",
+    "startingAreas": [
+      "Cascade Pass Area"
+    ]
+  },
+  {
+    "id": "boundary-camp",
+    "name": "Boundary Camp",
+    "lat": 48.88736691,
+    "lon": -121.5238464,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "copper-creek-camp",
+    "name": "Copper Creek Camp",
+    "lat": 48.8811373,
+    "lon": -121.4889976,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "copper-lake-camp",
+    "name": "Copper Lake Camp",
+    "lat": 48.91858267,
+    "lon": -121.4490697,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "egg-lake-camp",
+    "name": "Egg Lake Camp",
+    "lat": 48.90002723,
+    "lon": -121.4844407,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "graybeal-camp-closed-due-to-fire-damage",
+    "name": "Graybeal Camp- Closed due to fire damage",
+    "lat": 48.87991444,
+    "lon": -121.4119219,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "graybeal-stock-camp-closed-due-to-fire-damage",
+    "name": "Graybeal Stock Camp-Closed due to fire damage",
+    "lat": 48.88120296,
+    "lon": -121.4125217,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "indian-creek-camp",
+    "name": "Indian Creek Camp",
+    "lat": 48.93492843,
+    "lon": -121.3944677,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "silesia-camp",
+    "name": "Silesia Camp",
+    "lat": 48.89432224,
+    "lon": -121.4827112,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "us-cabin-camp",
+    "name": "US Cabin Camp",
+    "lat": 48.89802531,
+    "lon": -121.4469907,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ]
+  },
+  {
+    "id": "us-cabin-stock-camp-closed",
+    "name": "US Cabin Stock Camp-Closed",
+    "lat": 48.89774136,
+    "lon": -121.4479504,
+    "type": "designated_campsite",
+    "context": "Copper-Chilliwack",
+    "startingAreas": [
+      "Copper-Chilliwack"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "big-beaver-boat-group-camp",
+    "name": "Big Beaver Boat Group Camp",
+    "lat": 48.77508314,
+    "lon": -121.0588336,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "big-beaver-boat-camp",
+    "name": "Big Beaver Boat Camp",
+    "lat": 48.77508314,
+    "lon": -121.0588336,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "boundary-bay-boat-group-camp",
+    "name": "Boundary Bay Boat Group Camp",
+    "lat": 48.92882361,
+    "lon": -121.0485426,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "boundary-bay-boat-camp",
+    "name": "Boundary Bay Boat Camp",
+    "lat": 48.92882361,
+    "lon": -121.0485426,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "buster-brown-boat-camp",
+    "name": "Buster Brown Boat Camp",
+    "lat": 48.71725311,
+    "lon": -121.0982684,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "cat-island-boat-group-camp",
+    "name": "Cat Island Boat Group Camp ",
+    "lat": 48.88409969,
+    "lon": -121.0386119,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "cat-island-boat-camp",
+    "name": "Cat Island Boat Camp",
+    "lat": 48.88409969,
+    "lon": -121.0386119,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "cougar-island-boat-camp",
+    "name": "Cougar Island Boat Camp",
+    "lat": 48.75264622,
+    "lon": -121.0284213,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "devils-junction-boat-camp",
+    "name": "Devils Junction Boat Camp",
+    "lat": 48.83529795,
+    "lon": -121.0233639,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "dry-creek-boat-group-camp",
+    "name": "Dry Creek Boat Group Camp",
+    "lat": 48.85585516,
+    "lon": -121.0191631,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "dry-creek-boat-camp",
+    "name": "Dry Creek Boat Camp",
+    "lat": 48.85585516,
+    "lon": -121.0191631,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "green-point-boat-camp-4",
+    "name": "Green Point Boat Camp (4)",
+    "lat": 48.73927286,
+    "lon": -121.0530467,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "green-point-boat-camp-8",
+    "name": "Green Point Boat Camp (8)",
+    "lat": 48.73927286,
+    "lon": -121.0530467,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "green-point-boat-group-camp",
+    "name": "Green Point Boat Group Camp",
+    "lat": 48.73927286,
+    "lon": -121.0530467,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "hidden-cove-boat-camp",
+    "name": "Hidden Cove Boat Camp",
+    "lat": 48.71190188,
+    "lon": -121.1011358,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "lightning-creek-boat-group-camp",
+    "name": "Lightning Creek Boat Group Camp",
+    "lat": 48.87693696,
+    "lon": -121.0222161,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "lightning-creek-boat-camp",
+    "name": "Lightning Creek Boat Camp",
+    "lat": 48.87693696,
+    "lon": -121.0222161,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "little-beaver-boat-group-camp",
+    "name": "Little Beaver Boat Group Camp",
+    "lat": 48.9149166,
+    "lon": -121.0740568,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "little-beaver-boat-camp-4-closed-due-to-fire-damage",
+    "name": "Little Beaver Boat Camp (4)- Closed due to fire damage",
+    "lat": 48.9149166,
+    "lon": -121.0740568,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "little-beaver-boat-camp-8",
+    "name": "Little Beaver Boat Camp (8)",
+    "lat": 48.9149166,
+    "lon": -121.0740568,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "lodgepole-boat-camp",
+    "name": "Lodgepole Boat Camp",
+    "lat": 48.867023,
+    "lon": -121.0169835,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "may-creek-boat-camp",
+    "name": "May Creek Boat Camp",
+    "lat": 48.78529446,
+    "lon": -121.0312224,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "mcmillan-boat-group-camp",
+    "name": "McMillan Boat Group Camp",
+    "lat": 48.77264121,
+    "lon": -121.0347306,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "mcmillan-boat-camp",
+    "name": "McMillan Boat Camp",
+    "lat": 48.77264121,
+    "lon": -121.0347306,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "ponderosa-boat-group-camp",
+    "name": "Ponderosa Boat Group Camp",
+    "lat": 48.86112369,
+    "lon": -121.0200067,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "rainbow-point-boat-camp",
+    "name": "Rainbow Point Boat Camp",
+    "lat": 48.79890584,
+    "lon": -121.042575,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "roland-point-boat-camp",
+    "name": "Roland Point Boat Camp",
+    "lat": 48.7669373,
+    "lon": -121.0286741,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "silver-creek-boat-group-camp",
+    "name": "Silver Creek Boat Group Camp",
+    "lat": 48.9677663,
+    "lon": -121.1005937,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "silver-creek-boat-camp",
+    "name": "Silver Creek Boat Camp",
+    "lat": 48.9677663,
+    "lon": -121.1005937,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "spencer-s-boat-camp",
+    "name": "Spencer's Boat Camp",
+    "lat": 48.77689008,
+    "lon": -121.0314381,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "ten-mile-island-boat-camp",
+    "name": "Ten Mile Island Boat Camp",
+    "lat": 48.84815796,
+    "lon": -121.0188678,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "thunder-point-boat-camp",
+    "name": "Thunder Point Boat Camp",
+    "lat": 48.70811171,
+    "lon": -121.1036468,
+    "type": "designated_campsite",
+    "context": "Diablo-Ross Lake Boat-In",
+    "startingAreas": [
+      "Diablo-Ross Lake Boat-In"
+    ]
+  },
+  {
+    "id": "deerlick-stock-camp",
+    "name": "Deerlick Stock Camp",
+    "lat": 48.90311068,
+    "lon": -120.9802976,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "desolation-camp",
+    "name": "Desolation Camp",
+    "lat": 48.90177345,
+    "lon": -121.0112998,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "devils-creek-hiker-camp",
+    "name": "Devils Creek Hiker Camp",
+    "lat": 48.83771361,
+    "lon": -121.0201497,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "devils-creek-stock-camp",
+    "name": "Devils Creek Stock Camp",
+    "lat": 48.83772968,
+    "lon": -121.0184427,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "hidden-hand-group-camp",
+    "name": "Hidden Hand Group Camp",
+    "lat": 48.73026304,
+    "lon": -121.0192723,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "hidden-hand-stock-camp",
+    "name": "Hidden Hand Stock Camp",
+    "lat": 48.73005306,
+    "lon": -121.0177258,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "hozomeen-lake-group-camp",
+    "name": "Hozomeen Lake Group Camp",
+    "lat": 48.95592133,
+    "lon": -121.0379527,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "hozomeen-lake-camp",
+    "name": "Hozomeen Lake Camp",
+    "lat": 48.95592133,
+    "lon": -121.0379527,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "lightning-creek-stock-camp",
+    "name": "Lightning Creek Stock Camp",
+    "lat": 48.87301649,
+    "lon": -121.0186754,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "may-creek-stock-camp",
+    "name": "May Creek Stock Camp",
+    "lat": 48.78685712,
+    "lon": -121.0287276,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "nightmare-group-camp",
+    "name": "Nightmare Group Camp",
+    "lat": 48.93376689,
+    "lon": -120.9864331,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "roland-creek-group-camp",
+    "name": "Roland Creek Group Camp",
+    "lat": 48.77135763,
+    "lon": -121.0209648,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "roland-creek-camp",
+    "name": "Roland Creek Camp",
+    "lat": 48.77135763,
+    "lon": -121.0209648,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "ruby-pasture-camp",
+    "name": "Ruby Pasture Camp",
+    "lat": 48.72839369,
+    "lon": -121.0140407,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "willow-lake-camp",
+    "name": "Willow Lake Camp",
+    "lat": 48.94395996,
+    "lon": -121.0139252,
+    "type": "designated_campsite",
+    "context": "East Bank Trail",
+    "startingAreas": [
+      "East Bank Trail"
+    ]
+  },
+  {
+    "id": "bench-creek-camp",
+    "name": "Bench Creek Camp",
+    "lat": 48.37854774,
+    "lon": -120.6868141,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "bench-creek-group-camp",
+    "name": "Bench Creek Group Camp",
+    "lat": 48.39841653,
+    "lon": -120.6856879,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "bowan-camp",
+    "name": "Bowan Camp",
+    "lat": 48.39841653,
+    "lon": -120.6856879,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "dan-s-camp",
+    "name": "Dan's Camp",
+    "lat": 48.43352086,
+    "lon": -120.7584016,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "hidden-meadows-stock-camp",
+    "name": "Hidden Meadows Stock Camp",
+    "lat": 48.43511993,
+    "lon": -120.6655041,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "high-camp",
+    "name": "High Camp",
+    "lat": 48.42525444,
+    "lon": -120.6655316,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "mcalester-lake-camp",
+    "name": "McAlester Lake Camp",
+    "lat": 48.42957151,
+    "lon": -120.6777257,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "mcalester-lake-group-camp",
+    "name": "McAlester Lake Group Camp",
+    "lat": 48.42957151,
+    "lon": -120.6777257,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "mcalester-lake-stock-camp",
+    "name": "McAlester Lake Stock Camp",
+    "lat": 48.43010213,
+    "lon": -120.6777382,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-bridge-camp",
+    "name": "Rainbow Bridge Camp",
+    "lat": 48.34653359,
+    "lon": -120.6941387,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-ford-camp",
+    "name": "Rainbow Ford Camp",
+    "lat": 48.36755382,
+    "lon": -120.6879799,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-lake-camp",
+    "name": "Rainbow Lake Camp",
+    "lat": 48.40138084,
+    "lon": -120.7370532,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-meadows-camp",
+    "name": "Rainbow Meadows Camp",
+    "lat": 48.38799874,
+    "lon": -120.7230323,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-meadows-group-camp",
+    "name": "Rainbow Meadows Group Camp",
+    "lat": 48.39375197,
+    "lon": -120.7316379,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "rainbow-meadows-stock-camp",
+    "name": "Rainbow Meadows Stock Camp",
+    "lat": 48.39069235,
+    "lon": -120.7269871,
+    "type": "designated_campsite",
+    "context": "Rainbow-McAlester",
+    "startingAreas": [
+      "Rainbow-McAlester"
+    ]
+  },
+  {
+    "id": "buckner-camp",
+    "name": "Buckner Camp",
+    "lat": 48.47472282,
+    "lon": -120.9480874,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "cosho-camp",
+    "name": "Cosho Camp",
+    "lat": 48.56864584,
+    "lon": -120.9285739,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "fisher-camp",
+    "name": "Fisher Camp",
+    "lat": 48.56768968,
+    "lon": -120.8589539,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "five-mile-stock-camp",
+    "name": "Five Mile Stock Camp",
+    "lat": 48.47114277,
+    "lon": -120.9451328,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "fourth-of-july-camp",
+    "name": "Fourth of July Camp",
+    "lat": 48.66258424,
+    "lon": -121.045727,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "junction-camp",
+    "name": "Junction Camp",
+    "lat": 48.58603534,
+    "lon": -121.0233482,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "junction-stock-camp",
+    "name": "Junction Stock Camp",
+    "lat": 48.58524924,
+    "lon": -121.0209753,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "mcallister-camp",
+    "name": "McAllister Camp",
+    "lat": 48.62200118,
+    "lon": -121.0576908,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "mcallister-group-camp",
+    "name": "McAllister Group Camp",
+    "lat": 48.62200118,
+    "lon": -121.0576908,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "mcallister-stock-camp",
+    "name": "McAllister Stock Camp",
+    "lat": 48.61980394,
+    "lon": -121.0531124,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "neve-camp",
+    "name": "Neve Camp",
+    "lat": 48.6660055,
+    "lon": -121.0683939,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "panther-group-camp",
+    "name": "Panther Group Camp",
+    "lat": 48.68341123,
+    "lon": -120.9986065,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "park-creek-camp",
+    "name": "Park Creek Camp",
+    "lat": 48.42848802,
+    "lon": -120.9154133,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "skagit-queen-camp",
+    "name": "Skagit Queen Camp",
+    "lat": 48.54298614,
+    "lon": -121.015344,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "thunder-basin-camp",
+    "name": "Thunder Basin Camp",
+    "lat": 48.50623509,
+    "lon": -120.9725729,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "thunder-basin-stock-camp",
+    "name": "Thunder Basin Stock Camp",
+    "lat": 48.51771443,
+    "lon": -120.9842796,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "thunder-group-camp",
+    "name": "Thunder Group Camp",
+    "lat": 48.67255994,
+    "lon": -121.0724344,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "thunder-camp",
+    "name": "Thunder Camp",
+    "lat": 48.67255994,
+    "lon": -121.0724344,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "tricouni-camp",
+    "name": "Tricouni Camp",
+    "lat": 48.60240741,
+    "lon": -121.0484563,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "two-mile-camp",
+    "name": "Two Mile Camp",
+    "lat": 48.44566214,
+    "lon": -120.9070799,
+    "type": "designated_campsite",
+    "context": "Thunder-Fisher-Park Creek-Panther",
+    "startingAreas": [
+      "Thunder-Fisher-Park Creek-Panther"
+    ]
+  },
+  {
+    "id": "bridge-creek-group-camp",
+    "name": "Bridge Creek Group Camp",
+    "lat": 48.43058734,
+    "lon": -120.8706304,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "bridge-creek-stock-camp",
+    "name": "Bridge Creek Stock Camp",
+    "lat": 48.431551,
+    "lon": -120.8700559,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "dagger-lake-group-camp",
+    "name": "Dagger Lake Group Camp",
+    "lat": 48.46896808,
+    "lon": -120.6567316,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "dagger-lake-stock-camp",
+    "name": "Dagger Lake Stock Camp",
+    "lat": 48.46989205,
+    "lon": -120.6577413,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "fireweed-camp",
+    "name": "Fireweed Camp",
+    "lat": 48.46722606,
+    "lon": -120.7175394,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "fireweed-stock-camp",
+    "name": "Fireweed Stock Camp",
+    "lat": 48.46728048,
+    "lon": -120.7211315,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "grizzly-creek-camp",
+    "name": "Grizzly Creek Camp",
+    "lat": 48.49318097,
+    "lon": -120.8623573,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "heaton-stock-camp",
+    "name": "Heaton Stock Camp",
+    "lat": 48.4043653,
+    "lon": -120.8049601,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "hideaway-group-camp",
+    "name": "Hideaway Group Camp",
+    "lat": 48.46493977,
+    "lon": -120.7412185,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "high-bridge-overflow-camp",
+    "name": "High Bridge Overflow Camp",
+    "lat": 48.38105455,
+    "lon": -120.8394297,
+    "type": "designated_campsite",
+    "context": "Stehekin/Other",
+    "startingAreas": [
+      "Stehekin/Other"
+    ]
+  },
+  {
+    "id": "north-fork-group-camp",
+    "name": "North Fork Group Camp",
+    "lat": 48.45714076,
+    "lon": -120.8435288,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "north-fork-camp",
+    "name": "North Fork Camp",
+    "lat": 48.45714076,
+    "lon": -120.8435288,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "shady-camp",
+    "name": "Shady Camp",
+    "lat": 48.41763159,
+    "lon": -120.8640465,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "south-fork-camp",
+    "name": "South Fork Camp",
+    "lat": 48.46332096,
+    "lon": -120.7687077,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "south-fork-stock-camp",
+    "name": "South Fork Stock Camp",
+    "lat": 48.46391528,
+    "lon": -120.7704925,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "tumwater-camp",
+    "name": "Tumwater Camp",
+    "lat": 48.38991046,
+    "lon": -120.8441352,
+    "type": "designated_campsite",
+    "context": "Stehekin/Other",
+    "startingAreas": [
+      "Stehekin/Other"
+    ]
+  },
+  {
+    "id": "walker-park-stock-camp",
+    "name": "Walker Park Stock Camp",
+    "lat": 48.48571744,
+    "lon": -120.8531645,
+    "type": "designated_campsite",
+    "context": "Twisp-Bridge Creek-North Fork",
+    "startingAreas": [
+      "Twisp-Bridge Creek-North Fork"
+    ]
+  },
+  {
+    "id": "monogram-lake-camp",
+    "name": "Monogram Lake Camp",
+    "lat": 48.55671186,
+    "lon": -121.2837416,
+    "type": "designated_campsite",
+    "context": "Short Trails",
+    "startingAreas": [
+      "Short Trails"
+    ]
+  },
+  {
+    "id": "pierce-mountain-camp",
+    "name": "Pierce Mountain Camp",
+    "lat": 48.74509662,
+    "lon": -121.0946213,
+    "type": "designated_campsite",
+    "context": "Short Trails",
+    "startingAreas": [
+      "Short Trails"
+    ]
+  },
+  {
+    "id": "sourdough-camp",
+    "name": "Sourdough Camp",
+    "lat": 48.7444318,
+    "lon": -121.1291611,
+    "type": "designated_campsite",
+    "context": "Short Trails",
+    "startingAreas": [
+      "Short Trails"
+    ]
+  },
+  {
+    "id": "sulphide-creek-group-camp-not-accessible-from-baker-river-trailhead",
+    "name": "Sulphide Creek Group Camp- Not accessible from Baker River Trailhead",
+    "lat": 48.77906522,
+    "lon": -121.5370589,
+    "type": "designated_campsite",
+    "context": "Short Trails",
+    "startingAreas": [
+      "Short Trails"
+    ]
+  },
+  {
+    "id": "thornton-lake-camp",
+    "name": "Thornton Lake Camp",
+    "lat": 48.68105549,
+    "lon": -121.3302369,
+    "type": "designated_campsite",
+    "context": "Short Trails",
+    "startingAreas": [
+      "Short Trails"
+    ]
+  },
+  {
+    "id": "trapper-lake-cross-country-zone-ii",
+    "name": "Trapper Lake Cross Country Zone II",
+    "lat": 48.44215093,
+    "lon": -121.0116299,
+    "type": "at_large",
+    "context": "Cross Country Zones (South)",
+    "startingAreas": [
+      "Cross Country Zones (South)"
+    ]
+  },
+  {
+    "id": "six-mile-pct-thru-hiker-camp",
+    "name": "Six Mile PCT Thru-Hiker Camp",
+    "lat": 48.4629487,
+    "lon": -120.7833253,
+    "type": "designated_campsite",
+    "context": "NPS Administrative Sites",
+    "startingAreas": [
+      "NPS Administrative Sites"
+    ]
+  },
+  {
+    "id": "little-jack-cross-country-zone-ii",
+    "name": "Little Jack Cross Country Zone II",
+    "lat": 48.73898,
+    "lon": -120.98574,
+    "type": "at_large",
+    "context": "Cross Country Zones (North)",
+    "startingAreas": [
+      "Cross Country Zones (North)"
+    ]
+  }
+]

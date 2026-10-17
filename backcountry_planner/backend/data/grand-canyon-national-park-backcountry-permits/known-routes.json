@@ -1,0 +1,37 @@
+[
+  {
+    "id": "south-kaibab-bright-angel-loop",
+    "name": "South Kaibab–Bright Angel Corridor Loop",
+    "stops": ["south-kaibab-trailhead", "cbg-bright-angel-campground", "cig-havasupai-gardens-campground", "bright-angel-trailhead"],
+    "typicalNights": 1,
+    "notes": "The classic South Rim descent via South Kaibab and ascent via Bright Angel. Bright Angel and Havasupai Gardens are the complete corridor campground choices in the permit data; the route is commonly about 16–17 miles with roughly 4,500–4,800 feet of net rim-to-river change."
+  },
+  {
+    "id": "rim-to-rim-north-kaibab-bright-angel",
+    "name": "Rim-to-Rim: North Kaibab to Bright Angel",
+    "stops": ["north-kaibab-trailhead", "ccg-cottonwood-campground", "cbg-bright-angel-campground", "cig-havasupai-gardens-campground", "bright-angel-trailhead"],
+    "typicalNights": 2,
+    "notes": "North Rim to South Rim corridor. Cottonwood, Bright Angel and Havasupai Gardens are the designated overnight choices shown by the NPS corridor permit system. The NPS describes the Bright Angel–Cottonwood segment as 14.5 miles with about 6,000 feet of elevation change; seasonal North Rim access is critical."
+  },
+  {
+    "id": "escalante-route",
+    "name": "Escalante Route: Tanner to New Hance",
+    "stops": ["tanner-trailhead", "bb9-tanner-at-large-camping", "bc9-cardenas-at-large-camping", "be9-hance-creek-at-large-camping", "new-hance-trailhead"],
+    "typicalNights": 2,
+    "notes": "NPS-named east-rim-to-east-rim route. Tanner, Cardenas and Hance Creek are at-large use areas rather than fixed tent pads; campsite locations are chosen within each permitted area. Mileage and elevation vary with route-finding and river-level conditions."
+  },
+  {
+    "id": "hermit-boucher-tonto-loop",
+    "name": "Hermit–Boucher / Tonto Loop",
+    "stops": ["hermit-trailhead", "bn9-boucher-at-large-camping", "bl7-monument-creek-campsite", "bm7-hermit-creek-campsite", "hermit-trailhead"],
+    "typicalNights": 2,
+    "notes": "Challenging west-rim loop using Boucher and the Tonto Trail. Boucher and Monument Creek are at-large/designated use areas and Hermit Creek is a designated camp. The NPS Boucher sheet gives 9.3 miles to Boucher Creek and 5 miles onward to Hermit Creek before the climb out."
+  },
+  {
+    "id": "grandview-horseshoe-mesa-loop",
+    "name": "Grandview Trail / Horseshoe Mesa Loop",
+    "stops": ["grandview-trailhead", "bf5-horseshoe-mesa-campsite", "bg9-cottonwood-creek-at-large-camping-accessed-from-grandview-trail", "grandview-trailhead"],
+    "typicalNights": 1,
+    "notes": "Classic South Rim overnight to Horseshoe Mesa, with Cottonwood Creek as the permitted at-large alternative. Side trips to the mesa arms are not included in the corridor total."
+  }
+]

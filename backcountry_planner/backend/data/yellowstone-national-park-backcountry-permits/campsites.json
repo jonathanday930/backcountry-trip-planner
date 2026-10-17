@@ -1,0 +1,5353 @@
+[
+  {
+    "id": "artist-point-trailhead",
+    "name": "Artist Point Trailhead",
+    "lat": 44.72017685,
+    "lon": -110.479724,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "bacon-rind-trailhead",
+    "name": "Bacon Rind Trailhead",
+    "lat": 44.95520327,
+    "lon": -111.0706689,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "bechler-ranger-station-trailhead",
+    "name": "Bechler Ranger Station Trailhead",
+    "lat": 44.14986284,
+    "lon": -111.0454721,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "beula-lake-trailhead",
+    "name": "Beula Lake Trailhead",
+    "lat": 44.12553,
+    "lon": -110.786184,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "bighorn-indian-creek-trailhead",
+    "name": "Bighorn - Indian Creek Trailhead",
+    "lat": 44.88267673,
+    "lon": -110.7352324,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "bighorn-pass-trailhead",
+    "name": "Bighorn Pass Trailhead",
+    "lat": 44.92811403,
+    "lon": -111.0490325,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "biscuit-basin-trailhead",
+    "name": "Biscuit Basin Trailhead",
+    "lat": 44.48491366,
+    "lon": -110.8524986,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "black-butte-trailhead",
+    "name": "Black Butte Trailhead",
+    "lat": 45.03489822,
+    "lon": -111.1141561,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "blacktail-creek-trailhead",
+    "name": "Blacktail Creek Trailhead",
+    "lat": 44.95562344,
+    "lon": -110.5937807,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "bootjack-gap-boundary-no-road-access",
+    "name": "Bootjack Gap (Boundary - No Road Access)",
+    "lat": 44.74815039,
+    "lon": -109.8865899,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "bridge-bay-marina-motorized-boat-launch",
+    "name": "Bridge Bay Marina (Motorized Boat Launch)",
+    "lat": 44.53330836,
+    "lon": -110.4399901,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "bridger-lake-boundary-no-road-access",
+    "name": "Bridger Lake (Boundary - No Road Access)",
+    "lat": 44.13284561,
+    "lon": -110.1094303,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "buffalo-fork-boundary-no-road-access",
+    "name": "Buffalo Fork (Boundary - No Road Access)",
+    "lat": 45.02906322,
+    "lon": -110.293099,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "buffalo-lake-boundary-no-road-access",
+    "name": "Buffalo Lake (Boundary - No Road Access)",
+    "lat": 44.32807432,
+    "lon": -111.0974441,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "buffalo-plateau-boundary-no-road-access",
+    "name": "Buffalo Plateau (Boundary - No Road Access)",
+    "lat": 45.02966494,
+    "lon": -110.3450016,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "bunsen-peak-trailhead",
+    "name": "Bunsen Peak Trailhead",
+    "lat": 44.93214797,
+    "lon": -110.7277218,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "canoe-lake-boundary-no-road-access",
+    "name": "Canoe Lake (Boundary - No Road Access)",
+    "lat": 44.7932385,
+    "lon": -109.9358397,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "cascade-creek-trailhead-bechler-area",
+    "name": "Cascade Creek Trailhead (Bechler area)",
+    "lat": 44.129083,
+    "lon": -110.847718,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "cascade-creek-trailhead-canyon-area",
+    "name": "Cascade Creek Trailhead (Canyon area)",
+    "lat": 44.73527111,
+    "lon": -110.5033865,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "cascade-lake-trailhead",
+    "name": "Cascade Lake Trailhead",
+    "lat": 44.75019315,
+    "lon": -110.4919847,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "cave-falls-trailhead",
+    "name": "Cave Falls Trailhead",
+    "lat": 44.13675366,
+    "lon": -111.0100579,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "chittenden-road-trailhead",
+    "name": "Chittenden Road Trailhead",
+    "lat": 44.82451883,
+    "lon": -110.4445762,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "clear-lake-trailhead",
+    "name": "Clear Lake Trailhead",
+    "lat": 44.71459367,
+    "lon": -110.495394,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "coulter-wolverine-boundary-no-road-access",
+    "name": "Coulter/Wolverine (Boundary - No Road Access)",
+    "lat": 44.13259511,
+    "lon": -110.5134193,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "coyote-creek-boundary-no-road-access",
+    "name": "Coyote Creek (Boundary - No Road Access)",
+    "lat": 45.02969018,
+    "lon": -110.4030973,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "cygnet-lakes-trailhead",
+    "name": "Cygnet Lakes Trailhead",
+    "lat": 44.70585826,
+    "lon": -110.5729882,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "daly-creek-trailhead",
+    "name": "Daly Creek Trailhead",
+    "lat": 45.04850787,
+    "lon": -111.1395232,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "delacy-creek-trailhead",
+    "name": "DeLacy Creek Trailhead",
+    "lat": 44.44677594,
+    "lon": -110.7016143,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "divide-trailhead",
+    "name": "Divide  Trailhead",
+    "lat": 44.43478535,
+    "lon": -110.7345711,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "dunraven-pass-trailhead",
+    "name": "Dunraven Pass Trailhead",
+    "lat": 44.78486668,
+    "lon": -110.4535293,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "eagle-pass-boundary-no-road-access",
+    "name": "Eagle Pass (Boundary - No Road Access)",
+    "lat": 44.32393098,
+    "lon": -110.0040067,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "east-entrance-winter",
+    "name": "East Entrance  (Winter)",
+    "lat": 44.489397,
+    "lon": -110.0017511,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "fairy-falls-trailhead",
+    "name": "Fairy Falls Trailhead",
+    "lat": 44.51416156,
+    "lon": -110.831727,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "fawn-pass-trailhead",
+    "name": "Fawn Pass Trailhead",
+    "lat": 44.9506729,
+    "lon": -111.0589818,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "fish-lake-trailhead",
+    "name": "Fish Lake Trailhead",
+    "lat": 44.123275,
+    "lon": -110.94441,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "fishing-bridge-trailhead",
+    "name": "Fishing Bridge Trailhead",
+    "lat": 44.56672674,
+    "lon": -110.3733916,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "flagg-ranch-south-entrance-winter",
+    "name": "Flagg Ranch/South Entrance (Winter)",
+    "lat": 44.10674,
+    "lon": -110.665556,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Winter Backcountry Zone",
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "fox-creek-boundary-no-road-access",
+    "name": "Fox Creek (Boundary - No Road Access)",
+    "lat": 44.1326334,
+    "lon": -110.300607,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Winter Backcountry Zone",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "freight-road-trailhead",
+    "name": "Freight Road Trailhead",
+    "lat": 44.56712942,
+    "lon": -110.8352154,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "frost-lake-boundary-no-road-access",
+    "name": "Frost Lake (Boundary - No Road Access)",
+    "lat": 44.62386745,
+    "lon": -110.0255548,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "garnet-hill-trailhead",
+    "name": "Garnet Hill Trailhead",
+    "lat": 44.919756,
+    "lon": -110.412596,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "glacial-boulder-trailhead",
+    "name": "Glacial Boulder Trailhead",
+    "lat": 44.72959224,
+    "lon": -110.4726275,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "glen-creek-trailhead",
+    "name": "Glen Creek Trailhead",
+    "lat": 44.93294442,
+    "lon": -110.7276234,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "gneiss-creek-trailhead",
+    "name": "Gneiss Creek Trailhead",
+    "lat": 44.79315541,
+    "lon": -111.0971389,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "grant-village-marina-boat-launch",
+    "name": "Grant Village Marina (Boat Launch)",
+    "lat": 44.39239548,
+    "lon": -110.5517856,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "grassy-lake-trailhead",
+    "name": "Grassy Lake Trailhead",
+    "lat": 44.131462,
+    "lon": -110.820433,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "grebe-lake-trailhead",
+    "name": "Grebe Lake Trailhead",
+    "lat": 44.71793545,
+    "lon": -110.5496792,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "grizzly-lake-trailhead",
+    "name": "Grizzly Lake Trailhead",
+    "lat": 44.79915511,
+    "lon": -110.7453891,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "hawks-rest-boundary-no-road-access",
+    "name": "Hawks Rest (Boundary - No Road Access)",
+    "lat": 44.13282727,
+    "lon": -110.0844517,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Winter Backcountry Zone",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "heart-lake-trailhead",
+    "name": "Heart Lake Trailhead",
+    "lat": 44.31743856,
+    "lon": -110.5982458,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "hellroaring-trailhead",
+    "name": "Hellroaring Trailhead",
+    "lat": 44.94903314,
+    "lon": -110.4505112,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "hoodoo-boundary-no-road-access",
+    "name": "Hoodoo (Boundary - No Road Access)",
+    "lat": 44.70051565,
+    "lon": -109.8266276,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "howard-eaton-trailhead-old-faithful",
+    "name": "Howard Eaton Trailhead (Old Faithful)",
+    "lat": 44.45272377,
+    "lon": -110.8268148,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "ice-lake-trailhead",
+    "name": "Ice Lake Trailhead",
+    "lat": 44.71682798,
+    "lon": -110.6340175,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "lamar-river-stock-trailhead",
+    "name": "Lamar River Stock Trailhead",
+    "lat": 44.86838749,
+    "lon": -110.1745151,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "lamar-river-trailhead",
+    "name": "Lamar River Trailhead",
+    "lat": 44.86917795,
+    "lon": -110.1662232,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lava-creek-picnic-area-trailhead",
+    "name": "Lava Creek Picnic Area Trailhead",
+    "lat": 44.94090013,
+    "lon": -110.6321412,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lava-creek-trailhead",
+    "name": "Lava Creek Trailhead",
+    "lat": 44.97857961,
+    "lon": -110.6920253,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lewis-channel-dogshead-trailhead",
+    "name": "Lewis Channel & Dogshead Trailhead",
+    "lat": 44.32008553,
+    "lon": -110.5995308,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "lewis-lake-boat-launch",
+    "name": "Lewis Lake Boat Launch",
+    "lat": 44.28272189,
+    "lon": -110.628544,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "lone-star-trailhead",
+    "name": "Lone Star Trailhead",
+    "lat": 44.44445964,
+    "lon": -110.8045298,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "mallard-creek-trailhead",
+    "name": "Mallard Creek Trailhead",
+    "lat": 44.50697063,
+    "lon": -110.833135,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "mallard-lake-trailhead",
+    "name": "Mallard Lake Trailhead",
+    "lat": 44.4582713,
+    "lon": -110.8228618,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "mary-mountain-trailhead",
+    "name": "Mary Mountain Trailhead",
+    "lat": 44.68332553,
+    "lon": -110.4937419,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "mount-holmes-trailhead",
+    "name": "Mount Holmes Trailhead",
+    "lat": 44.83828132,
+    "lon": -110.7327298,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "nez-perce-trailhead",
+    "name": "Nez Perce Trailhead",
+    "lat": 44.56992258,
+    "lon": -110.816109,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "nine-mile-trailhead",
+    "name": "Nine Mile Trailhead",
+    "lat": 44.50568077,
+    "lon": -110.2755838,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "pebble-creek-stock-trailhead",
+    "name": "Pebble Creek Stock Trailhead ",
+    "lat": 44.916533,
+    "lon": -110.11288,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "pebble-creek-trailhead",
+    "name": "Pebble Creek Trailhead",
+    "lat": 44.91603054,
+    "lon": -110.1091584,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "pelican-valley-trailhead",
+    "name": "Pelican Valley Trailhead",
+    "lat": 44.55898888,
+    "lon": -110.3077723,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "pitchstone-trailhead",
+    "name": "Pitchstone Trailhead",
+    "lat": 44.24351969,
+    "lon": -110.6475677,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "republic-pass-boundary-no-road-access",
+    "name": "Republic Pass (Boundary - No Road Access)",
+    "lat": 44.95184102,
+    "lon": -109.9532296,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lamar",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "rescue-creek-trailhead-closed",
+    "name": "Rescue Creek Trailhead - CLOSED",
+    "lat": 45.01775124,
+    "lon": -110.693599,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "robinson-creek-boundary-no-road-access",
+    "name": "Robinson Creek (Boundary - No Road Access)",
+    "lat": 44.23676507,
+    "lon": -111.0976693,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "sedge-bay-boat-launch-hand-carry-boats-only",
+    "name": "Sedge Bay Boat Launch (Hand Carry Boats Only)",
+    "lat": 44.51921104,
+    "lon": -110.2780002,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "sepulcher-mountain-trailhead",
+    "name": "Sepulcher Mountain Trailhead",
+    "lat": 44.97382331,
+    "lon": -110.7044179,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "seven-mile-bridge-trailhead",
+    "name": "Seven Mile Bridge Trailhead",
+    "lat": 44.66383561,
+    "lon": -110.9648958,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "sky-rim-boundary-no-road-access",
+    "name": "Sky Rim (Boundary - No Road Access)",
+    "lat": 45.10516615,
+    "lon": -111.11441,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "slough-creek-trailhead",
+    "name": "Slough Creek Trailhead",
+    "lat": 44.94356355,
+    "lon": -110.3079313,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble",
+      "Winter Backcountry Zone",
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "snow-pass-trailhead",
+    "name": "Snow Pass Trailhead",
+    "lat": 44.95897612,
+    "lon": -110.7120832,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "solfatara-creek-trailhead",
+    "name": "Solfatara Creek Trailhead",
+    "lat": 44.73813933,
+    "lon": -110.6921422,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "solfatara-trailhead",
+    "name": "Solfatara Trailhead",
+    "lat": 44.80671527,
+    "lon": -110.7347447,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "south-boundary-trailhead",
+    "name": "South Boundary Trailhead",
+    "lat": 44.13645075,
+    "lon": -110.6661034,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "south-boundary-west-trailhead",
+    "name": "South Boundary West Trailhead",
+    "lat": 44.13436122,
+    "lon": -110.668935,
+    "type": "trailhead",
+    "startingAreas": [
+      "Bechler/Southwest",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "specimen-creek-trailhead",
+    "name": "Specimen Creek Trailhead",
+    "lat": 45.01261112,
+    "lon": -111.0806457,
+    "type": "trailhead",
+    "startingAreas": [
+      "Gallatin/Northwest",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "specimen-ridge-trailhead",
+    "name": "Specimen Ridge Trailhead",
+    "lat": 44.91230301,
+    "lon": -110.3873459,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lamar",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "summit-lake-boundary-no-road-access",
+    "name": "Summit Lake (Boundary - No Road Access)",
+    "lat": 44.39447652,
+    "lon": -111.0971384,
+    "type": "trailhead",
+    "startingAreas": [
+      "Old Faithful",
+      "Out of Park",
+      "Shoshone Lake",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "thorofare-boundary-no-road-access",
+    "name": "Thorofare (Boundary - No Road Access)",
+    "lat": 44.13281557,
+    "lon": -110.0727476,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Snake River/Heart Lake",
+      "Thorofare/Two Ocean",
+      "Winter Backcountry Zone",
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "thunderer-trailhead",
+    "name": "Thunderer Trailhead",
+    "lat": 44.92129324,
+    "lon": -110.0955425,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lamar",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "tower-junction",
+    "name": "Tower Junction",
+    "lat": 44.9160352,
+    "lon": -110.4158503,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Winter Backcountry Zone",
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "upper-hellroaring-boundary-no-road-access",
+    "name": "Upper Hellroaring (Boundary - No Road Access)",
+    "lat": 45.02970813,
+    "lon": -110.4402319,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "upper-slough-boundary-no-road-access",
+    "name": "Upper Slough (Boundary - No Road Access)",
+    "lat": 45.02929623,
+    "lon": -110.1747811,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "wapiti-lake-trailhead",
+    "name": "Wapiti Lake Trailhead",
+    "lat": 44.70773282,
+    "lon": -110.5002751,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "warm-creek-trailhead",
+    "name": "Warm Creek Trailhead",
+    "lat": 45.00523964,
+    "lon": -110.0339599,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "west-entrance-winter",
+    "name": "West Entrance (Winter)",
+    "lat": 44.658383,
+    "lon": -111.096252,
+    "type": "trailhead",
+    "startingAreas": [
+      "Out of Park",
+      "Winter Backcountry Zone",
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "wolf-lake-trailhead",
+    "name": "Wolf Lake Trailhead",
+    "lat": 44.71288766,
+    "lon": -110.6265154,
+    "type": "trailhead",
+    "startingAreas": [
+      "Canyon",
+      "Out of Park"
+    ]
+  },
+  {
+    "id": "yellowstone-river-picnic-area-trailhead",
+    "name": "Yellowstone River Picnic Area Trailhead",
+    "lat": 44.91680661,
+    "lon": -110.4005519,
+    "type": "trailhead",
+    "startingAreas": [
+      "Lamar",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "yellowstone-river-trailhead-usfs-eagle-creek-campground",
+    "name": "Yellowstone River Trailhead (USFS Eagle Creek Campground) ",
+    "lat": 45.04536985,
+    "lon": -110.6779053,
+    "type": "trailhead",
+    "startingAreas": [
+      "Blacktail/Hellroaring",
+      "Out of Park",
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "1a1-lower-blacktail-creek-backpacker-stock",
+    "name": "1A1  Lower Blacktail Creek  (Backpacker, Stock)",
+    "lat": 44.97971,
+    "lon": -110.59345,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1a2-rescue-creek-backpacker",
+    "name": "1A2  Rescue Creek  (Backpacker)",
+    "lat": 44.98221,
+    "lon": -110.62434,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1a3-lava-creek-backpacker",
+    "name": "1A3  Lava Creek  (Backpacker)",
+    "lat": 44.95017,
+    "lon": -110.65568,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1b1-indian-creek-backpacker",
+    "name": "1B1  Indian Creek  (Backpacker)",
+    "lat": 44.88722,
+    "lon": -110.75053,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1c1-straight-creek-south-backpacker",
+    "name": "1C1  Straight Creek South  (Backpacker)",
+    "lat": 44.82583,
+    "lon": -110.76957,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1c2-straight-creek-north-backpacker-llama",
+    "name": "1C2  Straight Creek North  (Backpacker, Llama)",
+    "lat": 44.83427,
+    "lon": -110.76617,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1c4-winter-creek-backpacker-stock",
+    "name": "1C4  Winter Creek  (Backpacker, Stock)",
+    "lat": 44.81215,
+    "lon": -110.7969,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1c5-winter-creek-sw-backpacker-stock",
+    "name": "1C5  Winter Creek SW  (Backpacker, Stock)",
+    "lat": 44.8084,
+    "lon": -110.79855,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1f1-fawn-creek-stock",
+    "name": "1F1  Fawn Creek  (Stock)",
+    "lat": 44.95496,
+    "lon": -110.79106,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1f2-fawn-lake-backpacker",
+    "name": "1F2  Fawn Lake  (Backpacker)",
+    "lat": 44.95717,
+    "lon": -110.79872,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1g2-gardner-s-hole-backpacker",
+    "name": "1G2  Gardner's Hole  (Backpacker)",
+    "lat": 44.95215,
+    "lon": -110.78156,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1g3-gardner-river-backpacker",
+    "name": "1G3  Gardner River  (Backpacker)",
+    "lat": 44.97209,
+    "lon": -110.80891,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1g4-upper-gardner-river-backpacker",
+    "name": "1G4  Upper Gardner River  (Backpacker)",
+    "lat": 44.97442,
+    "lon": -110.81149,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1g5-soldier-s-corral-stock",
+    "name": "1G5  Soldier's Corral  (Stock)",
+    "lat": 44.94666,
+    "lon": -110.7826,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "1r1-w-cottonwood-creek-backpacker-stock",
+    "name": "1R1  W Cottonwood Creek  (Backpacker, Stock)",
+    "lat": 44.99275,
+    "lon": -110.5165,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1r2-e-cottonwood-creek-backpacker",
+    "name": "1R2  E Cottonwood Creek  (Backpacker)",
+    "lat": 44.99202,
+    "lon": -110.51386,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1r3-little-cottonwood-creek-backpacker-stock",
+    "name": "1R3  Little Cottonwood Creek  (Backpacker, Stock)",
+    "lat": 44.99029,
+    "lon": -110.48374,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y1-turkey-pen-backpacker",
+    "name": "1Y1  Turkey Pen  (Backpacker)",
+    "lat": 45.01387,
+    "lon": -110.62669,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y2-knowles-falls-backpacker",
+    "name": "1Y2  Knowles Falls  (Backpacker)",
+    "lat": 45.01564,
+    "lon": -110.60971,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y4-crevice-lake-backpacker",
+    "name": "1Y4  Crevice Lake  (Backpacker)",
+    "lat": 45.00407,
+    "lon": -110.58103,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y5-yellowstone-river-bridge-backpacker",
+    "name": "1Y5  Yellowstone River Bridge  (Backpacker)",
+    "lat": 44.99629,
+    "lon": -110.5744,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y6-e-blacktail-creek-backpacker",
+    "name": "1Y6  E Blacktail Creek  (Backpacker)",
+    "lat": 44.99381,
+    "lon": -110.57087,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y7-yellowstone-river-trail-backpacker-stock",
+    "name": "1Y7  Yellowstone River Trail  (Backpacker, Stock)",
+    "lat": 44.9921,
+    "lon": -110.55696,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y8-oxbow-creek-backpacker",
+    "name": "1Y8  Oxbow Creek  (Backpacker)",
+    "lat": 44.99203,
+    "lon": -110.56489,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "1y9-black-canyon-backpacker",
+    "name": "1Y9  Black Canyon  (Backpacker)",
+    "lat": 44.99358,
+    "lon": -110.54701,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2b1-buffalo-plateau-backpacker-stock",
+    "name": "2B1  Buffalo Plateau  (Backpacker, Stock)",
+    "lat": 45.01675,
+    "lon": -110.37785,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2c1-lower-coyote-creek-backpacker",
+    "name": "2C1  Lower Coyote Creek  (Backpacker)",
+    "lat": 45.00066,
+    "lon": -110.41711,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2c2-coyote-creek-backpacker",
+    "name": "2C2 Coyote Creek (Backpacker) ",
+    "lat": 45.00894,
+    "lon": -110.40795,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2c3-coyote-creek-meadow-stock",
+    "name": "2C3  Coyote Creek Meadow  (Stock)",
+    "lat": 45.01609,
+    "lon": -110.40867,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h1-n-yell-hell-confluence-backpacker",
+    "name": "2H1  N Yell/Hell Confluence  (Backpacker)",
+    "lat": 44.9746,
+    "lon": -110.47511,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h2-s-yell-hell-confluence-backpacker",
+    "name": "2H2  S Yell/Hell Confluence  (Backpacker)",
+    "lat": 44.97361,
+    "lon": -110.47529,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h3-hellroaring-creek-ford-backpacker",
+    "name": "2H3  Hellroaring Creek Ford  (Backpacker)",
+    "lat": 44.97213,
+    "lon": -110.45874,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h4-lower-hellroaring-creek-backpacker",
+    "name": "2H4  Lower Hellroaring Creek  (Backpacker)",
+    "lat": 44.97503,
+    "lon": -110.46348,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h5-hellroaring-creek-bench-backpacker",
+    "name": "2H5  Hellroaring Creek Bench  (Backpacker)",
+    "lat": 44.97768,
+    "lon": -110.44283,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h6-hellroaring-creek-backpacker",
+    "name": "2H6  Hellroaring Creek  (Backpacker)",
+    "lat": 44.97669,
+    "lon": -110.44373,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h7-hellroaring-mountain-backpacker",
+    "name": "2H7  Hellroaring Mountain  (Backpacker)",
+    "lat": 44.98351,
+    "lon": -110.433,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h8-hellroaring-coyote-confluence-backpacker",
+    "name": "2H8  Hellroaring-Coyote Confluence  (Backpacker)",
+    "lat": 44.99429,
+    "lon": -110.42793,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2h9-upper-hellroaring-creek-backpacker",
+    "name": "2H9  Upper Hellroaring Creek  (Backpacker)",
+    "lat": 45.00878,
+    "lon": -110.43404,
+    "type": "designated_campsite",
+    "context": "Blacktail/Hellroaring",
+    "startingAreas": [
+      "Blacktail/Hellroaring"
+    ]
+  },
+  {
+    "id": "2s1-lower-slough-creek-backpacker-stock",
+    "name": "2S1  Lower Slough Creek  (Backpacker, Stock)",
+    "lat": 44.97002,
+    "lon": -110.23647,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s2-hornaday-creek-backpacker",
+    "name": "2S2  Hornaday Creek  (Backpacker)",
+    "lat": 44.96576,
+    "lon": -110.22816,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s3-slough-creek-backpacker",
+    "name": "2S3  Slough Creek  (Backpacker)",
+    "lat": 44.97638,
+    "lon": -110.21222,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s4-elk-tongue-backpacker",
+    "name": "2S4  Elk Tongue  (Backpacker)",
+    "lat": 44.99001,
+    "lon": -110.20396,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s6-upper-slough-creek-backpacker",
+    "name": "2S6  Upper Slough Creek  (Backpacker)",
+    "lat": 45.00265,
+    "lon": -110.18527,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s7-upper-slough-ck-stock-s-stock",
+    "name": "2S7  Upper Slough Ck Stock S  (Stock)",
+    "lat": 44.99331,
+    "lon": -110.21402,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2s8-upper-slough-ck-stock-n-stock",
+    "name": "2S8  Upper Slough Ck Stock N  (Stock)",
+    "lat": 45.00608,
+    "lon": -110.19922,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "2y1-agate-creek-backpacker",
+    "name": "2Y1  Agate Creek  (Backpacker)",
+    "lat": 44.852,
+    "lon": -110.35822,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3c2-lower-cache-creek-backpacker-stock",
+    "name": "3C2  Lower Cache Creek  (Backpacker, Stock)",
+    "lat": 44.85396,
+    "lon": -110.06663,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3c3-cache-creek-backpacker-stock",
+    "name": "3C3  Cache Creek  (Backpacker, Stock)",
+    "lat": 44.87423,
+    "lon": -110.04797,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3c4-upper-cache-creek-backpacker",
+    "name": "3C4  Upper Cache Creek  (Backpacker)",
+    "lat": 44.92318,
+    "lon": -110.00463,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3f1-cold-creek-backpacker",
+    "name": "3F1  Cold Creek  (Backpacker)",
+    "lat": 44.67932,
+    "lon": -110.05242,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3f2-lemon-city-backpacker-stock",
+    "name": "3F2  Lemon City  (Backpacker, Stock)",
+    "lat": 44.66953,
+    "lon": -110.04157,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l1-cache-creek-ford-north-backpacker-llama",
+    "name": "3L1  Cache Creek Ford North  (Backpacker, Llama)",
+    "lat": 44.83126,
+    "lon": -110.14329,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l2-cache-creek-ford-south-backpacker",
+    "name": "3L2  Cache Creek Ford South  (Backpacker)",
+    "lat": 44.83109,
+    "lon": -110.14924,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l3-lower-lamar-backpacker",
+    "name": "3L3  Lower Lamar  (Backpacker)",
+    "lat": 44.81334,
+    "lon": -110.14253,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l4-lower-lamar-bench-backpacker",
+    "name": "3L4  Lower Lamar Bench  (Backpacker)",
+    "lat": 44.80755,
+    "lon": -110.13532,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l6-middle-lamar-stock-stock",
+    "name": "3L6  Middle Lamar Stock  (Stock)",
+    "lat": 44.75544,
+    "lon": -110.09787,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l7-middle-lamar-backpacker",
+    "name": "3L7  Middle Lamar  (Backpacker)",
+    "lat": 44.75347,
+    "lon": -110.09706,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l8-timothy-creek-backpacker",
+    "name": "3L8  Timothy Creek  (Backpacker)",
+    "lat": 44.73409,
+    "lon": -110.08949,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3l9-warm-spring-meadow-backpacker-stock",
+    "name": "3L9  Warm Spring Meadow  (Backpacker, Stock)",
+    "lat": 44.72996,
+    "lon": -110.08793,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m1-appaloosa-meadows-backpacker-stock",
+    "name": "3M1  Appaloosa Meadows  (Backpacker, Stock)",
+    "lat": 44.76172,
+    "lon": -110.07504,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m2-lower-miller-creek-backpacker",
+    "name": "3M2  Lower Miller Creek  (Backpacker)",
+    "lat": 44.75562,
+    "lon": -110.04449,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m3-miller-creek-backpacker-stock",
+    "name": "3M3  Miller Creek  (Backpacker, Stock)",
+    "lat": 44.75154,
+    "lon": -110.03127,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m4-upper-miller-creek-backpacker",
+    "name": "3M4  Upper Miller Creek  (Backpacker)",
+    "lat": 44.7511,
+    "lon": -109.97811,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m5-canoe-lake-junction-backpacker",
+    "name": "3M5  Canoe Lake Junction  (Backpacker)",
+    "lat": 44.75009,
+    "lon": -109.97068,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m6-hoodoo-basin-backpacker",
+    "name": "3M6  Hoodoo Basin  (Backpacker)",
+    "lat": 44.72767,
+    "lon": -109.88451,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3m7-boundary-backpacker-stock",
+    "name": "3M7  Boundary  (Backpacker, Stock)",
+    "lat": 44.72755,
+    "lon": -109.86634,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3o1-opal-creek-backpacker-stock",
+    "name": "3O1  Opal Creek  (Backpacker, Stock)",
+    "lat": 44.79927,
+    "lon": -110.19928,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3p1-lower-pebble-creek-backpacker",
+    "name": "3P1  Lower Pebble Creek  (Backpacker)",
+    "lat": 44.95898,
+    "lon": -110.11859,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "3p2-pebble-creek-backpacker",
+    "name": "3P2  Pebble Creek  (Backpacker)",
+    "lat": 44.99479,
+    "lon": -110.11027,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "3p3-bliss-pass-junction-backpacker",
+    "name": "3P3  Bliss Pass Junction  (Backpacker)",
+    "lat": 45.0012,
+    "lon": -110.107,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "3p4-upper-pebble-creek-backpacker-stock",
+    "name": "3P4  Upper Pebble Creek  (Backpacker, Stock)",
+    "lat": 45.02126,
+    "lon": -110.07782,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "3p5-upper-pebble-creek-ford-backpacker",
+    "name": "3P5  Upper Pebble Creek Ford  (Backpacker)",
+    "lat": 45.01901,
+    "lon": -110.05646,
+    "type": "designated_campsite",
+    "context": "Slough/Pebble",
+    "startingAreas": [
+      "Slough/Pebble"
+    ]
+  },
+  {
+    "id": "3t2-mist-creek-meadows-backpacker-stock",
+    "name": "3T2  Mist Creek Meadows  (Backpacker, Stock)",
+    "lat": 44.62173,
+    "lon": -110.11832,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3t3-mist-creek-pass-backpacker-stock",
+    "name": "3T3  Mist Creek Pass  (Backpacker, Stock)",
+    "lat": 44.61368,
+    "lon": -110.13385,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3u1-willow-creek-stock-backpacker-stock",
+    "name": "3U1  Willow Creek Stock  (Backpacker, Stock)",
+    "lat": 44.71811,
+    "lon": -110.08605,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3u2-willow-creek-backpacker",
+    "name": "3U2  Willow Creek  (Backpacker)",
+    "lat": 44.70232,
+    "lon": -110.08027,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3u3-little-saddle-creek-backpacker",
+    "name": "3U3  Little Saddle Creek  (Backpacker)",
+    "lat": 44.68991,
+    "lon": -110.0682,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "3u4-cold-creek-junction-stock",
+    "name": "3U4  Cold Creek Junction  (Stock)",
+    "lat": 44.67907,
+    "lon": -110.05766,
+    "type": "designated_campsite",
+    "context": "Lamar",
+    "startingAreas": [
+      "Lamar"
+    ]
+  },
+  {
+    "id": "4b1-joseph-s-coat-spring-backpacker",
+    "name": "4B1  Joseph's Coat Spring  (Backpacker)",
+    "lat": 44.73526,
+    "lon": -110.32247,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4b3-broad-creek-backpacker-stock",
+    "name": "4B3  Broad Creek  (Backpacker, Stock)",
+    "lat": 44.71077,
+    "lon": -110.28206,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4b4-wapiti-junction-backpacker-stock",
+    "name": "4B4  Wapiti Junction  (Backpacker, Stock)",
+    "lat": 44.71161,
+    "lon": -110.27342,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4c1-old-7-mile-hole-backpacker",
+    "name": "4C1  Old 7 Mile Hole  (Backpacker)",
+    "lat": 44.74827,
+    "lon": -110.41388,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4c2-sulphur-creek-backpacker",
+    "name": "4C2  Sulphur Creek  (Backpacker)",
+    "lat": 44.75333,
+    "lon": -110.40538,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4c3-seven-mile-hole-backpacker",
+    "name": "4C3  Seven Mile Hole  (Backpacker)",
+    "lat": 44.75504,
+    "lon": -110.40138,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4d1-ice-lake-north-backpacker",
+    "name": "4D1  Ice Lake North  (Backpacker)",
+    "lat": 44.72247,
+    "lon": -110.63194,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4d2-ice-lake-east-backpacker",
+    "name": "4D2  Ice Lake East  (Backpacker)",
+    "lat": 44.72204,
+    "lon": -110.62032,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4d3-ice-lake-south-backpacker-handicap-accessible-contact-central-backcountry-office-to-book-in-advance",
+    "name": "4D3  Ice Lake South  (Backpacker/Handicap Accessible) contact Central Backcountry Office to book in advance",
+    "lat": 44.72012,
+    "lon": -110.63305,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4e1-washburn-meadows-backpacker",
+    "name": "4E1  Washburn Meadows  (Backpacker)",
+    "lat": 44.77754,
+    "lon": -110.41117,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4e2-cascade-lake-west-backpacker",
+    "name": "4E2  Cascade Lake West  (Backpacker)",
+    "lat": 44.74977,
+    "lon": -110.52795,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4e3-cascade-lake-north-backpacker",
+    "name": "4E3  Cascade Lake North  (Backpacker)",
+    "lat": 44.75621,
+    "lon": -110.52426,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4e4-cascade-creek-backpacker-stock",
+    "name": "4E4  Cascade Creek  (Backpacker, Stock)",
+    "lat": 44.75509,
+    "lon": -110.51701,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4f1-norris-meadows-backpacker",
+    "name": "4F1  Norris Meadows  (Backpacker)",
+    "lat": 44.73004,
+    "lon": -110.66421,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g2-grebe-lake-se-backpacker",
+    "name": "4G2  Grebe Lake SE  (Backpacker)",
+    "lat": 44.74924,
+    "lon": -110.55571,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g3-grebe-lake-east-backpacker-stock",
+    "name": "4G3  Grebe Lake East  (Backpacker, Stock)",
+    "lat": 44.7541,
+    "lon": -110.55225,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g4-grebe-lake-north-backpacker-stock",
+    "name": "4G4  Grebe Lake North  (Backpacker, Stock)",
+    "lat": 44.7553,
+    "lon": -110.5599,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g5-grebe-lake-outlet-backpacker-stock",
+    "name": "4G5  Grebe Lake Outlet  (Backpacker, Stock)",
+    "lat": 44.75365,
+    "lon": -110.56435,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g6-wolf-lake-backpacker-stock",
+    "name": "4G6  Wolf Lake  (Backpacker, Stock)",
+    "lat": 44.74556,
+    "lon": -110.58074,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4g7-wolf-lake-outlet-backpacker",
+    "name": "4G7  Wolf Lake Outlet  (Backpacker)",
+    "lat": 44.74341,
+    "lon": -110.5859,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4m2-moss-creek-backpacker-stock",
+    "name": "4M2  Moss Creek  (Backpacker, Stock)",
+    "lat": 44.72677,
+    "lon": -110.36259,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4p1-observation-peak-backpacker",
+    "name": "4P1  Observation Peak  (Backpacker)",
+    "lat": 44.77156,
+    "lon": -110.54631,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4r1-ribbon-lake-west-backpacker",
+    "name": "4R1  Ribbon Lake West  (Backpacker)",
+    "lat": 44.72436,
+    "lon": -110.44985,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4r2-ribbon-lake-north-backpacker",
+    "name": "4R2  Ribbon Lake North  (Backpacker)",
+    "lat": 44.72612,
+    "lon": -110.44755,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4w1-wrangler-lake-backpacker-stock",
+    "name": "4W1  Wrangler Lake  (Backpacker, Stock)",
+    "lat": 44.68511,
+    "lon": -110.43633,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4w2-wapiti-lake-point-backpacker",
+    "name": "4W2  Wapiti Lake Point  (Backpacker)",
+    "lat": 44.7202,
+    "lon": -110.25554,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "4w3-wapiti-lake-backpacker",
+    "name": "4W3  Wapiti Lake  (Backpacker)",
+    "lat": 44.72119,
+    "lon": -110.25476,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "5b1-fern-lake-backpacker-stock",
+    "name": "5B1  Fern Lake  (Backpacker, Stock)",
+    "lat": 44.68634,
+    "lon": -110.26624,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "5b2-upper-broad-creek-backpacker-stock",
+    "name": "5B2  Upper Broad Creek  (Backpacker, Stock)",
+    "lat": 44.69765,
+    "lon": -110.26118,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "5e1-beaverdam-trail-backpacker",
+    "name": "5E1  Beaverdam Trail  (Backpacker)",
+    "lat": 44.32433,
+    "lon": -110.1823,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "5e2-terrace-point-boat",
+    "name": "5E2  Terrace Point  (Boat)",
+    "lat": 44.33421,
+    "lon": -110.22184,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e3-brimstone-point-backpacker-boat",
+    "name": "5E3  Brimstone Point  (Backpacker, Boat)",
+    "lat": 44.3519,
+    "lon": -110.22658,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e4-brimstone-bay-backpacker-boat",
+    "name": "5E4  Brimstone Bay  (Backpacker, Boat)",
+    "lat": 44.37425,
+    "lon": -110.22836,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e6-columbine-meadow-backpacker-stock-boat",
+    "name": "5E6  Columbine Meadow  (Backpacker, Stock, Boat)",
+    "lat": 44.40583,
+    "lon": -110.2556,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e7-meadow-creek-backpacker-stock",
+    "name": "5E7  Meadow Creek  (Backpacker, Stock)",
+    "lat": 44.42704,
+    "lon": -110.2862,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e8-park-point-south-backpacker-boat",
+    "name": "5E8  Park Point South  (Backpacker, Boat)",
+    "lat": 44.42425,
+    "lon": -110.28867,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5e9-park-point-north-backpacker-boat",
+    "name": "5E9  Park Point North  (Backpacker, Boat)",
+    "lat": 44.42849,
+    "lon": -110.29365,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5h1-midshore-boat",
+    "name": "5H1  Midshore  (Boat)",
+    "lat": 44.45831,
+    "lon": -110.28893,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l2-monument-camp-backpacker-stock-non-motorized-boat",
+    "name": "5L2  Monument Camp  (Backpacker, Stock, Non-Motorized Boat)",
+    "lat": 44.27647,
+    "lon": -110.30823,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l3-chipmunk-creek-outlet-non-motorized-boat-sailboat",
+    "name": "5L3  Chipmunk Creek Outlet  (Non-Motorized Boat, Sailboat)",
+    "lat": 44.29845,
+    "lon": -110.30452,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l4-south-arm-cove-non-motorized-boat",
+    "name": "5L4  South Arm Cove  (Non-Motorized Boat)",
+    "lat": 44.3041,
+    "lon": -110.31128,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l5-promontory-point-boat",
+    "name": "5L5  Promontory Point  (Boat)",
+    "lat": 44.35007,
+    "lon": -110.32861,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l6-promontory-shore-boat",
+    "name": "5L6  Promontory Shore  (Boat)",
+    "lat": 44.36398,
+    "lon": -110.31896,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l7-promontory-bay-boat",
+    "name": "5L7  Promontory Bay  (Boat)",
+    "lat": 44.37642,
+    "lon": -110.2987,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l8-promontory-tip-boat",
+    "name": "5L8  Promontory Tip  (Boat)",
+    "lat": 44.39263,
+    "lon": -110.28484,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5l9-promontory-saddle-boat",
+    "name": "5L9  Promontory Saddle  (Boat)",
+    "lat": 44.35841,
+    "lon": -110.27276,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "5p7-upper-pelican-backpacker-stock",
+    "name": "5P7  Upper Pelican  (Backpacker, Stock)",
+    "lat": 44.7093,
+    "lon": -110.20736,
+    "type": "designated_campsite",
+    "context": "Canyon",
+    "startingAreas": [
+      "Canyon"
+    ]
+  },
+  {
+    "id": "6a1-promontory-se-non-motorized-boat-sailboat",
+    "name": "6A1  Promontory SE  (Non-Motorized Boat, Sailboat)",
+    "lat": 44.32757,
+    "lon": -110.27713,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "6a2-southeast-arm-inlet-non-motorized-boat-sailboat",
+    "name": "6A2  Southeast Arm Inlet  (Non-Motorized Boat, Sailboat)",
+    "lat": 44.30289,
+    "lon": -110.2529,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "6a3-trail-point-backpacker-non-motorized-boat",
+    "name": "6A3  Trail Point  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.30304,
+    "lon": -110.23343,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "6a4-trail-bay-backpacker-non-motorized-boat",
+    "name": "6A4  Trail Bay  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.29465,
+    "lon": -110.22173,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "6b1-lower-ford-backpacker-stock",
+    "name": "6B1  Lower Ford  (Backpacker, Stock)",
+    "lat": 44.29658,
+    "lon": -110.15542,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6b2-upper-ford-backpacker",
+    "name": "6B2  Upper Ford  (Backpacker)",
+    "lat": 44.29004,
+    "lon": -110.15065,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6b4-beaverdam-meadow-backpacker-stock",
+    "name": "6B4  Beaverdam Meadow  (Backpacker, Stock)",
+    "lat": 44.32388,
+    "lon": -110.17799,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6c1-colter-meadows-backpacker-stock",
+    "name": "6C1  Colter Meadows  (Backpacker, Stock)",
+    "lat": 44.2697,
+    "lon": -110.12851,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6c2-river-s-edge-backpacker-stock",
+    "name": "6C2  River's Edge  (Backpacker, Stock)",
+    "lat": 44.25101,
+    "lon": -110.13408,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6c3-turret-view-backpacker-llama",
+    "name": "6C3  Turret View  (Backpacker, Llama)",
+    "lat": 44.25936,
+    "lon": -110.11491,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d1-lower-mountain-creek-backpacker-stock",
+    "name": "6D1  Lower Mountain Creek  (Backpacker, Stock)",
+    "lat": 44.22437,
+    "lon": -110.1289,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d2-mountain-creek-ford-backpacker",
+    "name": "6D2  Mountain Creek Ford  (Backpacker)",
+    "lat": 44.23046,
+    "lon": -110.10676,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d3-mountain-creek-stock-stock",
+    "name": "6D3  Mountain Creek Stock  (Stock)",
+    "lat": 44.231,
+    "lon": -110.10182,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d5-mountain-creek-backpacker-stock",
+    "name": "6D5  Mountain Creek  (Backpacker, Stock)",
+    "lat": 44.24369,
+    "lon": -110.05846,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d6-howell-creek-backpacker-stock",
+    "name": "6D6  Howell Creek  (Backpacker, Stock)",
+    "lat": 44.26709,
+    "lon": -110.02587,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d7-table-mountain-backpacker",
+    "name": "6D7  Table Mountain  (Backpacker)",
+    "lat": 44.27714,
+    "lon": -110.01863,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6d8-upper-howell-creek-backpacker-stock",
+    "name": "6D8  Upper Howell Creek  (Backpacker, Stock)",
+    "lat": 44.30431,
+    "lon": -110.00308,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6m3-mariposa-lake-backpacker",
+    "name": "6M3  Mariposa Lake  (Backpacker)",
+    "lat": 44.15025,
+    "lon": -110.24574,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6m4-two-ocean-trail-junction-backpacker-stock",
+    "name": "6M4  Two Ocean Trail Junction  (Backpacker, Stock)",
+    "lat": 44.15215,
+    "lon": -110.26109,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6m5-upper-passage-creek-backpacker-stock",
+    "name": "6M5  Upper Passage Creek  (Backpacker, Stock)",
+    "lat": 44.20314,
+    "lon": -110.25956,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6m7-fox-creek-backpacker",
+    "name": "6M7  Fox Creek  (Backpacker)",
+    "lat": 44.1347,
+    "lon": -110.29744,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "6t1-south-thorofare-backpacker-stock",
+    "name": "6T1  South Thorofare  (Backpacker, Stock)",
+    "lat": 44.13987,
+    "lon": -110.1037,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6t2-north-thorofare-backpacker",
+    "name": "6T2  North Thorofare  (Backpacker)",
+    "lat": 44.14236,
+    "lon": -110.106,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6y2-south-yellowstone-river-backpacker",
+    "name": "6Y2  South Yellowstone River  (Backpacker)",
+    "lat": 44.14392,
+    "lon": -110.1261,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6y4-east-confluence-backpacker-stock",
+    "name": "6Y4  East Confluence  (Backpacker, Stock)",
+    "lat": 44.16109,
+    "lon": -110.11863,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6y5-cliff-creek-backpacker",
+    "name": "6Y5  Cliff Creek  (Backpacker)",
+    "lat": 44.16897,
+    "lon": -110.1011,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6y6-three-mile-bend-backpacker-stock",
+    "name": "6Y6  Three Mile Bend  (Backpacker, Stock)",
+    "lat": 44.18603,
+    "lon": -110.11009,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "6y7-yellowstone-meadows-stock",
+    "name": "6Y7  Yellowstone Meadows  (Stock)",
+    "lat": 44.21181,
+    "lon": -110.11036,
+    "type": "designated_campsite",
+    "context": "Thorofare/Two Ocean",
+    "startingAreas": [
+      "Thorofare/Two Ocean"
+    ]
+  },
+  {
+    "id": "7f1-frank-island-bay-s-anchor-self-contained-motorized-boat",
+    "name": "7F1  Frank Island Bay S. Anchor  (Self-Contained Motorized Boat)",
+    "lat": 44.4228,
+    "lon": -110.35432,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7f2-frank-island-bay-n-anchor-self-contained-motorized-boat",
+    "name": "7F2  Frank Island Bay N. Anchor  (Self-Contained Motorized Boat)",
+    "lat": 44.41638,
+    "lon": -110.35469,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7g1-grouse-creek-backpacker-stock",
+    "name": "7G1  Grouse Creek  (Backpacker, Stock)",
+    "lat": 44.27371,
+    "lon": -110.34761,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "7g2-lower-grouse-creek-backpacker-stock",
+    "name": "7G2  Lower Grouse Creek  (Backpacker, Stock)",
+    "lat": 44.27926,
+    "lon": -110.34349,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "7l1-breeze-bay-north-boat",
+    "name": "7L1  Breeze Bay North  (Boat)",
+    "lat": 44.43366,
+    "lon": -110.46231,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l2-breeze-bay-boat",
+    "name": "7L2  Breeze Bay  (Boat)",
+    "lat": 44.42448,
+    "lon": -110.44322,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l3-breeze-bay-south-boat",
+    "name": "7L3  Breeze Bay South  (Boat)",
+    "lat": 44.43013,
+    "lon": -110.43127,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l4-ravine-boat",
+    "name": "7L4  Ravine  (Boat)",
+    "lat": 44.42704,
+    "lon": -110.42229,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l5a-wolf-bay-shore-a-boat",
+    "name": "7L5A  Wolf Bay  Shore A  (Boat)",
+    "lat": 44.41809,
+    "lon": -110.41828,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l5b-wolf-bay-shore-b-boat",
+    "name": "7L5B  Wolf Bay  Shore B  (Boat)",
+    "lat": 44.41809,
+    "lon": -110.41828,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l5c-wolf-bay-on-boat-self-contained-motorized-boat",
+    "name": "7L5C  Wolf Bay On Boat  (Self-Contained Motorized Boat)",
+    "lat": 44.41809,
+    "lon": -110.41828,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l6a-eagle-bay-shore-a-boat",
+    "name": "7L6A  Eagle Bay Shore A  (Boat)",
+    "lat": 44.40231,
+    "lon": -110.39653,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l6b-eagle-bay-shore-b-boat",
+    "name": "7L6B  Eagle Bay Shore B  (Boat)",
+    "lat": 44.40231,
+    "lon": -110.39653,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l6c-eagle-bay-on-boat-self-contained-motorized-boat",
+    "name": "7L6C  Eagle Bay On Boat  (Self-Contained Motorized Boat)",
+    "lat": 44.40231,
+    "lon": -110.39653,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l7-bodego-bay-boat",
+    "name": "7L7  Bodego Bay  (Boat)",
+    "lat": 44.38184,
+    "lon": -110.39356,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l8-flat-mtn-arm-north-boat",
+    "name": "7L8  Flat Mtn Arm North  (Boat)",
+    "lat": 44.37649,
+    "lon": -110.40429,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7l9-flat-mtn-arm-south-non-motorized-boat-sailboat",
+    "name": "7L9  Flat Mtn Arm South  (Non-Motorized Boat, Sailboat)",
+    "lat": 44.37031,
+    "lon": -110.42136,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m1-grizzly-bay-anchor-self-contained-motorized-boat",
+    "name": "7M1  Grizzly Bay Anchor  (Self-Contained Motorized Boat)",
+    "lat": 44.36969,
+    "lon": -110.41716,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m3-flat-mountain-bay-boat",
+    "name": "7M3  Flat Mountain Bay  (Boat)",
+    "lat": 44.37418,
+    "lon": -110.3701,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m4a-plover-point-shore-a-boat",
+    "name": "7M4A  Plover Point Shore A  (Boat)",
+    "lat": 44.38341,
+    "lon": -110.35167,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m4b-plover-point-shore-b-boat",
+    "name": "7M4B  Plover Point Shore B  (Boat)",
+    "lat": 44.38341,
+    "lon": -110.35167,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m4c-plover-point-on-boat-self-contained-motorized-boat",
+    "name": "7M4C  Plover Point On Boat  (Self-Contained Motorized Boat)",
+    "lat": 44.38341,
+    "lon": -110.35167,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m5-plover-bay-boat",
+    "name": "7M5  Plover Bay  (Boat)",
+    "lat": 44.36953,
+    "lon": -110.35873,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m6-south-arm-meadow-boat",
+    "name": "7M6  South Arm Meadow  (Boat)",
+    "lat": 44.34628,
+    "lon": -110.35872,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m7-south-arm-boat",
+    "name": "7M7  South Arm  (Boat)",
+    "lat": 44.33765,
+    "lon": -110.35525,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7m9-south-arm-bay-boat",
+    "name": "7M9  South Arm Bay  (Boat)",
+    "lat": 44.32602,
+    "lon": -110.35053,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7n2-gowdy-camp-backpacker-non-motorized-boat",
+    "name": "7N2  Gowdy Camp  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.29651,
+    "lon": -110.34329,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "7n4-southwest-bay-backpacker-non-motorized-boat",
+    "name": "7N4  Southwest Bay  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.28854,
+    "lon": -110.34406,
+    "type": "designated_campsite",
+    "context": "Yellowstone Lake",
+    "startingAreas": [
+      "Yellowstone Lake"
+    ]
+  },
+  {
+    "id": "8a1-beula-lake-south-backpacker",
+    "name": "8A1  Beula Lake South  (Backpacker)",
+    "lat": 44.15556,
+    "lon": -110.76764,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "8a2-beula-lake-backpacker",
+    "name": "8A2  Beula Lake  (Backpacker)",
+    "lat": 44.15681,
+    "lon": -110.76783,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "8b1-basin-creek-backpacker",
+    "name": "8B1  Basin Creek  (Backpacker)",
+    "lat": 44.22738,
+    "lon": -110.5162,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8b2-basin-creek-lake-backpacker-stock",
+    "name": "8B2  Basin Creek Lake  (Backpacker, Stock)",
+    "lat": 44.21013,
+    "lon": -110.52524,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8b3-basin-creek-stock-n-stock",
+    "name": "8B3  Basin Creek Stock N  (Stock)",
+    "lat": 44.21703,
+    "lon": -110.51008,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8b4-basin-creek-stock-s-stock",
+    "name": "8B4  Basin Creek Stock S  (Stock)",
+    "lat": 44.20956,
+    "lon": -110.50276,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8b5-basin-creek-cutoff-backpacker",
+    "name": "8B5  Basin Creek Cutoff  (Backpacker)",
+    "lat": 44.20644,
+    "lon": -110.5014,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c1-snake-hot-springs-backpacker",
+    "name": "8C1  Snake Hot Springs  (Backpacker)",
+    "lat": 44.16856,
+    "lon": -110.58655,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c2-nine-mile-meadow-backpacker-stock",
+    "name": "8C2  Nine Mile Meadow  (Backpacker, Stock)",
+    "lat": 44.14678,
+    "lon": -110.52562,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c4-snake-river-backpacker-stock",
+    "name": "8C4  Snake River  (Backpacker, Stock)",
+    "lat": 44.17033,
+    "lon": -110.48809,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c5-snake-heart-confluence-backpacker-stock",
+    "name": "8C5  Snake Heart Confluence  (Backpacker, Stock)",
+    "lat": 44.21492,
+    "lon": -110.4614,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c6-snake-river-ford-backpacker",
+    "name": "8C6  Snake River Ford  (Backpacker)",
+    "lat": 44.17507,
+    "lon": -110.56936,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c7-snake-hot-springs-stock-stock",
+    "name": "8C7  Snake Hot Springs Stock  (Stock)",
+    "lat": 44.16896,
+    "lon": -110.57998,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8c9-crooked-creek-backpacker-stock",
+    "name": "8C9  Crooked Creek  (Backpacker, Stock)",
+    "lat": 44.1573,
+    "lon": -110.33594,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8g1-shoshone-meadows-backpacker-llama",
+    "name": "8G1  Shoshone Meadows  (Backpacker, Llama)",
+    "lat": 44.37364,
+    "lon": -110.81721,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8h1-south-bay-backpacker",
+    "name": "8H1  South Bay  (Backpacker)",
+    "lat": 44.25621,
+    "lon": -110.503,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8h2-sheridan-creek-backpacker",
+    "name": "8H2  Sheridan Creek  (Backpacker)",
+    "lat": 44.27054,
+    "lon": -110.50183,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8h3-hideaway-backpacker",
+    "name": "8H3  Hideaway  (Backpacker)",
+    "lat": 44.27112,
+    "lon": -110.50212,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8h4-west-shore-backpacker",
+    "name": "8H4  West Shore  (Backpacker)",
+    "lat": 44.27798,
+    "lon": -110.50255,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8h5-sheridan-trail-backpacker",
+    "name": "8H5  Sheridan Trail  (Backpacker)",
+    "lat": 44.27997,
+    "lon": -110.50191,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8h6-rustic-backpacker",
+    "name": "8H6  Rustic  (Backpacker)",
+    "lat": 44.28076,
+    "lon": -110.5024,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8j1-beaver-creek-backpacker",
+    "name": "8J1  Beaver Creek  (Backpacker)",
+    "lat": 44.27703,
+    "lon": -110.47454,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8j2-beaver-creek-meadow-stock",
+    "name": "8J2  Beaver Creek Meadow  (Stock)",
+    "lat": 44.27907,
+    "lon": -110.46596,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8j3-surprise-creek-backpacker",
+    "name": "8J3  Surprise Creek  (Backpacker)",
+    "lat": 44.25222,
+    "lon": -110.43961,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8j4-heart-river-backpacker",
+    "name": "8J4  Heart River  (Backpacker)",
+    "lat": 44.24792,
+    "lon": -110.44555,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8j6-east-shore-backpacker",
+    "name": "8J6  East Shore  (Backpacker)",
+    "lat": 44.25086,
+    "lon": -110.44982,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8m1-moose-creek-backpacker-stock",
+    "name": "8M1  Moose Creek   (Backpacker, Stock)",
+    "lat": 44.34511,
+    "lon": -110.7038,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8m2-moose-creek-meadow-backpacker-stock",
+    "name": "8M2  Moose Creek Meadow  (Backpacker, Stock)",
+    "lat": 44.32867,
+    "lon": -110.73687,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8o2-outlet-creek-backpacker",
+    "name": "8O2  Outlet Creek  (Backpacker)",
+    "lat": 44.25344,
+    "lon": -110.41537,
+    "type": "designated_campsite",
+    "context": "Snake River/Heart Lake",
+    "startingAreas": [
+      "Snake River/Heart Lake"
+    ]
+  },
+  {
+    "id": "8p1-pitchstone-backpacker-stock",
+    "name": "8P1  Pitchstone  (Backpacker, Stock)",
+    "lat": 44.22934,
+    "lon": -110.73896,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "8p2-phantom-backpacker",
+    "name": "8P2  Phantom  (Backpacker)",
+    "lat": 44.23021,
+    "lon": -110.74008,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "8q1-south-narrow-point-non-motorized-boat",
+    "name": "8Q1  South Narrow Point  (Non-Motorized Boat)",
+    "lat": 44.36386,
+    "lon": -110.71895,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8q3-south-narrow-beach-non-motorized-boat",
+    "name": "8Q3  South Narrow Beach  (Non-Motorized Boat)",
+    "lat": 44.36133,
+    "lon": -110.71069,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8q4-moose-creek-point-non-motorized-boat",
+    "name": "8Q4  Moose Creek Point  (Non-Motorized Boat)",
+    "lat": 44.3638,
+    "lon": -110.70307,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8q6-moose-creek-outlet-non-motorized-boat",
+    "name": "8Q6  Moose Creek Outlet  (Non-Motorized Boat)",
+    "lat": 44.35874,
+    "lon": -110.69276,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8q7-moose-creek-beach-non-motorized-boat",
+    "name": "8Q7  Moose Creek Beach  (Non-Motorized Boat)",
+    "lat": 44.35926,
+    "lon": -110.68585,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8q9-channel-non-motorized-boat",
+    "name": "8Q9  Channel  (Non-Motorized Boat)",
+    "lat": 44.36064,
+    "lon": -110.6728,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8r1-windy-point-non-motorized-boat",
+    "name": "8R1  Windy Point  (Non-Motorized Boat)",
+    "lat": 44.3675,
+    "lon": -110.73157,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8r2-bluff-top-backpacker-non-motorized-boat",
+    "name": "8R2  Bluff Top  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.36851,
+    "lon": -110.74482,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8r3-cove-backpacker",
+    "name": "8R3  Cove  (Backpacker)",
+    "lat": 44.36789,
+    "lon": -110.74821,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8r4-flat-top-non-motorized-boat",
+    "name": "8R4  Flat Top  (Non-Motorized Boat)",
+    "lat": 44.36745,
+    "lon": -110.75669,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8r5-basin-bay-point-backpacker",
+    "name": "8R5  Basin Bay Point  (Backpacker)",
+    "lat": 44.35582,
+    "lon": -110.78762,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s0-outlet-hiker-backpacker",
+    "name": "8S0  Outlet Hiker  (Backpacker)",
+    "lat": 44.35986,
+    "lon": -110.66261,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s1-outlet-boat-non-motorized-boat",
+    "name": "8S1  Outlet Boat  (Non-Motorized Boat)",
+    "lat": 44.35986,
+    "lon": -110.66261,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s2-delacy-creek-backpacker-non-motorized-boat",
+    "name": "8S2  DeLacy Creek  (Backpacker, Non-Motorized Boat)",
+    "lat": 44.40949,
+    "lon": -110.70652,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s3-coyote-backpacker",
+    "name": "8S3  Coyote  (Backpacker)",
+    "lat": 44.40427,
+    "lon": -110.71245,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s4-north-grizzly-beach-non-motorized-boat",
+    "name": "8S4  North Grizzly Beach  (Non-Motorized Boat)",
+    "lat": 44.38706,
+    "lon": -110.70838,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s5-south-grizzly-beach-non-motorized-boat",
+    "name": "8S5  South Grizzly Beach  (Non-Motorized Boat)",
+    "lat": 44.37914,
+    "lon": -110.71234,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8s7-north-narrows-non-motorized-boat",
+    "name": "8S7  North Narrows  (Non-Motorized Boat)",
+    "lat": 44.36955,
+    "lon": -110.72716,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8t1-basin-beach-backpacker",
+    "name": "8T1  Basin Beach  (Backpacker)",
+    "lat": 44.34221,
+    "lon": -110.78683,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8t3-hillside-non-motorized-boat",
+    "name": "8T3  Hillside  (Non-Motorized Boat)",
+    "lat": 44.33861,
+    "lon": -110.76195,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "8t5-tranquility-non-motorized-boat",
+    "name": "8T5  Tranquility  (Non-Motorized Boat)",
+    "lat": 44.35191,
+    "lon": -110.74402,
+    "type": "designated_campsite",
+    "context": "Shoshone Lake",
+    "startingAreas": [
+      "Shoshone Lake"
+    ]
+  },
+  {
+    "id": "9a0-upper-boundary-creek-stock-stock",
+    "name": "9A0  Upper Boundary Creek Stock  (Stock)",
+    "lat": 44.22834,
+    "lon": -111.01806,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a1-boundary-creek-meadows-backpacker-stock",
+    "name": "9A1  Boundary Creek Meadows  (Backpacker, Stock)",
+    "lat": 44.20785,
+    "lon": -111.01243,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a2-upper-boundary-creek-backpacker",
+    "name": "9A2  Upper Boundary Creek  (Backpacker)",
+    "lat": 44.23099,
+    "lon": -111.01806,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a3-dunanda-falls-backpacker",
+    "name": "9A3  Dunanda Falls  (Backpacker)",
+    "lat": 44.24563,
+    "lon": -111.02618,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a4-talus-terrace-backpacker-stock",
+    "name": "9A4  Talus Terrace  (Backpacker, Stock)",
+    "lat": 44.28161,
+    "lon": -111.0398,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a5-buffalo-lake-backpacker-stock",
+    "name": "9A5  Buffalo Lake  (Backpacker, Stock)",
+    "lat": 44.33014,
+    "lon": -111.07286,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a6-robinson-creek-backpacker-stock",
+    "name": "9A6  Robinson Creek  (Backpacker, Stock)",
+    "lat": 44.23149,
+    "lon": -111.09188,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9a7-little-robinson-creek-backpacker",
+    "name": "9A7  Little Robinson Creek  (Backpacker)",
+    "lat": 44.19055,
+    "lon": -111.08115,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b0-three-rivers-meadow-stock-stock",
+    "name": "9B0  Three Rivers Meadow Stock  (Stock)",
+    "lat": 44.28292,
+    "lon": -110.90583,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b1-lower-boundary-creek-backpacker",
+    "name": "9B1  Lower Boundary Creek  (Backpacker)",
+    "lat": 44.18541,
+    "lon": -111.00528,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b2-bechler-ford-backpacker",
+    "name": "9B2  Bechler Ford  (Backpacker)",
+    "lat": 44.2113,
+    "lon": -110.99127,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b3-trail-spring-stock",
+    "name": "9B3  Trail Spring  (Stock)",
+    "lat": 44.21675,
+    "lon": -110.9803,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b4-ouzel-falls-backpacker",
+    "name": "9B4  Ouzel Falls  (Backpacker)",
+    "lat": 44.22637,
+    "lon": -110.97492,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b5-colonnade-falls-backpacker",
+    "name": "9B5  Colonnade Falls  (Backpacker)",
+    "lat": 44.23894,
+    "lon": -110.94605,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b6-lower-bechler-canyon-ford-backpacker",
+    "name": "9B6  Lower Bechler Canyon Ford  (Backpacker)",
+    "lat": 44.25094,
+    "lon": -110.93277,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b7-talus-spring-backpacker",
+    "name": "9B7  Talus Spring  (Backpacker)",
+    "lat": 44.25935,
+    "lon": -110.92804,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b8-upper-bechler-canyon-ford-backpacker",
+    "name": "9B8  Upper Bechler Canyon Ford  (Backpacker)",
+    "lat": 44.27075,
+    "lon": -110.91842,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9b9-albright-falls-backpacker",
+    "name": "9B9  Albright Falls  (Backpacker)",
+    "lat": 44.27886,
+    "lon": -110.90539,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9c1-rocky-ford-backpacker",
+    "name": "9C1  Rocky Ford  (Backpacker)",
+    "lat": 44.17721,
+    "lon": -111.00084,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9d1-ferris-fork-backpacker",
+    "name": "9D1  Ferris Fork  (Backpacker)",
+    "lat": 44.28984,
+    "lon": -110.89172,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9d2-gregg-fork-backpacker",
+    "name": "9D2  Gregg Fork  (Backpacker)",
+    "lat": 44.2974,
+    "lon": -110.86502,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9d3-douglas-knob-meadow-backpacker-stock",
+    "name": "9D3  Douglas Knob Meadow  (Backpacker, Stock)",
+    "lat": 44.32099,
+    "lon": -110.84965,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9d4-continental-divide-backpacker",
+    "name": "9D4  Continental Divide  (Backpacker)",
+    "lat": 44.33961,
+    "lon": -110.84164,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9f1-lower-falls-river-backpacker",
+    "name": "9F1  Lower Falls River  (Backpacker)",
+    "lat": 44.13802,
+    "lon": -110.93399,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9f2-upper-falls-river-backpacker",
+    "name": "9F2  Upper Falls River  (Backpacker)",
+    "lat": 44.13992,
+    "lon": -110.83734,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9m1-lower-boundary-creek-stock-stock",
+    "name": "9M1  Lower Boundary Creek Stock  (Stock)",
+    "lat": 44.18648,
+    "lon": -111.00374,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9m2-bechler-ford-stock-stock",
+    "name": "9M2  Bechler Ford Stock  (Stock)",
+    "lat": 44.20991,
+    "lon": -110.99078,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9u1-falls-river-cutoff-backpacker-stock",
+    "name": "9U1  Falls River Cutoff  (Backpacker, Stock)",
+    "lat": 44.16014,
+    "lon": -110.9394,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9u2-mountain-ash-creek-backpacker",
+    "name": "9U2  Mountain Ash Creek  (Backpacker)",
+    "lat": 44.17137,
+    "lon": -110.92424,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9u3-mountain-ash-creek-ford-backpacker",
+    "name": "9U3  Mountain Ash Creek Ford  (Backpacker)",
+    "lat": 44.17295,
+    "lon": -110.92287,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9u4-union-falls-backpacker",
+    "name": "9U4  Union Falls  (Backpacker)",
+    "lat": 44.18017,
+    "lon": -110.88673,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "9u5-warm-fork-backpacker-llama",
+    "name": "9U5  Warm Fork  (Backpacker, Llama)",
+    "lat": 44.18284,
+    "lon": -110.88868,
+    "type": "designated_campsite",
+    "context": "Bechler/Southwest",
+    "startingAreas": [
+      "Bechler/Southwest"
+    ]
+  },
+  {
+    "id": "oa1-lone-star-backpacker-stock",
+    "name": "OA1  Lone Star  (Backpacker, Stock)",
+    "lat": 44.41792,
+    "lon": -110.8129,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "oa2-upper-firehole-backpacker",
+    "name": "OA2  Upper Firehole  (Backpacker)",
+    "lat": 44.41391,
+    "lon": -110.81922,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "oa3-firehole-springs-backpacker",
+    "name": "OA3  Firehole Springs  (Backpacker)",
+    "lat": 44.40529,
+    "lon": -110.82634,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "ob2-mallard-lake-se-backpacker",
+    "name": "OB2  Mallard Lake SE  (Backpacker)",
+    "lat": 44.47662,
+    "lon": -110.77414,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "ob3-mallard-lake-e-backpacker",
+    "name": "OB3  Mallard Lake E  (Backpacker)",
+    "lat": 44.47757,
+    "lon": -110.77361,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "ob4-mallard-lake-outlet-backpacker",
+    "name": "OB4  Mallard Lake Outlet  (Backpacker)",
+    "lat": 44.47551,
+    "lon": -110.77723,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "od1-fairy-meadows-backpacker",
+    "name": "OD1  Fairy Meadows  (Backpacker)",
+    "lat": 44.52596,
+    "lon": -110.85568,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "od2-firehole-meadows-backpacker",
+    "name": "OD2  Firehole Meadows  (Backpacker)",
+    "lat": 44.48487,
+    "lon": -110.92861,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "od3-firehole-falls-backpacker",
+    "name": "OD3  Firehole Falls  (Backpacker)",
+    "lat": 44.48593,
+    "lon": -110.9181,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "od4-imperial-meadows-backpacker",
+    "name": "OD4 Imperial Meadows (Backpacker)",
+    "lat": 44.53358,
+    "lon": -110.86194,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "od5-goose-lake-backpacker-handicap-accessible-contact-central-backcountry-office-to-book-in-advance",
+    "name": "OD5  Goose Lake  (Backpacker/Handicap Accessible) contact Central Backcountry Office to book in advance",
+    "lat": 44.54469,
+    "lon": -110.84418,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "oe1-summit-lake-backpacker-stock",
+    "name": "OE1  Summit Lake  (Backpacker, Stock)",
+    "lat": 44.4155,
+    "lon": -110.93723,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "og1-sentinal-meadows-east-backpacker",
+    "name": "OG1  Sentinal Meadows East  (Backpacker)",
+    "lat": 44.56489,
+    "lon": -110.85337,
+    "type": "designated_campsite",
+    "context": "Old Faithful",
+    "startingAreas": [
+      "Old Faithful"
+    ]
+  },
+  {
+    "id": "wa1-gneiss-creek-backpacker-stock",
+    "name": "WA1  Gneiss Creek  (Backpacker, Stock)",
+    "lat": 44.77725,
+    "lon": -111.03254,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wb1-gallatin-river-backpacker",
+    "name": "WB1  Gallatin River  (Backpacker)",
+    "lat": 44.9237,
+    "lon": -110.96956,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wb3-gallatin-river-stock-stock",
+    "name": "WB3  Gallatin River Stock  (Stock)",
+    "lat": 44.92443,
+    "lon": -110.95693,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wb4-upper-gallatin-river-stock-stock",
+    "name": "WB4  Upper Gallatin River Stock  (Stock)",
+    "lat": 44.92336,
+    "lon": -110.94521,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wb6-upper-gallatin-river-backpacker",
+    "name": "WB6  Upper Gallatin River  (Backpacker)",
+    "lat": 44.9153,
+    "lon": -110.93373,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wc2-lower-fan-creek-backpacker",
+    "name": "WC2  Lower Fan Creek  (Backpacker)",
+    "lat": 44.97001,
+    "lon": -111.01314,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wc3-fan-creek-backpacker-stock",
+    "name": "WC3  Fan Creek  (Backpacker, Stock)",
+    "lat": 44.98657,
+    "lon": -110.99334,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wc4-north-fork-fan-creek-stock",
+    "name": "WC4  North Fork Fan Creek  (Stock)",
+    "lat": 44.99304,
+    "lon": -110.96686,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd1-e-fork-specimen-creek-backpacker",
+    "name": "WD1  E Fork Specimen Creek  (Backpacker)",
+    "lat": 45.02834,
+    "lon": -110.97875,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd2-sportsman-lake-meadow-backpacker-stock",
+    "name": "WD2  Sportsman Lake Meadow  (Backpacker, Stock)",
+    "lat": 45.01366,
+    "lon": -110.90347,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd3-sportsman-lake-backpacker",
+    "name": "WD3  Sportsman Lake  (Backpacker)",
+    "lat": 45.01536,
+    "lon": -110.90054,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd4-high-lake-outlet-backpacker",
+    "name": "WD4  High Lake Outlet  (Backpacker)",
+    "lat": 45.05548,
+    "lon": -110.93792,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd5-high-lake-backpacker-stock",
+    "name": "WD5  High Lake  (Backpacker, Stock)",
+    "lat": 45.05796,
+    "lon": -110.94036,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wd6-high-lake-sportsman-junction-stock",
+    "name": "WD6  High Lake-Sportsman Junction  (Stock)",
+    "lat": 45.02761,
+    "lon": -110.96896,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "we1-specimen-creek-junction-backpacker-stock",
+    "name": "WE1  Specimen Creek Junction (Backpacker, Stock)",
+    "lat": 45.02883,
+    "lon": -111.04574,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "we4-specimen-creek-backpacker",
+    "name": "WE4  Specimen Creek  (Backpacker)",
+    "lat": 45.06384,
+    "lon": -111.02253,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "we5-shelf-lake-backpacker",
+    "name": "WE5  Shelf Lake  (Backpacker)",
+    "lat": 45.0918,
+    "lon": -111.01197,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "we6-crescent-lake-backpacker",
+    "name": "WE6  Crescent Lake  (Backpacker)",
+    "lat": 45.06166,
+    "lon": -110.99569,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "we7-shelf-lake-west-backpacker",
+    "name": "WE7  Shelf Lake West  (Backpacker)",
+    "lat": 45.09129,
+    "lon": -111.01431,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wf1-black-butte-creek-backpacker-llama",
+    "name": "WF1  Black Butte Creek  (Backpacker, Llama)",
+    "lat": 45.05318,
+    "lon": -111.09097,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "wf2-upper-dailey-creek-backpacker-stock",
+    "name": "WF2  Upper Dailey Creek  (Backpacker, Stock)",
+    "lat": 45.09088,
+    "lon": -111.10628,
+    "type": "designated_campsite",
+    "context": "Gallatin/Northwest",
+    "startingAreas": [
+      "Gallatin/Northwest"
+    ]
+  },
+  {
+    "id": "gallatin-nw",
+    "name": "Gallatin NW",
+    "lat": 45.02093585,
+    "lon": -110.9887655,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "gallatin-ne",
+    "name": "Gallatin NE",
+    "lat": 44.96273688,
+    "lon": -110.8086796,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "fawn-pass",
+    "name": "Fawn Pass",
+    "lat": 44.93022486,
+    "lon": -110.8924029,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "bighorn-pass",
+    "name": "Bighorn Pass",
+    "lat": 44.88219121,
+    "lon": -110.8968578,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "gallatin-sw",
+    "name": "Gallatin SW",
+    "lat": 44.77147296,
+    "lon": -110.9470422,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "gallatin-se",
+    "name": "Gallatin SE",
+    "lat": 44.76290961,
+    "lon": -110.8097993,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lava-creek-1a3",
+    "name": "Lava Creek 1A3",
+    "lat": 44.95017,
+    "lon": -110.65568,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "northern-range",
+    "name": "Northern Range",
+    "lat": 44.99627415,
+    "lon": -110.4749665,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "upper-lava-creek",
+    "name": "Upper Lava Creek",
+    "lat": 44.85608375,
+    "lon": -110.6531,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "blacktail",
+    "name": "Blacktail",
+    "lat": 44.92462212,
+    "lon": -110.5555178,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "specimen-ridge",
+    "name": "Specimen Ridge",
+    "lat": 44.8399423,
+    "lon": -110.2652715,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "slough-creek",
+    "name": "Slough Creek",
+    "lat": 44.9769782,
+    "lon": -110.2324787,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "pebble-creek",
+    "name": "Pebble Creek",
+    "lat": 44.98616184,
+    "lon": -110.1085581,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lower-lamar-3l1",
+    "name": "Lower Lamar 3L1",
+    "lat": 44.83126,
+    "lon": -110.14329,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lower-lamar-3l2",
+    "name": "Lower Lamar 3L2",
+    "lat": 44.83109,
+    "lon": -110.14924,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lower-lamar-3l3",
+    "name": "Lower Lamar 3L3",
+    "lat": 44.81334,
+    "lon": -110.14253,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "lower-lamar-3l4",
+    "name": "Lower Lamar 3L4",
+    "lat": 44.80755,
+    "lon": -110.13532,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "upper-cache",
+    "name": "Upper Cache",
+    "lat": 44.87925279,
+    "lon": -110.0087197,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "upper-lamar",
+    "name": "Upper Lamar",
+    "lat": 44.69707816,
+    "lon": -110.0092005,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "washburn",
+    "name": "Washburn",
+    "lat": 44.83601724,
+    "lon": -110.478255,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "canyon-norris",
+    "name": "Canyon-Norris",
+    "lat": 44.76077695,
+    "lon": -110.6100621,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "central-plateau",
+    "name": "Central Plateau",
+    "lat": 44.58107255,
+    "lon": -110.6231622,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "wapiti-broad-creek",
+    "name": "Wapiti-Broad Creek",
+    "lat": 44.72352042,
+    "lon": -110.2792388,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "pelican-valley",
+    "name": "Pelican Valley",
+    "lat": 44.59945452,
+    "lon": -110.2394414,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "east-sylvan",
+    "name": "East-Sylvan",
+    "lat": 44.42709721,
+    "lon": -110.1097838,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "yellowstone-lake",
+    "name": "Yellowstone Lake",
+    "lat": 44.37988695,
+    "lon": -110.3235,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "thorofare-two-ocean",
+    "name": "Thorofare-Two Ocean",
+    "lat": 44.22423978,
+    "lon": -110.1684346,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "snake-river",
+    "name": "Snake River",
+    "lat": 44.17118229,
+    "lon": -110.5097187,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "heart-lake",
+    "name": "Heart Lake",
+    "lat": 44.27777349,
+    "lon": -110.4937507,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "polecat-crawfish",
+    "name": "Polecat-Crawfish",
+    "lat": 44.16881766,
+    "lon": -110.704038,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "pitchstone",
+    "name": "Pitchstone",
+    "lat": 44.23128027,
+    "lon": -110.7695006,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "shoshone-lake",
+    "name": "Shoshone Lake",
+    "lat": 44.3657104,
+    "lon": -110.7083569,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "bechler",
+    "name": "Bechler",
+    "lat": 44.25055506,
+    "lon": -110.9711839,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "old-faithful",
+    "name": "Old Faithful",
+    "lat": 44.47838605,
+    "lon": -110.8781177,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "madison-plateau",
+    "name": "Madison Plateau",
+    "lat": 44.50446343,
+    "lon": -110.9961251,
+    "type": "designated_campsite",
+    "context": "Winter Backcountry Zone",
+    "startingAreas": [
+      "Winter Backcountry Zone"
+    ]
+  },
+  {
+    "id": "apollinaris-spring-picnic-area-winter-camping",
+    "name": "Apollinaris Spring Picnic Area (Winter Camping)",
+    "lat": 44.84247327,
+    "lon": -110.7345837,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "beaver-lake-picnic-area-winter-camping",
+    "name": "Beaver Lake Picnic Area (Winter Camping)",
+    "lat": 44.81143632,
+    "lon": -110.7322318,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "bridge-bay-picnic-area-winter-camping",
+    "name": "Bridge Bay Picnic Area (Winter Camping)",
+    "lat": 44.53296219,
+    "lon": -110.4365583,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "caldera-rim-picnic-area-winter-camping",
+    "name": "Caldera Rim Picnic Area (Winter Camping)",
+    "lat": 44.65979656,
+    "lon": -110.7497143,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "canyon-campground-winter-camping",
+    "name": "Canyon Campground (Winter Camping)",
+    "lat": 44.73538371,
+    "lon": -110.4879124,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "cascade-lake-trail-picnic-area-winter-camping",
+    "name": "Cascade Lake Trail Picnic Area (Winter Camping)",
+    "lat": 44.7519334,
+    "lon": -110.4862625,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "cascade-picnic-area-winter-camping",
+    "name": "Cascade Picnic Area (Winter Camping)",
+    "lat": 44.61657089,
+    "lon": -110.41724,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "chittenden-bridge-picnic-area-winter-camping",
+    "name": "Chittenden Bridge Picnic Area (Winter Camping)",
+    "lat": 44.70784632,
+    "lon": -110.5011384,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "delacy-creek-picnic-area-winter-camping",
+    "name": "DeLacy Creek Picnic Area (Winter Camping)",
+    "lat": 44.44794397,
+    "lon": -110.6979144,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "dunraven-road-picnic-area-winter-camping",
+    "name": "Dunraven Road Picnic Area (Winter Camping)",
+    "lat": 44.76250483,
+    "lon": -110.4715065,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "east-divide-picnic-area-winter-camping",
+    "name": "East Divide Picnic Area (Winter Camping)",
+    "lat": 44.4327476,
+    "lon": -110.6325079,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "eleanor-lake-picnic-area-winter-camping",
+    "name": "Eleanor Lake Picnic Area (Winter Camping)",
+    "lat": 44.47044294,
+    "lon": -110.1422746,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "firehole-river-picnic-area-winter-camping",
+    "name": "Firehole River Picnic Area (Winter Camping)",
+    "lat": 44.59366608,
+    "lon": -110.8312581,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "fisherman-s-access-picnic-area-winter-camping",
+    "name": "Fisherman's Access Picnic Area (Winter Camping)",
+    "lat": 44.45929874,
+    "lon": -110.4818005,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "fishing-bridge-picnic-area-winter-camping",
+    "name": "Fishing Bridge Picnic Area (Winter Camping)",
+    "lat": 44.56411853,
+    "lon": -110.3774602,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "gibbon-falls-picnic-area-winter-camping",
+    "name": "Gibbon Falls Picnic Area (Winter Camping)",
+    "lat": 44.64819484,
+    "lon": -110.7726019,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "gibbon-meadows-picnic-area-winter-camping",
+    "name": "Gibbon Meadows Picnic Area (Winter Camping)",
+    "lat": 44.70618323,
+    "lon": -110.7457264,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "glen-creek-trailhead-winter-camping",
+    "name": "Glen Creek Trailhead (Winter Camping)",
+    "lat": 44.93311831,
+    "lon": -110.7316151,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "grebe-lake-trailhead-winter-camping",
+    "name": "Grebe Lake Trailhead (Winter Camping)",
+    "lat": 44.717887,
+    "lon": -110.549729,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "gull-point-picnic-area-winter-camping",
+    "name": "Gull Point Picnic Area (Winter Camping)",
+    "lat": 44.52621435,
+    "lon": -110.417334,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "hard-road-to-travel-picnic-area-winter-camping",
+    "name": "Hard Road to Travel Picnic Area (Winter Camping)",
+    "lat": 44.47333167,
+    "lon": -110.5263409,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "heart-lake-trailhead-winter-camping",
+    "name": "Heart Lake Trailhead (Winter Camping)",
+    "lat": 44.317205,
+    "lon": -110.598458,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "indian-creek-campground-winter-camping",
+    "name": "Indian Creek Campground (Winter Camping)",
+    "lat": 44.88702319,
+    "lon": -110.7360686,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "iron-spring-picnic-area-winter-camping",
+    "name": "Iron Spring  Picnic Area (Winter Camping)",
+    "lat": 44.65978329,
+    "lon": -110.7678014,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "lehardy-rapids-picnic-area-winter-camping",
+    "name": "LeHardy Rapids Picnic Area (Winter Camping)",
+    "lat": 44.61047521,
+    "lon": -110.407588,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "lewis-lake-campground-winter-camping",
+    "name": "Lewis Lake Campground (Winter Camping)",
+    "lat": 44.28220557,
+    "lon": -110.6279873,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "madison-jct-picnic-area-winter-camping",
+    "name": "Madison Jct Picnic Area (Winter Camping)",
+    "lat": 44.64292535,
+    "lon": -110.8611838,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "madison-river-picnic-area-winter-camping",
+    "name": "Madison River Picnic Area (Winter Camping)",
+    "lat": 44.66464396,
+    "lon": -110.9665948,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "nez-perce-ford-picnic-area-winter-camping",
+    "name": "Nez Perce Ford Picnic Area (Winter Camping)",
+    "lat": 44.62193454,
+    "lon": -110.4183309,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "nez-perce-picnic-area-winter-camping",
+    "name": "Nez Perce Picnic Area (Winter Camping)",
+    "lat": 44.57871235,
+    "lon": -110.8314047,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "norris-campground-winter-camping",
+    "name": "Norris Campground (Winter Camping)",
+    "lat": 44.73784846,
+    "lon": -110.6936151,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "norris-meadows-picnic-area-winter-camping",
+    "name": "Norris Meadows Picnic Area (Winter Camping)",
+    "lat": 44.73066849,
+    "lon": -110.6894027,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "old-faithful-east-lot-picnic-area-winter-camping",
+    "name": "Old Faithful East Lot Picnic Area (Winter Camping)",
+    "lat": 44.45646113,
+    "lon": -110.8248992,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "otter-creek-picnic-area-winter-camping",
+    "name": "Otter Creek Picnic Area (Winter Camping)",
+    "lat": 44.69850753,
+    "lon": -110.5029342,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "pelican-trailhead-winter-camping",
+    "name": "Pelican Trailhead (Winter Camping)",
+    "lat": 44.558228,
+    "lon": -110.3080191,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "pumice-point-picnic-area-winter-camping",
+    "name": "Pumice Point Picnic Area (Winter Camping)",
+    "lat": 44.45943446,
+    "lon": -110.5167201,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "sand-point-picnic-area-winter-camping",
+    "name": "Sand Point Picnic Area (Winter Camping)",
+    "lat": 44.49711596,
+    "lon": -110.4188694,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "sheepeater-cliff-picnic-area-winter-camping",
+    "name": "Sheepeater Cliff Picnic Area (Winter Camping)",
+    "lat": 44.89117427,
+    "lon": -110.7299207,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "slough-creek-campground-winter-camping",
+    "name": "Slough Creek Campground (Winter Camping)",
+    "lat": 44.94884662,
+    "lon": -110.3068792,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "spring-creek-picnic-area-winter-camping",
+    "name": "Spring Creek Picnic Area (Winter Camping)",
+    "lat": 44.43026645,
+    "lon": -110.7533278,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "spruce-fir-exhibit-picnic-area-winter-camping",
+    "name": "Spruce Fir Exhibit Picnic Area (Winter Camping)",
+    "lat": 44.4675032,
+    "lon": -110.4666551,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "steamboat-point-picnic-area-winter-camping",
+    "name": "Steamboat Point Picnic Area (Winter Camping)",
+    "lat": 44.53240057,
+    "lon": -110.2968817,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "sylvan-lake-picnic-area-winter-camping",
+    "name": "Sylvan Lake Picnic Area (Winter Camping)",
+    "lat": 44.47849741,
+    "lon": -110.1588266,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "tower-fall-campground-winter-camping",
+    "name": "Tower Fall Campground (Winter Camping)",
+    "lat": 44.88954981,
+    "lon": -110.3894759,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "tuff-cliffs-picnic-area-winter-camping",
+    "name": "Tuff Cliffs Picnic Area (Winter Camping)",
+    "lat": 44.6506723,
+    "lon": -110.8292394,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "virginia-cascades-picnic-area-winter-camping",
+    "name": "Virginia Cascades Picnic Area (Winter Camping)",
+    "lat": 44.7143819,
+    "lon": -110.634589,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "west-thumb-picnic-area-winter-camping",
+    "name": "West Thumb Picnic Area (Winter Camping)",
+    "lat": 44.41510198,
+    "lon": -110.5735203,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "whiskey-flats-picnic-area-winter-camping",
+    "name": "Whiskey Flats Picnic Area (Winter Camping)",
+    "lat": 44.53104424,
+    "lon": -110.8256824,
+    "type": "designated_campsite",
+    "context": "Winter Road Corridor",
+    "startingAreas": [
+      "Winter Road Corridor"
+    ]
+  },
+  {
+    "id": "lewis-lake-pit",
+    "name": "Lewis Lake Pit",
+    "lat": 44.31439,
+    "lon": -110.602532,
+    "type": "designated_campsite",
+    "context": "Undesignated",
+    "startingAreas": []
+  }
+]

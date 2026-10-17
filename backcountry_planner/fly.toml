@@ -1,0 +1,35 @@
+# Fly.io app config. `app` must be globally unique — `fly launch` will ask you to confirm or
+# change this name the first time you deploy. See README.md for the full deploy walkthrough.
+app = "backcountry-trip-planner"
+primary_region = "iad"
+
+[build]
+
+[env]
+  PORT = "3001"
+  PERSIST_DIR = "/data"
+  SESSION_COOKIE_SECURE = "true"
+  # FRONTEND_URL and GOOGLE_REDIRECT_URI depend on this app's final hostname (or a custom
+  # domain), so they're set as secrets after `fly launch` reveals it — see README.md.
+
+[[mounts]]
+  source = "backcountry_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 3001
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 1
+
+[[vm]]
+  # Bumped from 1gb: with all 10 currently-registered parks' routing data lazy-loaded and
+  # cached (not held eagerly for every park at boot, see routeSubgraph.ts/demElevation.ts),
+  # measured peak RSS under a deliberately demanding all-parks test was ~1.4GB — 2gb leaves
+  # comfortable headroom. shared-cpu-1x's memory can go up to 2gb (2gb-per-shared-core ceiling);
+  # this app is memory-bound, not CPU-bound, so the dedicated "performance" tier isn't worth its
+  # ~3x price premium for the same RAM.
+  memory = "2gb"
+  cpu_kind = "shared"
+  cpus = 1

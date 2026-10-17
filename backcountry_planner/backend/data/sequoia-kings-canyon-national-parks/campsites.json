@@ -1,0 +1,354 @@
+[
+  {
+    "id": "lewis-creek",
+    "name": "Lewis Creek",
+    "lat": 36.814194,
+    "lon": -118.679806,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "copper-creek",
+    "name": "Copper Creek",
+    "lat": 36.7965,
+    "lon": -118.583556,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "woods-creek",
+    "name": "Woods Creek",
+    "lat": 36.790083,
+    "lon": -118.551278,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "bubbs-creek",
+    "name": "Bubbs Creek",
+    "lat": 36.787806,
+    "lon": -118.551278,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "redwood-canyon",
+    "name": "Redwood Canyon",
+    "lat": 36.707556,
+    "lon": -118.920944,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "sugarloaf",
+    "name": "Sugarloaf",
+    "lat": 36.726288,
+    "lon": -118.714667,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "belle-canyon",
+    "name": "Belle Canyon",
+    "lat": 36.701861,
+    "lon": -118.725972,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "jo-pass",
+    "name": "JO Pass",
+    "lat": 36.675722,
+    "lon": -118.74425,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "lakes-trail",
+    "name": "Lakes Trail",
+    "lat": 36.593083,
+    "lon": -118.709639,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "alta",
+    "name": "Alta",
+    "lat": 36.584333,
+    "lon": -118.705222,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "high-sierra-trail",
+    "name": "High Sierra Trail",
+    "lat": 36.57,
+    "lon": -118.679,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "middle-fork-kaweah",
+    "name": "Middle Fork Kaweah",
+    "lat": 36.523645,
+    "lon": -118.765481,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "ladybug",
+    "name": "Ladybug",
+    "lat": 36.35,
+    "lon": -118.762,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "garfield-grove",
+    "name": "Garfield Grove",
+    "lat": 36.349722,
+    "lon": -118.763694,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "paradise-ridge",
+    "name": "Paradise Ridge",
+    "lat": 36.465306,
+    "lon": -118.671778,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "timber-gap",
+    "name": "Timber Gap",
+    "lat": 36.456597,
+    "lon": -118.595015,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "sawtooth-pass",
+    "name": "Sawtooth Pass",
+    "lat": 36.455199,
+    "lon": -118.593449,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "atwell-hockett",
+    "name": "Atwell-Hockett",
+    "lat": 36.464556,
+    "lon": -118.667167,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "tar-gap",
+    "name": "Tar Gap",
+    "lat": 36.450806,
+    "lon": -118.613861,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "mosquito-lakes",
+    "name": "Mosquito Lakes",
+    "lat": 36.433,
+    "lon": -118.61,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "eagle-lake",
+    "name": "Eagle Lake",
+    "lat": 36.417528,
+    "lon": -118.604722,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "white-chief",
+    "name": "White Chief",
+    "lat": 36.412,
+    "lon": -118.591,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "farewell-gap",
+    "name": "Farewell Gap",
+    "lat": 36.399278,
+    "lon": -118.571722,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "franklin",
+    "name": "Franklin",
+    "lat": 36.417715,
+    "lon": -118.576405,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "lakes-trail-pass-through",
+    "name": "Lakes Trail Pass Through",
+    "lat": 36.593083,
+    "lon": -118.709639,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "colony-mill-east",
+    "name": "Colony Mill East",
+    "lat": 36.571,
+    "lon": -118.808,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "colony-mill-west",
+    "name": "Colony Mill West",
+    "lat": 36.543583,
+    "lon": -118.884778,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "don-cecil-east",
+    "name": "Don Cecil East",
+    "lat": 36.788611,
+    "lon": -118.670444,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "don-cecil-west",
+    "name": "Don Cecil West",
+    "lat": 36.770076,
+    "lon": -118.715991,
+    "type": "designated_campsite",
+    "context": "Kings",
+    "startingAreas": [
+      "Kings"
+    ]
+  },
+  {
+    "id": "north-fork-kaweah",
+    "name": "North Fork Kaweah",
+    "lat": 36.544583,
+    "lon": -118.895306,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "oriole-lake",
+    "name": "Oriole Lake",
+    "lat": 36.450583,
+    "lon": -118.767611,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  },
+  {
+    "id": "twin-lakes",
+    "name": "Twin Lakes",
+    "lat": 36.615,
+    "lon": -118.735,
+    "type": "designated_campsite",
+    "context": "Sequoia",
+    "startingAreas": [
+      "Sequoia"
+    ]
+  }
+]

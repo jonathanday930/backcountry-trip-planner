@@ -1,0 +1,880 @@
+[
+  {
+    "id": "big-bend-trailhead",
+    "name": "Big Bend Trailhead",
+    "lat": 37.27308,
+    "lon": -112.94653,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "canyon-junction",
+    "name": "Canyon Junction",
+    "lat": 37.21781,
+    "lon": -112.9747,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "chamberlain-s-ranch-trailhead",
+    "name": "Chamberlain's Ranch Trailhead",
+    "lat": 37.38533,
+    "lon": -112.83898,
+    "type": "trailhead",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "checkerboard-mesa-trailhead",
+    "name": "Checkerboard Mesa Trailhead",
+    "lat": 37.22611,
+    "lon": -112.88644,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "chinle-trailhead",
+    "name": "Chinle Trailhead",
+    "lat": 37.16133,
+    "lon": -113.01942,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "coal-pits-wash-trailhead",
+    "name": "Coal Pits Wash Trailhead",
+    "lat": 37.17043,
+    "lon": -113.08125,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "court-of-the-patriarchs",
+    "name": "Court of the Patriarchs",
+    "lat": 37.2373,
+    "lon": -112.96238,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "dalton-wash-trailhead",
+    "name": "Dalton Wash Trailhead",
+    "lat": 37.22159,
+    "lon": -113.10971,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-entrance-trailhead",
+    "name": "East Entrance Trailhead",
+    "lat": 37.23428,
+    "lon": -112.87746,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "east-mesa-trailhead",
+    "name": "East Mesa Trailhead",
+    "lat": 37.29622,
+    "lon": -112.90124,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "emerald-pools-trailhead",
+    "name": "Emerald Pools Trailhead",
+    "lat": 37.25113,
+    "lon": -112.95863,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "grapevine-trailhead",
+    "name": "Grapevine Trailhead",
+    "lat": 37.27438,
+    "lon": -113.10043,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "grotto-trailhead",
+    "name": "Grotto Trailhead",
+    "lat": 37.25922,
+    "lon": -112.95134,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hop-valley-trailhead",
+    "name": "Hop Valley Trailhead",
+    "lat": 37.34044,
+    "lon": -113.11313,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "huber-wash-trailhead",
+    "name": "Huber Wash Trailhead",
+    "lat": 37.16726,
+    "lon": -113.06094,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "keyhole-parking",
+    "name": "Keyhole Parking",
+    "lat": 37.22474,
+    "lon": -112.90253,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lava-point-trailhead",
+    "name": "Lava Point Trailhead",
+    "lat": 37.38175,
+    "lon": -113.02295,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lee-pass-trailhead",
+    "name": "Lee Pass Trailhead",
+    "lat": 37.45155,
+    "lon": -113.19155,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "left-fork-subway-trailhead",
+    "name": "Left Fork (Subway) Trailhead",
+    "lat": 37.28514,
+    "lon": -113.09571,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "middle-fork-taylor-creek-trailhead",
+    "name": "Middle Fork Taylor Creek Trailhead",
+    "lat": 37.46192,
+    "lon": -113.19994,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "orderville-gulch-trailhead",
+    "name": "Orderville Gulch Trailhead",
+    "lat": 37.3324,
+    "lon": -112.86308,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "pine-creek-bridge-1st-switchback",
+    "name": "Pine Creek Bridge (1st Switchback)",
+    "lat": 37.21662,
+    "lon": -112.96552,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "pine-creek-overlook-2nd-switchback",
+    "name": "Pine Creek Overlook (2nd Switchback)",
+    "lat": 37.21456,
+    "lon": -112.9579,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "right-fork-trailhead",
+    "name": "Right Fork Trailhead",
+    "lat": 37.2709,
+    "lon": -113.10323,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "south-fork-taylor-creek-trailhead",
+    "name": "South Fork Taylor Creek Trailhead",
+    "lat": 37.45517,
+    "lon": -113.18566,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "stave-spring-trailhead",
+    "name": "Stave Spring Trailhead",
+    "lat": 37.26785,
+    "lon": -112.89936,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "temple-of-sinawava-trailhead",
+    "name": "Temple of Sinawava Trailhead",
+    "lat": 37.28501,
+    "lon": -112.94743,
+    "type": "trailhead",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "tunnel-east-pine-creek-trailhead",
+    "name": "Tunnel East (Pine Creek) Trailhead",
+    "lat": 37.21332,
+    "lon": -112.94052,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "watchman-trailhead",
+    "name": "Watchman Trailhead",
+    "lat": 37.20139,
+    "lon": -112.9863,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "weeping-rock-trailhead",
+    "name": "Weeping Rock Trailhead",
+    "lat": 37.27102,
+    "lon": -112.93858,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "wildcat-canyon-trailhead",
+    "name": "Wildcat Canyon Trailhead",
+    "lat": 37.34,
+    "lon": -113.0758,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "acl-arete",
+    "name": "ACL Arete",
+    "lat": 37.20528,
+    "lon": -112.97042,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "crack-in-the-cosmic-egg",
+    "name": "Crack in the Cosmic Egg",
+    "lat": 37.24261,
+    "lon": -112.96285,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "desert-shield",
+    "name": "Desert Shield",
+    "lat": 37.27881,
+    "lon": -112.94374,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "disco-inferno",
+    "name": "Disco Inferno",
+    "lat": 37.27881,
+    "lon": -112.94374,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "gatekeeper-wall",
+    "name": "Gatekeeper Wall",
+    "lat": 37.18907,
+    "lon": -112.97298,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "lowe-route",
+    "name": "Lowe Route",
+    "lat": 37.26972,
+    "lon": -112.94805,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "monkeyfinger",
+    "name": "Monkeyfinger",
+    "lat": 37.28582,
+    "lon": -112.94495,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "prodigal-sun",
+    "name": "Prodigal Sun",
+    "lat": 37.27025,
+    "lon": -112.9488,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "spaceshot",
+    "name": "Spaceshot",
+    "lat": 37.28137,
+    "lon": -112.94497,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "streaked-wall",
+    "name": "Streaked Wall",
+    "lat": 37.22311,
+    "lon": -112.98478,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "swoop-gimp-or-be-dust",
+    "name": "Swoop Gimp or Be Dust",
+    "lat": 37.28231,
+    "lon": -112.94984,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "tatoween",
+    "name": " Tatoween",
+    "lat": 37.19464,
+    "lon": -113.03263,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "touchstone",
+    "name": "Touchstone",
+    "lat": 37.27426,
+    "lon": -112.94441,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "tricks-of-the-trade",
+    "name": "Tricks of the Trade",
+    "lat": 37.24351,
+    "lon": -112.9712,
+    "type": "designated_campsite",
+    "context": "Zion Climbing Routes",
+    "startingAreas": [
+      "Zion Climbing Routes"
+    ]
+  },
+  {
+    "id": "weeping-rock-trailhead-closed",
+    "name": "Weeping Rock Trailhead (**CLOSED**)",
+    "lat": 37.27102,
+    "lon": -112.93858,
+    "type": "trailhead",
+    "startingAreas": [],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "hop-valley-a",
+    "name": "Hop Valley A",
+    "lat": 37.40383,
+    "lon": -113.13919,
+    "type": "designated_campsite",
+    "context": "Hop Valley",
+    "startingAreas": [
+      "Hop Valley"
+    ]
+  },
+  {
+    "id": "hop-valley-b",
+    "name": "Hop Valley B",
+    "lat": 37.40152,
+    "lon": -113.13786,
+    "type": "designated_campsite",
+    "context": "Hop Valley",
+    "startingAreas": [
+      "Hop Valley"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-1",
+    "name": "La Verkin Creek 1",
+    "lat": 37.42009,
+    "lon": -113.19567,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-2",
+    "name": "La Verkin Creek 2",
+    "lat": 37.41441,
+    "lon": -113.19284,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-3",
+    "name": "La Verkin Creek 3",
+    "lat": 37.40629,
+    "lon": -113.19638,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-4",
+    "name": "La Verkin Creek 4",
+    "lat": 37.40763,
+    "lon": -113.17595,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-5",
+    "name": "La Verkin Creek 5",
+    "lat": 37.41068,
+    "lon": -113.1701,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-6",
+    "name": "La Verkin Creek 6",
+    "lat": 37.41078,
+    "lon": -113.16753,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-7",
+    "name": "La Verkin Creek 7",
+    "lat": 37.41542,
+    "lon": -113.15464,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-8",
+    "name": "La Verkin Creek 8",
+    "lat": 37.41541,
+    "lon": -113.15211,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-9",
+    "name": "La Verkin Creek 9",
+    "lat": 37.41486,
+    "lon": -113.15172,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-10",
+    "name": "La Verkin Creek 10",
+    "lat": 37.41599,
+    "lon": -113.1493,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-11",
+    "name": "La Verkin Creek 11",
+    "lat": 37.41723,
+    "lon": -113.14319,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-12",
+    "name": "La Verkin Creek 12",
+    "lat": 37.42019,
+    "lon": -113.14019,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "la-verkin-creek-13",
+    "name": "La Verkin Creek 13",
+    "lat": 37.43129,
+    "lon": -113.12698,
+    "type": "designated_campsite",
+    "context": "La Verkin Creek",
+    "startingAreas": [
+      "La Verkin Creek"
+    ]
+  },
+  {
+    "id": "southwest-desert-1",
+    "name": "Southwest Desert 1",
+    "lat": 37.20598,
+    "lon": -113.05572,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "southwest-desert-2",
+    "name": "Southwest Desert 2",
+    "lat": 37.20998,
+    "lon": -113.0547,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "southwest-desert-3",
+    "name": "Southwest Desert 3",
+    "lat": 37.20355,
+    "lon": -113.06759,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "southwest-desert-4",
+    "name": "Southwest Desert 4",
+    "lat": 37.21299,
+    "lon": -113.07806,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "southwest-desert-5",
+    "name": "Southwest Desert 5",
+    "lat": 37.21599,
+    "lon": -113.07795,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "southwest-desert-6",
+    "name": "Southwest Desert 6",
+    "lat": 37.19386,
+    "lon": -113.07703,
+    "type": "designated_campsite",
+    "context": "Southwest Desert",
+    "startingAreas": [
+      "Southwest Desert"
+    ]
+  },
+  {
+    "id": "west-rim-1",
+    "name": "West Rim 1",
+    "lat": 37.28755,
+    "lon": -112.96934,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-2",
+    "name": "West Rim 2",
+    "lat": 37.28663,
+    "lon": -112.9689,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-3",
+    "name": "West Rim 3",
+    "lat": 37.28494,
+    "lon": -112.98229,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-4",
+    "name": "West Rim 4",
+    "lat": 37.28589,
+    "lon": -112.98391,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-5",
+    "name": "West Rim 5",
+    "lat": 37.29055,
+    "lon": -112.98712,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-6",
+    "name": "West Rim 6",
+    "lat": 37.30458,
+    "lon": -112.98809,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-7",
+    "name": "West Rim 7",
+    "lat": 37.32048,
+    "lon": -112.99103,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-8",
+    "name": "West Rim 8",
+    "lat": 37.32135,
+    "lon": -112.98696,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "west-rim-9",
+    "name": "West Rim 9",
+    "lat": 37.37055,
+    "lon": -113.01724,
+    "type": "designated_campsite",
+    "context": "West Rim",
+    "startingAreas": [
+      "West Rim"
+    ]
+  },
+  {
+    "id": "narrows-1",
+    "name": "Narrows 1",
+    "lat": 37.35911,
+    "lon": -112.95161,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-2",
+    "name": "Narrows 2",
+    "lat": 37.35774,
+    "lon": -112.95194,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-3",
+    "name": "Narrows 3",
+    "lat": 37.35481,
+    "lon": -112.95169,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-4",
+    "name": "Narrows 4",
+    "lat": 37.35168,
+    "lon": -112.94922,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-5",
+    "name": "Narrows 5",
+    "lat": 37.35059,
+    "lon": -112.94951,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-6",
+    "name": "Narrows 6",
+    "lat": 37.34947,
+    "lon": -112.95089,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-7",
+    "name": "Narrows 7",
+    "lat": 37.34508,
+    "lon": -112.95066,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-8",
+    "name": "Narrows 8",
+    "lat": 37.34479,
+    "lon": -112.95083,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-9",
+    "name": "Narrows 9",
+    "lat": 37.34402,
+    "lon": -112.95123,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-10",
+    "name": "Narrows 10",
+    "lat": 37.33862,
+    "lon": -112.95741,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-11",
+    "name": "Narrows 11",
+    "lat": 37.33369,
+    "lon": -112.95564,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  },
+  {
+    "id": "narrows-12",
+    "name": "Narrows 12",
+    "lat": 37.33207,
+    "lon": -112.95715,
+    "type": "designated_campsite",
+    "context": "The Narrows",
+    "startingAreas": [
+      "The Narrows"
+    ]
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "id": "boy-scout-trail-keys-west",
+    "name": "Boy Scout Trail (Keys West)",
+    "lat": 34.041,
+    "lon": -116.1857,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "cottonwood",
+    "name": "Cottonwood",
+    "lat": 33.737,
+    "lon": -115.8107,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "covington-flats",
+    "name": "Covington Flats",
+    "lat": 34.0104,
+    "lon": -116.3058,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "geo-tour-road",
+    "name": "Geo Tour Road",
+    "lat": 33.9853,
+    "lon": -116.0821,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "indian-cove",
+    "name": "Indian Cove",
+    "lat": 34.1132,
+    "lon": -116.1555,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "juniper-flats",
+    "name": "Juniper Flats",
+    "lat": 33.9773,
+    "lon": -116.1651,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "north-entrance",
+    "name": "North Entrance",
+    "lat": 34.0741,
+    "lon": -116.0319,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "pine-city",
+    "name": "Pine City",
+    "lat": 34.0235,
+    "lon": -116.0777,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "pleasant-valley",
+    "name": "Pleasant Valley",
+    "lat": 33.9234,
+    "lon": -116.054,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "porcupine-wash",
+    "name": "Porcupine Wash",
+    "lat": 33.8458,
+    "lon": -115.7776,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "twin-tanks",
+    "name": "Twin Tanks",
+    "lat": 33.9895,
+    "lon": -116.0229,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "outside-the-park",
+    "name": "Outside the Park",
+    "lat": 34.12749,
+    "lon": -116.037541,
+    "type": "trailhead",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site",
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-1",
+    "name": "Boy Scout Trail Campsite #1",
+    "lat": 34.11012,
+    "lon": -116.17001,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-2",
+    "name": "Boy Scout Trail Campsite #2",
+    "lat": 34.10622,
+    "lon": -116.17174,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-3",
+    "name": "Boy Scout Trail Campsite #3",
+    "lat": 34.10539,
+    "lon": -116.17268,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-4",
+    "name": "Boy Scout Trail Campsite #4",
+    "lat": 34.10732,
+    "lon": -116.17325,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-5",
+    "name": "Boy Scout Trail Campsite #5",
+    "lat": 34.1066,
+    "lon": -116.1761,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-6",
+    "name": "Boy Scout Trail Campsite #6",
+    "lat": 34.09314,
+    "lon": -116.19533,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-7",
+    "name": "Boy Scout Trail Campsite #7",
+    "lat": 34.09311,
+    "lon": -116.19224,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-8",
+    "name": "Boy Scout Trail Campsite #8",
+    "lat": 34.09066,
+    "lon": -116.19374,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-9",
+    "name": "Boy Scout Trail Campsite #9",
+    "lat": 34.08608,
+    "lon": -116.19369,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-10",
+    "name": "Boy Scout Trail Campsite #10",
+    "lat": 34.08426,
+    "lon": -116.19493,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-11",
+    "name": "Boy Scout Trail Campsite #11",
+    "lat": 34.0787,
+    "lon": -116.19552,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-12",
+    "name": "Boy Scout Trail Campsite #12",
+    "lat": 34.0718,
+    "lon": -116.18808,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-13",
+    "name": "Boy Scout Trail Campsite #13",
+    "lat": 34.0684,
+    "lon": -116.18422,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-14",
+    "name": "Boy Scout Trail Campsite #14",
+    "lat": 34.06279,
+    "lon": -116.18482,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "boy-scout-trail-campsite-15",
+    "name": "Boy Scout Trail Campsite #15",
+    "lat": 34.05618,
+    "lon": -116.17804,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "campsite-16-p",
+    "name": "Campsite # 16 (P)",
+    "lat": 34.05183,
+    "lon": -116.18124,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "campsite-17-q",
+    "name": "Campsite # 17 (Q)",
+    "lat": 34.05208,
+    "lon": -116.17814,
+    "type": "designated_campsite",
+    "context": "Boy Scout Trail Designated Backpacking Site",
+    "startingAreas": [
+      "Boy Scout Trail Designated Backpacking Site"
+    ]
+  },
+  {
+    "id": "black-rock-zone",
+    "name": "Black Rock Zone",
+    "lat": 34.0159,
+    "lon": -116.41,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "covington-zone",
+    "name": "Covington Zone",
+    "lat": 33.9785,
+    "lon": -116.3358,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "eagle-mountains-zone",
+    "name": "Eagle Mountains Zone",
+    "lat": 33.7785,
+    "lon": -115.6515,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "east-zone",
+    "name": "East Zone",
+    "lat": 33.9842,
+    "lon": -115.4908,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "hexie-mountains-zone",
+    "name": "Hexie Mountains Zone",
+    "lat": 33.7976,
+    "lon": -115.8942,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "juniper-flats-zone",
+    "name": "Juniper Flats Zone",
+    "lat": 33.9255,
+    "lon": -116.2475,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "lost-horse-zone",
+    "name": "Lost Horse Zone",
+    "lat": 33.9462,
+    "lon": -116.1242,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "north-entrance-zone",
+    "name": "North Entrance Zone",
+    "lat": 34.0455,
+    "lon": -116.0085,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "pine-city-zone",
+    "name": "Pine City Zone",
+    "lat": 34.0364,
+    "lon": -116.0559,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "pinto-mountains-zone",
+    "name": "Pinto Mountains Zone",
+    "lat": 33.9487,
+    "lon": -115.845,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "pleasant-valley-zone",
+    "name": "Pleasant Valley Zone",
+    "lat": 33.86581,
+    "lon": -116.06491,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "quail-wash-zone",
+    "name": "Quail Wash Zone",
+    "lat": 34.0365,
+    "lon": -116.2465,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "the-maze-zone",
+    "name": "The Maze Zone",
+    "lat": 34.0948,
+    "lon": -116.2216,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  },
+  {
+    "id": "twin-tanks-zone",
+    "name": "Twin Tanks Zone",
+    "lat": 33.9575,
+    "lon": -116.0381,
+    "type": "at_large",
+    "context": "Joshua Tree Overnight Backpacking",
+    "startingAreas": [
+      "Joshua Tree Overnight Backpacking"
+    ]
+  }
+]

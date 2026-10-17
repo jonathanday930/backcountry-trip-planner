@@ -1,0 +1,27 @@
+**/node_modules
+**/dist
+**/*.tsbuildinfo
+.git
+.claude
+.DS_Store
+
+backend/.env
+
+frontend/dist
+
+# Only currently-registered parks' data ships with the image (see Dockerfile's COPY list, which
+# must match backend/src/parks.ts's PARKS array) — everything else under backend/data/ is either
+# scraped-but-never-registered, the archived Inyo National Forest (kept on disk, not deployed), or
+# runtime-only state (app.db*, elevation-cache.json) that belongs on the Fly volume, not the image.
+backend/data/*
+!backend/data/yellowstone-national-park-backcountry-permits
+!backend/data/grand-canyon-national-park-backcountry-permits
+!backend/data/mount-rainier-national-park-wilderness-and-climbing-permits
+!backend/data/north-cascades-national-park-backcountry-permits
+!backend/data/zion-national-park
+!backend/data/sequoia-kings-canyon-national-parks
+!backend/data/joshua-tree-national-park-wilderness-backpacking-permits
+!backend/data/sierra-national-forest
+!backend/data/rocky-mountain-national-park-wilderness-permits
+!backend/data/grand-teton
+!backend/data/glacier

@@ -1,0 +1,1711 @@
+[
+  {
+    "id": "colter-bay",
+    "name": "Colter Bay",
+    "lat": 43.90323606,
+    "lon": -110.6435365,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "death-canyon-trailhead-closed-2026-season",
+    "name": "Death Canyon Trailhead (Closed - 2026 Season) ",
+    "lat": 43.65604579,
+    "lon": -110.7813789,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "Technical Climbing Sites"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-08-24"
+  },
+  {
+    "id": "glade-creek-trailhead",
+    "name": "Glade Creek Trailhead",
+    "lat": 44.08972358,
+    "lon": -110.7242503,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "granite-canyon-trailhead",
+    "name": "Granite Canyon Trailhead",
+    "lat": 43.60737997,
+    "lon": -110.7931008,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "jenny-lake-trailhead",
+    "name": "Jenny Lake Trailhead",
+    "lat": 43.75161074,
+    "lon": -110.7254002,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "leeks-boat-launch",
+    "name": "Leeks Boat Launch",
+    "lat": 43.93008784,
+    "lon": -110.6402281,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "lizard-creek-boat-launch",
+    "name": "Lizard Creek Boat Launch",
+    "lat": 44.00141211,
+    "lon": -110.6916014,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "lupine-meadows-trailhead",
+    "name": "Lupine Meadows Trailhead",
+    "lat": 43.73453109,
+    "lon": -110.7416485,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "phillips-pass-trailhead",
+    "name": "Phillips Pass Trailhead",
+    "lat": 43.50608932,
+    "lon": -110.9275831,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "signal-mt-boat-launch",
+    "name": "Signal Mt. Boat Launch",
+    "lat": 43.83864405,
+    "lon": -110.6167739,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Leigh Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "south-landing-trailhead",
+    "name": "South Landing Trailhead",
+    "lat": 43.8228868,
+    "lon": -110.6155286,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "spalding-bay-boat-launch",
+    "name": "Spalding Bay Boat Launch",
+    "lat": 43.82420226,
+    "lon": -110.6755248,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Leigh Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "string-lake-trailhead",
+    "name": "String Lake Trailhead",
+    "lat": 43.78916816,
+    "lon": -110.7316673,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "leigh-lake-trailhead",
+    "name": "Leigh Lake Trailhead",
+    "lat": 43.78408867,
+    "lon": -110.7273658,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "taggart-lake-trailhead",
+    "name": "Taggart Lake Trailhead",
+    "lat": 43.69317002,
+    "lon": -110.732931,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teton-canyon-trailhead",
+    "name": "Teton Canyon Trailhead",
+    "lat": 43.75566396,
+    "lon": -110.9152264,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teton-village",
+    "name": "Teton Village",
+    "lat": 43.58757202,
+    "lon": -110.821546,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "flagg-ranch-boat-launch",
+    "name": "Flagg Ranch Boat Launch",
+    "lat": 44.09978374,
+    "lon": -110.6676416,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "climbers-ranch",
+    "name": "Climbers Ranch",
+    "lat": 43.70489191,
+    "lon": -110.7353139,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "1-wilcox-point",
+    "name": "#1 Wilcox Point",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "2-warm-springs",
+    "name": "#2 Warm Springs",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "2-warm-springs-group-site",
+    "name": "#2 Warm Springs Group site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "4-little-grassy-island",
+    "name": "#4 Little Grassy Island",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "5-bearpaw-bay-groupsite",
+    "name": "#5 Bearpaw Bay Groupsite",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "6-deadman-s-point",
+    "name": "#6 Deadman's Point",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "7-spalding-bay",
+    "name": "#7 Spalding Bay",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "8-south-landing",
+    "name": "#8 South Landing",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "8-south-landing-group-site",
+    "name": "#8 South Landing Group site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "9-hermitage-point-group-site",
+    "name": "#9 Hermitage Point Group Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "10-elk-island",
+    "name": "#10 Elk Island",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "10-elk-island-group-site",
+    "name": "#10 Elk Island Group Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "11-little-mackinaw-bay",
+    "name": "#11 Little Mackinaw Bay",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Jackson Lake",
+    "startingAreas": [
+      "Jackson Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-12b",
+    "name": "Leigh Lake 12B",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-12c",
+    "name": "Leigh Lake 12C",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-12-group-site",
+    "name": "Leigh Lake 12 Group Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-13",
+    "name": "Leigh Lake 13",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-14a",
+    "name": "Leigh Lake 14A",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-14b",
+    "name": "Leigh Lake 14B",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-15",
+    "name": "Leigh Lake 15",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "leigh-lake-16",
+    "name": "Leigh Lake 16",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "bearpaw-lake-a",
+    "name": "Bearpaw Lake A",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "bearpaw-lake-b",
+    "name": "Bearpaw Lake B",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "bearpaw-lake-c",
+    "name": "Bearpaw Lake C",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "trapper-lake",
+    "name": "Trapper Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Leigh Lake",
+    "startingAreas": [
+      "Leigh Lake"
+    ]
+  },
+  {
+    "id": "usfs-alaska-basin",
+    "name": "USFS - Alaska Basin",
+    "lat": 43.701045740088816,
+    "lon": -110.85439306146785,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "cascade-north-fork",
+    "name": "Cascade North Fork",
+    "lat": 43.781538,
+    "lon": -110.82918,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "cascade-south-fork",
+    "name": "Cascade South Fork",
+    "lat": 43.750311,
+    "lon": -110.832402,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "death-canyon",
+    "name": "Death Canyon",
+    "lat": 43.664949,
+    "lon": -110.847236,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "death-canyon-shelf",
+    "name": "Death Canyon Shelf",
+    "lat": 43.66743313366447,
+    "lon": -110.89244916440015,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "usfs-fox-creek-pass",
+    "name": "USFS - Fox Creek Pass",
+    "lat": 43.64632142972199,
+    "lon": -110.91022706462137,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "granite-lower",
+    "name": "Granite Lower",
+    "lat": 43.615153,
+    "lon": -110.829471,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "granite-upper",
+    "name": "Granite Upper",
+    "lat": 43.619863,
+    "lon": -110.923637,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "granite-south-middle-fork",
+    "name": "Granite South/Middle Fork",
+    "lat": 43.609082,
+    "lon": -110.922961,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "granite-mt-hunt",
+    "name": "Granite/Mt. Hunt",
+    "lat": 43.629378833281365,
+    "lon": -110.85050254870217,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "holly-lake",
+    "name": "Holly Lake",
+    "lat": 43.79270767586673,
+    "lon": -110.79816295068137,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "marion-lake",
+    "name": "Marion Lake",
+    "lat": 43.6235412229187,
+    "lon": -110.92906401388386,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "open-canyon",
+    "name": "Open Canyon",
+    "lat": 43.637259,
+    "lon": -110.832667,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "outlier-site",
+    "name": "Outlier Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "paintbrush-lower",
+    "name": "Paintbrush Lower",
+    "lat": 43.798665,
+    "lon": -110.771107,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "paintbrush-upper",
+    "name": "Paintbrush Upper",
+    "lat": 43.788992,
+    "lon": -110.801475,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "surprise-lake",
+    "name": "Surprise Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "phelps-lake",
+    "name": "Phelps Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "bradley-lake",
+    "name": "Bradley Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "mountain-other",
+    "name": "Mountain Other",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "berry-creek",
+    "name": "Berry Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Northern Canyons",
+    "startingAreas": [
+      "Northern Canyons"
+    ]
+  },
+  {
+    "id": "owl-creek",
+    "name": "Owl Creek",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Northern Canyons",
+    "startingAreas": [
+      "Northern Canyons"
+    ]
+  },
+  {
+    "id": "webb-canyon-moose-basin",
+    "name": "Webb Canyon/Moose Basin",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Northern Canyons",
+    "startingAreas": [
+      "Northern Canyons"
+    ]
+  },
+  {
+    "id": "hechtman-horse-camp",
+    "name": "Hechtman Horse Camp",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Northern Canyons",
+    "startingAreas": [
+      "Northern Canyons"
+    ]
+  },
+  {
+    "id": "death-canyon-group-site",
+    "name": "Death Canyon Group Site",
+    "lat": 43.664949,
+    "lon": -110.847236,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "death-canyon-shelf-group-site",
+    "name": "Death Canyon Shelf Group Site",
+    "lat": 43.66743313366447,
+    "lon": -110.89244916440015,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "death-canyon-horse-site",
+    "name": "Death Canyon Horse Site",
+    "lat": 43.664949,
+    "lon": -110.847236,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "holly-lake-group-site",
+    "name": "Holly Lake Group Site",
+    "lat": 43.79270767586673,
+    "lon": -110.79816295068137,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "lower-granite-group-site",
+    "name": "Lower Granite Group Site",
+    "lat": 43.615153,
+    "lon": -110.829471,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "middle-south-fork-granite-group-site",
+    "name": "Middle/South Fork Granite Group Site",
+    "lat": 43.609082,
+    "lon": -110.922961,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "north-fork-cascade-group-site",
+    "name": "North Fork Cascade Group Site",
+    "lat": 43.781538,
+    "lon": -110.82918,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "south-fork-cascade-group-site",
+    "name": "South Fork Cascade Group Site",
+    "lat": 43.750311,
+    "lon": -110.832402,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "south-fork-cascade-horse-site",
+    "name": "South Fork Cascade Horse Site",
+    "lat": 43.750311,
+    "lon": -110.832402,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "upper-granite-horse-site",
+    "name": "Upper Granite Horse Site",
+    "lat": 43.619863,
+    "lon": -110.923637,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "usfs-alaska-basin-group",
+    "name": "USFS - Alaska Basin Group",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "usfs-fox-creek-group",
+    "name": "USFS - Fox Creek Group",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "mountain-group-other",
+    "name": "Mountain Group Other",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "garnet-meadows",
+    "name": "Garnet Meadows",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Meadows-Platforms",
+    "startingAreas": [
+      "Meadows-Platforms"
+    ]
+  },
+  {
+    "id": "platforms",
+    "name": "Platforms",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Meadows-Platforms",
+    "startingAreas": [
+      "Meadows-Platforms"
+    ]
+  },
+  {
+    "id": "lower-saddle",
+    "name": "Lower Saddle",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lwr Saddle-Moraine-Caves",
+    "startingAreas": [
+      "Lwr Saddle-Moraine-Caves"
+    ]
+  },
+  {
+    "id": "moraine",
+    "name": "Moraine",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lwr Saddle-Moraine-Caves",
+    "startingAreas": [
+      "Lwr Saddle-Moraine-Caves"
+    ]
+  },
+  {
+    "id": "garnet-caves",
+    "name": "Garnet Caves",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Lwr Saddle-Moraine-Caves",
+    "startingAreas": [
+      "Lwr Saddle-Moraine-Caves"
+    ]
+  },
+  {
+    "id": "garnet-south-fork",
+    "name": "Garnet South Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "South Fork - Garnet Canyon",
+    "startingAreas": [
+      "South Fork - Garnet Canyon"
+    ]
+  },
+  {
+    "id": "grand-stand",
+    "name": "Grand Stand",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teton-glacier",
+    "name": "Teton Glacier",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teewinot-east-side",
+    "name": "Teewinot East Side",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "north-face",
+    "name": "North Face",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "east-ridge-of-grand-teton",
+    "name": "East Ridge of Grand Teton",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "valhalla-traverse",
+    "name": "Valhalla Traverse",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "cmc-site",
+    "name": "CMC Site",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "owen-west-ledges",
+    "name": "Owen West Ledges",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "owen-cirque",
+    "name": "Owen Cirque",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "skillet-glacier",
+    "name": "Skillet Glacier",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "football-field",
+    "name": "Football Field",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "koven",
+    "name": "Koven",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "ms-traverse",
+    "name": "MS Traverse",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "climbing-other",
+    "name": "Climbing Other",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Technical Climbing Sites",
+    "startingAreas": [
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "alpha-omega-lakes",
+    "name": "Alpha-Omega Lakes",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "arrowhead-pool",
+    "name": "Arrowhead Pool",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "avalanche-canyon-lower",
+    "name": "Avalanche Canyon Lower",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "avalanche-south-fork",
+    "name": "Avalanche South Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "coyote-lake",
+    "name": "Coyote Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "dartmouth-basin",
+    "name": "Dartmouth Basin",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "delta-lake",
+    "name": "Delta Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "forget-me-not-lakes",
+    "name": "Forget Me Not Lakes",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "grizzly-bear-lake",
+    "name": "Grizzly Bear Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "icefloe-lake",
+    "name": "Icefloe Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "indian-lake",
+    "name": "Indian Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "kit-lake",
+    "name": "Kit Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "lake-of-the-crags",
+    "name": "Lake of the Crags",
+    "lat": 43.775538,
+    "lon": -110.770357,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "lake-taminah",
+    "name": "Lake Taminah",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "leigh-lower-lakes",
+    "name": "Leigh Lower Lakes",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "leigh-upper",
+    "name": "Leigh Upper",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "mica-lake",
+    "name": "Mica Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "mink-lake",
+    "name": "Mink Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "no-wood-basin",
+    "name": "No Wood Basin",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "open-canyon-upper",
+    "name": "Open Canyon Upper",
+    "lat": 43.630405,
+    "lon": -110.849968,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "other-pristine-south",
+    "name": "Other Pristine South",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "pass-lake",
+    "name": "Pass Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "ramshead-lake",
+    "name": "Ramshead Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "rimrock-lake",
+    "name": "Rimrock Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "shadow-peak-cirque",
+    "name": "Shadow Peak Cirque",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "snowdrift-lake",
+    "name": "Snowdrift Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "stewarts-draw",
+    "name": "Stewarts Draw",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "symmetry-col",
+    "name": "Symmetry Col",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "timberline-lake",
+    "name": "Timberline Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "valhalla-canyon",
+    "name": "Valhalla Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites South",
+    "startingAreas": [
+      "Pristine Sites South"
+    ]
+  },
+  {
+    "id": "cirque-lake",
+    "name": "Cirque Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "colter-canyon",
+    "name": "Colter Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "dudley-lake",
+    "name": "Dudley Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "falcon-canyon",
+    "name": "Falcon Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "moran-lower-canyon",
+    "name": "Moran Lower Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "moran-north-fork",
+    "name": "Moran North Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "moran-north-fork-lake-9860",
+    "name": "Moran North Fork Lake 9860",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "moran-south-fork",
+    "name": "Moran South Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "other-pristine-north",
+    "name": "Other Pristine North",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "snowshoe-north-fork",
+    "name": "Snowshoe North Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "snowshoe-south-fork",
+    "name": "Snowshoe South Fork",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "talus-lake",
+    "name": "Talus Lake",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "waterfalls-canyon",
+    "name": "Waterfalls Canyon",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Pristine Sites North",
+    "startingAreas": [
+      "Pristine Sites North"
+    ]
+  },
+  {
+    "id": "usfs-other",
+    "name": "USFS - Other",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "usfs-other-group",
+    "name": "USFS - Other Group",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  },
+  {
+    "id": "other-free",
+    "name": "Other Free",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Camping Zones",
+    "startingAreas": [
+      "Mountain Camping Zones"
+    ]
+  },
+  {
+    "id": "other-free-group",
+    "name": "Other Free Group",
+    "lat": null,
+    "lon": null,
+    "type": "at_large",
+    "context": "Mountain Group Sites",
+    "startingAreas": [
+      "Mountain Group Sites"
+    ]
+  }
+]

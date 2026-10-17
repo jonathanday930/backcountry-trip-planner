@@ -1,0 +1,90 @@
+[
+  {
+    "id": "elephant-hill-road-vehicle",
+    "name": "Elephant Hill Road - Vehicle",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "salt-creek-horse-canyon-roads-vehicle",
+    "name": "Salt Creek/Horse Canyon Roads - Vehicle",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "lavender-canyon-vehicle",
+    "name": "Lavender Canyon - Vehicle",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "white-rim-road-vehicle",
+    "name": "White Rim Road - Vehicle",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "Island in the Sky",
+    "startingAreas": [
+      "Island in the Sky"
+    ]
+  },
+  {
+    "id": "elephant-hill-road-mountain-bike",
+    "name": "Elephant Hill Road - Mountain Bike",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "salt-creek-horse-canyon-roads-mountain-bike",
+    "name": "Salt Creek/Horse Canyon Roads - Mountain Bike",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "lavender-canyon-mountain-bike",
+    "name": "Lavender Canyon - Mountain Bike",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "The Needles",
+    "startingAreas": [
+      "The Needles"
+    ]
+  },
+  {
+    "id": "white-rim-road-mountain-bike",
+    "name": "White Rim Road - Mountain Bike",
+    "lat": 38.24555783,
+    "lon": -109.8801624,
+    "type": "designated_campsite",
+    "context": "Island in the Sky",
+    "startingAreas": [
+      "Island in the Sky"
+    ]
+  }
+]

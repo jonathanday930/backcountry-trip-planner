@@ -1,0 +1,30 @@
+[
+  {
+    "id": "trans-zion-traverse",
+    "name": "Trans-Zion Traverse (Zion Traverse)",
+    "stops": ["lee-pass-trailhead", "la-verkin-creek-1", "la-verkin-creek-2", "la-verkin-creek-3", "la-verkin-creek-4", "la-verkin-creek-5", "la-verkin-creek-6", "la-verkin-creek-7", "la-verkin-creek-8", "la-verkin-creek-9", "la-verkin-creek-10", "la-verkin-creek-11", "la-verkin-creek-12", "la-verkin-creek-13", "hop-valley-b", "hop-valley-a", "west-rim-9", "west-rim-8", "west-rim-7", "west-rim-6", "west-rim-5", "west-rim-4", "west-rim-3", "west-rim-2", "west-rim-1", "grotto-trailhead"],
+    "typicalNights": 3,
+    "notes": "Lee Pass to the Grotto, with every numbered La Verkin Creek and West Rim site represented in walking order. Published trip reports commonly describe 35–46 miles and roughly 5,000–6,600 feet of gain depending on the Grotto/Angel's Landing finish and side trips. Hop Valley has no extra designated camps beyond A/B in this dataset."
+  },
+  {
+    "id": "la-verkin-creek-trail",
+    "name": "La Verkin Creek Trail",
+    "stops": ["lee-pass-trailhead", "la-verkin-creek-1", "la-verkin-creek-2", "la-verkin-creek-3", "la-verkin-creek-4", "la-verkin-creek-5", "la-verkin-creek-6", "la-verkin-creek-7", "la-verkin-creek-8", "la-verkin-creek-9", "la-verkin-creek-10", "la-verkin-creek-11", "la-verkin-creek-12", "la-verkin-creek-13", "hop-valley-a", "hop-valley-trailhead"],
+    "typicalNights": 2,
+    "notes": "One-way Kolob Canyons backpacking corridor. Camps 1–13 are the complete numbered La Verkin Creek inventory in the permit data; Hop Valley A/B are the two further options before the trailhead."
+  },
+  {
+    "id": "west-rim-trail",
+    "name": "West Rim Trail (Lava Point to Grotto)",
+    "stops": ["lava-point-trailhead", "west-rim-9", "west-rim-8", "west-rim-7", "west-rim-6", "west-rim-5", "west-rim-4", "west-rim-3", "west-rim-2", "west-rim-1", "grotto-trailhead"],
+    "typicalNights": 2,
+    "notes": "High-rim point-to-point route. Sites 9 through 1 are ordered north-to-south by their mapped trail position; sites 1/2 and 3/4 are close alternatives, not separate trail miles."
+  },
+  {
+    "id": "narrows-top-down",
+    "name": "The Narrows Top-Down (Chamberlain's Ranch to Temple of Sinawava)",
+    "stops": ["chamberlain-s-ranch-trailhead", "narrows-1", "narrows-2", "narrows-3", "narrows-4", "narrows-5", "narrows-6", "narrows-7", "narrows-8", "narrows-9", "narrows-10", "narrows-11", "narrows-12", "temple-of-sinawava-trailhead"],
+    "typicalNights": 1,
+    "notes": "River-corridor one-way trek; camps 1–12 are ordered north-to-south by their permit coordinates. This is not a conventional dry trail: flash-flood, water-temperature and flow conditions determine whether it is safe or open."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gunsight-pass-trail",
+    "name": "Gunsight Pass Trail",
+    "stops": ["sbe-siyeh-bend", "gun-gunsight-lake-no-campfires", "ell-lake-ellen-wilson-no-campfires", "spe-sperry-no-campfires", "ste-sperry-trail"],
+    "typicalNights": 3,
+    "notes": "Classic east-to-west traverse crossing Gunsight Pass, past Lake Ellen Wilson and Sperry. Moderate, well-trodden, real total distance is short relative to a typical 3-night pace (~22mi), so it also works fine as a 2-night trip."
+  },
+  {
+    "id": "dawson-pitamakan-loop",
+    "name": "Dawson-Pitamakan Loop",
+    "stops": ["tne-two-medicine-north-shore-trail", "old-oldman-lake-no-campfires", "non-no-name-lake-no-campfires", "upt-upper-two-medicine-lake-no-campfires", "tse-two-medicine-south-shore-trail"],
+    "typicalNights": 2,
+    "notes": "Loop out of Two Medicine (same trailhead area both ends, no shuttle needed), crossing Dawson and Pitamakan Passes with big ridge views. Short/easy at typical pace (~22mi total); works well stretched to 3 nights too."
+  },
+  {
+    "id": "boulder-pass-traverse",
+    "name": "Boulder Pass Traverse",
+    "stops": ["ble-bowman-lake-foot", "bow-bowman-lake", "bro-brown-pass-no-campfires", "bou-boulder-pass-no-campfires", "upk-upper-kintla-lake-no-campfires", "kle-kintla-lake"],
+    "typicalNights": 4,
+    "notes": "One of Glacier's most famous point-to-point routes — Bowman Lake to Boulder Pass to Kintla Lake. Starts and ends at DIFFERENT trailheads roughly 20-25 miles apart by rough North Fork gravel road, so this needs a two-vehicle shuttle or an out-and-back variant (reverse course from Upper Kintla Lake back to Bowman Lake Foot) if only one car is available."
+  },
+  {
+    "id": "triple-divide-traverse",
+    "name": "St. Mary to Two Medicine via Triple Divide Pass",
+    "stops": ["ree-red-eagle-trail", "ref-red-eagle-lake-foot", "atl-atlantic-creek-no-campfires", "old-oldman-lake-no-campfires", "tne-two-medicine-north-shore-trail"],
+    "typicalNights": 3,
+    "notes": "Classic Continental Divide Trail corridor crossing three named passes (Triple Divide Pass, Cut Bank Pass, near Pitamakan Pass) between the St. Mary and Two Medicine areas. Point-to-point between two different trailheads/areas — needs a shuttle or two vehicles. REF/REH (Red Eagle Lake Foot/Head) are ~1mi apart and effectively interchangeable as the first night's camp."
+  },
+  {
+    "id": "northern-circle",
+    "name": "Northern Circle (Many Glacier - Belly River - Fifty Mountain - Granite Park)",
+    "stops": ["sce-swiftcurrent-trail", "elh-elizabeth-lake-head-no-campfires", "cos-cosley-lake-no-campfires", "mol-mokowanis-lake-no-campfires", "fif-fifty-mountain-no-campfires", "grn-granite-park-no-campfires", "sce-swiftcurrent-trail"],
+    "typicalNights": 5,
+    "notes": "Glacier's grand tour — a full loop back to Many Glacier via Ptarmigan Tunnel, the Belly River drainage, Fifty Mountain, and Granite Park/Swiftcurrent Pass. Genuinely needs 5+ nights: the Cosley/Mokowanis-to-Fifty-Mountain and Fifty-Mountain-to-Many-Glacier legs are each too long to fit a 17mi/day cap without splitting further, and this app's data has no verified campsite along the Stoney Indian Pass corridor between Mokowanis Lake and Fifty Mountain to split on (real backcountry sites exist there — Stoney Indian Lake, Glenns Lake Head — but aren't in this app's campsite data yet)."
+  }
+]

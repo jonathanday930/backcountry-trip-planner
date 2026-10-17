@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cottonwood-canyon",
+    "name": "Cottonwood Canyon",
+    "lat": 36.540556,
+    "lon": -117.344167,
+    "type": "trailhead",
+    "startingAreas": [
+      "Death Valley Wilderness"
+    ]
+  },
+  {
+    "id": "marble-canyon",
+    "name": "Marble Canyon",
+    "lat": 36.6186,
+    "lon": -117.3306,
+    "type": "trailhead",
+    "startingAreas": [
+      "Death Valley Wilderness"
+    ]
+  },
+  {
+    "id": "goldbelt-spring",
+    "name": "Goldbelt Spring",
+    "lat": 36.5986,
+    "lon": -117.4469,
+    "type": "trailhead",
+    "startingAreas": [
+      "Death Valley Wilderness"
+    ]
+  },
+  {
+    "id": "hunter-spring",
+    "name": "Hunter Spring",
+    "lat": 36.5478,
+    "lon": -117.4881,
+    "type": "trailhead",
+    "startingAreas": [
+      "Death Valley Wilderness"
+    ]
+  }
+]

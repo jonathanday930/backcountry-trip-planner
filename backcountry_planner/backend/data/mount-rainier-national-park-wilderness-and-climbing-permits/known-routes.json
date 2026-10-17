@@ -1,0 +1,23 @@
+[
+  {
+    "id": "wonderland-trail",
+    "name": "Wonderland Trail",
+    "stops": ["longmire-trailhead", "pyramid-creek-camp", "devil-s-dream-camp", "so-puyallup-river-camp", "klapatche-park-camp", "no-puyallup-river-camp", "golden-lakes-camp", "so-mowich-river-camp", "mowich-lake-camp", "ipsut-creek-camp", "carbon-river-camp", "dick-creek-camp", "mystic-camp", "granite-creek-camp", "sunrise-camp", "white-river-backpacker-camp", "summerland-camp", "indian-bar-camp", "nickel-creek-camp", "maple-creek-camp", "paradise-river-camp", "longmire-trailhead"],
+    "typicalNights": 8,
+    "notes": "Clockwise full loop. The NPS describes the Wonderland as about 93 miles with roughly 27,000 feet each of gain and loss; this app's OSM corridor is the operational distance used for planning. Group-site variants at the same camp are intentionally not duplicated. Check current access: several northwest trailheads have been listed as inaccessible."
+  },
+  {
+    "id": "northern-loop-wonderland",
+    "name": "Northern Loop + Wonderland",
+    "stops": ["sunrise-trailhead", "berkeley-park-camp", "fire-creek-camp", "james-camp", "yellowstone-cliffs-camp", "carbon-river-camp", "mystic-camp", "granite-creek-camp", "sunrise-trailhead"],
+    "typicalNights": 3,
+    "notes": "Classic northern loop using the Northern Loop Trail and the northern Wonderland segment. The NPS cites about 8,500 feet of elevation gain; mileage varies by Sunrise/Carbon access and route condition."
+  },
+  {
+    "id": "spray-park-mother-mountain-loop",
+    "name": "Spray Park / Mother Mountain Loop",
+    "stops": ["mowich-lake-trailhead-inaccessible-until-further-notice", "mowich-lake-camp", "eagle-s-roost-camp", "cataract-valley-camp", "carbon-river-camp", "ipsut-creek-camp", "mowich-lake-trailhead-inaccessible-until-further-notice"],
+    "typicalNights": 2,
+    "notes": "The high Spray Park alternative links Mowich Lake, Eagles Roost, Cataract Valley, Carbon River and Ipsut Creek. Mowich Lake access is currently flagged inaccessible in the source permit data; verify road and trail status before using."
+  }
+]

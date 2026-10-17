@@ -1,0 +1,30 @@
+[
+  {
+    "id": "appalachian-trail-smokies",
+    "name": "Appalachian Trail through the Smokies",
+    "stops": ["cosby-knob-backpacker-stock", "tricorner-knob-backpacker-stock", "pecks-corner-backpacker-stock", "icewater-spring-backpacker", "mount-collins-backpacker"],
+    "typicalNights": 2,
+    "notes": "Representative shelter-to-shelter section of the Appalachian Trail in the park. The full Newfound Gap–Davenport Gap section is longer; this compact preview uses authoritative shelter coordinates because several permit trailhead labels are not represented in the NPS trailhead layer."
+  },
+  {
+    "id": "cades-cove-spence-field",
+    "name": "Cades Cove to Spence Field",
+    "stops": ["anthony-creek-trailhead", "campsite-9-anthony-creek-backpacker", "spence-field-backpacker-stock", "mollies-ridge-backpacker-stock"],
+    "typicalNights": 2,
+    "notes": "Popular Cades Cove / Anthony Creek access toward Spence Field and the Appalachian Trail crest. Campsite and shelter choices are permit-specific; verify current trail closures and stock restrictions."
+  },
+  {
+    "id": "deep-creek-forney-loop",
+    "name": "Deep Creek and Forney Ridge Loop",
+    "stops": ["deep-creek-trailhead-south", "campsite-60-bumgardner-branch-backpacker-stock", "campsite-69-huggins-backpacker", "campsite-74-lower-forney-backpacker-stock", "campsite-66-lower-noland-creek-backpacker-boats-only"],
+    "typicalNights": 3,
+    "notes": "Representative eastern-side corridor linking Deep Creek and the Forney area. Several entries are boat-access or stock-designated in Recreation.gov; the permit rules, water levels, and exact itinerary must be checked before use."
+  },
+  {
+    "id": "big-creek-at-shelters",
+    "name": "Big Creek to Appalachian Trail Shelters",
+    "stops": ["big-creek-trailhead", "cosby-knob-backpacker-stock", "tricorner-knob-backpacker-stock", "mount-sterling-backpacker"],
+    "typicalNights": 2,
+    "notes": "Representative Big Creek / northeastern Smokies route using the Appalachian Trail and Mount Sterling shelter corridor. Mileage is computed live from the park network; confirm current access and shelter availability."
+  }
+]

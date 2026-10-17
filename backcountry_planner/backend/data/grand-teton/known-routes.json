@@ -1,0 +1,31 @@
+[
+  {
+    "id": "paintbrush-cascade-loop",
+    "name": "Paintbrush Canyon–Cascade Canyon Loop",
+    "stops": ["string-lake-trailhead", "paintbrush-lower", "paintbrush-upper", "holly-lake", "cascade-north-fork", "cascade-south-fork", "string-lake-trailhead"],
+    "typicalNights": 1,
+    "notes": "NPS-suggested 19-mile loop over Paintbrush Divide and down Cascade Canyon. Grand Teton manages mountain camping by zones rather than individual designated tent sites; these are zone/area tokens, so the permit holder chooses a durable site inside each zone."
+  },
+  {
+    "id": "teton-crest-trail-death-paintbrush",
+    "name": "Teton Crest Trail: Death Canyon to Paintbrush",
+    "stops": ["death-canyon-trailhead-closed-2026-season", "death-canyon", "death-canyon-shelf", "usfs-alaska-basin", "cascade-south-fork", "cascade-north-fork", "paintbrush-upper", "paintbrush-lower", "holly-lake", "string-lake-trailhead"],
+    "typicalNights": 3,
+    "notes": "NPS lists the Death Canyon/Paintbrush Canyon TCT variant at 37.1 miles and 3–4 nights. Camping areas are zones, not individually surveyed campsites. Death Canyon Trailhead is flagged closed for the 2026 season in the current source data."
+  },
+  {
+    "id": "teton-crest-trail-granite-paintbrush",
+    "name": "Teton Crest Trail: Granite Canyon to Paintbrush",
+    "stops": ["granite-canyon-trailhead", "granite-lower", "granite-upper", "death-canyon-shelf", "usfs-alaska-basin", "cascade-south-fork", "cascade-north-fork", "paintbrush-upper", "paintbrush-lower", "holly-lake", "string-lake-trailhead"],
+    "typicalNights": 4,
+    "notes": "NPS lists this longer in-park TCT variant at 38.6 miles/4 nights. Zone tokens preserve the real choice available to a permit holder; there are no fixed campsite markers to imply precision the park does not provide."
+  },
+  {
+    "id": "death-cascade-static-peak-loop",
+    "name": "Death Canyon–Cascade Canyon Loop via Static Peak",
+    "routeStops": ["death-canyon-trailhead-closed-2026-season", "death-canyon", "death-canyon-shelf", "cascade-south-fork", "cascade-north-fork", "jenny-lake-trailhead"],
+    "stops": ["death-canyon-trailhead-closed-2026-season", "death-canyon", "death-canyon-shelf", "cascade-south-fork", "cascade-north-fork", "jenny-lake-trailhead", "death-canyon-trailhead-closed-2026-season"],
+    "typicalNights": 1,
+    "notes": "NPS-listed 25.8-mile loop (23.4 miles with the Jenny Lake ferry). Zone camping is represented by Death Canyon, Death Canyon Shelf and the Cascade forks. Verify trailhead/road closures and ferry operations."
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "linville-gorge",
+    "name": "Linville Gorge",
+    "lat": 35.9049,
+    "lon": -81.8949,
+    "type": "designated_campsite",
+    "context": "Linville Gorge Wilderness",
+    "startingAreas": [
+      "Linville Gorge Wilderness"
+    ]
+  }
+]

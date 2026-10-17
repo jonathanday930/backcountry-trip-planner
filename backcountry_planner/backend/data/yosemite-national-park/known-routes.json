@@ -1,0 +1,30 @@
+[
+  {
+    "id": "high-sierra-camps-vogelsang",
+    "name": "High Sierra Camps: May Lake to Vogelsang",
+    "stops": ["may-lake-trailhead", "vogelsang-backpacker-camp", "lyell-canyon-trailhead"],
+    "typicalNights": 2,
+    "notes": "Representative High Sierra Camps corridor using the May Lake, Vogelsang, and Lyell Canyon permit areas. Yosemite permits are trailhead-specific; the OSM camp point is a planning anchor, not a reservation for a High Sierra Camp bed."
+  },
+  {
+    "id": "yosemite-valley-vogelsang",
+    "name": "Yosemite Valley to Vogelsang",
+    "stops": ["yosemite-valley-backpackers-campground", "vogelsang-backpacker-camp", "may-lake-trailhead"],
+    "typicalNights": 2,
+    "notes": "Representative Yosemite Valley / Merced corridor toward Vogelsang. Camping locations beyond the backpackers campground are generally selected legally in the wilderness; consult the NPS trailhead map and minimum-camping-distance rules."
+  },
+  {
+    "id": "glen-aulin-tuolumne",
+    "name": "Glen Aulin and Tuolumne Meadows",
+    "stops": ["glen-aulin-trailhead", "vogelsang-backpacker-camp", "lyell-canyon-trailhead"],
+    "typicalNights": 2,
+    "notes": "Representative Tuolumne high-country corridor. The NPS wilderness permit trailhead and camping restrictions govern the itinerary; this app uses mapped trail anchors for planning mileage."
+  },
+  {
+    "id": "hetch-hetchy-lake-eleanor",
+    "name": "Hetch Hetchy to Lake Eleanor",
+    "stops": ["lake-eleanor-trailhead", "lake-eleanor-campground"],
+    "typicalNights": 1,
+    "notes": "Representative northern Yosemite wilderness access corridor. Verify Hetch Hetchy road hours, permit station access, and current water/route conditions before travel."
+  }
+]

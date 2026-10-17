@@ -1,0 +1,2510 @@
+[
+  {
+    "park": "grand-canyon",
+    "name": "Corridor Classic",
+    "legs": [
+      {
+        "from": "Bright Angel Trailhead",
+        "to": "CIG - Havasupai Gardens Campground",
+        "ours": null
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "CBG - Bright Angel Campground",
+        "ours": null
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "Bright Angel Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon",
+    "name": "Hermit / Tonto Loop",
+    "legs": [
+      {
+        "from": "Bright Angel Trailhead",
+        "to": "CIG - Havasupai Gardens Campground",
+        "ours": null
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "BL4 - Horn Creek",
+        "ours": null
+      },
+      {
+        "from": "BL4 - Horn Creek",
+        "to": "BL7 - Monument Creek",
+        "ours": null
+      },
+      {
+        "from": "BL7 - Monument Creek",
+        "to": "BM7 - Hermit Creek",
+        "ours": null
+      },
+      {
+        "from": "BM7 - Hermit Creek",
+        "to": "Bright Angel Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon",
+    "name": "Hermit Creek to Hermit Rapids",
+    "legs": [
+      {
+        "from": "BM7 - Hermit Creek",
+        "to": "Hermit Rapids Campground",
+        "ours": null
+      },
+      {
+        "from": "Hermit Rapids Campground",
+        "to": "BM7 - Hermit Creek",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Fern Lake - Odessa Lake Traverse",
+    "legs": [
+      {
+        "from": "Fern Lake Trailhead",
+        "to": "028 - Fern Lake",
+        "ours": null
+      },
+      {
+        "from": "028 - Fern Lake",
+        "to": "030 - Odessa Lake",
+        "ours": null
+      },
+      {
+        "from": "030 - Odessa Lake",
+        "to": "Bear Lake Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Wild Basin - Thunder Lake",
+    "legs": [
+      {
+        "from": "Wild Basin Trailhead",
+        "to": "055 - Thunder Lake",
+        "ours": null
+      },
+      {
+        "from": "055 - Thunder Lake",
+        "to": "Wild Basin Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "East Inlet - Lake Verna",
+    "legs": [
+      {
+        "from": "East Inlet Trailhead",
+        "to": "062 - Lower East Inlet",
+        "ours": null
+      },
+      {
+        "from": "062 - Lower East Inlet",
+        "to": "067 - Upper East Inlet",
+        "ours": null
+      },
+      {
+        "from": "067 - Upper East Inlet",
+        "to": "068 - Lake Verna",
+        "ours": null
+      },
+      {
+        "from": "068 - Lake Verna",
+        "to": "East Inlet Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Sandbeach Lake",
+    "legs": [
+      {
+        "from": "Sandbeach Lake Trailhead",
+        "to": "049 - Sandbeach Lake",
+        "ours": null
+      },
+      {
+        "from": "049 - Sandbeach Lake",
+        "to": "Sandbeach Lake Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Glacier Gorge",
+    "legs": [
+      {
+        "from": "Glacier Gorge Trailhead",
+        "to": "039 - Glacier Gorge",
+        "ours": null
+      },
+      {
+        "from": "039 - Glacier Gorge",
+        "to": "Glacier Gorge Trailhead",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Hellroaring Creek",
+    "legs": [
+      {
+        "from": "Hellroaring Trailhead",
+        "to": "2H4 - Lower Hellroaring Creek",
+        "ours": {
+          "distanceMiles": 2.630013377383851,
+          "elevationGainFt": 67.3238800886805,
+          "elevationLossFt": 722.1386894855434
+        }
+      },
+      {
+        "from": "2H4 - Lower Hellroaring Creek",
+        "to": "2H6 - Hellroaring Creek",
+        "ours": {
+          "distanceMiles": 1.4406096098195411,
+          "elevationGainFt": 130.11156378127504,
+          "elevationLossFt": 29.385275029063813
+        }
+      },
+      {
+        "from": "2H6 - Hellroaring Creek",
+        "to": "2H9 - Upper Hellroaring Creek",
+        "ours": {
+          "distanceMiles": 2.920853465353932,
+          "elevationGainFt": 365.85982752239346,
+          "elevationLossFt": 95.28335840334172
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Bechler River Trail (Cascade Corner)",
+    "legs": [
+      {
+        "from": "Lone Star Trailhead",
+        "to": "OA1 - Lone Star",
+        "ours": {
+          "distanceMiles": 2.812381745168992,
+          "elevationGainFt": 50.766456850443326,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "OA1 - Lone Star",
+        "to": "9B5 - Colonnade Falls",
+        "ours": {
+          "distanceMiles": 17.059283630935855,
+          "elevationGainFt": 1325.6934579301026,
+          "elevationLossFt": 2376.0375820755667
+        }
+      },
+      {
+        "from": "9B5 - Colonnade Falls",
+        "to": "9A3 - Dunanda Falls",
+        "ours": {
+          "distanceMiles": 7.460525061692076,
+          "elevationGainFt": 321.01716204121345,
+          "elevationLossFt": 304.2302361488274
+        }
+      },
+      {
+        "from": "9A3 - Dunanda Falls",
+        "to": "Bechler Ranger Station Trailhead",
+        "ours": {
+          "distanceMiles": 8.24907842610991,
+          "elevationGainFt": 128.22578319952336,
+          "elevationLossFt": 336.8641228745575
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Heart Lake / Mount Sheridan Loop",
+    "legs": [
+      {
+        "from": "Heart Lake Trailhead",
+        "to": "8H2 - Sheridan Creek",
+        "ours": {
+          "distanceMiles": 9.046237529309861,
+          "elevationGainFt": 536.2690444577713,
+          "elevationLossFt": 843.7103745116244
+        }
+      },
+      {
+        "from": "8H2 - Sheridan Creek",
+        "to": "8J1 - Beaver Creek",
+        "ours": {
+          "distanceMiles": 3.3386916300817457,
+          "elevationGainFt": 165.58325463551964,
+          "elevationLossFt": 182.86383983321397
+        }
+      },
+      {
+        "from": "8J1 - Beaver Creek",
+        "to": "Heart Lake Trailhead",
+        "ours": {
+          "distanceMiles": 9.305853106466998,
+          "elevationGainFt": 804.7044708803949,
+          "elevationLossFt": 485.0560638939758
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Dinkey Lakes Wilderness Loop",
+    "legs": [
+      {
+        "from": "Badger",
+        "to": "Coyote",
+        "ours": {
+          "distanceMiles": 10.325808805600218,
+          "elevationGainFt": 1614.6548721195638,
+          "elevationLossFt": 888.0726370441173
+        }
+      },
+      {
+        "from": "Coyote",
+        "to": "Cliff Lake",
+        "ours": {
+          "distanceMiles": 14.605295172259398,
+          "elevationGainFt": 2044.7371228911732,
+          "elevationLossFt": 2571.9443189752287
+        }
+      },
+      {
+        "from": "Cliff Lake",
+        "to": "Badger",
+        "ours": {
+          "distanceMiles": 16.686783972308213,
+          "elevationGainFt": 1516.4642732617517,
+          "elevationLossFt": 1715.1382379819252
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Ansel Adams Wilderness: Fernandez to Isberg",
+    "legs": [
+      {
+        "from": "Fernandez",
+        "to": "Isberg",
+        "ours": {
+          "distanceMiles": 2.6427508012943153,
+          "elevationGainFt": 0,
+          "elevationLossFt": 551.3600713238643
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Woodchuck Country: Crown/Rancheria to Statum/Spanish",
+    "legs": [
+      {
+        "from": "Crown/Rancheria",
+        "to": "Statum/Spanish",
+        "ours": {
+          "distanceMiles": 5.245051458542111,
+          "elevationGainFt": 547.7552424195962,
+          "elevationLossFt": 1637.4282982682737
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Rattlesnake to Dutch/Crater Traverse",
+    "legs": [
+      {
+        "from": "Corbet",
+        "to": "Hooper",
+        "ours": {
+          "distanceMiles": 9.747045191719733,
+          "elevationGainFt": 958.7737857339458,
+          "elevationLossFt": 873.7871096831155
+        }
+      },
+      {
+        "from": "Hooper",
+        "to": "Dutch",
+        "ours": {
+          "distanceMiles": 3.4927935011514117,
+          "elevationGainFt": 298.2573825492384,
+          "elevationLossFt": 454.5453156941685
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Kaiser Wilderness: Potter Pass - Sample Meadow Loop",
+    "legs": [
+      {
+        "from": "Potter Pass",
+        "to": "Sample Meadow",
+        "ours": {
+          "distanceMiles": 6.023341257948188,
+          "elevationGainFt": 1151.5010576383672,
+          "elevationLossFt": 1152.421950464145
+        }
+      },
+      {
+        "from": "Sample Meadow",
+        "to": "Potter Cut-off",
+        "ours": {
+          "distanceMiles": 5.886469100685518,
+          "elevationGainFt": 1152.5015420835616,
+          "elevationLossFt": 1093.0731750655966
+        }
+      },
+      {
+        "from": "Potter Cut-off",
+        "to": "Potter Pass",
+        "ours": {
+          "distanceMiles": 0.2760977632562657,
+          "elevationGainFt": 0,
+          "elevationLossFt": 82.43629534341494
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Rae Lakes Loop (Woods Creek up, Bubbs Creek down)",
+    "legs": [
+      {
+        "from": "Roads End Trailhead",
+        "to": "Woods Creek",
+        "ours": {
+          "distanceMiles": 1.8879983625651353,
+          "elevationGainFt": 107.71110598144237,
+          "elevationLossFt": 39.06495910325609
+        }
+      },
+      {
+        "from": "Woods Creek",
+        "to": "Bubbs Creek",
+        "ours": {
+          "distanceMiles": 0.30833148462057425,
+          "elevationGainFt": 23.748289596451546,
+          "elevationLossFt": 26.59643448161889
+        }
+      },
+      {
+        "from": "Bubbs Creek",
+        "to": "Roads End Trailhead",
+        "ours": {
+          "distanceMiles": 1.9053058614458365,
+          "elevationGainFt": 28.156760508514466,
+          "elevationLossFt": 104.23311931852231
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Mineral King Franklin-Sawtooth-Timber Gap Loop",
+    "legs": [
+      {
+        "from": "Mineral King / Sawtooth Trailhead",
+        "to": "Franklin",
+        "ours": {
+          "distanceMiles": 3.9325256186576234,
+          "elevationGainFt": 1564.4287909787654,
+          "elevationLossFt": 17.026663442473918
+        }
+      },
+      {
+        "from": "Franklin",
+        "to": "Timber Gap",
+        "ours": {
+          "distanceMiles": 4.657335809937375,
+          "elevationGainFt": 585.1873137669539,
+          "elevationLossFt": 1563.6692509374975
+        }
+      },
+      {
+        "from": "Timber Gap",
+        "to": "Mineral King / Sawtooth Trailhead",
+        "ours": {
+          "distanceMiles": 0.7248101912797578,
+          "elevationGainFt": 0,
+          "elevationLossFt": 569.5580811720802
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Wolverton to Crescent Meadow via Alta and the High Sierra Trail",
+    "legs": [
+      {
+        "from": "Wolverton Trailhead",
+        "to": "Alta",
+        "ours": {
+          "distanceMiles": 3.1227039401813923,
+          "elevationGainFt": 1384.7005482193483,
+          "elevationLossFt": 143.3571925731293
+        }
+      },
+      {
+        "from": "Alta",
+        "to": "High Sierra Trail",
+        "ours": {
+          "distanceMiles": 3.134270631587766,
+          "elevationGainFt": 430.5472355947779,
+          "elevationLossFt": 1283.250764279757
+        }
+      },
+      {
+        "from": "High Sierra Trail",
+        "to": "Crescent Meadow Trailhead",
+        "ours": {
+          "distanceMiles": 6.043721263941042,
+          "elevationGainFt": 451.0759902413831,
+          "elevationLossFt": 1377.5412335229992
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Eagle Lake Basecamp with White Chief Canyon Day Hike",
+    "legs": [
+      {
+        "from": "Eagle-Mosquito Trailhead",
+        "to": "Eagle Lake",
+        "ours": {
+          "distanceMiles": 2.1497580169865285,
+          "elevationGainFt": 1594.71844393401,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Eagle Lake",
+        "to": "White Chief",
+        "ours": {
+          "distanceMiles": 3.86635477665005,
+          "elevationGainFt": 1041.0818766566858,
+          "elevationLossFt": 1584.7715392913694
+        }
+      },
+      {
+        "from": "White Chief",
+        "to": "Eagle-Mosquito Trailhead",
+        "ours": {
+          "distanceMiles": 1.7165967596635172,
+          "elevationGainFt": 0,
+          "elevationLossFt": 1018.7940900262054
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Tonahutu Creek - North Inlet Loop",
+    "legs": [
+      {
+        "from": "Green Mountain Trailhead",
+        "to": "Big Meadows Group (Snow-free average: June 13)",
+        "ours": {
+          "distanceMiles": 2.666218105170674,
+          "elevationGainFt": 662.4340881674686,
+          "elevationLossFt": 76.31574199069327
+        }
+      },
+      {
+        "from": "Big Meadows Group (Snow-free average: June 13)",
+        "to": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+        "ours": {
+          "distanceMiles": 3.760522295170332,
+          "elevationGainFt": 508.0096840222965,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+        "to": "Haynach (Snow-free average: July 7)",
+        "ours": {
+          "distanceMiles": 2.0656116053559797,
+          "elevationGainFt": 786.4318425192087,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Haynach (Snow-free average: July 7)",
+        "to": "North Inlet Junction (Snow-free average: June 11)",
+        "ours": {
+          "distanceMiles": 9.74920239752145,
+          "elevationGainFt": 1850.8208991437102,
+          "elevationLossFt": 2954.440317625524
+        }
+      },
+      {
+        "from": "North Inlet Junction (Snow-free average: June 11)",
+        "to": "North Inlet Trailhead",
+        "ours": {
+          "distanceMiles": 7.3022669492456584,
+          "elevationGainFt": 64.93000655297722,
+          "elevationLossFt": 1097.4509579188652
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Andrews Creek - Loch Vale (Sky Pond zone)",
+    "legs": [
+      {
+        "from": "Glacier Gorge Jct Trailhead",
+        "to": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+        "ours": {
+          "distanceMiles": 3.0392144606427074,
+          "elevationGainFt": 1322.87383655185,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+        "to": "Glacier Gorge Jct Trailhead",
+        "ours": {
+          "distanceMiles": 3.0392144606427087,
+          "elevationGainFt": 0,
+          "elevationLossFt": 1329.5545228139547
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Longs Peak Boulderfield (Keyhole Route)",
+    "legs": [
+      {
+        "from": "Longs Peak Trailhead",
+        "to": "Boulderfield (Snow-free average: June 19)",
+        "ours": {
+          "distanceMiles": 5.391115319191839,
+          "elevationGainFt": 3333.154945138567,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Boulderfield (Snow-free average: June 19)",
+        "to": "Longs Peak Trailhead",
+        "ours": {
+          "distanceMiles": 5.391115319191843,
+          "elevationGainFt": 0,
+          "elevationLossFt": 3333.154945138567
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Hague Creek - Poudre River Trail",
+    "legs": [
+      {
+        "from": "Corral Creek Trailhead",
+        "to": "Hague Creek (Snow-free average: July 4)",
+        "ours": {
+          "distanceMiles": 2.0497966671512646,
+          "elevationGainFt": 67.05640228667443,
+          "elevationLossFt": 355.55515521133526
+        }
+      },
+      {
+        "from": "Hague Creek (Snow-free average: July 4)",
+        "to": "Mirror Lake (Snow-free average: July 13)",
+        "ours": {
+          "distanceMiles": 4.2081527076391785,
+          "elevationGainFt": 1268.393380450409,
+          "elevationLossFt": 79.52947835846915
+        }
+      },
+      {
+        "from": "Mirror Lake (Snow-free average: July 13)",
+        "to": "Corral Creek Trailhead",
+        "ours": {
+          "distanceMiles": 6.223613107835044,
+          "elevationGainFt": 435.0846335698014,
+          "elevationLossFt": 1335.8592666899015
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "California Riding and Hiking Trail (west to east)",
+    "legs": [
+      {
+        "from": "Covington Flats",
+        "to": "Juniper Flats",
+        "ours": {
+          "distanceMiles": 11.075702977177594,
+          "elevationGainFt": 1201.4926350709625,
+          "elevationLossFt": 1691.6260465294713
+        }
+      },
+      {
+        "from": "Juniper Flats",
+        "to": "Geo Tour Road",
+        "ours": {
+          "distanceMiles": 6.394762969113337,
+          "elevationGainFt": 435.23243501129457,
+          "elevationLossFt": 282.0884195702152
+        }
+      },
+      {
+        "from": "Geo Tour Road",
+        "to": "Twin Tanks",
+        "ours": {
+          "distanceMiles": 4.402909449573682,
+          "elevationGainFt": 29.85569037574997,
+          "elevationLossFt": 597.675397036516
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "Boy Scout Trail thru-hike",
+    "legs": [
+      {
+        "from": "Boy Scout Trail (Keys West)",
+        "to": "Boy Scout Trail Campsite #15",
+        "ours": {
+          "distanceMiles": 1.213747831281146,
+          "elevationGainFt": 92.99897008032848,
+          "elevationLossFt": 3.5407902433650937
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #15",
+        "to": "Boy Scout Trail Campsite #9",
+        "ours": {
+          "distanceMiles": 2.6352112763661255,
+          "elevationGainFt": 102.51174276417754,
+          "elevationLossFt": 125.50846335767363
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #9",
+        "to": "Boy Scout Trail Campsite #6",
+        "ours": {
+          "distanceMiles": 0.8444748340105804,
+          "elevationGainFt": 8.012493791672886,
+          "elevationLossFt": 130.91927466704257
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #6",
+        "to": "Boy Scout Trail Campsite #3",
+        "ours": {
+          "distanceMiles": 3.0336831880951913,
+          "elevationGainFt": 133.20694997963025,
+          "elevationLossFt": 972.3704711528126
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #3",
+        "to": "Indian Cove",
+        "ours": {
+          "distanceMiles": 1.3082830984397023,
+          "elevationGainFt": 0,
+          "elevationLossFt": 285.8575710030241
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "Pine City to Geo Tour Road traverse",
+    "legs": [
+      {
+        "from": "Pine City",
+        "to": "Pleasant Valley",
+        "ours": {
+          "distanceMiles": 8.288397990342439,
+          "elevationGainFt": 135.89016826917364,
+          "elevationLossFt": 1313.927652574275
+        }
+      },
+      {
+        "from": "Pleasant Valley",
+        "to": "Geo Tour Road",
+        "ours": {
+          "distanceMiles": 5.480978496158949,
+          "elevationGainFt": 1236.80210910288,
+          "elevationLossFt": 17.342575091108955
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Cascade Pass - Sahale Glacier Camp",
+    "legs": [
+      {
+        "from": "Cascade Pass Trailhead-Cascade River Rd",
+        "to": "Pelton Basin Camp",
+        "ours": {
+          "distanceMiles": 4.389042883552254,
+          "elevationGainFt": 1750.7323294447456,
+          "elevationLossFt": 609.2281453308921
+        }
+      },
+      {
+        "from": "Pelton Basin Camp",
+        "to": "Sahale Glacier Camp",
+        "ours": {
+          "distanceMiles": 3.2367719454121606,
+          "elevationGainFt": 2782.9705840379675,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Sahale Glacier Camp",
+        "to": "Cascade Pass Trailhead-Cascade River Rd",
+        "ours": {
+          "distanceMiles": 5.890408834376485,
+          "elevationGainFt": 0,
+          "elevationLossFt": 3926.4050178437283
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Copper Ridge Loop",
+    "legs": [
+      {
+        "from": "Hannegan Pass Trail- Mount Baker Wilderness",
+        "to": "Boundary Camp",
+        "ours": {
+          "distanceMiles": 5.093459819581772,
+          "elevationGainFt": 1977.3892548206502,
+          "elevationLossFt": 658.4745592982264
+        }
+      },
+      {
+        "from": "Boundary Camp",
+        "to": "Indian Creek Camp",
+        "ours": {
+          "distanceMiles": 8.874472425367596,
+          "elevationGainFt": 595.5972142012655,
+          "elevationLossFt": 2669.5063312995235
+        }
+      },
+      {
+        "from": "Indian Creek Camp",
+        "to": "Copper Lake Camp",
+        "ours": {
+          "distanceMiles": 7.459869731408896,
+          "elevationGainFt": 3641.049403869359,
+          "elevationLossFt": 701.9527713126271
+        }
+      },
+      {
+        "from": "Copper Lake Camp",
+        "to": "Hannegan Pass Trail- Mount Baker Wilderness",
+        "ours": {
+          "distanceMiles": 11.157293168015563,
+          "elevationGainFt": 1956.6916443681314,
+          "elevationLossFt": 4128.890979531724
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Thunder Creek - Park Creek Pass - Stehekin",
+    "legs": [
+      {
+        "from": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+        "to": "McAllister Camp",
+        "ours": {
+          "distanceMiles": 6.491711115671077,
+          "elevationGainFt": 1029.841195041084,
+          "elevationLossFt": 392.5174270185443
+        }
+      },
+      {
+        "from": "McAllister Camp",
+        "to": "Junction Camp",
+        "ours": {
+          "distanceMiles": 3.654915697826303,
+          "elevationGainFt": 1291.8950838176436,
+          "elevationLossFt": 89.59358293997983
+        }
+      },
+      {
+        "from": "Junction Camp",
+        "to": "Park Creek Camp",
+        "ours": {
+          "distanceMiles": 16.68183599468236,
+          "elevationGainFt": 4274.276147643473,
+          "elevationLossFt": 5048.4050479532925
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "PCT: Bridge Creek to Stehekin",
+    "legs": [
+      {
+        "from": "Bridge Creek (PCT) Trail- SR 20",
+        "to": "Fireweed Camp",
+        "ours": {
+          "distanceMiles": 3.485160316647589,
+          "elevationGainFt": 41.43660846616707,
+          "elevationLossFt": 868.3409547796196
+        }
+      },
+      {
+        "from": "Fireweed Camp",
+        "to": "Tumwater Camp",
+        "ours": {
+          "distanceMiles": 12.9643974779072,
+          "elevationGainFt": 976.2999084892781,
+          "elevationLossFt": 2904.9220454861097
+        }
+      },
+      {
+        "from": "Tumwater Camp",
+        "to": "Old Wagon Trail (PCT) @ High Bridge - Stehekin Valley Road",
+        "ours": {
+          "distanceMiles": 0.9796956490845202,
+          "elevationGainFt": 22.422788037923237,
+          "elevationLossFt": 190.40199174240763
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "West Rim Trail",
+    "legs": [
+      {
+        "from": "Lava Point Trailhead",
+        "to": "West Rim 8",
+        "ours": {
+          "distanceMiles": 5.405364628944072,
+          "elevationGainFt": 70.09437076422913,
+          "elevationLossFt": 782.5247778772242
+        }
+      },
+      {
+        "from": "West Rim 8",
+        "to": "West Rim 5",
+        "ours": {
+          "distanceMiles": 3.0219416209397987,
+          "elevationGainFt": 800.531132112744,
+          "elevationLossFt": 210.47040624422988
+        }
+      },
+      {
+        "from": "West Rim 5",
+        "to": "West Rim 3",
+        "ours": {
+          "distanceMiles": 0.5847717605663502,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "West Rim 3",
+        "to": "Grotto Trailhead",
+        "ours": {
+          "distanceMiles": 6.222090358198285,
+          "elevationGainFt": 388.6371946409635,
+          "elevationLossFt": 3424.650133829035
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "West Rim Trail: Lava Point to Potato Hollow",
+    "legs": [
+      {
+        "from": "Lava Point Trailhead",
+        "to": "West Rim 8",
+        "ours": {
+          "distanceMiles": 5.405364628944072,
+          "elevationGainFt": 70.09437076422913,
+          "elevationLossFt": 782.5247778772242
+        }
+      },
+      {
+        "from": "West Rim 8",
+        "to": "West Rim 7",
+        "ours": {
+          "distanceMiles": 0.345797945086184,
+          "elevationGainFt": 69.76823433117087,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "West Rim 7",
+        "to": "West Rim 6",
+        "ours": {
+          "distanceMiles": 1.6673741559391022,
+          "elevationGainFt": 659.6682843137559,
+          "elevationLossFt": 210.47040624422988
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Wildcat Canyon to Hop Valley",
+    "legs": [
+      {
+        "from": "Hop Valley B",
+        "to": "Hop Valley Trailhead",
+        "ours": {
+          "distanceMiles": 5.038489661545654,
+          "elevationGainFt": 738.2372347797217,
+          "elevationLossFt": 68.32414431743676
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Zion Traverse: Lee Pass to Hop Valley",
+    "legs": [
+      {
+        "from": "Lee Pass Trailhead",
+        "to": "La Verkin Creek 11",
+        "ours": {
+          "distanceMiles": 6.980939126036524,
+          "elevationGainFt": 431.7648075024907,
+          "elevationLossFt": 1194.2925151646607
+        }
+      },
+      {
+        "from": "La Verkin Creek 11",
+        "to": "Hop Valley A",
+        "ours": {
+          "distanceMiles": 1.6475793382707846,
+          "elevationGainFt": 585.2856025097982,
+          "elevationLossFt": 190.46818418506655
+        }
+      },
+      {
+        "from": "Hop Valley A",
+        "to": "Hop Valley Trailhead",
+        "ours": {
+          "distanceMiles": 5.233198238510648,
+          "elevationGainFt": 753.445706403323,
+          "elevationLossFt": 68.32414431743676
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Eastside: Summerland - Panhandle Gap - Indian Bar",
+    "legs": [
+      {
+        "from": "Fryingpan Creek Trailhead",
+        "to": "Summerland Camp",
+        "ours": {
+          "distanceMiles": 4.184969308764731,
+          "elevationGainFt": 2108.866473411843,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Summerland Camp",
+        "to": "Indian Bar Camp",
+        "ours": {
+          "distanceMiles": 4.385798234879536,
+          "elevationGainFt": 1043.0809515471572,
+          "elevationLossFt": 1910.6688295809452
+        }
+      },
+      {
+        "from": "Indian Bar Camp",
+        "to": "Nickel Creek Camp",
+        "ours": {
+          "distanceMiles": 6.182867676145906,
+          "elevationGainFt": 1082.9656470232517,
+          "elevationLossFt": 2825.636711179118
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Southside: Longmire to Nickel Creek",
+    "legs": [
+      {
+        "from": "Longmire Trailhead",
+        "to": "Paradise River Camp",
+        "ours": {
+          "distanceMiles": 3.362176117243197,
+          "elevationGainFt": 1108.8131700829224,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Paradise River Camp",
+        "to": "Maple Creek Camp",
+        "ours": {
+          "distanceMiles": 6.481674973837594,
+          "elevationGainFt": 988.9062918527043,
+          "elevationLossFt": 2101.121492243231
+        }
+      },
+      {
+        "from": "Maple Creek Camp",
+        "to": "Nickel Creek Camp",
+        "ours": {
+          "distanceMiles": 2.9472685834167525,
+          "elevationGainFt": 801.2549790157613,
+          "elevationLossFt": 237.23190345543736
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Westside: South Puyallup to South Mowich River",
+    "legs": [
+      {
+        "from": "South Puyallup Trailhead",
+        "to": "Devil's Dream Camp",
+        "ours": {
+          "distanceMiles": 7.5649069196462735,
+          "elevationGainFt": 3349.369488275546,
+          "elevationLossFt": 1816.6142297369993
+        }
+      },
+      {
+        "from": "Devil's Dream Camp",
+        "to": "Klapatche Park Camp",
+        "ours": {
+          "distanceMiles": 9.863389204370248,
+          "elevationGainFt": 3818.189442985319,
+          "elevationLossFt": 3358.7675346388523
+        }
+      },
+      {
+        "from": "Klapatche Park Camp",
+        "to": "Golden Lakes Camp",
+        "ours": {
+          "distanceMiles": 6.7509188685301,
+          "elevationGainFt": 1708.2539068725791,
+          "elevationLossFt": 1948.3997141942004
+        }
+      },
+      {
+        "from": "Golden Lakes Camp",
+        "to": "So. Mowich River Camp",
+        "ours": {
+          "distanceMiles": 6.370422770415364,
+          "elevationGainFt": 0,
+          "elevationLossFt": 2554.8378552944428
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Northern Loop Trail: Sunrise to Dick Creek",
+    "legs": [
+      {
+        "from": "Sunrise Trailhead",
+        "to": "Berkeley Park Camp",
+        "ours": {
+          "distanceMiles": 4.199404870932349,
+          "elevationGainFt": 357.0179310016997,
+          "elevationLossFt": 1362.4704460766948
+        }
+      },
+      {
+        "from": "Berkeley Park Camp",
+        "to": "Granite Creek Camp",
+        "ours": {
+          "distanceMiles": 4.9090564791978695,
+          "elevationGainFt": 1334.4768791575816,
+          "elevationLossFt": 993.8658375625516
+        }
+      },
+      {
+        "from": "Granite Creek Camp",
+        "to": "Mystic Camp",
+        "ours": {
+          "distanceMiles": 3.556493246996171,
+          "elevationGainFt": 984.4954505566736,
+          "elevationLossFt": 1181.8471102888782
+        }
+      },
+      {
+        "from": "Mystic Camp",
+        "to": "Dick Creek Camp",
+        "ours": {
+          "distanceMiles": 3.611440316406525,
+          "elevationGainFt": 545.3172073918969,
+          "elevationLossFt": 1961.5971714472903
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Corridor Classic (South Kaibab / Bright Angel)",
+    "legs": [
+      {
+        "from": "South Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "ours": {
+          "distanceMiles": 6.99436512421795,
+          "elevationGainFt": 73.14607476876398,
+          "elevationLossFt": 4793.267029202248
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "CIG - Havasupai Gardens Campground",
+        "ours": {
+          "distanceMiles": 4.838888660011613,
+          "elevationGainFt": 1649.75625270672,
+          "elevationLossFt": 312.4491574720638
+        }
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "Bright Angel Trailhead",
+        "ours": {
+          "distanceMiles": 4.634727001750381,
+          "elevationGainFt": 3018.2806490668527,
+          "elevationLossFt": 13.978090841878736
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim: North Kaibab Approach",
+    "legs": [
+      {
+        "from": "North Kaibab Trailhead",
+        "to": "CCG - Cottonwood Campground",
+        "ours": {
+          "distanceMiles": 9.965959577054885,
+          "elevationGainFt": 521.6628294084851,
+          "elevationLossFt": 4700.082440457848
+        }
+      },
+      {
+        "from": "CCG - Cottonwood Campground",
+        "to": "North Kaibab Trailhead",
+        "ours": {
+          "distanceMiles": 9.965959577054882,
+          "elevationGainFt": 4700.082440457846,
+          "elevationLossFt": 521.5338608416201
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim: South Kaibab Approach",
+    "legs": [
+      {
+        "from": "South Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "ours": {
+          "distanceMiles": 6.99436512421795,
+          "elevationGainFt": 73.14607476876398,
+          "elevationLossFt": 4793.267029202248
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "South Kaibab Trailhead",
+        "ours": {
+          "distanceMiles": 6.994365124217955,
+          "elevationGainFt": 4793.2670292022485,
+          "elevationLossFt": 71.77524847729522
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Thunder River - Deer Creek Loop (Bill Hall)",
+    "legs": [
+      {
+        "from": "Bill Hall Trailhead",
+        "to": "AW7 - Upper Tapeats Campsite",
+        "ours": {
+          "distanceMiles": 8.75756710004854,
+          "elevationGainFt": 487.039613022372,
+          "elevationLossFt": 5083.620865853009
+        }
+      },
+      {
+        "from": "AW7 - Upper Tapeats Campsite",
+        "to": "AX7 - Deer Creek - Campsite",
+        "ours": {
+          "distanceMiles": 4.312231716084685,
+          "elevationGainFt": 1548.3482817405065,
+          "elevationLossFt": 1628.6633752061941
+        }
+      },
+      {
+        "from": "AX7 - Deer Creek - Campsite",
+        "to": "Bill Hall Trailhead",
+        "ours": {
+          "distanceMiles": 8.867076334243237,
+          "elevationGainFt": 4952.348442902952,
+          "elevationLossFt": 275.80895595977523
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Kolob Arch / La Verkin Creek Corridor",
+    "legs": [
+      {
+        "from": "Lee Pass Trailhead",
+        "to": "La Verkin Creek 2",
+        "ours": {
+          "distanceMiles": 3.0134674220014652,
+          "elevationGainFt": 59.529196983053595,
+          "elevationLossFt": 784.8564262531248
+        }
+      },
+      {
+        "from": "La Verkin Creek 2",
+        "to": "La Verkin Creek 7",
+        "ours": {
+          "distanceMiles": 3.353687377646229,
+          "elevationGainFt": 276.0151887459119,
+          "elevationLossFt": 398.69763518453937
+        }
+      },
+      {
+        "from": "La Verkin Creek 7",
+        "to": "La Verkin Creek 13",
+        "ours": {
+          "distanceMiles": 2.2722457437370265,
+          "elevationGainFt": 609.0083428218127,
+          "elevationLossFt": 121.9869760624305
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Southwest Desert: Coal Pits Wash to Huber Wash",
+    "legs": [
+      {
+        "from": "Coal Pits Wash Trailhead",
+        "to": "Southwest Desert 1",
+        "ours": {
+          "distanceMiles": 4.980124760904722,
+          "elevationGainFt": 758.5938926749834,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Southwest Desert 1",
+        "to": "Southwest Desert 4",
+        "ours": {
+          "distanceMiles": 3.199726931497298,
+          "elevationGainFt": 284.3737508276405,
+          "elevationLossFt": 545.664585348301
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Lost Lake Trail (North Fork)",
+    "legs": [
+      {
+        "from": "Dunraven Trailhead",
+        "to": "Boundary Creek (Snow-free average: June 2)",
+        "ours": {
+          "distanceMiles": 3.8092156405746964,
+          "elevationGainFt": 1400.7485814702964,
+          "elevationLossFt": 224.51932704038688
+        }
+      },
+      {
+        "from": "Boundary Creek (Snow-free average: June 2)",
+        "to": "Lost Lake (Snow-free average: July 6)",
+        "ours": {
+          "distanceMiles": 4.81695996161773,
+          "elevationGainFt": 1787.380298935925,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Lost Lake (Snow-free average: July 6)",
+        "to": "Dunraven Trailhead",
+        "ours": {
+          "distanceMiles": 8.561701143028527,
+          "elevationGainFt": 224.51932704038836,
+          "elevationLossFt": 3188.128880406223
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Lawn Lake Trail (Mummy Range)",
+    "legs": [
+      {
+        "from": "Lawn Lake Trailhead",
+        "to": "Cutbank (Snow-free average: May 21)",
+        "ours": {
+          "distanceMiles": 2.928197510759769,
+          "elevationGainFt": 1082.5804492227194,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Cutbank (Snow-free average: May 21)",
+        "to": "Lawn Lake (Snow-free average: June 26)",
+        "ours": {
+          "distanceMiles": 3.6915330273673628,
+          "elevationGainFt": 1442.7103852301864,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Lawn Lake (Snow-free average: June 26)",
+        "to": "Lawn Lake Trailhead",
+        "ours": {
+          "distanceMiles": 6.294708916466936,
+          "elevationGainFt": 0,
+          "elevationLossFt": 2516.847356087873
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Cub Lake to Fern Lake Trail",
+    "legs": [
+      {
+        "from": "Cub Lake Trailhead",
+        "to": "Cub Creek (Snow-free average: May 13)",
+        "ours": {
+          "distanceMiles": 2.294357501115303,
+          "elevationGainFt": 542.1746730666263,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Cub Creek (Snow-free average: May 13)",
+        "to": "Fern Lake Trailhead",
+        "ours": {
+          "distanceMiles": 3.030306408693573,
+          "elevationGainFt": 93.89739996765687,
+          "elevationLossFt": 588.4074861895525
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Wild Basin: Ouzel Lake to Thunder Lake",
+    "legs": [
+      {
+        "from": "Wild Basin Trailhead",
+        "to": "Ouzel Lake (Snow-free average: June 16)",
+        "ours": {
+          "distanceMiles": 4.840429524959826,
+          "elevationGainFt": 1509.2801093594776,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Ouzel Lake (Snow-free average: June 16)",
+        "to": "Thunder Lake (Snow-free average: July 5)",
+        "ours": {
+          "distanceMiles": 5.353184162850894,
+          "elevationGainFt": 1297.0997033085885,
+          "elevationLossFt": 592.6349848083702
+        }
+      },
+      {
+        "from": "Thunder Lake (Snow-free average: July 5)",
+        "to": "Wild Basin Trailhead",
+        "ours": {
+          "distanceMiles": 5.79705633158908,
+          "elevationGainFt": 0,
+          "elevationLossFt": 2204.593753915932
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "East Inlet to Lake Verna",
+    "legs": [
+      {
+        "from": "East Inlet Trailhead",
+        "to": "Lower East Inlet (Snow-free average: May 23)",
+        "ours": {
+          "distanceMiles": 2.3352251133630197,
+          "elevationGainFt": 274.3858963686321,
+          "elevationLossFt": 64.94036837239412
+        }
+      },
+      {
+        "from": "Lower East Inlet (Snow-free average: May 23)",
+        "to": "Lake Verna (Snow-free average: July 9)",
+        "ours": {
+          "distanceMiles": 4.523768369110116,
+          "elevationGainFt": 1668.3012082301084,
+          "elevationLossFt": 67.99735427926649
+        }
+      },
+      {
+        "from": "Lake Verna (Snow-free average: July 9)",
+        "to": "East Inlet Trailhead",
+        "ours": {
+          "distanceMiles": 6.654441722282804,
+          "elevationGainFt": 67.99735427926798,
+          "elevationLossFt": 1882.288970893064
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Never Summer Range: Grand Ditch to Skeleton Gulch",
+    "legs": [
+      {
+        "from": "Colorado River Trailhead",
+        "to": "Ditch Camp (Snow-free average: June 26)",
+        "ours": {
+          "distanceMiles": 5.188188824709389,
+          "elevationGainFt": 1268.1016388329617,
+          "elevationLossFt": 132.49778115013237
+        }
+      },
+      {
+        "from": "Ditch Camp (Snow-free average: June 26)",
+        "to": "Skeleton Gulch (Snow-free average: July 8)",
+        "ours": {
+          "distanceMiles": 1.14544255746868,
+          "elevationGainFt": 449.5257504802747,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Skeleton Gulch (Snow-free average: July 8)",
+        "to": "Colorado River Trailhead",
+        "ours": {
+          "distanceMiles": 6.307622816732257,
+          "elevationGainFt": 132.49778115013237,
+          "elevationLossFt": 1712.9023247799128
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Slough Creek Trail",
+    "legs": [
+      {
+        "from": "Slough Creek Trailhead",
+        "to": "2S1 Lower Slough Creek (Backpacker, Stock)",
+        "ours": {
+          "distanceMiles": 4.736108489747215,
+          "elevationGainFt": 652.6133128097489,
+          "elevationLossFt": 328.4465906403957
+        }
+      },
+      {
+        "from": "2S1 Lower Slough Creek (Backpacker, Stock)",
+        "to": "Slough Creek Trailhead",
+        "ours": {
+          "distanceMiles": 4.73610848974722,
+          "elevationGainFt": 328.4465906403957,
+          "elevationLossFt": 652.6133128097489
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Specimen Ridge Trail",
+    "legs": [
+      {
+        "from": "Specimen Ridge Trailhead",
+        "to": "2Y1 Agate Creek (Backpacker)",
+        "ours": {
+          "distanceMiles": 6.098505935673443,
+          "elevationGainFt": 1442.0795489218708,
+          "elevationLossFt": 1196.2161843069434
+        }
+      },
+      {
+        "from": "2Y1 Agate Creek (Backpacker)",
+        "to": "Lamar River Trailhead",
+        "ours": {
+          "distanceMiles": 18.763646536092402,
+          "elevationGainFt": 4043.247193267839,
+          "elevationLossFt": 3910.8033518074585
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "DeLacy Creek to Old Faithful via Shoshone Lake",
+    "legs": [
+      {
+        "from": "DeLacy Creek Trailhead",
+        "to": "8S2 DeLacy Creek (Backpacker, Non-Motorized Boat)",
+        "ours": {
+          "distanceMiles": 3.6527751413176963,
+          "elevationGainFt": 42.43272369103029,
+          "elevationLossFt": 188.23824412435567
+        }
+      },
+      {
+        "from": "8S2 DeLacy Creek (Backpacker, Non-Motorized Boat)",
+        "to": "8G1 Shoshone Meadows (Backpacker, Llama)",
+        "ours": {
+          "distanceMiles": 9.263595845787316,
+          "elevationGainFt": 630.5075498036641,
+          "elevationLossFt": 530.8879549794221
+        }
+      },
+      {
+        "from": "8G1 Shoshone Meadows (Backpacker, Llama)",
+        "to": "Lone Star Trailhead",
+        "ours": {
+          "distanceMiles": 6.584599784095435,
+          "elevationGainFt": 206.56783953411943,
+          "elevationLossFt": 500.06756642528114
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Owyhigh Lakes Trail: Deer Creek to White River",
+    "legs": [
+      {
+        "from": "Deer Creek Trailhead",
+        "to": "Deer Creek Camp",
+        "ours": {
+          "distanceMiles": 0.2876952112984342,
+          "elevationGainFt": 0,
+          "elevationLossFt": 251.1115049599227
+        }
+      },
+      {
+        "from": "Deer Creek Camp",
+        "to": "Owyhigh Lakes Trailhead",
+        "ours": {
+          "distanceMiles": 8.168507044802256,
+          "elevationGainFt": 2408.105265239191,
+          "elevationLossFt": 1605.6679493795132
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Glacier Basin to Inter Glacier",
+    "legs": [
+      {
+        "from": "White River Campground Trailhead",
+        "to": "Glacier Basin Camp",
+        "ours": {
+          "distanceMiles": 3.348950093643132,
+          "elevationGainFt": 1676.8948022182924,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Glacier Basin Camp",
+        "to": "Inter Glacier Alpine Zone",
+        "ours": {
+          "distanceMiles": 1.6932196932671002,
+          "elevationGainFt": 2431.8218588883356,
+          "elevationLossFt": 0
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Crystal Lakes",
+    "legs": [
+      {
+        "from": "Crystal Lakes Trailhead",
+        "to": "Lower Crystal Lake Camp",
+        "ours": {
+          "distanceMiles": 2.368693717196463,
+          "elevationGainFt": 1943.8717167438786,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Lower Crystal Lake Camp",
+        "to": "Upper Crystal Lake Camp",
+        "ours": {
+          "distanceMiles": 0.6213788101971773,
+          "elevationGainFt": 375.79616395287314,
+          "elevationLossFt": 0
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Laughingwater Creek to Three Lakes",
+    "legs": [
+      {
+        "from": "Laughingwater Creek Trailhead",
+        "to": "Three Lakes Camp",
+        "ours": {
+          "distanceMiles": 5.626884839883775,
+          "elevationGainFt": 2716.046337695954,
+          "elevationLossFt": 132.44769222966235
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Easy Pass to Thunder Creek (Fisher Creek Traverse)",
+    "legs": [
+      {
+        "from": "Easy Pass Trail- SR 20",
+        "to": "Fisher Camp",
+        "ours": {
+          "distanceMiles": 5.187971594584351,
+          "elevationGainFt": 2907.1397849965733,
+          "elevationLossFt": 1456.224919655456
+        }
+      },
+      {
+        "from": "Fisher Camp",
+        "to": "Junction Camp",
+        "ours": {
+          "distanceMiles": 8.76722433270446,
+          "elevationGainFt": 289.55036633672194,
+          "elevationLossFt": 2344.0052918833176
+        }
+      },
+      {
+        "from": "Junction Camp",
+        "to": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+        "ours": {
+          "distanceMiles": 9.528840987397123,
+          "elevationGainFt": 473.66317834253607,
+          "elevationLossFt": 2306.149747718743
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "East Bank Trail: Ross Lake North",
+    "legs": [
+      {
+        "from": "East Bank Trailhead- SR 20",
+        "to": "Ruby Pasture Camp",
+        "ours": {
+          "distanceMiles": 2.8262565951389904,
+          "elevationGainFt": 389.1703469831099,
+          "elevationLossFt": 298.6275082692324
+        }
+      },
+      {
+        "from": "Ruby Pasture Camp",
+        "to": "Roland Creek Camp",
+        "ours": {
+          "distanceMiles": 3.6794631591684053,
+          "elevationGainFt": 624.2371940456436,
+          "elevationLossFt": 740.2513134609262
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Thornton Lakes",
+    "legs": [
+      {
+        "from": "Thornton Lake Trailhead-Thornton Lake Rd",
+        "to": "Thornton Lake Camp",
+        "ours": {
+          "distanceMiles": 4.557973889906836,
+          "elevationGainFt": 2452.2404349347876,
+          "elevationLossFt": 401.26062762207755
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Mineral King to Atwell Mill via Farewell Gap and Tar Gap",
+    "legs": [
+      {
+        "from": "Mineral King / Sawtooth Trailhead",
+        "to": "Farewell Gap",
+        "ours": {
+          "distanceMiles": 6.583359349233807,
+          "elevationGainFt": 2823.2582469809536,
+          "elevationLossFt": 30.436881421687584
+        }
+      },
+      {
+        "from": "Farewell Gap",
+        "to": "Mosquito Lakes",
+        "ours": {
+          "distanceMiles": 9.828907427073263,
+          "elevationGainFt": 1668.7277602703152,
+          "elevationLossFt": 3183.3498433852187
+        }
+      },
+      {
+        "from": "Mosquito Lakes",
+        "to": "Tar Gap",
+        "ours": {
+          "distanceMiles": 4.670219372704186,
+          "elevationGainFt": 386.02299867578216,
+          "elevationLossFt": 2000.0194250417946
+        }
+      },
+      {
+        "from": "Tar Gap",
+        "to": "Atwell-Hockett",
+        "ours": {
+          "distanceMiles": 4.165826723966097,
+          "elevationGainFt": 110.14970364034247,
+          "elevationLossFt": 1039.4380482794027
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Jennie Lakes Wilderness Loop via JO Pass and Belle Canyon",
+    "legs": [
+      {
+        "from": "Big Meadows Trailhead",
+        "to": "JO Pass",
+        "ours": {
+          "distanceMiles": 7.973834148951779,
+          "elevationGainFt": 2421.5259474485724,
+          "elevationLossFt": 628.8959086572206
+        }
+      },
+      {
+        "from": "JO Pass",
+        "to": "Belle Canyon",
+        "ours": {
+          "distanceMiles": 5.464777193110848,
+          "elevationGainFt": 597.25375623465,
+          "elevationLossFt": 880.9276806300759
+        }
+      },
+      {
+        "from": "Belle Canyon",
+        "to": "Big Meadows Trailhead",
+        "ours": {
+          "distanceMiles": 10.604104499302165,
+          "elevationGainFt": 1175.366802626816,
+          "elevationLossFt": 2684.2839988433348
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Kaiser Loop Trail: Sample Meadow to Billy Creek",
+    "legs": [
+      {
+        "from": "Sample Meadow",
+        "to": "Billy Creek",
+        "ours": null
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "French Trail: Logan Meadow to Cassidy/Miller",
+    "legs": [
+      {
+        "from": "Logan Meadow",
+        "to": "Piyau Dome",
+        "ours": {
+          "distanceMiles": 14.656606602464768,
+          "elevationGainFt": 5283.07880001911,
+          "elevationLossFt": 2230.756682257576
+        }
+      },
+      {
+        "from": "Piyau Dome",
+        "to": "Cassidy/Miller",
+        "ours": {
+          "distanceMiles": 5.238856754930937,
+          "elevationGainFt": 366.1140121784696,
+          "elevationLossFt": 651.4163994270837
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "French Trail: Hells Half Acre to South Fork",
+    "legs": [
+      {
+        "from": "Hells Half Acre",
+        "to": "South Fork",
+        "ours": {
+          "distanceMiles": 2.456713404269804,
+          "elevationGainFt": 433.4230504585572,
+          "elevationLossFt": 181.95694963716835
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim via North Kaibab",
+    "legs": [
+      {
+        "from": "North Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "ours": {
+          "distanceMiles": 17.27364916867659,
+          "elevationGainFt": 1657.222610727008,
+          "elevationLossFt": 7404.244404800682
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "The Narrows Top-Down (Chamberlain's Ranch to Temple of Sinawava)",
+    "legs": [
+      {
+        "from": "Chamberlain's Ranch Trailhead",
+        "to": "Narrows 4",
+        "ours": {
+          "distanceMiles": 9.602061969517885,
+          "elevationGainFt": 2125.9281725242645,
+          "elevationLossFt": 3099.389183564122
+        }
+      },
+      {
+        "from": "Narrows 4",
+        "to": "Narrows 9",
+        "ours": {
+          "distanceMiles": 0.7011270503727357,
+          "elevationGainFt": 214.76188514488248,
+          "elevationLossFt": 255.8520579125447
+        }
+      },
+      {
+        "from": "Narrows 9",
+        "to": "Temple of Sinawava Trailhead",
+        "ours": {
+          "distanceMiles": 5.761043090874694,
+          "elevationGainFt": 1793.4095406645608,
+          "elevationLossFt": 2205.9413055150553
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Pelican Valley / Astringent Creek to Wapiti Lake",
+    "legs": [
+      {
+        "from": "Pelican Valley Trailhead",
+        "to": "5P7 Upper Pelican (Backpacker, Stock)",
+        "ours": {
+          "distanceMiles": 16.07798418266644,
+          "elevationGainFt": 1171.1284437162183,
+          "elevationLossFt": 589.2468387750846
+        }
+      },
+      {
+        "from": "5P7 Upper Pelican (Backpacker, Stock)",
+        "to": "Wapiti Lake Trailhead",
+        "ours": {
+          "distanceMiles": 19.554985027040118,
+          "elevationGainFt": 1386.4967798653145,
+          "elevationLossFt": 2049.959910714809
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Big Beaver Trail to Beaver Pass",
+    "legs": [
+      {
+        "from": "Ross Dam Trailhead (Happy Flats)-SR 20",
+        "to": "Big Beaver Boat Camp",
+        "ours": {
+          "distanceMiles": 7.252364662929332,
+          "elevationGainFt": 972.570516522686,
+          "elevationLossFt": 1489.866254649573
+        }
+      },
+      {
+        "from": "Big Beaver Boat Camp",
+        "to": "Luna Camp",
+        "ours": {
+          "distanceMiles": 9.246124709846546,
+          "elevationGainFt": 1168.179770475319,
+          "elevationLossFt": 317.6902450689535
+        }
+      },
+      {
+        "from": "Luna Camp",
+        "to": "Beaver Pass Camp",
+        "ours": {
+          "distanceMiles": 3.802784463955151,
+          "elevationGainFt": 1027.6575726206308,
+          "elevationLossFt": 48.22395449727603
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Teton Crest Trail (South to North via Death Canyon Shelf)",
+    "legs": [
+      {
+        "from": "Granite Canyon Trailhead",
+        "to": "Granite South/Middle Fork",
+        "ours": {
+          "distanceMiles": 9.64478699270031,
+          "elevationGainFt": 2938.6913884140927,
+          "elevationLossFt": 259.17585465862646
+        }
+      },
+      {
+        "from": "Granite South/Middle Fork",
+        "to": "Death Canyon Shelf",
+        "ours": {
+          "distanceMiles": 5.579184609272856,
+          "elevationGainFt": 1343.8829571016665,
+          "elevationLossFt": 887.6531920711072
+        }
+      },
+      {
+        "from": "Death Canyon Shelf",
+        "to": "Cascade South Fork",
+        "ours": {
+          "distanceMiles": 10.041749886688608,
+          "elevationGainFt": 1638.0468429103819,
+          "elevationLossFt": 2452.453635329636
+        }
+      },
+      {
+        "from": "Cascade South Fork",
+        "to": "Holly Lake",
+        "ours": {
+          "distanceMiles": 8.287087457139707,
+          "elevationGainFt": 2854.7121507108204,
+          "elevationLossFt": 2132.372388663499
+        }
+      },
+      {
+        "from": "Holly Lake",
+        "to": "String Lake Trailhead",
+        "ours": {
+          "distanceMiles": 6.214543586119098,
+          "elevationGainFt": 0,
+          "elevationLossFt": 2544.09857084015
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Teton Crest Trail Alternate via Open Canyon & Mt. Hunt Divide",
+    "legs": [
+      {
+        "from": "Granite Canyon Trailhead",
+        "to": "Granite Lower",
+        "ours": {
+          "distanceMiles": 3.0374194386759754,
+          "elevationGainFt": 650.0423936488894,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Granite Lower",
+        "to": "Granite/Mt. Hunt",
+        "ours": {
+          "distanceMiles": 7.176266122264576,
+          "elevationGainFt": 3134.5294184297095,
+          "elevationLossFt": 450.85240523479655
+        }
+      },
+      {
+        "from": "Granite/Mt. Hunt",
+        "to": "Open Canyon",
+        "ours": {
+          "distanceMiles": 2.2557027270571193,
+          "elevationGainFt": 0,
+          "elevationLossFt": 1550.2717889513076
+        }
+      },
+      {
+        "from": "Open Canyon",
+        "to": "Death Canyon Trailhead",
+        "ours": {
+          "distanceMiles": 4.868536043933665,
+          "elevationGainFt": 558.6912852638006,
+          "elevationLossFt": 1930.4812352586991
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Cascade Canyon to Paintbrush Divide connector",
+    "legs": [
+      {
+        "from": "Jenny Lake Trailhead",
+        "to": "Cascade North Fork",
+        "ours": {
+          "distanceMiles": 7.745517909612127,
+          "elevationGainFt": 1907.4522204122318,
+          "elevationLossFt": 282.64073812076066
+        }
+      },
+      {
+        "from": "Cascade North Fork",
+        "to": "Holly Lake",
+        "ours": {
+          "distanceMiles": 5.0979113143937225,
+          "elevationGainFt": 2291.405209298895,
+          "elevationLossFt": 1294.8255315903662
+        }
+      },
+      {
+        "from": "Holly Lake",
+        "to": "Leigh Lake Trailhead",
+        "ours": {
+          "distanceMiles": 6.354218000228872,
+          "elevationGainFt": 0,
+          "elevationLossFt": 2545.93184
+        }
+      }
+    ]
+  },
+  {
+    "park": "glacier",
+    "name": "Gunsight Pass Trail",
+    "legs": [
+      {
+        "from": "STE - Sperry Trail",
+        "to": "SPE - Sperry (No Campfires)",
+        "ours": {
+          "distanceMiles": 6.384995105389499,
+          "elevationGainFt": 3503.057910429316,
+          "elevationLossFt": 75.88215970885015
+        }
+      },
+      {
+        "from": "SPE - Sperry (No Campfires)",
+        "to": "ELL - Lake Ellen Wilson (No Campfires)",
+        "ours": {
+          "distanceMiles": 2.7451681594097077,
+          "elevationGainFt": 374.0512311824387,
+          "elevationLossFt": 1079.1406940562338
+        }
+      },
+      {
+        "from": "ELL - Lake Ellen Wilson (No Campfires)",
+        "to": "GUN - Gunsight Lake (No Campfires)",
+        "ours": {
+          "distanceMiles": 4.796210174192075,
+          "elevationGainFt": 1159.9905290255685,
+          "elevationLossFt": 1789.2261753573634
+        }
+      }
+    ]
+  },
+  {
+    "park": "glacier",
+    "name": "Ptarmigan Tunnel / Belly River Traverse",
+    "legs": [
+      {
+        "from": "IPE - Iceberg/Ptarmigan Trail",
+        "to": "ELH - Elizabeth Lake Head (No Campfires)",
+        "ours": {
+          "distanceMiles": 12.886822030209027,
+          "elevationGainFt": 2509.176366649574,
+          "elevationLossFt": 2543.973179803054
+        }
+      },
+      {
+        "from": "ELH - Elizabeth Lake Head (No Campfires)",
+        "to": "HEL - Helen Lake (No Campfires)",
+        "ours": {
+          "distanceMiles": 2.614182097955906,
+          "elevationGainFt": 211.89829758884656,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "HEL - Helen Lake (No Campfires)",
+        "to": "BRE - Belly River Trail",
+        "ours": {
+          "distanceMiles": 13.699419555237887,
+          "elevationGainFt": 1085.1693843316664,
+          "elevationLossFt": 873.0985283527003
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "Hoh River Trail to Glacier Meadows",
+    "legs": [
+      {
+        "from": "Hoh Visitor Center TH",
+        "to": "Five Mile Island",
+        "ours": {
+          "distanceMiles": 5.008802082766186,
+          "elevationGainFt": 206.69292,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Five Mile Island",
+        "to": "Happy Four",
+        "ours": {
+          "distanceMiles": 0.7908547832235062,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Happy Four",
+        "to": "Olympus Guard Station",
+        "ours": {
+          "distanceMiles": 3.411015043987176,
+          "elevationGainFt": 164.0153140157554,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Olympus Guard Station",
+        "to": "Glacier Meadows (No Campfires)",
+        "ours": {
+          "distanceMiles": 7.789927071139124,
+          "elevationGainFt": 3707.583112139244,
+          "elevationLossFt": 437.92823981063265
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "High Divide and Seven Lakes Basin",
+    "legs": [
+      {
+        "from": "Sol Duc TH",
+        "to": "Deer Lake (No Campfires)",
+        "ours": {
+          "distanceMiles": 3.4225616379042716,
+          "elevationGainFt": 1562.0731318266633,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Deer Lake (No Campfires)",
+        "to": "Lunch Lake (No Campfires)",
+        "ours": {
+          "distanceMiles": 4.052872570929951,
+          "elevationGainFt": 1655.419529120378,
+          "elevationLossFt": 697.9541679173074
+        }
+      },
+      {
+        "from": "Lunch Lake (No Campfires)",
+        "to": "Heart Lake (No Campfires)",
+        "ours": {
+          "distanceMiles": 2.9429805441635195,
+          "elevationGainFt": 868.8076359300801,
+          "elevationLossFt": 619.4637959300801
+        }
+      },
+      {
+        "from": "Heart Lake (No Campfires)",
+        "to": "Sol Duc Park (No Campfires)",
+        "ours": {
+          "distanceMiles": 0.7910753847243543,
+          "elevationGainFt": 0,
+          "elevationLossFt": 611.7332351103114
+        }
+      },
+      {
+        "from": "Sol Duc Park (No Campfires)",
+        "to": "Sol Duc TH",
+        "ours": {
+          "distanceMiles": 6.670186693889359,
+          "elevationGainFt": 278.0309791934044,
+          "elevationLossFt": 2556.5174208381018
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "East Fork Quinault to Enchanted Valley",
+    "legs": [
+      {
+        "from": "Graves Creek TH",
+        "to": "Pony Bridge Campsite",
+        "ours": {
+          "distanceMiles": 2.469002764894855,
+          "elevationGainFt": 657.0145223676426,
+          "elevationLossFt": 378.9980752359134
+        }
+      },
+      {
+        "from": "Pony Bridge Campsite",
+        "to": "O'Neil Creek Campsite",
+        "ours": {
+          "distanceMiles": 4.13387424726375,
+          "elevationGainFt": 484.3918105734122,
+          "elevationLossFt": 244.08113104705166
+        }
+      },
+      {
+        "from": "O'Neil Creek Campsite",
+        "to": "Pyrites Creek Campsite",
+        "ours": {
+          "distanceMiles": 3.224563207184431,
+          "elevationGainFt": 416.11824478704085,
+          "elevationLossFt": 103.7597564263816
+        }
+      },
+      {
+        "from": "Pyrites Creek Campsite",
+        "to": "Enchanted Valley Campsite",
+        "ours": {
+          "distanceMiles": 3.5123881573845877,
+          "elevationGainFt": 572.9167786805301,
+          "elevationLossFt": 0
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "Cape Alava and Sand Point Loop",
+    "legs": [
+      {
+        "from": "Ozette Ranger Station TH",
+        "to": "Cape Alava",
+        "ours": {
+          "distanceMiles": 3.4507956275085165,
+          "elevationGainFt": 203.41208,
+          "elevationLossFt": 234.24957799675514
+        }
+      },
+      {
+        "from": "Cape Alava",
+        "to": "Sand Point (No Campfires)",
+        "ours": {
+          "distanceMiles": 3.207178467364181,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Sand Point (No Campfires)",
+        "to": "Ozette Ranger Station TH",
+        "ours": {
+          "distanceMiles": 2.959830264988553,
+          "elevationGainFt": 121.39108,
+          "elevationLossFt": 101.70604
+        }
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Salt Creek Campsite Corridor",
+    "legs": [
+      {
+        "from": "Salt Creek 1 (SC1)",
+        "to": "Salt Creek 2 (SC2)",
+        "ours": {
+          "distanceMiles": 0.29299235507110893,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Salt Creek 2 (SC2)",
+        "to": "Salt Creek 3 (SC3)",
+        "ours": {
+          "distanceMiles": 5.066758338820133,
+          "elevationGainFt": 138.7633819442389,
+          "elevationLossFt": 395.24447001595144
+        }
+      },
+      {
+        "from": "Salt Creek 3 (SC3)",
+        "to": "Salt Creek 4 (SC4)",
+        "ours": {
+          "distanceMiles": 3.187219126644339,
+          "elevationGainFt": 0,
+          "elevationLossFt": 190.05463243594568
+        }
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Island in the Sky / White Rim Campsite Corridor",
+    "legs": [
+      {
+        "from": "Alcove Spring Trailhead",
+        "to": "Gooseberry A",
+        "ours": {
+          "distanceMiles": 11.135128370562617,
+          "elevationGainFt": 590.1987691765825,
+          "elevationLossFt": 1539.767619264595
+        }
+      },
+      {
+        "from": "Gooseberry A",
+        "to": "White Crack",
+        "ours": {
+          "distanceMiles": 9.43082318823911,
+          "elevationGainFt": 601.6499580050273,
+          "elevationLossFt": 126.59529958173367
+        }
+      },
+      {
+        "from": "White Crack",
+        "to": "Murphy A",
+        "ours": {
+          "distanceMiles": 9.051711987326538,
+          "elevationGainFt": 579.3633635668432,
+          "elevationLossFt": 518.2016957907426
+        }
+      },
+      {
+        "from": "Murphy A",
+        "to": "Shafer Campsite",
+        "ours": {
+          "distanceMiles": 20.66115079920312,
+          "elevationGainFt": 1105.7969028534362,
+          "elevationLossFt": 2142.514473866541
+        }
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "The Maze: Golden Stairs to Happy Canyon",
+    "legs": [
+      {
+        "from": "Golden Stairs",
+        "to": "Teapot Rock",
+        "ours": {
+          "distanceMiles": 7.534123640994717,
+          "elevationGainFt": 396.00311153059596,
+          "elevationLossFt": 957.3933380407377
+        }
+      },
+      {
+        "from": "Teapot Rock",
+        "to": "Sunset Pass",
+        "ours": {
+          "distanceMiles": 6.2721545932935605,
+          "elevationGainFt": 723.229980657422,
+          "elevationLossFt": 299.65778573808177
+        }
+      },
+      {
+        "from": "Sunset Pass",
+        "to": "The Neck",
+        "ours": {
+          "distanceMiles": 14.615193659152357,
+          "elevationGainFt": 2132.8562309158856,
+          "elevationLossFt": 1061.1490195412066
+        }
+      },
+      {
+        "from": "The Neck",
+        "to": "Happy Canyon",
+        "ours": {
+          "distanceMiles": 1.4291686251032896,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Needles: Devils Kitchen Campsite Corridor",
+    "legs": [
+      {
+        "from": "Devils Kitchen 1",
+        "to": "Devils Kitchen 2",
+        "ours": {
+          "distanceMiles": 0.06748390903284314,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      },
+      {
+        "from": "Devils Kitchen 2",
+        "to": "Devils Kitchen 3",
+        "ours": {
+          "distanceMiles": 0.07950150491288631,
+          "elevationGainFt": 0,
+          "elevationLossFt": 0
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "bob-bear-trailhead",
+    "name": "Bob Bear Trailhead",
+    "lat": 34.406731,
+    "lon": -111.568406,
+    "type": "designated_campsite",
+    "startingAreas": []
+  }
+]

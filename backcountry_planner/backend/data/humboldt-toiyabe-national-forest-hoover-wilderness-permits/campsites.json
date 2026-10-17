@@ -1,0 +1,142 @@
+[
+  {
+    "id": "little-slide-canyon",
+    "name": "Little Slide Canyon",
+    "lat": 38.145511,
+    "lon": -119.416796,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "horse-creek",
+    "name": "Horse Creek",
+    "lat": 38.145569,
+    "lon": -119.378665,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "green-creek",
+    "name": "Green Creek",
+    "lat": 38.106246,
+    "lon": -119.282177,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "virginia-lakes",
+    "name": "Virginia Lakes",
+    "lat": 38.047853,
+    "lon": -119.263006,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "leavitt-meadows",
+    "name": "Leavitt Meadows",
+    "lat": 38.331874,
+    "lon": -119.553417,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "buckeye-creek",
+    "name": "Buckeye Creek",
+    "lat": 38.23475,
+    "lon": -119.351145,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "robinson-creek",
+    "name": "Robinson Creek",
+    "lat": 38.146963,
+    "lon": -119.377661,
+    "type": "trailhead",
+    "context": "Bridgeport, CA",
+    "startingAreas": []
+  },
+  {
+    "id": "hh068-buckeye-creek",
+    "name": "HH068 – Buckeye Creek",
+    "lat": 38.23475,
+    "lon": -119.351145,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh077-robinson-creek",
+    "name": "HH077 – Robinson Creek",
+    "lat": 38.146963,
+    "lon": -119.377661,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh077-little-slide-canyon",
+    "name": "HH077 – Little Slide Canyon",
+    "lat": 38.145511,
+    "lon": -119.416796,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh076-horse-creek",
+    "name": "HH076 – Horse Creek",
+    "lat": 38.145569,
+    "lon": -119.378665,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh082-green-creek",
+    "name": "HH082 – Green Creek",
+    "lat": 38.106246,
+    "lon": -119.282177,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh081-virginia-lakes",
+    "name": "HH081 – Virginia Lakes",
+    "lat": 38.047853,
+    "lon": -119.263006,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  },
+  {
+    "id": "hh046-leavitt-meadows",
+    "name": "HH046 – Leavitt Meadows",
+    "lat": 38.331874,
+    "lon": -119.553417,
+    "type": "designated_campsite",
+    "context": "D2",
+    "startingAreas": [
+      "D2"
+    ]
+  }
+]

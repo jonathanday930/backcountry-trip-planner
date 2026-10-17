@@ -1,0 +1,54 @@
+[
+  {
+    "id": "hoh-river-trail",
+    "name": "Hoh River Trail to Glacier Meadows",
+    "stops": [
+      "hoh-visitor-center",
+      "five-mile-island",
+      "happy-four",
+      "olympus-guard-station",
+      "glacier-meadows-no-campfires"
+    ],
+    "typicalNights": 2,
+    "notes": "The classic Hoh rainforest-to-alpine route. NPS lists the trail at about 17.4–17.5 miles from the trailhead to Glacier Meadows, with camps at Five Mile Island, Happy Four, Olympus Guard Station, Lewis Meadow, Elk Lake and Glacier Meadows. The app uses the mapped individual campsite points and omits Lewis Meadow/Elk Lake from this compact corridor preview."
+  },
+  {
+    "id": "high-divide-seven-lakes-basin",
+    "name": "High Divide and Seven Lakes Basin",
+    "stops": [
+      "sol-duc",
+      "deer-lake-no-campfires",
+      "lunch-lake-no-campfires",
+      "heart-lake-no-campfires",
+      "sol-duc-park-no-campfires",
+      "sol-duc"
+    ],
+    "typicalNights": 2,
+    "notes": "Sol Duc access through Deer Lake and Seven Lakes Basin, returning via the High Divide corridor. Several camps are close alternatives rather than additional mileage; users should confirm the exact permit itinerary and seasonal conditions."
+  },
+  {
+    "id": "enchanted-valley",
+    "name": "East Fork Quinault to Enchanted Valley",
+    "stops": [
+      "graves-creek",
+      "pony-bridge-campsite-2-5-miles-from-trailhead",
+      "o-neil-creek-campsite-7-miles-from-trailhead",
+      "pyrites-creek-campsite-10-miles-from-trailhead",
+      "enchanted-valley-campsite-14-miles-from-trailhead"
+    ],
+    "typicalNights": 2,
+    "notes": "The popular East Fork Quinault / Enchanted Valley corridor. The permit names the intermediate sites by approximate trail distance; the app routes through their corrected NPS coordinates rather than treating those labels as exact surveyed mileposts."
+  },
+  {
+    "id": "ozette-loop",
+    "name": "Cape Alava and Sand Point Loop",
+    "stops": [
+      "ozette-ranger-station",
+      "cape-alava",
+      "sand-point-no-campfires",
+      "ozette-ranger-station"
+    ],
+    "typicalNights": 1,
+    "notes": "The well-known coastal loop using the Cape Alava and Sand Point camps. Tide timing and beach travel conditions matter; the app's mileage is for the mapped trail/coast corridor and should not replace the park's tide and conditions guidance."
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "id": "rainbow-point",
+    "name": "Rainbow Point",
+    "lat": 37.4753,
+    "lon": -112.2404,
+    "type": "trailhead",
+    "startingAreas": [
+      "Riggs Spring Loop Trail",
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "agua-canyon-connector-closed",
+    "name": "Agua Canyon Connector (CLOSED)",
+    "lat": 37.5038,
+    "lon": -112.2625,
+    "type": "trailhead",
+    "startingAreas": [
+      "Riggs Spring Loop Trail",
+      "Under-the-Rim Trail"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "whiteman-bench",
+    "name": "Whiteman Bench",
+    "lat": 37.565,
+    "lon": -112.238,
+    "type": "trailhead",
+    "startingAreas": [
+      "Riggs Spring Loop Trail",
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "swamp-canyon-overlook",
+    "name": "Swamp Canyon Overlook",
+    "lat": 37.5877,
+    "lon": -112.2131,
+    "type": "trailhead",
+    "startingAreas": [
+      "Riggs Spring Loop Trail",
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "bryce-point",
+    "name": "Bryce Point",
+    "lat": 37.606,
+    "lon": -112.1567,
+    "type": "trailhead",
+    "startingAreas": [
+      "Riggs Spring Loop Trail",
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "yovimpa-pass",
+    "name": "Yovimpa Pass",
+    "lat": 37.46366,
+    "lon": -112.25895,
+    "type": "designated_campsite",
+    "context": "Riggs Spring Loop Trail",
+    "startingAreas": [
+      "Riggs Spring Loop Trail"
+    ]
+  },
+  {
+    "id": "riggs-spring",
+    "name": "Riggs Spring",
+    "lat": 37.45177,
+    "lon": -112.24119,
+    "type": "designated_campsite",
+    "context": "Riggs Spring Loop Trail",
+    "startingAreas": [
+      "Riggs Spring Loop Trail"
+    ]
+  },
+  {
+    "id": "riggs-spring-group-site",
+    "name": "Riggs Spring Group Site",
+    "lat": 37.44945,
+    "lon": -112.23933,
+    "type": "designated_campsite",
+    "context": "Riggs Spring Loop Trail",
+    "startingAreas": [
+      "Riggs Spring Loop Trail"
+    ]
+  },
+  {
+    "id": "corral-hollow",
+    "name": "Corral Hollow",
+    "lat": 37.46375,
+    "lon": -112.23612,
+    "type": "designated_campsite",
+    "context": "Riggs Spring Loop Trail",
+    "startingAreas": [
+      "Riggs Spring Loop Trail"
+    ]
+  },
+  {
+    "id": "iron-spring",
+    "name": "Iron Spring",
+    "lat": 37.49083,
+    "lon": -112.24348,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "natural-bridge",
+    "name": "Natural Bridge",
+    "lat": 37.52655,
+    "lon": -112.24149,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "swamp-canyon",
+    "name": "Swamp Canyon",
+    "lat": 37.55837,
+    "lon": -112.23136,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "right-fork-swamp-canyon",
+    "name": "Right Fork Swamp Canyon",
+    "lat": 37.57684,
+    "lon": -112.21279,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "yellow-creek",
+    "name": "Yellow Creek",
+    "lat": 37.58591,
+    "lon": -112.16328,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "yellow-creek-group-site",
+    "name": "Yellow Creek Group Site",
+    "lat": 37.575554,
+    "lon": -112.147134,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  },
+  {
+    "id": "right-fork-yellow-creek",
+    "name": "Right Fork Yellow Creek",
+    "lat": 37.58154,
+    "lon": -112.14214,
+    "type": "designated_campsite",
+    "context": "Under-the-Rim Trail",
+    "startingAreas": [
+      "Under-the-Rim Trail"
+    ]
+  }
+]

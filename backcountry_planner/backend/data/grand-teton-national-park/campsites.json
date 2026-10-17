@@ -1,0 +1,292 @@
+[
+  {
+    "id": "colter-bay",
+    "name": "Colter Bay",
+    "lat": 43.90323606,
+    "lon": -110.6435365,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "death-canyon-trailhead-closed-2026-season",
+    "name": "Death Canyon Trailhead (Closed - 2026 Season) ",
+    "lat": 43.65604579,
+    "lon": -110.7813789,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "Technical Climbing Sites"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "glade-creek-trailhead",
+    "name": "Glade Creek Trailhead",
+    "lat": 44.08972358,
+    "lon": -110.7242503,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "granite-canyon-trailhead",
+    "name": "Granite Canyon Trailhead",
+    "lat": 43.60737997,
+    "lon": -110.7931008,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "jenny-lake-trailhead",
+    "name": "Jenny Lake Trailhead",
+    "lat": 43.75161074,
+    "lon": -110.7254002,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "leeks-boat-launch",
+    "name": "Leeks Boat Launch",
+    "lat": 43.93008784,
+    "lon": -110.6402281,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "lizard-creek-boat-launch",
+    "name": "Lizard Creek Boat Launch",
+    "lat": 44.00141211,
+    "lon": -110.6916014,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "lupine-meadows-trailhead",
+    "name": "Lupine Meadows Trailhead",
+    "lat": 43.73453109,
+    "lon": -110.7416485,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "phillips-pass-trailhead",
+    "name": "Phillips Pass Trailhead",
+    "lat": 43.50608932,
+    "lon": -110.9275831,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "signal-mt-boat-launch",
+    "name": "Signal Mt. Boat Launch",
+    "lat": 43.83864405,
+    "lon": -110.6167739,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Leigh Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "south-landing-trailhead",
+    "name": "South Landing Trailhead",
+    "lat": 43.8228868,
+    "lon": -110.6155286,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "spalding-bay-boat-launch",
+    "name": "Spalding Bay Boat Launch",
+    "lat": 43.82420226,
+    "lon": -110.6755248,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Leigh Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "string-lake-trailhead",
+    "name": "String Lake Trailhead",
+    "lat": 43.78916816,
+    "lon": -110.7316673,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "leigh-lake-trailhead",
+    "name": "Leigh Lake Trailhead",
+    "lat": 43.78408867,
+    "lon": -110.7273658,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "taggart-lake-trailhead",
+    "name": "Taggart Lake Trailhead",
+    "lat": 43.69317002,
+    "lon": -110.732931,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teton-canyon-trailhead",
+    "name": "Teton Canyon Trailhead",
+    "lat": 43.75566396,
+    "lon": -110.9152264,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "teton-village",
+    "name": "Teton Village",
+    "lat": 43.58757202,
+    "lon": -110.821546,
+    "type": "trailhead",
+    "startingAreas": [
+      "Leigh Lake",
+      "Lwr Saddle-Moraine-Caves",
+      "Meadows-Platforms",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Pristine Sites North",
+      "Pristine Sites South",
+      "South Fork - Garnet Canyon",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "flagg-ranch-boat-launch",
+    "name": "Flagg Ranch Boat Launch",
+    "lat": 44.09978374,
+    "lon": -110.6676416,
+    "type": "trailhead",
+    "startingAreas": [
+      "Jackson Lake",
+      "Mountain Camping Zones",
+      "Mountain Group Sites",
+      "Northern Canyons",
+      "Pristine Sites North",
+      "Technical Climbing Sites"
+    ]
+  },
+  {
+    "id": "climbers-ranch",
+    "name": "Climbers Ranch",
+    "lat": 43.70489191,
+    "lon": -110.7353139,
+    "type": "trailhead",
+    "startingAreas": []
+  }
+]

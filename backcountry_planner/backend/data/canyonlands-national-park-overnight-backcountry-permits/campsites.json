@@ -1,0 +1,576 @@
+[
+  {
+    "id": "devils-kitchen-1",
+    "name": "Devils Kitchen 1",
+    "lat": 38.1371901,
+    "lon": -109.8613465,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "devils-kitchen-2",
+    "name": "Devils Kitchen 2",
+    "lat": 38.1367808,
+    "lon": -109.8605788,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "devils-kitchen-3",
+    "name": "Devils Kitchen 3",
+    "lat": 38.1366353,
+    "lon": -109.8599678,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "horsehoof",
+    "name": "Horsehoof",
+    "lat": 38.0983824,
+    "lon": -109.8802724,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "peekaboo-1",
+    "name": "Peekaboo 1",
+    "lat": 38.114457,
+    "lon": -109.7535481,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "peekaboo-2",
+    "name": "Peekaboo 2",
+    "lat": 38.1143561,
+    "lon": -109.7538762,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "new-bates-wilson",
+    "name": "New Bates Wilson",
+    "lat": 38.159426,
+    "lon": -109.8605561,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "shafer-campsite",
+    "name": "Shafer Campsite",
+    "lat": 38.4660486,
+    "lon": -109.7815683,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "airport-a",
+    "name": "Airport A",
+    "lat": 38.3926601,
+    "lon": -109.795204,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "airport-b",
+    "name": "Airport B",
+    "lat": 38.3914257,
+    "lon": -109.793853,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "airport-c",
+    "name": "Airport C",
+    "lat": 38.3881409,
+    "lon": -109.8001,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "airport-d",
+    "name": "Airport D",
+    "lat": 38.3878115,
+    "lon": -109.801881,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "gooseberry-a",
+    "name": "Gooseberry A",
+    "lat": 38.3311398,
+    "lon": -109.8271468,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "gooseberry-b",
+    "name": "Gooseberry B",
+    "lat": 38.3298136,
+    "lon": -109.8277233,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "white-crack",
+    "name": "White Crack",
+    "lat": 38.2572001,
+    "lon": -109.865474,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "murphy-a",
+    "name": "Murphy A",
+    "lat": 38.3214206,
+    "lon": -109.907043,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "murphy-b",
+    "name": "Murphy B",
+    "lat": 38.3225366,
+    "lon": -109.906568,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "murphy-c",
+    "name": "Murphy C",
+    "lat": 38.3235963,
+    "lon": -109.90995,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "candlestick",
+    "name": "Candlestick",
+    "lat": 38.3742285,
+    "lon": -109.965369,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "potato-bottom-a",
+    "name": "Potato Bottom A",
+    "lat": 38.4214879,
+    "lon": -110.004002,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "potato-bottom-b",
+    "name": "Potato Bottom B",
+    "lat": 38.4214879,
+    "lon": -110.004002,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "potato-bottom-c",
+    "name": "Potato Bottom C",
+    "lat": 38.4214879,
+    "lon": -110.004002,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "hardscrabble-a",
+    "name": "Hardscrabble A",
+    "lat": 38.4523972,
+    "lon": -110.009099,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "hardscrabble-b",
+    "name": "Hardscrabble B",
+    "lat": 38.4483252,
+    "lon": -110.010309,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "labyrinth-a",
+    "name": "Labyrinth A",
+    "lat": 38.4748763,
+    "lon": -109.999677,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "labyrinth-b",
+    "name": "Labyrinth B",
+    "lat": 38.4741627,
+    "lon": -110.001082,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "taylor",
+    "name": "Taylor",
+    "lat": 38.4764815,
+    "lon": -109.927912,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "doll-house-1",
+    "name": "Doll House 1",
+    "lat": 38.1599451,
+    "lon": -109.9450015,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "doll-house-2",
+    "name": "Doll House 2",
+    "lat": 38.1588605,
+    "lon": -109.9450024,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "doll-house-3",
+    "name": "Doll House 3",
+    "lat": 38.150626,
+    "lon": -109.9521537,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chimney-rock",
+    "name": "Chimney Rock",
+    "lat": 38.1858352,
+    "lon": -109.975192,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "the-wall",
+    "name": "The Wall",
+    "lat": 38.1701695,
+    "lon": -110.0191612,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "standing-rock",
+    "name": "Standing Rock",
+    "lat": 38.176518,
+    "lon": -109.991136,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "maze-overlook-1",
+    "name": "Maze Overlook 1",
+    "lat": 38.2333279,
+    "lon": -110.0021257,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "maze-overlook-2",
+    "name": "Maze Overlook 2",
+    "lat": 38.2325909,
+    "lon": -110.0041376,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "golden-stairs",
+    "name": "Golden Stairs",
+    "lat": 38.1437546,
+    "lon": -110.0832644,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "teapot-rock",
+    "name": "Teapot Rock",
+    "lat": 38.0876639,
+    "lon": -110.1070646,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "sunset-pass",
+    "name": "Sunset Pass",
+    "lat": 38.0681888,
+    "lon": -110.1800477,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "the-neck",
+    "name": "The Neck",
+    "lat": 38.0907407,
+    "lon": -110.1416695,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "happy-canyon",
+    "name": "Happy Canyon",
+    "lat": 38.106667,
+    "lon": -110.1363965,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "north-point",
+    "name": "North Point",
+    "lat": 38.2334813,
+    "lon": -110.1483967,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "panorama-point",
+    "name": "Panorama Point",
+    "lat": 38.270847,
+    "lon": -110.039196,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "cleopatra-s-chair",
+    "name": "Cleopatra's Chair",
+    "lat": 38.3012692,
+    "lon": -110.0768584,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "high-spur",
+    "name": "High Spur",
+    "lat": 38.3758455,
+    "lon": -110.12323,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "millard-canyon",
+    "name": "Millard Canyon",
+    "lat": 38.3875878,
+    "lon": -110.0341948,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "ekker-butte",
+    "name": "Ekker Butte",
+    "lat": 38.2845586,
+    "lon": -109.9618954,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "flint-seep-group-campsite",
+    "name": "Flint Seep (group campsite)",
+    "lat": 38.1304817,
+    "lon": -110.1348148,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "salt-creek-1-sc1",
+    "name": "Salt Creek 1 (SC1) ",
+    "lat": 37.98436,
+    "lon": -109.7422511,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "salt-creek-2-sc2",
+    "name": "Salt Creek 2 (SC2) ",
+    "lat": 37.9860924,
+    "lon": -109.7416204,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "salt-creek-3-sc3",
+    "name": "Salt Creek 3 (SC3)",
+    "lat": 38.0390713,
+    "lon": -109.7640202,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "salt-creek-4-sc4",
+    "name": "Salt Creek 4 (SC4)",
+    "lat": 38.0553166,
+    "lon": -109.7707244,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lost-canyon-1-lc1",
+    "name": "Lost Canyon 1 (LC1)",
+    "lat": 38.1208846,
+    "lon": -109.7769405,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lost-canyon-2-lc2",
+    "name": "Lost Canyon 2 (LC2)",
+    "lat": 38.1156197,
+    "lon": -109.783401,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lost-canyon-3-lc3",
+    "name": "Lost Canyon 3 (LC3)",
+    "lat": 38.1093537,
+    "lon": -109.7948259,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "wooden-shoe-1-ws1",
+    "name": "Wooden Shoe 1 (WS1)",
+    "lat": 38.1224162,
+    "lon": -109.799696,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "wooden-shoe-2-ws2",
+    "name": "Wooden Shoe 2 (WS2)",
+    "lat": 38.113509,
+    "lon": -109.804508,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "big-spring-1-bs1",
+    "name": "Big Spring 1 (BS1)",
+    "lat": 38.1363891,
+    "lon": -109.8104818,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "big-spring-2-bs2",
+    "name": "Big Spring 2 (BS2)",
+    "lat": 38.1267861,
+    "lon": -109.8124672,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "elephant-canyon-1-ec1",
+    "name": "Elephant Canyon 1 (EC1)",
+    "lat": 38.1246358,
+    "lon": -109.8399058,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "elephant-canyon-2-ec2",
+    "name": "Elephant Canyon 2 (EC2)",
+    "lat": 38.1148205,
+    "lon": -109.8371808,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "elephant-canyon-3-ec3",
+    "name": "Elephant Canyon 3 (EC3)",
+    "lat": 38.1121219,
+    "lon": -109.8374868,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chesler-park-1-cp1",
+    "name": "Chesler Park 1 (CP1)",
+    "lat": 38.1140778,
+    "lon": -109.8460596,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chesler-park-2-cp2",
+    "name": "Chesler Park 2 (CP2)",
+    "lat": 38.1054675,
+    "lon": -109.8502283,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chesler-park-3-cp3",
+    "name": "Chesler Park 3 (CP3)",
+    "lat": 38.1066798,
+    "lon": -109.8505765,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chesler-park-4-cp4",
+    "name": "Chesler Park 4 (CP4)",
+    "lat": 38.107431,
+    "lon": -109.8504723,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chesler-park-5-cp5",
+    "name": "Chesler Park 5 (CP5)",
+    "lat": 38.1097603,
+    "lon": -109.8524919,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "devil-s-pocket-1-dp1",
+    "name": "Devil's Pocket 1 (DP1)",
+    "lat": 38.1299571,
+    "lon": -109.8632724,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "butler-west-side-canyons-zone",
+    "name": "Butler / West Side Canyons Zone",
+    "lon": -109.83659409215022,
+    "lat": 38.08081140285392,
+    "type": "at_large"
+  },
+  {
+    "id": "red-lake-grabens-zone",
+    "name": "Red Lake / Grabens Zone",
+    "lon": -109.95425886651329,
+    "lat": 38.118922527838976,
+    "type": "at_large"
+  },
+  {
+    "id": "needles-north-zone",
+    "name": "Needles North Zone",
+    "lon": -109.82544610866934,
+    "lat": 38.23783851004792,
+    "type": "at_large"
+  },
+  {
+    "id": "syncline-campsite",
+    "name": "Syncline Campsite",
+    "lat": 38.4452356,
+    "lon": -109.9531954,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "taylor-canyon-zone",
+    "name": "Taylor Canyon Zone",
+    "lon": -109.91591017069317,
+    "lat": 38.46084886936156,
+    "type": "at_large"
+  },
+  {
+    "id": "upper-west-basins-zone",
+    "name": "Upper West Basins Zone",
+    "lon": -109.90729819803889,
+    "lat": 38.382160223571915,
+    "type": "at_large"
+  },
+  {
+    "id": "lower-basins-zone",
+    "name": "Lower Basins Zone",
+    "lon": -109.94551011926538,
+    "lat": 38.34374125709961,
+    "type": "at_large"
+  },
+  {
+    "id": "gooseberry-lathrop-zone",
+    "name": "Gooseberry / Lathrop Zone",
+    "lon": -109.79277013137703,
+    "lat": 38.35519307869198,
+    "type": "at_large"
+  },
+  {
+    "id": "murphy-point-zone",
+    "name": "Murphy Point Zone",
+    "lon": -109.88422954423098,
+    "lat": 38.34569327105862,
+    "type": "at_large"
+  },
+  {
+    "id": "maze-area-zone",
+    "name": "Maze Area Zone",
+    "lon": -110.29321853201449,
+    "lat": 37.93555920558852,
+    "type": "at_large"
+  },
+  {
+    "id": "orange-cliffs-zone",
+    "name": "Orange Cliffs Zone",
+    "lon": -110.16989545847642,
+    "lat": 38.10055963910985,
+    "type": "at_large"
+  },
+  {
+    "id": "high-spur-zone",
+    "name": "High Spur Zone",
+    "lat": 38.3758455,
+    "lon": -110.12323,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "alcove-spring-trailhead-island-in-the-sky",
+    "name": "Alcove Spring Trailhead (Island in the Sky)",
+    "lat": 38.4230875,
+    "lon": -109.9087486,
+    "type": "trailhead"
+  },
+  {
+    "id": "upheaval-dome-trailhead-island-in-the-sky",
+    "name": "Upheaval Dome Trailhead (Island in the Sky)",
+    "lat": 38.4263102,
+    "lon": -109.9261333,
+    "type": "trailhead"
+  },
+  {
+    "id": "wilhite-trailhead-island-in-the-sky",
+    "name": "Wilhite Trailhead (Island in the Sky)",
+    "lat": 38.395231,
+    "lon": -109.959156,
+    "type": "trailhead"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "north-inlet-tonahutu-loop",
+    "name": "North Inlet–Tonahutu Creek Loop (Continental Divide Loop)",
+    "stops": ["north-inlet", "big-pool-snow-free-average-june-10", "cascade-falls-snow-free-average-may-25", "foot-bridge-snow-free-average-june-19", "north-inlet-junction-snow-free-average-june-11", "north-inlet-falls-snow-free-average-june-26", "porcupine-snow-free-average-june-25", "haynach-snow-free-average-july-7", "green-mountain-snow-free-average-june-13", "tonahutu-meadows-snow-free-average-july-3", "tonahutu"],
+    "typicalNights": 2,
+    "notes": "Classic Grand Lake-area loop over the Continental Divide between North Inlet and Tonahutu. NPS trip-planning records describe North Inlet Junction, North Inlet Falls, Porcupine, Haynach, Green Mountain and Tonahutu Meadows as distinct camping choices."
+  },
+  {
+    "id": "bear-lake-fern-odessa-loop",
+    "name": "Bear Lake–Fern Lake / Odessa Loop",
+    "stops": ["bear-lake", "glacier-gorge-waste-bag-snow-free-average-june-19", "fern-lake-waste-bag-snow-free-average-june-10", "odessa-lake-snow-free-average-june-28", "bear-lake"],
+    "typicalNights": 1,
+    "notes": "Short classic high-country loop with an overnight option at Fern or Odessa. Glacier Gorge is included because the Bear Lake trail network can be routed through that corridor; select only camps legal for the chosen itinerary."
+  },
+  {
+    "id": "wild-basin-lakes-loop",
+    "name": "Wild Basin Lakes Loop",
+    "stops": ["wild-basin", "north-st-vrain-snow-free-average-june-1", "ouzel-lake-snow-free-average-june-16", "upper-ouzel-creek-snow-free-average-july-6", "thunder-lake-snow-free-average-july-5", "wild-basin"],
+    "typicalNights": 2,
+    "notes": "Wild Basin overnight corridor connecting North St. Vrain, Ouzel and Thunder Lake areas. The route is commonly done as an out-and-back or short loop depending on snow and trail conditions."
+  },
+  {
+    "id": "lawn-lake-ymca-loop",
+    "name": "Lawn Lake / Mummy Range Loop",
+    "routeStops": ["lawn-lake", "mummy-pass-creek-snow-free-average-july-10", "lawn-lake"],
+    "stops": ["lawn-lake", "lawn-lake-snow-free-average-june-26", "mirror-lake-snow-free-average-july-13", "mummy-pass-creek-snow-free-average-july-10", "lawn-lake"],
+    "typicalNights": 2,
+    "notes": "Northern RMNP high-country loop variation over Lawn Lake and Mummy Pass. It is a strenuous cross-country-sensitive route; use the park's current site-details table and snow-free dates when selecting an itinerary."
+  }
+]

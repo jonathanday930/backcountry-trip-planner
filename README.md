@@ -1,116 +1,72 @@
 # Backcountry Trip Planner
 
-On-trail distance/elevation planning for national park backcountry trips, with saved routes and
-Google sign-in.
+Plan backpacking trips in U.S. national parks and forests with real on-trail numbers. Pick campsites (or any point on the map) and get the walking distance and elevation gain/loss between stops, not a straight-line guess.
 
-- `frontend/` — React + Vite + Leaflet
-- `backend/` — Express + TypeScript, SQLite (via better-sqlite3), Google OAuth
+The app lives in [`backcountry_planner/`](backcountry_planner/).
 
-## Local development
+## What it does
+
+- **On-trail routing.** Distance follows actual trails and roads, not as-the-crow-flies lines.
+- **Elevation gain and loss.** Computed from USGS elevation data, with a filter that ignores sensor noise so a flat stretch doesn't read as a climb.
+- **Campsites and any map point.** Click a permitted backcountry campsite or drop a pin anywhere on the map.
+- **Multi-day trips.** Mark overnight stops and each day of the trek is colored and totaled separately.
+- **Saved routes.** Sign in with Google to save and revisit trips.
+- **Curated routes and trip chat.** Browse known named routes, or ask the built-in chat assistant for help planning.
+- **Zone maps.** Scanned park zone maps can be overlaid on the map.
+
+## Parks covered
+
+Yellowstone, Grand Canyon, Mount Rainier, North Cascades, Zion, Sequoia & Kings Canyon, Joshua Tree, Sierra National Forest, Rocky Mountain, Grand Teton, Glacier, Olympic, Great Smoky Mountains, Canyonlands, and Yosemite.
+
+## How it works
+
+There is no external routing or elevation API at request time. Each park's data is downloaded once and read locally:
+
+| Data | Source |
+|---|---|
+| Campsites, trailheads, closures | Recreation.gov permit API |
+| Trails and roads | OpenStreetMap (via Overpass) |
+| Elevation | USGS 3DEP |
+
+A from-scratch graph engine snaps stops onto the trail network and runs Dijkstra's shortest path, then samples elevation along the route. Routing results were checked against Komoot (see [`backcountry_planner/testing/`](backcountry_planner/testing/)).
+
+## Tech stack
+
+- **Frontend:** React, Vite, TypeScript, Leaflet
+- **Backend:** Node 20, Express, TypeScript, SQLite (better-sqlite3), Google OAuth
+- **Deploy:** Docker on Fly.io
+
+## Run it locally
 
 Requires Node 20+.
 
 ```bash
-cd backend && npm install
+cd backcountry_planner/backend && npm install
 cd ../frontend && npm install
 ```
 
-Copy `backend/.env.example` to `backend/.env` and fill in Google OAuth credentials if you want
-sign-in to work locally (optional — everything except login/saved routes works without it). See
-"Google OAuth setup" below.
-
-Run both dev servers, each in its own terminal:
+Copy `backend/.env.example` to `backend/.env` (all keys are optional for basic use; Google sign-in and chat need their credentials). Then run each server in its own terminal:
 
 ```bash
-cd backend && npm run dev    # http://localhost:3001 (API only)
-cd frontend && npm run dev   # http://localhost:5173 (proxies /api to :3001)
+cd backcountry_planner/backend && npm run dev     # API on http://localhost:3001
+cd backcountry_planner/frontend && npm run dev    # app on http://localhost:5173
 ```
 
-Open **http://localhost:5173**. This is the normal day-to-day workflow — Vite's dev server gives
-you hot reload, and it proxies `/api/*` requests to the backend.
+Open http://localhost:5173.
 
-### Testing the production setup locally (optional)
+### Elevation data
 
-The backend can also serve the built frontend directly from one port — this is what actually
-runs in production, so it's worth testing before deploying:
+The large elevation rasters (`backend/data/<park>/dem/`) are not stored in git. Fetch them for a park with the script described in [`backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md). Without them, the app falls back to live USGS point queries, which are slower.
 
-```bash
-cd frontend && npm run build   # writes frontend/dist
-cd ../backend && npm run build # writes backend/dist
-node dist/server.js            # now serving both API and frontend on :3001
-```
+## Documentation
 
-Visit **http://localhost:3001** directly (not 5173) to see this mode. Delete `frontend/dist` and
-`backend/dist` afterward (or just re-run `npm run dev` in each) to go back to normal two-server
-local dev — the backend automatically detects whether `frontend/dist` exists and switches modes.
+| Doc | Covers |
+|---|---|
+| [`backcountry_planner/README.md`](backcountry_planner/README.md) | Setup, Docker, Fly.io deploy, Google OAuth |
+| [`backcountry_planner/CLAUDE.md`](backcountry_planner/CLAUDE.md) | Architecture: routing and elevation engine, request flow, data layout |
+| [`backcountry_planner/backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md) | Adding a new park, elevation data pipeline |
+| [`backcountry_planner/testing/README.md`](backcountry_planner/testing/README.md) | Accuracy validation and routing-gap diagnosis |
 
-### Testing the Docker image locally (optional)
+## Disclaimer
 
-```bash
-docker build -t backcountry-planner .
-docker run -p 3001:3001 -e PERSIST_DIR=/tmp/data backcountry-planner
-```
-
-If you don't have Docker Desktop, [colima](https://github.com/abiosoft/colima) is a lightweight
-alternative (`brew install docker colima && colima start`).
-
-## Deploying to Fly.io
-
-This repo already has a `Dockerfile` and `fly.toml` configured — multi-stage build (frontend
-static build + compiled backend), single process serving both, with a persistent volume for the
-SQLite database and elevation cache (everything else — trail/campsite data — ships in the image
-and is read-only).
-
-1. Install the CLI and log in:
-   ```bash
-   brew install flyctl
-   fly auth login
-   ```
-
-2. Register the app (reuses the committed `fly.toml`; change the `app` name in `fly.toml` first
-   if `backcountry-trip-planner` is already taken):
-   ```bash
-   fly apps create backcountry-trip-planner
-   ```
-
-3. Create the persistent volume for the database/elevation cache (name and region must match
-   `fly.toml`):
-   ```bash
-   fly volumes create backcountry_data --region iad --size 1
-   ```
-
-4. Set secrets — `FRONTEND_URL` and `GOOGLE_REDIRECT_URI` should point at your app's real
-   `https://<app-name>.fly.dev` hostname (or a custom domain once you set one up):
-   ```bash
-   fly secrets set \
-     GOOGLE_CLIENT_ID=xxx \
-     GOOGLE_CLIENT_SECRET=xxx \
-     GOOGLE_REDIRECT_URI=https://backcountry-trip-planner.fly.dev/api/auth/google/callback \
-     FRONTEND_URL=https://backcountry-trip-planner.fly.dev
-   ```
-
-5. Deploy:
-   ```bash
-   fly deploy
-   ```
-
-6. In [Google Cloud Console](https://console.cloud.google.com/), add the production callback URL
-   as an **additional** authorized redirect URI on your OAuth client (keep the localhost one too,
-   so both environments keep working):
-   ```
-   https://backcountry-trip-planner.fly.dev/api/auth/google/callback
-   ```
-
-After the first deploy, `fly deploy` is all you need for subsequent updates.
-
-## Google OAuth setup
-
-Needed for sign-in/saved routes, both locally and in production:
-
-1. In [Google Cloud Console](https://console.cloud.google.com/), create an OAuth consent screen
-   (External is fine) and a **Web application** OAuth client under Credentials.
-2. Add authorized redirect URIs for every environment you use:
-   - `http://localhost:5173/api/auth/google/callback` (local dev)
-   - `https://<your-app>.fly.dev/api/auth/google/callback` (production)
-3. Put the client ID/secret in `backend/.env` (local) and `fly secrets set` (production) — see
-   `backend/.env.example` for the full list of variables.
+Distances and elevation numbers are estimates for planning only. Always check current conditions, closures, and permit rules with the managing agency before you go.

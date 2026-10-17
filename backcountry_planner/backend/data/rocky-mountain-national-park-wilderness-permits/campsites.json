@@ -1,0 +1,2525 @@
+[
+  {
+    "id": "bear-lake",
+    "name": "Bear Lake",
+    "lat": 40.31193867,
+    "lon": -105.6457162,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "beaver-meadows-vc",
+    "name": "Beaver Meadows VC",
+    "lat": 40.37291323,
+    "lon": -105.6137669,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "bierstadt",
+    "name": "Bierstadt",
+    "lat": 40.32052208,
+    "lon": -105.6235003,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "bowen-baker",
+    "name": "Bowen-Baker",
+    "lat": 40.35481672,
+    "lon": -105.8575126,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "chapin-pass",
+    "name": "Chapin Pass",
+    "lat": 40.43486947,
+    "lon": -105.7303175,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "colorado-river",
+    "name": "Colorado River",
+    "lat": 40.40087179,
+    "lon": -105.8487441,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "corral-creek",
+    "name": "Corral Creek",
+    "lat": 40.51785,
+    "lon": -105.770918,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "cow-creek-mcgraw-rd",
+    "name": "Cow Creek (McGraw Rd)",
+    "lat": 40.43141161,
+    "lon": -105.5029917,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "cub-lake",
+    "name": "Cub Lake",
+    "lat": 40.35618972,
+    "lon": -105.6156182,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "csu-mtn-campus-mummy-pass",
+    "name": "CSU Mtn Campus (Mummy Pass)",
+    "lat": 40.5675075,
+    "lon": -105.5941448,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "csu-mtn-campus-stormy-peaks",
+    "name": "CSU Mtn Campus (Stormy Peaks)",
+    "lat": 40.5675075,
+    "lon": -105.5941448,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "dunraven",
+    "name": "Dunraven",
+    "lat": 40.4756908,
+    "lon": -105.4604118,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "east-inlet",
+    "name": "East Inlet",
+    "lat": 40.23969648,
+    "lon": -105.8002082,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "east-portal",
+    "name": "East Portal",
+    "lat": 40.3286355,
+    "lon": -105.5784418,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "fern-lake",
+    "name": "Fern Lake",
+    "lat": 40.35489295,
+    "lon": -105.6309782,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "finch-lake",
+    "name": "Finch Lake",
+    "lat": 40.2083434,
+    "lon": -105.5609314,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "glacier-gorge-jct",
+    "name": "Glacier Gorge Jct",
+    "lat": 40.31076759,
+    "lon": -105.6399513,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "green-mountain",
+    "name": "Green Mountain",
+    "lat": 40.30735407,
+    "lon": -105.8413772,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "hollowell-park",
+    "name": "Hollowell Park",
+    "lat": 40.34151086,
+    "lon": -105.6052625,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "kawuneeche-vc",
+    "name": "Kawuneeche VC",
+    "lat": 40.26673919,
+    "lon": -105.8330451,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "la-poudre-pass",
+    "name": "La Poudre Pass",
+    "lat": 40.4802981,
+    "lon": -105.8223042,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "lawn-lake",
+    "name": "Lawn Lake",
+    "lat": 40.40720117,
+    "lon": -105.6263543,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "longs-peak",
+    "name": "Longs Peak",
+    "lat": 40.2720577,
+    "lon": -105.5566218,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "lumpy-ridge",
+    "name": "Lumpy Ridge",
+    "lat": 40.39610722,
+    "lon": -105.5122918,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "milner-pass",
+    "name": "Milner Pass",
+    "lat": 40.42011827,
+    "lon": -105.8118117,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "north-inlet",
+    "name": "North Inlet",
+    "lat": 40.25683188,
+    "lon": -105.8144081,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "onahu-creek",
+    "name": "Onahu Creek",
+    "lat": 40.31578803,
+    "lon": -105.8436257,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "park-and-ride",
+    "name": "Park and Ride",
+    "lat": 40.32974997,
+    "lon": -105.6013153,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "poudre-river",
+    "name": "Poudre River",
+    "lat": 40.42011827,
+    "lon": -105.8118117,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "rock-cut",
+    "name": "Rock Cut",
+    "lat": 40.41243203,
+    "lon": -105.7332247,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "sandbeach-lake",
+    "name": "Sandbeach Lake",
+    "lat": 40.21974505,
+    "lon": -105.5346138,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "sprague-lake",
+    "name": "Sprague Lake",
+    "lat": 40.32086354,
+    "lon": -105.6081382,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "storm-pass-bear-lk-rd",
+    "name": "Storm Pass (Bear Lk Rd)",
+    "lat": 40.32011429,
+    "lon": -105.6200225,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "storm-pass-hwy-7",
+    "name": "Storm Pass (Hwy 7)",
+    "lat": 40.30661927,
+    "lon": -105.5377774,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "thunder-pass",
+    "name": "Thunder Pass",
+    "lat": 40.4973114,
+    "lon": -105.866088,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "timber-lake",
+    "name": "Timber Lake",
+    "lat": 40.39951731,
+    "lon": -105.847641,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "tonahutu",
+    "name": "Tonahutu",
+    "lat": 40.2568254,
+    "lon": -105.8143977,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "twin-sisters",
+    "name": "Twin Sisters",
+    "lat": 40.30658281,
+    "lon": -105.5370658,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Sprague Lake Accessible Site",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "upper-beaver-meadows",
+    "name": "Upper Beaver Meadows",
+    "lat": 40.37067242,
+    "lon": -105.5963903,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "ute-crossing",
+    "name": "Ute Crossing",
+    "lat": 40.39335701,
+    "lon": -105.6953639,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "wild-basin",
+    "name": "Wild Basin",
+    "lat": 40.20801888,
+    "lon": -105.5665735,
+    "type": "trailhead",
+    "startingAreas": [
+      "Admin",
+      "Bear Lake",
+      "Big Thompson",
+      "East Inlet",
+      "Fall River",
+      "Hague Creek",
+      "Longs Peak",
+      "Mummy Range",
+      "Never Summer",
+      "North Fork",
+      "North Inlet",
+      "Out Of Park",
+      "Timber Lake",
+      "Tonahutu",
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "aspen-meadow-group-snow-free-average-may-31",
+    "name": "Aspen Meadow Group (Snow-free average: May 31)",
+    "lat": 40.49763,
+    "lon": -105.54427,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "boundary-creek-snow-free-average-june-2",
+    "name": "Boundary Creek (Snow-free average: June 2)",
+    "lat": 40.49796,
+    "lon": -105.51826,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "halfway-waste-bag-snow-free-average-may-31",
+    "name": "Halfway [Waste Bag] (Snow-free average: May 31)",
+    "lat": 40.49671,
+    "lon": -105.53641,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "happily-lost-waste-bag-snow-free-average-june-4",
+    "name": "Happily Lost [Waste Bag] (Snow-free average: June 4)",
+    "lat": 40.49902,
+    "lon": -105.55289,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "kettle-tarn-snow-free-average-may-25",
+    "name": "Kettle Tarn (Snow-free average: May 25)",
+    "lat": 40.49757,
+    "lon": -105.52644,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lost-falls-snow-free-average-june-11",
+    "name": "Lost Falls (Snow-free average: June 11)",
+    "lat": 40.50024,
+    "lon": -105.5589,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lost-lake-snow-free-average-july-6",
+    "name": "Lost Lake (Snow-free average: July 6)",
+    "lat": 40.50812,
+    "lon": -105.59838,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lost-meadow-snow-free-average-june-17",
+    "name": "Lost Meadow (Snow-free average: June 17)",
+    "lat": 40.50525,
+    "lon": -105.58181,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "lost-meadow-group-stock-snow-free-average-june-17",
+    "name": "Lost Meadow Group/Stock (Snow-free average: June 17)",
+    "lat": 40.50426,
+    "lon": -105.58143,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "silvanmere-snow-free-average-june-4",
+    "name": "Silvanmere (Snow-free average: June 4)",
+    "lat": 40.49195,
+    "lon": -105.52878,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "stormy-peaks-snow-free-average-july-8",
+    "name": "Stormy Peaks (Snow-free average: July 8)",
+    "lat": 40.51942,
+    "lon": -105.6075,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "stormy-peaks-group-snow-free-average-july-8",
+    "name": "Stormy Peaks Group (Snow-free average: July 8)",
+    "lat": 40.5297,
+    "lon": -105.60139,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "stormy-peaks-south-snow-free-average-july-5",
+    "name": "Stormy Peaks South (Snow-free average: July 5)",
+    "lat": 40.50904,
+    "lon": -105.57394,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "sugarloaf-snow-free-average-june-7",
+    "name": "Sugarloaf (Snow-free average: June 7)",
+    "lat": 40.504,
+    "lon": -105.576,
+    "type": "designated_campsite",
+    "context": "North Fork",
+    "startingAreas": [
+      "North Fork"
+    ]
+  },
+  {
+    "id": "bighorn-mt-group-stock-snow-free-average-june-25",
+    "name": "Bighorn Mt Group/Stock (Snow-free average: June 25)",
+    "lat": 40.44757,
+    "lon": -105.60881,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "cutbank-snow-free-average-may-21",
+    "name": "Cutbank (Snow-free average: May 21)",
+    "lat": 40.43369,
+    "lon": -105.63695,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "golden-banner-snow-free-average-may-24",
+    "name": "Golden Banner (Snow-free average: May 24)",
+    "lat": 40.43591,
+    "lon": -105.63384,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "lawn-lake-snow-free-average-june-26",
+    "name": "Lawn Lake (Snow-free average: June 26)",
+    "lat": 40.46628,
+    "lon": -105.62786,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "lawn-lake-stock-snow-free-average-june-26",
+    "name": "Lawn Lake Stock (Snow-free average: June 26)",
+    "lat": 40.4657,
+    "lon": -105.62747,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "little-rock-lake-snow-free-average-july-15",
+    "name": "Little Rock Lake (Snow-free average: July 15)",
+    "lat": 40.38929,
+    "lon": -105.74747,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "lower-tileston-snow-free-average-june-17",
+    "name": "Lower Tileston (Snow-free average: June 17)",
+    "lat": 40.45083,
+    "lon": -105.61072,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "mcgregor-mountain-snow-free-average-may-30",
+    "name": "McGregor Mountain (Snow-free average: May 30)",
+    "lat": 40.42279,
+    "lon": -105.57978,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "peregrine-snow-free-average-may-10",
+    "name": "Peregrine (Snow-free average: May 10)",
+    "lat": 40.42801,
+    "lon": -105.53871,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "rabbit-ears-waste-bag-snow-free-average-may-13",
+    "name": "Rabbit Ears [Waste Bag] (Snow-free average: May 13)",
+    "lat": 40.42594,
+    "lon": -105.52493,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "tileston-meadows-snow-free-average-june-24",
+    "name": "Tileston Meadows (Snow-free average: June 24)",
+    "lat": 40.45407,
+    "lon": -105.61441,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "upper-chipmunk-snow-free-average-june-30",
+    "name": "Upper Chipmunk (Snow-free average: June 30)",
+    "lat": 40.44189,
+    "lon": -105.66314,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "ypsilon-creek-snow-free-average-may-24",
+    "name": "Ypsilon Creek (Snow-free average: May 24)",
+    "lat": 40.43238,
+    "lon": -105.63977,
+    "type": "designated_campsite",
+    "context": "Mummy Range",
+    "startingAreas": [
+      "Mummy Range"
+    ]
+  },
+  {
+    "id": "andrews-creek-waste-bag-snow-free-average-july-2",
+    "name": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+    "lat": 40.2902,
+    "lon": -105.66499,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "arch-rock-snow-free-average-may-13",
+    "name": "Arch Rock (Snow-free average: May 13)",
+    "lat": 40.35003,
+    "lon": -105.65387,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "boulder-brook-waste-bag-snow-free-average-june-17",
+    "name": "Boulder Brook [Waste Bag] (Snow-free average: June 17)",
+    "lat": 40.29178,
+    "lon": -105.61793,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "boulder-brook-group-snow-free-average-june-17",
+    "name": "Boulder Brook Group (Snow-free average: June 17)",
+    "lat": 40.28878,
+    "lon": -105.61734,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "cub-creek-snow-free-average-may-13",
+    "name": "Cub Creek (Snow-free average: May 13)",
+    "lat": 40.3477,
+    "lon": -105.63872,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "fern-lake-waste-bag-snow-free-average-june-10",
+    "name": "Fern Lake [Waste Bag] (Snow-free average: June 10)",
+    "lat": 40.33814,
+    "lon": -105.67784,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "fern-lake-group-snow-free-average-june-10",
+    "name": "Fern Lake Group (Snow-free average: June 10)",
+    "lat": 40.3381,
+    "lon": -105.67432,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "glacier-gorge-waste-bag-snow-free-average-june-19",
+    "name": "Glacier Gorge [Waste Bag] (Snow-free average: June 19)",
+    "lat": 40.28173,
+    "lon": -105.63958,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "mill-creek-basin-snow-free-average-may-18",
+    "name": "Mill Creek Basin (Snow-free average: May 18)",
+    "lat": 40.33473,
+    "lon": -105.63229,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "odessa-lake-snow-free-average-june-28",
+    "name": "Odessa Lake (Snow-free average: June 28)",
+    "lat": 40.33272,
+    "lon": -105.684,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "old-forest-inn-waste-bag-snow-free-average-may-13",
+    "name": "Old Forest Inn [Waste Bag] (Snow-free average: May 13)",
+    "lat": 40.34943,
+    "lon": -105.66124,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "over-the-hill-snow-free-average-may-17",
+    "name": "Over the Hill (Snow-free average: May 17)",
+    "lat": 40.31401,
+    "lon": -105.59478,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "sourdough-snow-free-average-july-7",
+    "name": "Sourdough (Snow-free average: July 7)",
+    "lat": 40.32385,
+    "lon": -105.67866,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "sprague-lake-accessible-site-wf-snow-free-average-june-1",
+    "name": "Sprague Lake Accessible Site [WF] (Snow-free average: June 1)",
+    "lat": 40.31905,
+    "lon": -105.60189,
+    "type": "designated_campsite",
+    "context": "Sprague Lake Accessible Site",
+    "startingAreas": [
+      "Sprague Lake Accessible Site"
+    ]
+  },
+  {
+    "id": "spruce-lake-snow-free-average-june-24",
+    "name": "Spruce Lake (Snow-free average: June 24)",
+    "lat": 40.34301,
+    "lon": -105.68734,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "spruce-lake-admin-snow-free-average-june-24",
+    "name": "Spruce Lake Admin (Snow-free average: June 24)",
+    "lat": 40.34356,
+    "lon": -105.68647,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "upper-mill-creek-snow-free-average-may-22",
+    "name": "Upper Mill Creek (Snow-free average: May 22)",
+    "lat": 40.33292,
+    "lon": -105.63398,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "upper-wind-river-snow-free-average-may-14",
+    "name": "Upper Wind River (Snow-free average: May 14)",
+    "lat": 40.31155,
+    "lon": -105.60042,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "ute-meadow-llama-snow-free-average-june-10",
+    "name": "Ute Meadow Llama (Snow-free average: June 10)",
+    "lat": 40.36249,
+    "lon": -105.64993,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "wind-river-bluff-snow-free-average-may-15",
+    "name": "Wind River Bluff (Snow-free average: May 15)",
+    "lat": 40.31835,
+    "lon": -105.58469,
+    "type": "designated_campsite",
+    "context": "Bear Lake",
+    "startingAreas": [
+      "Bear Lake"
+    ]
+  },
+  {
+    "id": "battle-mountain-group-snow-free-average-june-18",
+    "name": "Battle Mountain Group (Snow-free average: June 18)",
+    "lat": 40.27291,
+    "lon": -105.58316,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "boulderfield-1-one-2-person-tent-snow-free-average-june-19",
+    "name": "Boulderfield 1 (One 2-person tent) (Snow-free average: June 19)",
+    "lat": 40.26378,
+    "lon": -105.61532,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "boulderfield-2-two-2-person-tents-snow-free-average-june-19",
+    "name": "Boulderfield 2 (Two 2-person tents) (Snow-free average: June 19)",
+    "lat": 40.26378,
+    "lon": -105.61532,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "boulderfield-3-three-2-person-tents-snow-free-average-june-19",
+    "name": "Boulderfield 3 (Three 2-person tents) (Snow-free average: June 19)",
+    "lat": 40.26378,
+    "lon": -105.61532,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "boulderfield-snow-free-average-june-19",
+    "name": "Boulderfield (Snow-free average: June 19)",
+    "lat": 40.26378,
+    "lon": -105.61532,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "goblins-forest-snow-free-average-june-7",
+    "name": "Goblins Forest (Snow-free average: June 7)",
+    "lat": 40.27193,
+    "lon": -105.5714,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "moore-park-snow-free-average-may-28",
+    "name": "Moore Park (Snow-free average: May 28)",
+    "lat": 40.28634,
+    "lon": -105.5714,
+    "type": "designated_campsite",
+    "context": "Longs Peak",
+    "startingAreas": [
+      "Longs Peak"
+    ]
+  },
+  {
+    "id": "aspen-knoll-llama-snow-free-average-may-26",
+    "name": "Aspen Knoll Llama (Snow-free average: May 26)",
+    "lat": 40.20206,
+    "lon": -105.59657,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "beaver-mill-snow-free-average-june-2",
+    "name": "Beaver Mill (Snow-free average: June 2)",
+    "lat": 40.21566,
+    "lon": -105.57922,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "campers-creek-snow-free-average-june-5",
+    "name": "Campers Creek (Snow-free average: June 5)",
+    "lat": 40.21547,
+    "lon": -105.56515,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "finch-lake-snow-free-average-june-11",
+    "name": "Finch Lake (Snow-free average: June 11)",
+    "lat": 40.1848,
+    "lon": -105.59434,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "finch-lake-group-stock-snow-free-average-june-11",
+    "name": "Finch Lake Group/Stock (Snow-free average: June 11)",
+    "lat": 40.18391,
+    "lon": -105.59468,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "hole-in-the-wall-snow-free-average-may-31",
+    "name": "Hole-in-the-Wall (Snow-free average: May 31)",
+    "lat": 40.21586,
+    "lon": -105.56027,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "hunters-creek-snow-free-average-june-14",
+    "name": "Hunters Creek (Snow-free average: June 14)",
+    "lat": 40.21666,
+    "lon": -105.58369,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "north-st-vrain-snow-free-average-june-1",
+    "name": "North St. Vrain (Snow-free average: June 1)",
+    "lat": 40.20549,
+    "lon": -105.60699,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "ouzel-lake-snow-free-average-june-16",
+    "name": "Ouzel Lake (Snow-free average: June 16)",
+    "lat": 40.20003,
+    "lon": -105.63121,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "pear-creek-snow-free-average-june-28",
+    "name": "Pear Creek (Snow-free average: June 28)",
+    "lat": 40.17698,
+    "lon": -105.6189,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "pear-lake-snow-free-average-july-12",
+    "name": "Pear Lake (Snow-free average: July 12)",
+    "lat": 40.17744,
+    "lon": -105.62382,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "pine-ridge-snow-free-average-may-21",
+    "name": "Pine Ridge (Snow-free average: May 21)",
+    "lat": 40.20088,
+    "lon": -105.58337,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "sandbeach-lake-snow-free-average-june-18",
+    "name": "Sandbeach Lake (Snow-free average: June 18)",
+    "lat": 40.22064,
+    "lon": -105.60045,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "sandbeach-lake-group-snow-free-average-june-18",
+    "name": "Sandbeach Lake Group (Snow-free average: June 18)",
+    "lat": 40.22133,
+    "lon": -105.60107,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "siskin-snow-free-average-june-1",
+    "name": "Siskin (Snow-free average: June 1)",
+    "lat": 40.20684,
+    "lon": -105.61014,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "tahosa-waste-bag-snow-free-average-may-24",
+    "name": "Tahosa [Waste Bag] (Snow-free average: May 24)",
+    "lat": 40.19922,
+    "lon": -105.59241,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "thunder-lake-snow-free-average-july-5",
+    "name": "Thunder Lake (Snow-free average: July 5)",
+    "lat": 40.22459,
+    "lon": -105.64369,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "thunder-lake-group-snow-free-average-july-5",
+    "name": "Thunder Lake Group (Snow-free average: July 5)",
+    "lat": 40.22509,
+    "lon": -105.64373,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "thunder-lake-stock-snow-free-average-july-5",
+    "name": "Thunder Lake Stock (Snow-free average: July 5)",
+    "lat": 40.22229,
+    "lon": -105.64347,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "upper-ouzel-creek-snow-free-average-july-6",
+    "name": "Upper Ouzel Creek (Snow-free average: July 6)",
+    "lat": 40.19553,
+    "lon": -105.64709,
+    "type": "designated_campsite",
+    "context": "Wild Basin",
+    "startingAreas": [
+      "Wild Basin"
+    ]
+  },
+  {
+    "id": "cats-lair-snow-free-average-may-31",
+    "name": "Cats Lair (Snow-free average: May 31)",
+    "lat": 40.22621,
+    "lon": -105.75155,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "east-meadow-snow-free-average-may-22",
+    "name": "East Meadow (Snow-free average: May 22)",
+    "lat": 40.23659,
+    "lon": -105.78603,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "gray-jay-group-snow-free-average-june-11",
+    "name": "Gray Jay Group (Snow-free average: June 11)",
+    "lat": 40.23064,
+    "lon": -105.73585,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "lake-verna-snow-free-average-july-9",
+    "name": "Lake Verna (Snow-free average: July 9)",
+    "lat": 40.22801,
+    "lon": -105.71149,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "lower-east-inlet-snow-free-average-may-23",
+    "name": "Lower East Inlet (Snow-free average: May 23)",
+    "lat": 40.23431,
+    "lon": -105.76949,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "slickrock-snow-free-average-june-22",
+    "name": "Slickrock (Snow-free average: June 22)",
+    "lat": 40.2324,
+    "lon": -105.7279,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "solitaire-snow-free-average-june-28",
+    "name": "Solitaire (Snow-free average: June 28)",
+    "lat": 40.23165,
+    "lon": -105.72597,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "upper-east-inlet-snow-free-average-july-4",
+    "name": "Upper East Inlet (Snow-free average: July 4)",
+    "lat": 40.22934,
+    "lon": -105.71621,
+    "type": "designated_campsite",
+    "context": "East Inlet",
+    "startingAreas": [
+      "East Inlet"
+    ]
+  },
+  {
+    "id": "big-pool-snow-free-average-june-10",
+    "name": "Big Pool (Snow-free average: June 10)",
+    "lat": 40.285,
+    "lon": -105.75945,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "cascade-falls-snow-free-average-may-25",
+    "name": "Cascade Falls (Snow-free average: May 25)",
+    "lat": 40.27189,
+    "lon": -105.7657,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "foot-bridge-snow-free-average-june-19",
+    "name": "Foot Bridge (Snow-free average: June 19)",
+    "lat": 40.28559,
+    "lon": -105.73538,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "grouseberry-snow-free-average-june-12",
+    "name": "Grouseberry (Snow-free average: June 12)",
+    "lat": 40.28607,
+    "lon": -105.73845,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "july-waste-bag-snow-free-average-july-14",
+    "name": "July [Waste Bag] (Snow-free average: July 14)",
+    "lat": 40.28749,
+    "lon": -105.702,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "july-group-waste-bag-snow-free-average-july-14",
+    "name": "July Group [Waste Bag] (Snow-free average: July 14)",
+    "lat": 40.28914,
+    "lon": -105.70125,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "north-inlet-falls-snow-free-average-june-26",
+    "name": "North Inlet Falls (Snow-free average: June 26)",
+    "lat": 40.27846,
+    "lon": -105.72086,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "north-inlet-group-stock-snow-free-average-june-19",
+    "name": "North Inlet Group/Stock (Snow-free average: June 19)",
+    "lat": 40.28559,
+    "lon": -105.73538,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "north-inlet-junction-snow-free-average-june-11",
+    "name": "North Inlet Junction (Snow-free average: June 11)",
+    "lat": 40.28083,
+    "lon": -105.72056,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "pine-marten-snow-free-average-july-6",
+    "name": "Pine Marten (Snow-free average: July 6)",
+    "lat": 40.27821,
+    "lon": -105.71944,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "porcupine-snow-free-average-june-25",
+    "name": "Porcupine (Snow-free average: June 25)",
+    "lat": 40.28359,
+    "lon": -105.73023,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "ptarmigan-snow-free-average-june-14",
+    "name": "Ptarmigan (Snow-free average: June 14)",
+    "lat": 40.28572,
+    "lon": -105.73304,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "summerland-park-waste-bag-snow-free-average-may-19",
+    "name": "Summerland Park [Waste Bag] (Snow-free average: May 19)",
+    "lat": 40.26069,
+    "lon": -105.78732,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "summerland-park-group-snow-free-average-may-19",
+    "name": "Summerland Park Group (Snow-free average: May 19)",
+    "lat": 40.26097,
+    "lon": -105.79351,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "twinberry-group-waste-bag-snow-free-average-may-25",
+    "name": "Twinberry Group [Waste Bag] (Snow-free average: May 25)",
+    "lat": 40.26851,
+    "lon": -105.7713,
+    "type": "designated_campsite",
+    "context": "North Inlet",
+    "startingAreas": [
+      "North Inlet"
+    ]
+  },
+  {
+    "id": "big-meadows-group-snow-free-average-june-13",
+    "name": "Big Meadows Group (Snow-free average: June 13)",
+    "lat": 40.31059,
+    "lon": -105.80741,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "granite-falls-waste-bag-snow-free-average-june-18",
+    "name": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+    "lat": 40.31983,
+    "lon": -105.77148,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "green-mountain-snow-free-average-june-13",
+    "name": "Green Mountain (Snow-free average: June 13)",
+    "lat": 40.30774,
+    "lon": -105.81104,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "haynach-snow-free-average-july-7",
+    "name": "Haynach (Snow-free average: July 7)",
+    "lat": 40.33501,
+    "lon": -105.7541,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "haynach-llama-snow-free-average-july-7",
+    "name": "Haynach Llama (Snow-free average: July 7)",
+    "lat": 40.33544,
+    "lon": -105.75445,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "lodgepole-snow-free-average-may-29",
+    "name": "Lodgepole (Snow-free average: May 29)",
+    "lat": 40.28147,
+    "lon": -105.81537,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "lower-granite-falls-snow-free-average-june-23",
+    "name": "Lower Granite Falls (Snow-free average: June 23)",
+    "lat": 40.31879,
+    "lon": -105.77484,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "onahu-bridge-snow-free-average-june-17",
+    "name": "Onahu Bridge (Snow-free average: June 17)",
+    "lat": 40.3376,
+    "lon": -105.81074,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "onahu-creek-snow-free-average-june-13",
+    "name": "Onahu Creek (Snow-free average: June 13)",
+    "lat": 40.33377,
+    "lon": -105.82695,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "paint-brush-waste-bag-snow-free-average-june-9",
+    "name": "Paint Brush [Waste Bag] (Snow-free average: June 9)",
+    "lat": 40.29632,
+    "lon": -105.81265,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "renegade-snow-free-average-july-19",
+    "name": "Renegade (Snow-free average: July 19)",
+    "lat": 40.3334,
+    "lon": -105.74754,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "south-meadows-snow-free-average-june-13",
+    "name": "South Meadows (Snow-free average: June 13)",
+    "lat": 40.31471,
+    "lon": -105.80664,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "sunrise-snow-free-average-june-11",
+    "name": "Sunrise (Snow-free average: June 11)",
+    "lat": 40.32311,
+    "lon": -105.79122,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "sunset-group-snow-free-average-june-15",
+    "name": "Sunset Group (Snow-free average: June 15)",
+    "lat": 40.32099,
+    "lon": -105.79481,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "timberline-group-snow-free-average-july-9",
+    "name": "Timberline Group (Snow-free average: July 9)",
+    "lat": 40.33732,
+    "lon": -105.74939,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "tonahutu-group-stock-snow-free-average-july-5",
+    "name": "Tonahutu Group/Stock (Snow-free average: July 5)",
+    "lat": 40.32919,
+    "lon": -105.74959,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "tonahutu-meadows-snow-free-average-july-3",
+    "name": "Tonahutu Meadows (Snow-free average: July 3)",
+    "lat": 40.32513,
+    "lon": -105.7574,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "upper-onahu-snow-free-average-june-13",
+    "name": "Upper Onahu (Snow-free average: June 13)",
+    "lat": 40.33725,
+    "lon": -105.8138,
+    "type": "designated_campsite",
+    "context": "Tonahutu",
+    "startingAreas": [
+      "Tonahutu"
+    ]
+  },
+  {
+    "id": "jackstraw-snow-free-average-july-3",
+    "name": "Jackstraw (Snow-free average: July 3)",
+    "lat": 40.37645,
+    "lon": -105.80744,
+    "type": "designated_campsite",
+    "context": "Timber Lake",
+    "startingAreas": [
+      "Timber Lake"
+    ]
+  },
+  {
+    "id": "rockslide-snow-free-average-july-6",
+    "name": "Rockslide (Snow-free average: July 6)",
+    "lat": 40.37958,
+    "lon": -105.80165,
+    "type": "designated_campsite",
+    "context": "Timber Lake",
+    "startingAreas": [
+      "Timber Lake"
+    ]
+  },
+  {
+    "id": "snowbird-waste-bag-snow-free-average-july-6",
+    "name": "Snowbird [Waste Bag] (Snow-free average: July 6)",
+    "lat": 40.37802,
+    "lon": -105.79872,
+    "type": "designated_campsite",
+    "context": "Timber Lake",
+    "startingAreas": [
+      "Timber Lake"
+    ]
+  },
+  {
+    "id": "timber-creek-snow-free-average-june-27",
+    "name": "Timber Creek (Snow-free average: June 27)",
+    "lat": 40.37002,
+    "lon": -105.8221,
+    "type": "designated_campsite",
+    "context": "Timber Lake",
+    "startingAreas": [
+      "Timber Lake"
+    ]
+  },
+  {
+    "id": "box-canyon-snow-free-average-july-8",
+    "name": "Box Canyon (Snow-free average: July 8)",
+    "lat": 40.46859,
+    "lon": -105.86702,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "ditch-camp-snow-free-average-june-26",
+    "name": "Ditch Camp (Snow-free average: June 26)",
+    "lat": 40.45793,
+    "lon": -105.86209,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "ditch-camp-group-stock-snow-free-average-june-26",
+    "name": "Ditch Camp Group/Stock (Snow-free average: June 26)",
+    "lat": 40.45805,
+    "lon": -105.86249,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "dutch-town-snow-free-average-july-7",
+    "name": "Dutch Town (Snow-free average: July 7)",
+    "lat": 40.43476,
+    "lon": -105.88054,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "hitchens-gulch-snow-free-average-july-7",
+    "name": "Hitchens Gulch (Snow-free average: July 7)",
+    "lat": 40.4318,
+    "lon": -105.87349,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "la-poudre-pass-snow-free-average-june-24",
+    "name": "La Poudre Pass (Snow-free average: June 24)",
+    "lat": 40.47345,
+    "lon": -105.82753,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "opposition-creek-snow-free-average-july-4",
+    "name": "Opposition Creek (Snow-free average: July 4)",
+    "lat": 40.40917,
+    "lon": -105.87648,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "red-gulch-group-snow-free-average-july-7",
+    "name": "Red Gulch Group (Snow-free average: July 7)",
+    "lat": 40.39056,
+    "lon": -105.87428,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "skeleton-gulch-snow-free-average-july-8",
+    "name": "Skeleton Gulch (Snow-free average: July 8)",
+    "lat": 40.45886,
+    "lon": -105.88044,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "stage-road-snow-free-average-june-17",
+    "name": "Stage Road (Snow-free average: June 17)",
+    "lat": 40.45427,
+    "lon": -105.84797,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "valley-view-snow-free-average-june-22",
+    "name": "Valley View (Snow-free average: June 22)",
+    "lat": 40.4124,
+    "lon": -105.86301,
+    "type": "designated_campsite",
+    "context": "Never Summer",
+    "startingAreas": [
+      "Never Summer"
+    ]
+  },
+  {
+    "id": "cache-snow-free-average-july-11",
+    "name": "Cache (Snow-free average: July 11)",
+    "lat": 40.46977,
+    "lon": -105.73777,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "chapin-creek-group-snow-free-average-july-8",
+    "name": "Chapin Creek Group (Snow-free average: July 8)",
+    "lat": 40.46467,
+    "lon": -105.73127,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "desolation-snow-free-average-july-4",
+    "name": "Desolation (Snow-free average: July 4)",
+    "lat": 40.51838,
+    "lon": -105.73277,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "flatiron-snow-free-average-july-4",
+    "name": "Flatiron (Snow-free average: July 4)",
+    "lat": 40.51473,
+    "lon": -105.71864,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "hague-creek-snow-free-average-july-4",
+    "name": "Hague Creek (Snow-free average: July 4)",
+    "lat": 40.51683,
+    "lon": -105.74121,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "hague-creek-group-stock-snow-free-average-july-4",
+    "name": "Hague Creek Group/Stock (Snow-free average: July 4)",
+    "lat": 40.51684,
+    "lon": -105.74122,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "koenig-stock-snow-free-average-july-11",
+    "name": "Koenig Stock (Snow-free average: July 11)",
+    "lat": 40.52676,
+    "lon": -105.69998,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "mirror-lake-snow-free-average-july-13",
+    "name": "Mirror Lake (Snow-free average: July 13)",
+    "lat": 40.53368,
+    "lon": -105.69655,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  },
+  {
+    "id": "mummy-pass-creek-snow-free-average-july-10",
+    "name": "Mummy Pass Creek (Snow-free average: July 10)",
+    "lat": 40.51899,
+    "lon": -105.69266,
+    "type": "designated_campsite",
+    "context": "Hague Creek",
+    "startingAreas": [
+      "Hague Creek"
+    ]
+  }
+]

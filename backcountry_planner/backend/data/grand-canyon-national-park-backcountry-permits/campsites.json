@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "bright-angel-trailhead",
+    "name": "Bright Angel Trailhead",
+    "lat": 36.057196,
+    "lon": -112.14394,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Classic GC Hike - via South Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "south-kaibab-trailhead",
+    "name": "South Kaibab Trailhead",
+    "lat": 36.052942,
+    "lon": -112.083642,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Classic GC Hike - via South Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "north-kaibab-trailhead",
+    "name": "North Kaibab Trailhead",
+    "lat": 36.21705,
+    "lon": -112.056796,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Classic GC Hike - via South Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "grandview-trailhead",
+    "name": "Grandview Trailhead",
+    "lat": 35.998453,
+    "lon": -111.987759,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "hermit-trailhead",
+    "name": "Hermit Trailhead",
+    "lat": 36.060602,
+    "lon": -112.212271,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "new-hance-trailhead",
+    "name": "New Hance Trailhead",
+    "lat": 35.990782,
+    "lon": -111.935792,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "tanner-trailhead",
+    "name": "Tanner Trailhead",
+    "lat": 36.032619,
+    "lon": -111.853197,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "south-bass-trailhead",
+    "name": "South Bass Trailhead",
+    "lat": 36.183818,
+    "lon": -112.37673,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "nankoweap-trailhead",
+    "name": "Nankoweap Trailhead",
+    "lat": 36.34761,
+    "lon": -111.95236,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "north-bass-trailhead",
+    "name": "North Bass Trailhead",
+    "lat": 36.335761,
+    "lon": -112.350058,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bill-hall-trailhead",
+    "name": "Bill Hall Trailhead",
+    "lat": 36.434853,
+    "lon": -112.429919,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "thunder-river-trailhead",
+    "name": "Thunder River Trailhead",
+    "lat": 36.4624834,
+    "lon": -112.4849063,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "widforss-trailhead",
+    "name": "Widforss Trailhead",
+    "lat": 36.224356,
+    "lon": -112.0649859,
+    "type": "trailhead",
+    "startingAreas": [
+      "Above Rim Areas - North Rim",
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "snowshoe-ski-from-jacob-lake",
+    "name": "Snowshoe / Ski from Jacob Lake",
+    "lat": 36.71462723,
+    "lon": -112.217027,
+    "type": "trailhead",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim",
+      "Requires Adv GC Experience or Unusual",
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "se3-south-bass-trailhead-campsite-large-or-small-group",
+    "name": "SE3 - South Bass Trailhead - Campsite - Large or Small Group",
+    "lat": 36.183791,
+    "lon": -112.376806,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "sa9-cape-solitude-at-large-camping",
+    "name": "SA9 - Cape Solitude - At-Large Camping",
+    "lat": 36.13392,
+    "lon": -111.773975,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "sc9-eremita-mesa-at-large-camping-large-or-small-group",
+    "name": "SC9 - Eremita Mesa - At-Large Camping - Large or Small Group",
+    "lat": 36.083188,
+    "lon": -112.285251,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "se2-ruby-point-campsite",
+    "name": "SE2 - Ruby Point - Campsite",
+    "lat": 36.177466,
+    "lon": -112.349281,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "se0-pasture-wash-at-large-camping",
+    "name": "SE0 - Pasture Wash - At-Large Camping",
+    "lat": 36.147731,
+    "lon": -112.377015,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "se1-signal-hill-campsite",
+    "name": "SE1 - Signal Hill - Campsite",
+    "lat": 36.170516,
+    "lon": -112.351852,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "sb9-cedar-mountain-at-large-camping",
+    "name": "SB9 - Cedar Mountain - At-Large Camping",
+    "lat": 36.041625,
+    "lon": -111.793123,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "sa9-cape-solitude-at-large-camping-large-or-small-group",
+    "name": "SA9 - Cape Solitude - At-Large Camping - Large or Small Group",
+    "lat": 36.13392,
+    "lon": -111.773975,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "se0-pasture-wash-at-large-camping-large-group",
+    "name": "SE0 - Pasture Wash - At-Large Camping - LARGE GROUP",
+    "lat": 36.147731,
+    "lon": -112.377015,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "sb9-cedar-mountain-at-large-camping-large-group",
+    "name": "SB9 - Cedar Mountain - At-Large Camping - LARGE GROUP",
+    "lat": 36.041625,
+    "lon": -111.793123,
+    "type": "at_large",
+    "context": "Above Rim Areas - South Rim",
+    "startingAreas": [
+      "Above Rim Areas - South Rim"
+    ]
+  },
+  {
+    "id": "tcg-tuweep-campground-campsite",
+    "name": "TCG - Tuweep Campground - Campsite",
+    "lat": 36.26143,
+    "lon": -113.07126,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nh1-point-sublime",
+    "name": "NH1 - Point Sublime ",
+    "lat": 36.202215,
+    "lon": -112.248507,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nj2-swamp-point-campsite-large-or-small-group",
+    "name": "NJ2 - Swamp Point - Campsite - Large or Small Group",
+    "lat": 36.335794,
+    "lon": -112.349978,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nb9-thompson-canyon-at-large-camping",
+    "name": "NB9 - Thompson Canyon - At-Large Camping",
+    "lat": 36.293929,
+    "lon": -112.042727,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nf9-widforss-at-large-camping",
+    "name": "NF9 - Widforss - At-Large Camping",
+    "lat": 36.183986,
+    "lon": -112.086393,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "na0-walhalla-plateau-at-large-camping",
+    "name": "NA0 - Walhalla Plateau - At-Large Camping",
+    "lat": 36.204777,
+    "lon": -111.974464,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nj0-swamp-ridge-at-large-camping",
+    "name": "NJ0 - Swamp Ridge - At-Large Camping",
+    "lat": 36.332727,
+    "lon": -112.218827,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nj1-fire-point-campsite-large-or-small-group",
+    "name": "NJ1 - Fire Point Campsite - Large or Small Group",
+    "lat": 36.354675,
+    "lon": -112.354942,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "xxa-do-not-select-this-area-unless-directed-to-by-a-ranger",
+    "name": "XXA - Do NOT select this area unless directed to by a Ranger.",
+    "lat": 36.287075,
+    "lon": -112.146156,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "na1-cape-final-campsite",
+    "name": "NA1 - Cape Final - Campsite",
+    "lat": 36.142536,
+    "lon": -111.908478,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nc9-ken-patrick-at-large-camping-large-or-small-group",
+    "name": "NC9 - Ken Patrick, At-Large Camping - Large or Small Group",
+    "lat": 36.254365,
+    "lon": -112.029383,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "ng9-outlet-at-large-camping",
+    "name": "NG9 - Outlet - At-Large Camping",
+    "lat": 36.20982,
+    "lon": -112.10918,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "tcg-tuweep-campground-large-group-campsite",
+    "name": "TCG - Tuweep Campground - LARGE GROUP Campsite",
+    "lat": 36.26143,
+    "lon": -113.07126,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nh1-point-sublime-campsite-large-group",
+    "name": "NH1 - Point Sublime - Campsite - LARGE GROUP",
+    "lat": 36.202215,
+    "lon": -112.248507,
+    "type": "designated_campsite",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nb9-thompson-canyon-at-large-camping-large-or-small-group",
+    "name": "NB9 - Thompson Canyon - At-Large Camping - Large or Small Group",
+    "lat": 36.293929,
+    "lon": -112.042727,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nf9-widforss-at-large-camping-large-group",
+    "name": "NF9 - Widforss - At-Large Camping - LARGE GROUP",
+    "lat": 36.183986,
+    "lon": -112.086393,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "na0-walhalla-plateau-at-large-camping-large-or-small-group",
+    "name": "NA0 - Walhalla Plateau - At-Large Camping - Large or Small Group",
+    "lat": 36.204777,
+    "lon": -111.974464,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nj0-swamp-ridge-at-large-camping-large-or-small-group",
+    "name": "NJ0 - Swamp Ridge - At-Large Camping - Large or Small Group",
+    "lat": 36.332727,
+    "lon": -112.218827,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "nd9-robbers-roost-at-large-camping-large-or-small-group",
+    "name": "ND9 - Robbers Roost - At-Large Camping - Large or Small Group",
+    "lat": 36.287075,
+    "lon": -112.146156,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "bla-administrative-at-large-camping-away-from-public-in-the-monument-through-horn-area",
+    "name": "BLA - Administrative At-Large Camping Away from Public in the Monument through Horn area.",
+    "lat": 36.254365,
+    "lon": -112.029383,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "ng9-outlet-at-large-camping-large-or-small-group",
+    "name": "NG9 - Outlet - At-Large Camping - Large or Small Group",
+    "lat": 36.20982,
+    "lon": -112.10918,
+    "type": "at_large",
+    "context": "Above Rim Areas - North Rim",
+    "startingAreas": [
+      "Above Rim Areas - North Rim"
+    ]
+  },
+  {
+    "id": "cbg-bright-angel-campground",
+    "name": "CBG - Bright Angel Campground",
+    "lat": 36.101282,
+    "lon": -112.095894,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via South Rim",
+    "startingAreas": [
+      "Classic GC Hike - via South Rim"
+    ]
+  },
+  {
+    "id": "cig-havasupai-gardens-campground",
+    "name": "CIG - Havasupai Gardens Campground",
+    "lat": 36.077034,
+    "lon": -112.129107,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via South Rim",
+    "startingAreas": [
+      "Classic GC Hike - via South Rim"
+    ]
+  },
+  {
+    "id": "cbg-bright-angel-campground-large-group",
+    "name": "CBG - Bright Angel Campground - LARGE GROUP",
+    "lat": 36.101282,
+    "lon": -112.095894,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via South Rim",
+    "startingAreas": [
+      "Classic GC Hike - via South Rim"
+    ]
+  },
+  {
+    "id": "cig-havasupai-gardens-campground-large-group",
+    "name": "CIG - Havasupai Gardens Campground - LARGE GROUP",
+    "lat": 36.077034,
+    "lon": -112.129107,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via South Rim",
+    "startingAreas": [
+      "Classic GC Hike - via South Rim"
+    ]
+  },
+  {
+    "id": "cbg-shared-azt-thru-hiker-site-bright-angel-campground",
+    "name": "CBG - Shared AZT Thru-Hiker Site - Bright Angel Campground ",
+    "lat": 36.099779,
+    "lon": -112.095158,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via South Rim",
+    "startingAreas": [
+      "Classic GC Hike - via South Rim"
+    ]
+  },
+  {
+    "id": "ccg-cottonwood-campground",
+    "name": "CCG - Cottonwood Campground",
+    "lat": 36.170559,
+    "lon": -112.040147,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via North Rim",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim"
+    ]
+  },
+  {
+    "id": "ncg-when-n-rim-closed-north-rim-campground",
+    "name": "NCG - (when N.Rim Closed) North Rim Campground",
+    "lat": 36.170559,
+    "lon": -112.040147,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via North Rim",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim"
+    ]
+  },
+  {
+    "id": "ccg-cottonwood-campground-large-group",
+    "name": "CCG - Cottonwood Campground - LARGE GROUP",
+    "lat": 36.170559,
+    "lon": -112.040147,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via North Rim",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim"
+    ]
+  },
+  {
+    "id": "ncg-when-n-rim-preparing-to-close-no-vehicles-north-rim-campground",
+    "name": "NCG - (when N.Rim Preparing to Close - NO VEHICLES) North Rim Campground",
+    "lat": 36.170559,
+    "lon": -112.040147,
+    "type": "designated_campsite",
+    "context": "Classic GC Hike - via North Rim",
+    "startingAreas": [
+      "Classic GC Hike - via North Rim"
+    ]
+  },
+  {
+    "id": "bb9-tanner-at-large-camping",
+    "name": "BB9 - Tanner - At-Large Camping",
+    "lat": 36.074021,
+    "lon": -111.823556,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bd9-red-canyon-at-large-camping",
+    "name": "BD9 - Red Canyon - At-Large Camping",
+    "lat": 36.03419,
+    "lon": -111.910614,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bc9-cardenas-at-large-camping",
+    "name": "BC9 - Cardenas, At-Large Camping",
+    "lat": 36.053247,
+    "lon": -111.882646,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "be9-hance-creek-at-large-camping",
+    "name": "BE9 - Hance Creek, At-Large Camping",
+    "lat": 36.030843,
+    "lon": -111.95548,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bn9-boucher-at-large-camping",
+    "name": "BN9 - Boucher - At-Large Camping",
+    "lat": 36.106188,
+    "lon": -112.219917,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ba9-palisades-at-large-camping",
+    "name": "BA9 - Palisades, At-Large Camping",
+    "lat": 36.138761,
+    "lon": -111.814418,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "br9-garnet-at-large-camping",
+    "name": "BR9 - Garnet, At-Large Camping",
+    "lat": 36.205583,
+    "lon": -112.408901,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bq9-south-bass-at-large-camping",
+    "name": "BQ9 -South Bass - At-Large Camping",
+    "lat": 36.20825,
+    "lon": -112.371896,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bo9-slate-at-large-camping",
+    "name": "BO9 - Slate, At-Large Camping",
+    "lat": 36.12802,
+    "lon": -112.296358,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bt9-olo-at-large-camping-large-or-small-group",
+    "name": "BT9 - Olo, At-Large Camping - Large or Small Group",
+    "lat": 36.330359,
+    "lon": -112.646622,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bp9-ruby-at-large-camping",
+    "name": "BP9 - Ruby, At-Large Camping",
+    "lat": 36.175347,
+    "lon": -112.328612,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bu9-national-at-large-camping-large-or-small-group",
+    "name": "BU9 - National, At-Large Camping - Large or Small Group",
+    "lat": 36.269803,
+    "lon": -112.81579,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bs9-fossil-at-large-camping-large-or-small-group",
+    "name": "BS9 - Fossil, At-Large Camping - Large or Small Group",
+    "lat": 36.292405,
+    "lon": -112.530156,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ay9-esplanade-at-large-camping",
+    "name": "AY9 - Esplanade - At-Large Camping",
+    "lat": 36.420642,
+    "lon": -112.459578,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ax7-deer-creek-campsite",
+    "name": "AX7 - Deer Creek - Campsite",
+    "lat": 36.395515,
+    "lon": -112.505261,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aw7-upper-tapeats-campsite",
+    "name": "AW7 - Upper Tapeats Campsite",
+    "lat": 36.390699,
+    "lon": -112.452742,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ae9-nankoweap-at-large-camping",
+    "name": "AE9 - Nankoweap, At-Large Camping",
+    "lat": 36.289047,
+    "lon": -111.918612,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aw8-lower-tapeats-campsite",
+    "name": "AW8 - Lower Tapeats Campsite",
+    "lat": 36.371128,
+    "lon": -112.469173,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "am9-surprise-valley-at-large-camping",
+    "name": "AM9 - Surprise Valley, At-Large Camping",
+    "lat": 36.395292,
+    "lon": -112.475251,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ac9-south-canyon-at-large-camping",
+    "name": "AC9 - South Canyon, At-Large Camping",
+    "lat": 36.503238,
+    "lon": -111.857993,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "as9-north-bass-at-large-camping",
+    "name": "AS9 - North Bass - At-Large Camping",
+    "lat": 36.272299,
+    "lon": -112.326248,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ap9-phantom-creek-at-large-camping-large-or-small-group",
+    "name": "AP9 - Phantom Creek, At-Large Camping - Large or Small Group",
+    "lat": 36.145417,
+    "lon": -112.121146,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "af9-chuar-at-large-camping-large-or-small-group",
+    "name": "AF9 - Chuar, At-Large Camping - Large or Small Group",
+    "lat": 36.194949,
+    "lon": -111.882112,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ar9-scorpion-ridge-at-large-camping-large-or-small-group",
+    "name": "AR9 - Scorpion Ridge, At-Large Camping - Large or Small Group",
+    "lat": 36.237435,
+    "lon": -112.282077,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "az9-fishtail-at-large-camping-large-or-small-group",
+    "name": "AZ9 - Fishtail, At-Large Camping - Large or Small Group",
+    "lat": 36.428807,
+    "lon": -112.551214,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "au9-blacktail-canyon-at-large-camping-large-or-small-group",
+    "name": "AU9 - Blacktail Canyon, At-Large Camping - Large or Small Group",
+    "lat": 36.290069,
+    "lon": -112.472736,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "av9-tapeats-amph-at-large-camping-large-or-small-group",
+    "name": "AV9 - Tapeats Amph, At-Large Camping - Large or Small Group",
+    "lat": 36.39452,
+    "lon": -112.417853,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aq9-trinity-creek-at-large-camping-large-or-small-group",
+    "name": "AQ9 - Trinity Creek, At-Large Camping - Large or Small Group",
+    "lat": 36.169822,
+    "lon": -112.204102,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ag9-unkar-at-large-camping-large-or-small-group",
+    "name": "AG9 - Unkar, At-Large Camping - Large or Small Group",
+    "lat": 36.121022,
+    "lon": -111.896538,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ab0-soap-creek-at-large-camping-large-or-small-group",
+    "name": "AB0 - Soap Creek, At-Large Camping - Large or Small Group",
+    "lat": 36.739131,
+    "lon": -111.69587,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ad9-saddle-canyon-at-large-camping",
+    "name": "AD9 - Saddle Canyon, At-Large Camping",
+    "lat": 36.364282,
+    "lon": -111.899559,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ab9-rider-at-large-camping",
+    "name": "AB9 - Rider, At-Large Camping",
+    "lat": 36.67383,
+    "lon": -111.741187,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ah9-vishnu-at-large-camping-large-or-small-group",
+    "name": "AH9 - Vishnu, At-Large Camping - Large or Small Group",
+    "lat": 36.066788,
+    "lon": -111.953784,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "at9-powell-plateau-at-large-camping",
+    "name": "AT9 - Powell Plateau, At-Large Camping",
+    "lat": 36.299235,
+    "lon": -112.389534,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "an9-indian-hollow-at-large-camping",
+    "name": "AN9 - Indian Hollow, At-Large Camping",
+    "lat": 36.442057,
+    "lon": -112.486989,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aj9-cheyava-at-large-camping-large-or-small-group",
+    "name": "AJ9 - Cheyava, At-Large Camping - Large or Small Group",
+    "lat": 36.114702,
+    "lon": -111.995324,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aa9-badger-at-large-camping",
+    "name": "AA9 - Badger, At-Large Camping",
+    "lat": 36.774372,
+    "lon": -111.658356,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "xxb-do-not-select-this-area-unless-directed-to-by-a-ranger",
+    "name": "XXB - Do NOT Select this area unless directed to by a Ranger.",
+    "lat": 36.209522,
+    "lon": -112.021979,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nk9-kanab-point-at-large-camping",
+    "name": "NK9 - Kanab Point, At-Large Camping",
+    "lat": 36.382894,
+    "lon": -112.811961,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nrh-north-rim-horsecamp-stock-site",
+    "name": "NRH - North Rim Horsecamp - STOCK Site",
+    "lat": 36.220675,
+    "lon": -112.05537,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nl9-tuckup-point-at-large-camping",
+    "name": "NL9 - Tuckup Point, At-Large Camping",
+    "lat": 36.342072,
+    "lon": -112.966738,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nn9-lava-at-large-camping",
+    "name": "NN9 - Lava, At-Large Camping",
+    "lat": 36.223661,
+    "lon": -113.044948,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nm9-toroweap-valley-at-large-camping",
+    "name": "NM9 - Toroweap Valley, At-Large Camping",
+    "lat": 36.274982,
+    "lon": -113.150151,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nrr-north-rim-roads-when-n-rim-closed",
+    "name": "NRR - North Rim Roads (when N.Rim Closed)",
+    "lat": 36.272525,
+    "lon": -112.065952,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "la9-kanab-creek-at-large-camping",
+    "name": "LA9 - Kanab Creek, At-Large Camping",
+    "lat": 36.431186,
+    "lon": -112.633349,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lb9-boysag-at-large-camping-large-or-small-group",
+    "name": "LB9 - Boysag, At-Large Camping - Large or Small Group",
+    "lat": 36.302173,
+    "lon": -112.803211,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lc9-the-dome-at-large-camping-large-or-small-group",
+    "name": "LC9 - The Dome, At-Large Camping - Large or Small Group",
+    "lat": 36.251615,
+    "lon": -112.96141,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lj9-surprise-at-large-camping-large-or-small-group",
+    "name": "LJ9 - Surprise, At-Large Camping - Large or Small Group",
+    "lat": 35.926781,
+    "lon": -113.608835,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lk9-burnt-point-at-large-camping-large-or-small-group",
+    "name": "LK9 - Burnt Point, At-Large Camping - Large or Small Group",
+    "lat": 36.026688,
+    "lon": -113.702943,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lh9-separation-at-large-camping-large-or-small-group",
+    "name": "LH9 - Separation, At-Large Camping - Large or Small Group",
+    "lat": 35.84401,
+    "lon": -113.517672,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "li9-whitmore-at-large-camping",
+    "name": "LI9 - Whitmore, At-Large Camping",
+    "lat": 36.151065,
+    "lon": -113.201139,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lf9-trail-canyon-at-large-camping-large-or-small-group",
+    "name": "LF9 -Trail Canyon, At-Large Camping - Large or Small Group",
+    "lat": 35.887755,
+    "lon": -113.357273,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lm9-grand-wash-cliffs-at-large-camping-large-or-small-group",
+    "name": "LM9 - Grand Wash Cliffs, At-Large Camping - Large or Small Group",
+    "lat": 36.061499,
+    "lon": -113.939399,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "lg9-diamond-creek-at-large-camping-large-or-small-group",
+    "name": "LG9 - Diamond Creek, At-Large Camping - Large or Small Group",
+    "lat": 35.784827,
+    "lon": -113.422386,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "le9-parashant-at-large-camping-large-or-small-group",
+    "name": "LE9 - Parashant, At-Large Camping - Large or Small Group",
+    "lat": 36.093499,
+    "lon": -112.34098,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ll9-snap-point-at-large-camping-large-or-small-group",
+    "name": "LL9 - Snap Point, At-Large Camping - Large or Small Group",
+    "lat": 36.098523,
+    "lon": -113.818953,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sf9-eminence-break-at-large-camping",
+    "name": "SF9 - Eminence Break, At-Large Camping",
+    "lat": 36.386803,
+    "lon": -111.849081,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sg9-shinumo-wash-at-large-camping",
+    "name": "SG9 - Shinumo Wash, At-Large Camping",
+    "lat": 36.572073,
+    "lon": -111.802301,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sh9-saltwater-wash-at-large-camping",
+    "name": "SH9 - Saltwater Wash, At-Large Camping",
+    "lat": 36.728892,
+    "lon": -111.693939,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "si9-jackass-at-large-camping",
+    "name": "SI9 - Jackass, At-Large Camping",
+    "lat": 36.771766,
+    "lon": -111.655883,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bb9-tanner-at-large-camping-large-or-small-group",
+    "name": "BB9 - Tanner - At-Large Camping - Large or Small Group",
+    "lat": 36.074021,
+    "lon": -111.823556,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bd9-red-canyon-at-large-camping-large-or-small-group",
+    "name": "BD9 - Red Canyon - At-Large Camping - Large or Small Group",
+    "lat": 36.03419,
+    "lon": -111.910614,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bc9-cardenas-at-large-camping-large-or-small-group",
+    "name": "BC9 - Cardenas, At-Large Camping - Large or Small Group",
+    "lat": 36.053247,
+    "lon": -111.882646,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "be9-hance-creek-at-large-camping-large-or-small-group",
+    "name": "BE9 - Hance Creek, At-Large Camping - Large or Small Group",
+    "lat": 36.030843,
+    "lon": -111.95548,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bn9-boucher-at-large-camping-large-or-small-group",
+    "name": "BN9 - Boucher - At-Large Camping - Large or Small Group",
+    "lat": 36.106188,
+    "lon": -112.219917,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ba9-palisades-at-large-camping-large-or-small-group",
+    "name": "BA9 - Palisades, At-Large Camping - Large or Small Group",
+    "lat": 36.138761,
+    "lon": -111.814418,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "br9-garnet-at-large-camping-large-or-small-group",
+    "name": "BR9 - Garnet, At-Large Camping - Large or Small Group",
+    "lat": 36.205583,
+    "lon": -112.408901,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bq9-south-bass-at-large-camping-large-or-small-group",
+    "name": "BQ9 -South Bass - At-Large Camping - Large or Small Group",
+    "lat": 36.20825,
+    "lon": -112.371896,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bo9-slate-at-large-camping-large-or-small-group",
+    "name": "BO9 - Slate, At-Large Camping - Large or Small Group",
+    "lat": 36.12802,
+    "lon": -112.296358,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bp9-ruby-at-large-camping-large-or-small-group",
+    "name": "BP9 - Ruby, At-Large Camping - Large or Small Group",
+    "lat": 36.175347,
+    "lon": -112.328612,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ay9-esplanade-at-large-camping-large-or-small-group",
+    "name": "AY9 - Esplanade - At-Large Camping - Large or Small Group",
+    "lat": 36.420642,
+    "lon": -112.459578,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ax7-deer-creek-campsite-large-group",
+    "name": "AX7 - Deer Creek - Campsite - LARGE GROUP",
+    "lat": 36.395515,
+    "lon": -112.505261,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aw7-upper-tapeats-campsite-large-group",
+    "name": "AW7 - Upper Tapeats Campsite - LARGE GROUP",
+    "lat": 36.390699,
+    "lon": -112.452742,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ae9-nankoweap-at-large-camping-large-or-small-group",
+    "name": "AE9 - Nankoweap, At-Large Camping - Large or Small Group",
+    "lat": 36.289047,
+    "lon": -111.918612,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aw8-lower-tapeats-campsite-large-group",
+    "name": "AW8 - Lower Tapeats Campsite - LARGE GROUP",
+    "lat": 36.371128,
+    "lon": -112.469173,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "am9-surprise-valley-at-large-camping-large-or-small-group",
+    "name": "AM9 - Surprise Valley, At-Large Camping - Large or Small Group",
+    "lat": 36.395292,
+    "lon": -112.475251,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ac9-south-canyon-at-large-camping-large-or-small-group",
+    "name": "AC9 - South Canyon, At-Large Camping - Large or Small Group",
+    "lat": 36.503238,
+    "lon": -111.857993,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "as9-north-bass-at-large-camping-large-or-small-group",
+    "name": "AS9 - North Bass - At-Large Camping - Large or Small Group",
+    "lat": 36.272299,
+    "lon": -112.326248,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ad9-saddle-canyon-at-large-camping-large-or-small-group",
+    "name": "AD9 - Saddle Canyon, At-Large Camping - Large or Small Group",
+    "lat": 36.364282,
+    "lon": -111.899559,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "ab9-rider-at-large-camping-large-or-small-group",
+    "name": "AB9 - Rider, At-Large Camping - Large or Small Group",
+    "lat": 36.67383,
+    "lon": -111.741187,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "at9-powell-plateau-at-large-camping-large-or-small-group",
+    "name": "AT9 - Powell Plateau, At-Large Camping - Large or Small Group",
+    "lat": 36.299235,
+    "lon": -112.389534,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "an9-indian-hollow-at-large-camping-large-or-small-group",
+    "name": "AN9 - Indian Hollow, At-Large Camping - Large or Small Group",
+    "lat": 36.442057,
+    "lon": -112.486989,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "aa9-badger-at-large-camping-large-or-small-group",
+    "name": "AA9 - Badger, At-Large Camping - Large or Small Group",
+    "lat": 36.774372,
+    "lon": -111.658356,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nk9-kanab-point-at-large-camping-large-or-small-group",
+    "name": "NK9 - Kanab Point, At-Large Camping - Large or Small Group",
+    "lat": 36.382894,
+    "lon": -112.811961,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nl9-tuckup-point-at-large-camping-large-or-small-group",
+    "name": "NL9 - Tuckup Point, At-Large Camping - Large or Small Group",
+    "lat": 36.342072,
+    "lon": -112.966738,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nn9-lava-at-large-camping-large-group",
+    "name": "NN9 - Lava, At-Large Camping - LARGE GROUP",
+    "lat": 36.223661,
+    "lon": -113.044948,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "nm9-toroweap-valley-at-large-camping-large-group",
+    "name": "NM9 - Toroweap Valley, At-Large Camping - LARGE GROUP",
+    "lat": 36.274982,
+    "lon": -113.150151,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bm7-hermit-creek-admin-site",
+    "name": "BM7 - Hermit Creek - Admin Site",
+    "lat": 36.272525,
+    "lon": -112.065952,
+    "type": "designated_campsite",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sf9-eminence-break-at-large-camping-large-or-small-group",
+    "name": "SF9 - Eminence Break, At-Large Camping - Large or Small Group",
+    "lat": 36.386803,
+    "lon": -111.849081,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sg9-shinumo-wash-at-large-camping-large-or-small-group",
+    "name": "SG9 - Shinumo Wash, At-Large Camping - Large or Small Group",
+    "lat": 36.572073,
+    "lon": -111.802301,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "sh9-saltwater-wash-at-large-camping-large-or-small-group",
+    "name": "SH9 - Saltwater Wash, At-Large Camping - Large or Small Group",
+    "lat": 36.728892,
+    "lon": -111.693939,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "si9-jackass-at-large-camping-large-or-small-group",
+    "name": "SI9 - Jackass, At-Large Camping - Large or Small Group",
+    "lat": 36.771766,
+    "lon": -111.655883,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "la9-kanab-creek-at-large-camping-large-or-small-group",
+    "name": "LA9 - Kanab Creek, At-Large Camping - Large or Small Group",
+    "lat": 36.431186,
+    "lon": -112.633349,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "li9-whitmore-at-large-camping-large-group",
+    "name": "LI9 - Whitmore, At-Large Camping - LARGE GROUP",
+    "lat": 36.151065,
+    "lon": -113.201139,
+    "type": "at_large",
+    "context": "Requires Adv GC Experience or Unusual",
+    "startingAreas": [
+      "Requires Adv GC Experience or Unusual"
+    ]
+  },
+  {
+    "id": "bm7-hermit-creek-campsite",
+    "name": "BM7 - Hermit Creek - Campsite",
+    "lat": 36.082186,
+    "lon": -112.212717,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl7-monument-creek-campsite",
+    "name": "BL7 - Monument Creek - Campsite",
+    "lat": 36.0826,
+    "lon": -112.186544,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bf5-horseshoe-mesa-campsite",
+    "name": "BF5 - Horseshoe Mesa - Campsite",
+    "lat": 36.020069,
+    "lon": -111.974703,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bg9-cottonwood-creek-at-large-camping-accessed-from-grandview-trail",
+    "name": "BG9 - Cottonwood Creek - At-Large Camping (accessed from Grandview Trail)",
+    "lat": 36.024769,
+    "lon": -111.987143,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl8-granite-rapids-campsite",
+    "name": "BL8 - Granite Rapids - Campsite",
+    "lat": 36.09758,
+    "lon": -112.18161,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "ak9-clear-creek-at-large-camping",
+    "name": "AK9 - Clear Creek - At-Large Camping",
+    "lat": 36.11459,
+    "lon": -112.01101,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bm8-hermit-rapids-campsite",
+    "name": "BM8 - Hermit Rapids - Campsite",
+    "lat": 36.099355,
+    "lon": -112.209177,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bj9-cremation-at-large-camping",
+    "name": "BJ9 - Cremation - At-Large Camping",
+    "lat": 36.074876,
+    "lon": -112.056218,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl4-horn-creek-campsite",
+    "name": "BL4 - Horn Creek - Campsite",
+    "lat": 36.084877,
+    "lon": -112.143857,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bh9-grapevine-at-large-camping",
+    "name": "BH9 - Grapevine - At-Large Camping",
+    "lat": 36.036332,
+    "lon": -112.0221,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl5-salt-creek-campsite",
+    "name": "BL5 - Salt Creek - Campsite",
+    "lat": 36.084248,
+    "lon": -112.162083,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl6-cedar-springs-campsite",
+    "name": "BL6 - Cedar Springs - Campsite",
+    "lat": 36.088813,
+    "lon": -112.178187,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bm7-hermit-creek-campsite-large-group",
+    "name": "BM7 - Hermit Creek - Campsite - LARGE GROUP",
+    "lat": 36.082186,
+    "lon": -112.212717,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl7-monument-creek-campsite-large-group",
+    "name": "BL7 - Monument Creek - Campsite - LARGE GROUP",
+    "lat": 36.0826,
+    "lon": -112.186544,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bf5-horseshoe-mesa-large-group-campsite",
+    "name": "BF5 - Horseshoe Mesa - LARGE GROUP Campsite",
+    "lat": 36.020069,
+    "lon": -111.974703,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bg9-cottonwood-creek-at-large-camping-large-or-small-group-accessed-from-grandview-trail",
+    "name": "BG9 - Cottonwood Creek - At-Large Camping - Large or Small Group (accessed from Grandview Trail)",
+    "lat": 36.024769,
+    "lon": -111.987143,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bl8-granite-rapids-large-group-campsite",
+    "name": "BL8 - Granite Rapids - LARGE GROUP Campsite",
+    "lat": 36.09758,
+    "lon": -112.18161,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "ak9-clear-creek-at-large-camping-large-group",
+    "name": "AK9 - Clear Creek - At-Large Camping - LARGE GROUP",
+    "lat": 36.11459,
+    "lon": -112.01101,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bm8-hermit-rapids-campsite-large-group",
+    "name": "BM8 - Hermit Rapids - Campsite - LARGE GROUP",
+    "lat": 36.099355,
+    "lon": -112.209177,
+    "type": "designated_campsite",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bj9-cremation-at-large-camping-large-or-small-group",
+    "name": "BJ9 - Cremation - At-Large Camping - Large or Small Group",
+    "lat": 36.074876,
+    "lon": -112.056218,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  },
+  {
+    "id": "bh9-grapevine-at-large-camping-large-or-small-group",
+    "name": "BH9 - Grapevine - At-Large Camping - Large or Small Group",
+    "lat": 36.036332,
+    "lon": -112.0221,
+    "type": "at_large",
+    "context": "Requires Prev GC Experience",
+    "startingAreas": [
+      "Requires Prev GC Experience"
+    ]
+  }
+]

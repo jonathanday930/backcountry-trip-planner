@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "norris-lake-jackass",
+    "name": "Norris lake/Jackass",
+    "lat": 37.52636139,
+    "lon": -119.3173939,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "piyau-dome",
+    "name": "Piyau Dome",
+    "lat": 37.49354139,
+    "lon": -119.2606231,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "cassidy-miller",
+    "name": "Cassidy/Miller",
+    "lat": 37.5038375,
+    "lon": -119.2404367,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "fernandez",
+    "name": "Fernandez",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "crown-rancheria",
+    "name": "Crown/Rancheria",
+    "lat": 36.97765889,
+    "lon": -118.9541775,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "woodchuck",
+    "name": "Woodchuck",
+    "lat": 36.99577778,
+    "lon": -118.9627611,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "deer-creek",
+    "name": "Deer Creek",
+    "lat": 37.26840833,
+    "lon": -119.1502056,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "pryor",
+    "name": "Pryor",
+    "lat": 37.33167972,
+    "lon": -119.1898617,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "onion-springs-ohv-margaret-lakes",
+    "name": "Onion Springs OHV/Margaret Lakes",
+    "lat": 37.38276611,
+    "lon": -119.0197186,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "coyote",
+    "name": "Coyote",
+    "lat": 37.18713333,
+    "lon": -119.0926667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "statum-spanish",
+    "name": "Statum/Spanish",
+    "lat": 36.95073528,
+    "lon": -118.9678192,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "corbet",
+    "name": "Corbet",
+    "lat": 37.31509917,
+    "lon": -119.0411439,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "margaret-lakes",
+    "name": "Margaret Lakes",
+    "lat": 37.38276611,
+    "lon": -119.0197186,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "coarsegrass-meadow",
+    "name": "Coarsegrass Meadow",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hidden",
+    "name": "Hidden",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "doris-tule",
+    "name": "Doris/Tule",
+    "lat": 37.33143944,
+    "lon": -119.0199392,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "chiquito-quartz",
+    "name": "Chiquito/Quartz",
+    "lat": 37.50964222,
+    "lon": -119.4184842,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "nelson",
+    "name": "Nelson",
+    "lat": 37.15127028,
+    "lon": -119.0121117,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hells-half-acre",
+    "name": "Hells Half Acre",
+    "lat": 37.4327025,
+    "lon": -119.2789511,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "cliff-lake",
+    "name": "Cliff Lake",
+    "lat": 37.10575278,
+    "lon": -118.987775,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "bear-diversion",
+    "name": "Bear Diversion",
+    "lat": 37.36246389,
+    "lon": -118.9855278,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "sample-meadow",
+    "name": "Sample Meadow",
+    "lat": 37.33464583,
+    "lon": -119.1555383,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "potter-pass",
+    "name": "Potter Pass",
+    "lat": 37.26713611,
+    "lon": -119.1530361,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "mono-hot-springs",
+    "name": "Mono Hot Springs",
+    "lat": 37.33143944,
+    "lon": -119.0199392,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "portal-forebay",
+    "name": "Portal Forebay",
+    "lat": 37.32390278,
+    "lon": -119.0677444,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "crater",
+    "name": "Crater",
+    "lat": 37.276835,
+    "lon": -118.9768961,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "dutch",
+    "name": "Dutch",
+    "lat": 37.2764,
+    "lon": -118.9771,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "hooper",
+    "name": "Hooper",
+    "lat": 37.30615889,
+    "lon": -118.9507756,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "bear-ridge",
+    "name": "Bear Ridge",
+    "lat": 37.36246389,
+    "lon": -118.9855278,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "devils-graveyard",
+    "name": "Devils/Graveyard",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "mammoth",
+    "name": "Mammoth",
+    "lat": 37.54639944,
+    "lon": -119.2289167,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "walton",
+    "name": "Walton",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "willow-meadow-dinkey-lake",
+    "name": "Willow Meadow/Dinkey Lake",
+    "lat": 37.15142778,
+    "lon": -119.1042778,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "potter-cut-off",
+    "name": "Potter Cut-off",
+    "lat": 37.26840833,
+    "lon": -119.1502056,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "rattlesnake",
+    "name": "Rattlesnake",
+    "lat": 37.32446111,
+    "lon": -119.1400444,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "isberg",
+    "name": "Isberg",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "helms-meadow",
+    "name": "Helms Meadow",
+    "lat": 37.10575278,
+    "lon": -118.987775,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "logan-meadow",
+    "name": "Logan Meadow",
+    "lat": 37.34848056,
+    "lon": -119.3361944,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "maxon-courtright",
+    "name": "Maxon (Courtright)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "lat": 37.24290556,
+    "lon": -118.9474028,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "mono-creek",
+    "name": "Mono Creek",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "billy-creek",
+    "name": "Billy Creek",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "mono-meadow",
+    "name": "Mono Meadow",
+    "lat": 37.37315833,
+    "lon": -119.0072433,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "south-fork",
+    "name": "South Fork",
+    "lat": 37.45227361,
+    "lon": -119.2680633,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "badger",
+    "name": "Badger",
+    "lat": 37.26948056,
+    "lon": -119.1196167,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "fernandez-outfitter",
+    "name": "Fernandez (Outfitter)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "fernandez-pack-outfit",
+    "name": "Fernandez (Pack Outfit)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "isberg-outfitter",
+    "name": "Isberg (Outfitter)",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "isberg-pack-outfit",
+    "name": "Isberg (Pack Outfit)",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "norris-lake-jackass-outfitter",
+    "name": "Norris lake/Jackass (Outfitter)",
+    "lat": 37.52636139,
+    "lon": -119.3173939,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "walton-outfitter",
+    "name": "Walton (Outfitter)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "devils-graveyard-outfitter",
+    "name": "Devils/Graveyard (Outfitter)",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "florence-outfitter",
+    "name": "Florence (Outfitter)",
+    "lat": 37.24290556,
+    "lon": -118.9474028,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "maxon-courtright-outfitter",
+    "name": "Maxon (Courtright) (Outfitter)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "maxon-courtright-pack-outfit",
+    "name": "Maxon (Courtright) (Pack Outfit)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "a30-onion-springs-ohv-margaret-lakes",
+    "name": "A30 – Onion Springs OHV/Margaret Lakes",
+    "lat": 37.38276611,
+    "lon": -119.0197186,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a31-mono-meadow-please-note-this-trailhead-does-not-access-the-upper-mono-creek-drainage-or-the-jmt-pct",
+    "name": "A31 – Mono Meadow- Please note, this trailhead does not access the upper Mono Creek drainage or the JMT/PCT",
+    "lat": 37.37315833,
+    "lon": -119.0072433,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a32-doris-tule",
+    "name": "A32 – Doris/Tule",
+    "lat": 37.33143944,
+    "lon": -119.0199392,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a33-mono-hot-springs-please-note-this-trailhead-does-not-access-the-upper-mono-creek-drainage-or-the-jmt-pct-corridor",
+    "name": "A33 – Mono Hot Springs- Please note, this trailhead does not access the upper Mono Creek drainage or the JMT/PCT corridor",
+    "lat": 37.33143944,
+    "lon": -119.0199392,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a34-portal-forebay",
+    "name": "A34 – Portal Forebay",
+    "lat": 37.32390278,
+    "lon": -119.0677444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a35-rattlesnake-this-trailhead-is-for-entry-into-the-ansel-adams-wilderness",
+    "name": "A35 – Rattlesnake -- This trailhead is for entry into the Ansel Adams Wilderness.",
+    "lat": 37.32446111,
+    "lon": -119.1400444,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a36-crater-this-trailhead-accesses-crater-lake-in-the-ansel-adams-wilderness-not-the-crater-lake-near-florence-lake",
+    "name": "A36 – Crater- This trailhead accesses Crater Lake in the Ansel Adams wilderness, not the Crater Lake near Florence Lake",
+    "lat": 37.276835,
+    "lon": -118.9768961,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a50-logan-meadow",
+    "name": "A50 – Logan Meadow",
+    "lat": 37.34848056,
+    "lon": -119.3361944,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a51-hells-half-acre",
+    "name": "A51 – Hells Half Acre",
+    "lat": 37.4327025,
+    "lon": -119.2789511,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a52-south-fork",
+    "name": "A52 – South Fork",
+    "lat": 37.45227361,
+    "lon": -119.2680633,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a53-piyau-dome",
+    "name": "A53 – Piyau Dome",
+    "lat": 37.49354139,
+    "lon": -119.2606231,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a54-cassidy-miller",
+    "name": "A54 – Cassidy/Miller",
+    "lat": 37.5038375,
+    "lon": -119.2404367,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a56-mammoth",
+    "name": "A56 – Mammoth",
+    "lat": 37.54639944,
+    "lon": -119.2289167,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a58-isberg-there-will-be-bridge-construction-in-the-area-near-hemlock-crossing-from-7-6-8-15-2026-hemlock-crossing-will-be-closed-to-camping-during-this-time",
+    "name": "A58 – Isberg   There will be bridge construction in the area near Hemlock Crossing from 7/6 - 8/15 2026. Hemlock Crossing will be closed to camping during this time.",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ],
+    "closed": true,
+    "closedAsOf": "2026-07-17"
+  },
+  {
+    "id": "a60-walton",
+    "name": "A60 – Walton",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a61-fernandez",
+    "name": "A61 – Fernandez",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a64-norris-lake-jackass-lakes",
+    "name": "A64 – Norris Lake/Jackass Lakes",
+    "lat": 37.52636139,
+    "lon": -119.3173939,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a67-chiquito-quartz",
+    "name": "A67 – Chiquito/Quartz",
+    "lat": 37.50964222,
+    "lon": -119.4184842,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "d1-badger-this-trailhead-is-for-entry-into-the-dinkey-lakes-wilderness",
+    "name": "D1 – Badger -- This trailhead is for entry into the Dinkey Lakes Wilderness.",
+    "lat": 37.26948056,
+    "lon": -119.1196167,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "d2-helms-meadow",
+    "name": "D2 – Helms Meadow",
+    "lat": 37.10575278,
+    "lon": -118.987775,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "d3-cliff-lake",
+    "name": "D3 – Cliff Lake",
+    "lat": 37.10575278,
+    "lon": -118.987775,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "d4-nelson",
+    "name": "D4 – Nelson",
+    "lat": 37.15127028,
+    "lon": -119.0121117,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "d5-willow-meadow-dinkey-lake",
+    "name": "D5 – Willow Meadow/Dinkey Lake",
+    "lat": 37.15142778,
+    "lon": -119.1042778,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "d6-coyote",
+    "name": "D6 – Coyote",
+    "lat": 37.18713333,
+    "lon": -119.0926667,
+    "type": "designated_campsite",
+    "context": "Dinkey Lakes",
+    "startingAreas": [
+      "Dinkey Lakes"
+    ]
+  },
+  {
+    "id": "j51-statham-spanish",
+    "name": "J51 – Statham/Spanish",
+    "lat": 36.95073528,
+    "lon": -118.9678192,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j52-crown-rancheria",
+    "name": "J52 – Crown/Rancheria",
+    "lat": 36.97765889,
+    "lon": -118.9541775,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j53-woodchuck",
+    "name": "J53 – Woodchuck",
+    "lat": 36.99577778,
+    "lon": -118.9627611,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j54-maxson-courtright",
+    "name": "J54 – Maxson (Courtright)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j55-corbett",
+    "name": "J55 – Corbett",
+    "lat": 37.31509917,
+    "lon": -119.0411439,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j56-dutch-crater",
+    "name": "J56 – Dutch/Crater",
+    "lat": 37.2764,
+    "lon": -118.9771,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j57-florence",
+    "name": "J57 – Florence",
+    "lat": 37.24290556,
+    "lon": -118.9474028,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j58-hooper",
+    "name": "J58 – Hooper",
+    "lat": 37.30615889,
+    "lon": -118.9507756,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j59-bear-diversion",
+    "name": "J59 – Bear Diversion",
+    "lat": 37.36246389,
+    "lon": -118.9855278,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j60-bear-ridge",
+    "name": "J60 – Bear Ridge",
+    "lat": 37.36246389,
+    "lon": -118.9855278,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j61-mono-creek",
+    "name": "J61 – Mono Creek",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j62-devils-graveyard",
+    "name": "J62 – Devils/Graveyard",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j63-margaret-lakes",
+    "name": "J63 – Margaret Lakes",
+    "lat": 37.38276611,
+    "lon": -119.0197186,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "k1-sample-meadow",
+    "name": "K1 – Sample Meadow",
+    "lat": 37.33464583,
+    "lon": -119.1555383,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k2-potter-pass",
+    "name": "K2 – Potter Pass",
+    "lat": 37.26713611,
+    "lon": -119.1530361,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k3-potter-cut-off",
+    "name": "K3 – Potter Cut-off",
+    "lat": 37.26840833,
+    "lon": -119.1502056,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k4-deer-creek",
+    "name": "K4 – Deer Creek",
+    "lat": 37.26840833,
+    "lon": -119.1502056,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k5-billy-creek",
+    "name": "K5 – Billy Creek",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k6-coarsegrass-meadow",
+    "name": "K6 – Coarsegrass Meadow",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k7-hidden",
+    "name": "K7 – Hidden",
+    "lat": 37.23786944,
+    "lon": -119.2260111,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "k8-pryor",
+    "name": "K8 – Pryor",
+    "lat": 37.33167972,
+    "lon": -119.1898617,
+    "type": "designated_campsite",
+    "context": "Kaiser Wilderness",
+    "startingAreas": [
+      "Kaiser Wilderness"
+    ]
+  },
+  {
+    "id": "a61-fernandez-outfitter",
+    "name": "A61 – Fernandez (Outfitter)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a61-fernandez-pack-outfit",
+    "name": "A61 – Fernandez (Pack Outfit)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a58-isberg-outfitter",
+    "name": "A58 – Isberg (Outfitter)",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a58-isberg-pack-outfit",
+    "name": "A58 – Isberg (Pack Outfit)",
+    "lat": 37.54250139,
+    "lon": -119.2680653,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a64-norris-lake-jackass-outfitter",
+    "name": "A64 – Norris lake/Jackass (Outfitter)",
+    "lat": 37.52636139,
+    "lon": -119.3173939,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "a60-walton-outfitter",
+    "name": "A60 – Walton (Outfitter)",
+    "lat": 37.53469167,
+    "lon": -119.2986667,
+    "type": "designated_campsite",
+    "context": "Ansel Adams",
+    "startingAreas": [
+      "Ansel Adams"
+    ]
+  },
+  {
+    "id": "j62-devils-graveyard-outfitter",
+    "name": "J62 – Devils/Graveyard (Outfitter)",
+    "lat": 37.38136111,
+    "lon": -119.0100056,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j57-florence-outfitter",
+    "name": "J57 – Florence (Outfitter)",
+    "lat": 37.24290556,
+    "lon": -118.9474028,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j54-maxson-courtright-outfitter",
+    "name": "J54 – Maxson (Courtright) (Outfitter)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  },
+  {
+    "id": "j54-maxson-courtright-pack-outfit",
+    "name": "J54 – Maxson (Courtright) (Pack Outfit)",
+    "lat": 37.08283889,
+    "lon": -118.9605111,
+    "type": "designated_campsite",
+    "context": "John Muir",
+    "startingAreas": [
+      "John Muir"
+    ]
+  }
+]

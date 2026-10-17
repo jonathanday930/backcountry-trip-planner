@@ -1,0 +1,34 @@
+[
+  {
+    "id": "buckskin-gulch-trailhead",
+    "name": "Buckskin Gulch Trailhead",
+    "lat": 37.066556,
+    "lon": -111.999889,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "white-house-trailhead",
+    "name": "White House Trailhead",
+    "lat": 37.079583,
+    "lon": -111.890556,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "wire-pass-trailhead",
+    "name": "Wire Pass Trailhead",
+    "lat": 37.019251,
+    "lon": -112.025007,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lees-ferry-trailhead",
+    "name": "Lees Ferry Trailhead",
+    "lat": 36.865917,
+    "lon": -111.591411,
+    "type": "trailhead",
+    "startingAreas": []
+  }
+]

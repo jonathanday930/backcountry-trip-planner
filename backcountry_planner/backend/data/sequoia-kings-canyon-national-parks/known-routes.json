@@ -1,0 +1,30 @@
+[
+  {
+    "id": "rae-lakes-loop",
+    "name": "Rae Lakes Loop",
+    "stops": ["lewis-creek", "copper-creek", "woods-creek", "bubbs-creek", "twin-lakes", "lewis-creek"],
+    "typicalNights": 3,
+    "notes": "The NPS describes Rae Lakes as a 42-mile loop. The current Recreation.gov export for this park contains quota-entry/corridor records rather than individual named tent sites, so these tokens are route points, not promises of a particular campsite; use the park wilderness permit map to choose actual durable sites."
+  },
+  {
+    "id": "high-sierra-trail",
+    "name": "High Sierra Trail",
+    "stops": ["high-sierra-trail", "paradise-ridge", "sugarloaf", "redwood-canyon", "middle-fork-kaweah", "high-sierra-trail"],
+    "typicalNights": 4,
+    "notes": "Classic eastbound Sequoia traverse toward Kaweah Gap/Big Arroyo. The NPS route table gives 65.7 miles to the eastern endpoint; this park's current permit data is quota-entry based and does not enumerate every backcountry tent location."
+  },
+  {
+    "id": "mineral-king-loop",
+    "name": "Mineral King Loop",
+    "stops": ["timber-gap", "paradise-ridge", "sugarloaf", "belle-canyon", "jo-pass", "lakes-trail", "alta", "sawtooth-pass", "timber-gap"],
+    "typicalNights": 4,
+    "notes": "Classic Mineral King high-country loop. Published trip reports place variants at roughly 30–45 miles and 10,000–13,700 feet of gain; this catalog keeps the permit corridor points available in the app, not invented campsite coordinates."
+  },
+  {
+    "id": "big-seki-loop",
+    "name": "Big SEKI Loop",
+    "stops": ["copper-creek", "woods-creek", "bubbs-creek", "lakes-trail", "high-sierra-trail", "middle-fork-kaweah", "redwood-canyon", "copper-creek"],
+    "typicalNights": 8,
+    "notes": "Long Kings Canyon–Sequoia loop assembled from the Rae Lakes/JMT and High Sierra corridors. The route has several legal variants (Colby Pass versus High Sierra Trail); the park permit map is authoritative for actual camping locations."
+  }
+]

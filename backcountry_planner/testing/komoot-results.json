@@ -1,0 +1,4463 @@
+[
+  {
+    "park": "rocky-mountain",
+    "name": "Fern Lake - Odessa Lake Traverse",
+    "legs": [
+      {
+        "from": "Fern Lake Trailhead",
+        "to": "028 - Fern Lake",
+        "komoot": {
+          "distance": {
+            "value": 6.19,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 450,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "028 - Fern Lake",
+        "to": "030 - Odessa Lake",
+        "komoot": {
+          "distance": {
+            "value": 1.95,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "030 - Odessa Lake",
+        "to": "Bear Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 6.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 200,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 370,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Wild Basin - Thunder Lake",
+    "legs": [
+      {
+        "from": "Wild Basin Trailhead",
+        "to": "055 - Thunder Lake",
+        "komoot": {
+          "distance": {
+            "value": 9.47,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 650,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "055 - Thunder Lake",
+        "to": "Wild Basin Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.47,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 650,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "East Inlet - Lake Verna",
+    "legs": [
+      {
+        "from": "East Inlet Trailhead",
+        "to": "062 - Lower East Inlet",
+        "komoot": {
+          "distance": {
+            "value": 3.76,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 80,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "062 - Lower East Inlet",
+        "to": "067 - Upper East Inlet",
+        "komoot": {
+          "distance": {
+            "value": 6.98,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 510,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "067 - Upper East Inlet",
+        "to": "068 - Lake Verna",
+        "komoot": {
+          "distance": {
+            "value": 506,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "068 - Lake Verna",
+        "to": "East Inlet Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 580,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Sandbeach Lake",
+    "legs": [
+      {
+        "from": "Sandbeach Lake Trailhead",
+        "to": "049 - Sandbeach Lake",
+        "komoot": {
+          "distance": {
+            "value": 6.78,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 600,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "049 - Sandbeach Lake",
+        "to": "Sandbeach Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 6.78,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 600,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain",
+    "name": "Glacier Gorge",
+    "legs": [
+      {
+        "from": "Glacier Gorge Trailhead",
+        "to": "039 - Glacier Gorge",
+        "komoot": {
+          "distance": {
+            "value": 4.31,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 270,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "039 - Glacier Gorge",
+        "to": "Glacier Gorge Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 4.31,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 270,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon",
+    "name": "Corridor Classic",
+    "legs": [
+      {
+        "from": "Bright Angel Trailhead",
+        "to": "CIG - Havasupai Gardens Campground",
+        "komoot": {
+          "distance": {
+            "value": 7.49,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 920,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "CBG - Bright Angel Campground",
+        "komoot": {
+          "distance": {
+            "value": 7.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 90,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 500,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "Bright Angel Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 15.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1420,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon",
+    "name": "Hermit / Tonto Loop",
+    "legs": [
+      {
+        "from": "Bright Angel Trailhead",
+        "to": "CIG - Havasupai Gardens Campground",
+        "komoot": {
+          "distance": {
+            "value": 7.49,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 920,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "BL4 - Horn Creek",
+        "komoot": {
+          "distance": {
+            "value": 4.22,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 110,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "BL4 - Horn Creek",
+        "to": "BL7 - Monument Creek",
+        "komoot": {
+          "distance": {
+            "value": 12.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 210,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 370,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "BL7 - Monument Creek",
+        "to": "BM7 - Hermit Creek",
+        "komoot": {
+          "distance": {
+            "value": 4.86,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 150,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "BM7 - Hermit Creek",
+        "to": "Bright Angel Trailhead",
+        "komoot": null,
+        "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.komoot.com/plan\", waiting until \"networkidle\"\u001b[22m\n"
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon",
+    "name": "Hermit Creek to Hermit Rapids",
+    "legs": [
+      {
+        "from": "BM7 - Hermit Creek",
+        "to": "Hermit Rapids Campground",
+        "komoot": {
+          "distance": {
+            "value": 2.25,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 160,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Hermit Rapids Campground",
+        "to": "BM7 - Hermit Creek",
+        "komoot": {
+          "distance": {
+            "value": 2.25,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Corridor Classic (South Kaibab / Bright Angel)",
+    "legs": [
+      {
+        "from": "South Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "komoot": {
+          "distance": {
+            "value": 11.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1460,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "CIG - Havasupai Gardens Campground",
+        "komoot": {
+          "distance": {
+            "value": 7.81,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 500,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 90,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CIG - Havasupai Gardens Campground",
+        "to": "Bright Angel Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 7.48,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 920,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim: North Kaibab Approach",
+    "legs": [
+      {
+        "from": "North Kaibab Trailhead",
+        "to": "CCG - Cottonwood Campground",
+        "komoot": {
+          "distance": {
+            "value": 16.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 150,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1410,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CCG - Cottonwood Campground",
+        "to": "North Kaibab Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 16.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1410,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 150,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim: South Kaibab Approach",
+    "legs": [
+      {
+        "from": "South Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "komoot": {
+          "distance": {
+            "value": 11.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1460,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "South Kaibab Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 11.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1460,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Thunder River - Deer Creek Loop (Bill Hall)",
+    "legs": [
+      {
+        "from": "Bill Hall Trailhead",
+        "to": "AW7 - Upper Tapeats Campsite",
+        "komoot": {
+          "distance": {
+            "value": 14.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 140,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1540,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "AW7 - Upper Tapeats Campsite",
+        "to": "AX7 - Deer Creek - Campsite",
+        "komoot": {
+          "distance": {
+            "value": 7.02,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 470,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 500,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "AX7 - Deer Creek - Campsite",
+        "to": "Bill Hall Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 14.4,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1510,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 90,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Tonahutu Creek - North Inlet Loop",
+    "legs": [
+      {
+        "from": "Green Mountain Trailhead",
+        "to": "Big Meadows Group (Snow-free average: June 13)",
+        "komoot": {
+          "distance": {
+            "value": 4.29,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 210,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Big Meadows Group (Snow-free average: June 13)",
+        "to": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+        "komoot": {
+          "distance": {
+            "value": 6.05,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+        "to": "Haynach (Snow-free average: July 7)",
+        "komoot": {
+          "distance": {
+            "value": 3.25,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 240,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Haynach (Snow-free average: July 7)",
+        "to": "North Inlet Junction (Snow-free average: June 11)",
+        "komoot": {
+          "distance": {
+            "value": 15.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 580,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 910,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "North Inlet Junction (Snow-free average: June 11)",
+        "to": "North Inlet Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 11.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 360,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Andrews Creek - Loch Vale (Sky Pond zone)",
+    "legs": [
+      {
+        "from": "Glacier Gorge Jct Trailhead",
+        "to": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+        "komoot": {
+          "distance": {
+            "value": 4.99,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 410,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+        "to": "Glacier Gorge Jct Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 4.99,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 410,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Longs Peak Boulderfield (Keyhole Route)",
+    "legs": [
+      {
+        "from": "Longs Peak Trailhead",
+        "to": "Boulderfield (Snow-free average: June 19)",
+        "komoot": {
+          "distance": {
+            "value": 8.72,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1020,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boulderfield (Snow-free average: June 19)",
+        "to": "Longs Peak Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 8.72,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1020,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Hague Creek - Poudre River Trail",
+    "legs": [
+      {
+        "from": "Corral Creek Trailhead",
+        "to": "Hague Creek (Snow-free average: July 4)",
+        "komoot": {
+          "distance": {
+            "value": 3.28,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Hague Creek (Snow-free average: July 4)",
+        "to": "Mirror Lake (Snow-free average: July 13)",
+        "komoot": {
+          "distance": {
+            "value": 6.65,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 380,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Mirror Lake (Snow-free average: July 13)",
+        "to": "Corral Creek Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.93,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 410,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Eastside: Summerland - Panhandle Gap - Indian Bar",
+    "legs": [
+      {
+        "from": "Fryingpan Creek Trailhead",
+        "to": "Summerland Camp",
+        "komoot": {
+          "distance": {
+            "value": 6.75,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 640,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Summerland Camp",
+        "to": "Indian Bar Camp",
+        "komoot": {
+          "distance": {
+            "value": 7.11,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 320,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 570,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Indian Bar Camp",
+        "to": "Nickel Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 9.99,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 320,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 850,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Southside: Longmire to Nickel Creek",
+    "legs": [
+      {
+        "from": "Longmire Trailhead",
+        "to": "Paradise River Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.42,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 330,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Paradise River Camp",
+        "to": "Maple Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 10.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 330,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 660,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Maple Creek Camp",
+        "to": "Nickel Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.26,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 250,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 80,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Wonderland Trail Westside: South Puyallup to South Mowich River",
+    "legs": [
+      {
+        "from": "South Puyallup Trailhead",
+        "to": "Devil's Dream Camp",
+        "komoot": {
+          "distance": {
+            "value": 12.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 980,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 520,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Devil's Dream Camp",
+        "to": "Klapatche Park Camp",
+        "komoot": {
+          "distance": {
+            "value": 16,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1090,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 950,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Klapatche Park Camp",
+        "to": "Golden Lakes Camp",
+        "komoot": {
+          "distance": {
+            "value": 10.9,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 540,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 640,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Golden Lakes Camp",
+        "to": "So. Mowich River Camp",
+        "komoot": {
+          "distance": {
+            "value": 10.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 790,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Northern Loop Trail: Sunrise to Dick Creek",
+    "legs": [
+      {
+        "from": "Sunrise Trailhead",
+        "to": "Berkeley Park Camp",
+        "komoot": {
+          "distance": {
+            "value": 6.92,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 120,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 410,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Berkeley Park Camp",
+        "to": "Granite Creek Camp",
+        "komoot": {
+          "distance": null,
+          "elevationGain": null,
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Granite Creek Camp",
+        "to": "Mystic Camp",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Mystic Camp",
+        "to": "Dick Creek Camp",
+        "komoot": null,
+        "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.komoot.com/plan\nCall log:\n\u001b[2m  - navigating to \"https://www.komoot.com/plan\", waiting until \"networkidle\"\u001b[22m\n"
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Hellroaring Creek",
+    "legs": [
+      {
+        "from": "Hellroaring Trailhead",
+        "to": "2H4 - Lower Hellroaring Creek",
+        "komoot": {
+          "distance": {
+            "value": 4.21,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 230,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "2H4 - Lower Hellroaring Creek",
+        "to": "2H6 - Hellroaring Creek",
+        "komoot": {
+          "distance": {
+            "value": 2.29,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "2H6 - Hellroaring Creek",
+        "to": "2H9 - Upper Hellroaring Creek",
+        "komoot": {
+          "distance": {
+            "value": 4.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 120,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Bechler River Trail (Cascade Corner)",
+    "legs": [
+      {
+        "from": "Lone Star Trailhead",
+        "to": "OA1 - Lone Star",
+        "komoot": {
+          "distance": {
+            "value": 4.54,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "OA1 - Lone Star",
+        "to": "9B5 - Colonnade Falls",
+        "komoot": {
+          "distance": {
+            "value": 27.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 410,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 720,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "9B5 - Colonnade Falls",
+        "to": "9A3 - Dunanda Falls",
+        "komoot": {
+          "distance": {
+            "value": 12,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 100,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "9A3 - Dunanda Falls",
+        "to": "Bechler Ranger Station Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 13.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Heart Lake / Mount Sheridan Loop",
+    "legs": [
+      {
+        "from": "Heart Lake Trailhead",
+        "to": "8H2 - Sheridan Creek",
+        "komoot": {
+          "distance": {
+            "value": 14.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 260,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "8H2 - Sheridan Creek",
+        "to": "8J1 - Beaver Creek",
+        "komoot": {
+          "distance": {
+            "value": 5.38,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 50,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "8J1 - Beaver Creek",
+        "to": "Heart Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 15,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 240,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 140,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "California Riding and Hiking Trail (west to east)",
+    "legs": [
+      {
+        "from": "Covington Flats",
+        "to": "Juniper Flats",
+        "komoot": {
+          "distance": {
+            "value": 17.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 340,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 480,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Juniper Flats",
+        "to": "Geo Tour Road",
+        "komoot": {
+          "distance": {
+            "value": 10.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 80,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Geo Tour Road",
+        "to": "Twin Tanks",
+        "komoot": {
+          "distance": {
+            "value": 7.12,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 180,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "Boy Scout Trail thru-hike",
+    "legs": [
+      {
+        "from": "Boy Scout Trail (Keys West)",
+        "to": "Boy Scout Trail Campsite #15",
+        "komoot": {
+          "distance": {
+            "value": 1.95,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #15",
+        "to": "Boy Scout Trail Campsite #9",
+        "komoot": {
+          "distance": {
+            "value": 4.22,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 40,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #9",
+        "to": "Boy Scout Trail Campsite #6",
+        "komoot": {
+          "distance": {
+            "value": 1.27,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 40,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #6",
+        "to": "Boy Scout Trail Campsite #3",
+        "komoot": {
+          "distance": {
+            "value": 4.71,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 270,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boy Scout Trail Campsite #3",
+        "to": "Indian Cove",
+        "komoot": {
+          "distance": {
+            "value": 2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 80,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "joshua-tree",
+    "name": "Pine City to Geo Tour Road traverse",
+    "legs": [
+      {
+        "from": "Pine City",
+        "to": "Pleasant Valley",
+        "komoot": {
+          "distance": {
+            "value": 13.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 400,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Pleasant Valley",
+        "to": "Geo Tour Road",
+        "komoot": {
+          "distance": {
+            "value": 8.81,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 370,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Cascade Pass - Sahale Glacier Camp",
+    "legs": [
+      {
+        "from": "Cascade Pass Trailhead-Cascade River Rd",
+        "to": "Pelton Basin Camp",
+        "komoot": {
+          "distance": {
+            "value": 7.05,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 520,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 180,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Pelton Basin Camp",
+        "to": "Sahale Glacier Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 840,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Sahale Glacier Camp",
+        "to": "Cascade Pass Trailhead-Cascade River Rd",
+        "komoot": {
+          "distance": {
+            "value": 9.53,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1180,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Copper Ridge Loop",
+    "legs": [
+      {
+        "from": "Hannegan Pass Trail- Mount Baker Wilderness",
+        "to": "Boundary Camp",
+        "komoot": {
+          "distance": {
+            "value": 8.24,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 590,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 200,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boundary Camp",
+        "to": "Indian Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 14.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 780,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Indian Creek Camp",
+        "to": "Copper Lake Camp",
+        "komoot": {
+          "distance": {
+            "value": 12.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1090,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 210,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Copper Lake Camp",
+        "to": "Hannegan Pass Trail- Mount Baker Wilderness",
+        "komoot": {
+          "distance": {
+            "value": 18,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 600,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1250,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Thunder Creek - Park Creek Pass - Stehekin",
+    "legs": [
+      {
+        "from": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+        "to": "McAllister Camp",
+        "komoot": {
+          "distance": null,
+          "elevationGain": null,
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "McAllister Camp",
+        "to": "Junction Camp",
+        "komoot": {
+          "distance": null,
+          "elevationGain": null,
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Junction Camp",
+        "to": "Park Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 26.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1240,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1470,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "PCT: Bridge Creek to Stehekin",
+    "legs": [
+      {
+        "from": "Bridge Creek (PCT) Trail- SR 20",
+        "to": "Fireweed Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.61,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 270,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Fireweed Camp",
+        "to": "Tumwater Camp",
+        "komoot": {
+          "distance": {
+            "value": 21,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 260,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 850,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Tumwater Camp",
+        "to": "Old Wagon Trail (PCT) @ High Bridge - Stehekin Valley Road",
+        "komoot": {
+          "distance": {
+            "value": 1.55,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Dinkey Lakes Wilderness Loop",
+    "legs": [
+      {
+        "from": "Badger",
+        "to": "Coyote",
+        "komoot": {
+          "distance": {
+            "value": 16.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 490,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 270,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Coyote",
+        "to": "Cliff Lake",
+        "komoot": {
+          "distance": {
+            "value": 23.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 600,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 760,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Cliff Lake",
+        "to": "Badger",
+        "komoot": {
+          "distance": {
+            "value": 28.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 430,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 490,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Ansel Adams Wilderness: Fernandez to Isberg",
+    "legs": [
+      {
+        "from": "Fernandez",
+        "to": "Isberg",
+        "komoot": {
+          "distance": {
+            "value": 4.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 180,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Woodchuck Country: Crown/Rancheria to Statum/Spanish",
+    "legs": [
+      {
+        "from": "Crown/Rancheria",
+        "to": "Statum/Spanish",
+        "komoot": {
+          "distance": {
+            "value": 8.39,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 170,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 490,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Rattlesnake to Dutch/Crater Traverse",
+    "legs": [
+      {
+        "from": "Corbet",
+        "to": "Hooper",
+        "komoot": {
+          "distance": {
+            "value": 15.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 290,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 260,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Hooper",
+        "to": "Dutch",
+        "komoot": {
+          "distance": {
+            "value": 5.55,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 90,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 140,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Kaiser Wilderness: Potter Pass - Sample Meadow Loop",
+    "legs": [
+      {
+        "from": "Potter Pass",
+        "to": "Sample Meadow",
+        "komoot": {
+          "distance": {
+            "value": 9.71,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 350,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 340,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Sample Meadow",
+        "to": "Potter Cut-off",
+        "komoot": {
+          "distance": {
+            "value": 9.38,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 340,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 330,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Potter Cut-off",
+        "to": "Potter Pass",
+        "komoot": {
+          "distance": {
+            "value": 329,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "West Rim Trail",
+    "legs": [
+      {
+        "from": "Lava Point Trailhead",
+        "to": "West Rim 8",
+        "komoot": {
+          "distance": {
+            "value": 8.67,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 250,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "West Rim 8",
+        "to": "West Rim 5",
+        "komoot": {
+          "distance": {
+            "value": 4.84,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 240,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "West Rim 5",
+        "to": "West Rim 3",
+        "komoot": {
+          "distance": {
+            "value": 925,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "West Rim 3",
+        "to": "Grotto Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1030,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "West Rim Trail: Lava Point to Potato Hollow",
+    "legs": [
+      {
+        "from": "Lava Point Trailhead",
+        "to": "West Rim 8",
+        "komoot": {
+          "distance": {
+            "value": 8.67,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 40,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 250,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "West Rim 8",
+        "to": "West Rim 7",
+        "komoot": {
+          "distance": {
+            "value": 524,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "West Rim 7",
+        "to": "West Rim 6",
+        "komoot": {
+          "distance": {
+            "value": 2.65,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 200,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Wildcat Canyon to Hop Valley",
+    "legs": [
+      {
+        "from": "Hop Valley B",
+        "to": "Hop Valley Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 8.08,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 230,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Zion Traverse: Lee Pass to Hop Valley",
+    "legs": [
+      {
+        "from": "Lee Pass Trailhead",
+        "to": "La Verkin Creek 11",
+        "komoot": {
+          "distance": {
+            "value": 11.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 120,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 340,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "La Verkin Creek 11",
+        "to": "Hop Valley A",
+        "komoot": {
+          "distance": {
+            "value": 2.53,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 50,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Hop Valley A",
+        "to": "Hop Valley Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 8.29,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 240,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Rae Lakes Loop (Woods Creek up, Bubbs Creek down)",
+    "legs": [
+      {
+        "from": "Roads End Trailhead",
+        "to": "Woods Creek",
+        "komoot": {
+          "distance": {
+            "value": 3.01,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Woods Creek",
+        "to": "Bubbs Creek",
+        "komoot": {
+          "distance": {
+            "value": 494,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Bubbs Creek",
+        "to": "Roads End Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 3.08,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Mineral King Franklin-Sawtooth-Timber Gap Loop",
+    "legs": [
+      {
+        "from": "Mineral King / Sawtooth Trailhead",
+        "to": "Franklin",
+        "komoot": {
+          "distance": {
+            "value": 6.33,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 480,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Franklin",
+        "to": "Timber Gap",
+        "komoot": {
+          "distance": {
+            "value": 7.51,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 470,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Timber Gap",
+        "to": "Mineral King / Sawtooth Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 1.18,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 160,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Wolverton to Crescent Meadow via Alta and the High Sierra Trail",
+    "legs": [
+      {
+        "from": "Wolverton Trailhead",
+        "to": "Alta",
+        "komoot": {
+          "distance": {
+            "value": 5.05,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 390,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Alta",
+        "to": "High Sierra Trail",
+        "komoot": {
+          "distance": {
+            "value": 5.05,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 140,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 400,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "High Sierra Trail",
+        "to": "Crescent Meadow Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.72,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 390,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Eagle Lake Basecamp with White Chief Canyon Day Hike",
+    "legs": [
+      {
+        "from": "Eagle-Mosquito Trailhead",
+        "to": "Eagle Lake",
+        "komoot": {
+          "distance": {
+            "value": 3.45,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 470,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Eagle Lake",
+        "to": "White Chief",
+        "komoot": {
+          "distance": {
+            "value": 6.19,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 310,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 470,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "White Chief",
+        "to": "Eagle-Mosquito Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 2.74,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 310,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Kolob Arch / La Verkin Creek Corridor",
+    "legs": [
+      {
+        "from": "Lee Pass Trailhead",
+        "to": "La Verkin Creek 2",
+        "komoot": {
+          "distance": {
+            "value": 4.74,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 220,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "La Verkin Creek 2",
+        "to": "La Verkin Creek 7",
+        "komoot": {
+          "distance": {
+            "value": 5.29,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 80,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 120,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "La Verkin Creek 7",
+        "to": "La Verkin Creek 13",
+        "komoot": {
+          "distance": {
+            "value": 3.63,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 190,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 40,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "Southwest Desert: Coal Pits Wash to Huber Wash",
+    "legs": [
+      {
+        "from": "Coal Pits Wash Trailhead",
+        "to": "Southwest Desert 1",
+        "komoot": {
+          "distance": {
+            "value": 8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 250,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Southwest Desert 1",
+        "to": "Southwest Desert 4",
+        "komoot": {
+          "distance": {
+            "value": 5.12,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 90,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 160,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Southwest Desert 4",
+        "to": "Huber Wash Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 11.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 170,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 290,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Lost Lake Trail (North Fork)",
+    "legs": [
+      {
+        "from": "Dunraven Trailhead",
+        "to": "Boundary Creek (Snow-free average: June 2)",
+        "komoot": {
+          "distance": {
+            "value": 6.11,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 420,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 70,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Boundary Creek (Snow-free average: June 2)",
+        "to": "Lost Lake (Snow-free average: July 6)",
+        "komoot": {
+          "distance": {
+            "value": 7.75,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 550,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Lost Lake (Snow-free average: July 6)",
+        "to": "Dunraven Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 13.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 70,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 970,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Lawn Lake Trail (Mummy Range)",
+    "legs": [
+      {
+        "from": "Lawn Lake Trailhead",
+        "to": "Cutbank (Snow-free average: May 21)",
+        "komoot": {
+          "distance": {
+            "value": 4.71,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 330,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Cutbank (Snow-free average: May 21)",
+        "to": "Lawn Lake (Snow-free average: June 26)",
+        "komoot": {
+          "distance": {
+            "value": 5.95,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 440,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Lawn Lake (Snow-free average: June 26)",
+        "to": "Lawn Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 770,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Cub Lake to Fern Lake Trail",
+    "legs": [
+      {
+        "from": "Cub Lake Trailhead",
+        "to": "Cub Creek (Snow-free average: May 13)",
+        "komoot": {
+          "distance": {
+            "value": 3.68,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 180,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Cub Creek (Snow-free average: May 13)",
+        "to": "Fern Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 4.87,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 30,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 180,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Wild Basin: Ouzel Lake to Thunder Lake",
+    "legs": [
+      {
+        "from": "Wild Basin Trailhead",
+        "to": "Ouzel Lake (Snow-free average: June 16)",
+        "komoot": {
+          "distance": {
+            "value": 7.84,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 490,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Ouzel Lake (Snow-free average: June 16)",
+        "to": "Thunder Lake (Snow-free average: July 5)",
+        "komoot": {
+          "distance": {
+            "value": 8.63,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 390,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 190,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Thunder Lake (Snow-free average: July 5)",
+        "to": "Wild Basin Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.36,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 670,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "East Inlet to Lake Verna",
+    "legs": [
+      {
+        "from": "East Inlet Trailhead",
+        "to": "Lower East Inlet (Snow-free average: May 23)",
+        "komoot": {
+          "distance": {
+            "value": 3.77,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 90,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 20,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Lower East Inlet (Snow-free average: May 23)",
+        "to": "Lake Verna (Snow-free average: July 9)",
+        "komoot": {
+          "distance": {
+            "value": 7.35,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 530,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 40,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Lake Verna (Snow-free average: July 9)",
+        "to": "East Inlet Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 50,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 610,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "rocky-mountain-full",
+    "name": "Never Summer Range: Grand Ditch to Skeleton Gulch",
+    "legs": [
+      {
+        "from": "Colorado River Trailhead",
+        "to": "Ditch Camp (Snow-free average: June 26)",
+        "komoot": {
+          "distance": {
+            "value": 8.45,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 410,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 70,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Ditch Camp (Snow-free average: June 26)",
+        "to": "Skeleton Gulch (Snow-free average: July 8)",
+        "komoot": {
+          "distance": {
+            "value": 1.78,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Skeleton Gulch (Snow-free average: July 8)",
+        "to": "Colorado River Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 70,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 550,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Slough Creek Trail",
+    "legs": [
+      {
+        "from": "Slough Creek Trailhead",
+        "to": "2S1 Lower Slough Creek (Backpacker, Stock)",
+        "komoot": {
+          "distance": {
+            "value": 7.79,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 210,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 110,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "2S1 Lower Slough Creek (Backpacker, Stock)",
+        "to": "Slough Creek Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 7.79,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 210,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Specimen Ridge Trail",
+    "legs": [
+      {
+        "from": "Specimen Ridge Trailhead",
+        "to": "2Y1 Agate Creek (Backpacker)",
+        "komoot": {
+          "distance": {
+            "value": 9.86,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 440,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 380,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "2Y1 Agate Creek (Backpacker)",
+        "to": "Lamar River Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 30.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1250,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1190,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "DeLacy Creek to Old Faithful via Shoshone Lake",
+    "legs": [
+      {
+        "from": "DeLacy Creek Trailhead",
+        "to": "8S2 DeLacy Creek (Backpacker, Non-Motorized Boat)",
+        "komoot": {
+          "distance": {
+            "value": 5.88,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 70,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "8S2 DeLacy Creek (Backpacker, Non-Motorized Boat)",
+        "to": "8G1 Shoshone Meadows (Backpacker, Llama)",
+        "komoot": {
+          "distance": {
+            "value": 14.9,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 210,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 190,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "8G1 Shoshone Meadows (Backpacker, Llama)",
+        "to": "Lone Star Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 80,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 170,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Owyhigh Lakes Trail: Deer Creek to White River",
+    "legs": [
+      {
+        "from": "Deer Creek Trailhead",
+        "to": "Deer Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 460,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 80,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Deer Creek Camp",
+        "to": "Owyhigh Lakes Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 13.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 770,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 520,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Glacier Basin to Inter Glacier",
+    "legs": [
+      {
+        "from": "White River Campground Trailhead",
+        "to": "Glacier Basin Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.4,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 500,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Glacier Basin Camp",
+        "to": "Inter Glacier Alpine Zone",
+        "komoot": {
+          "distance": null,
+          "elevationGain": null,
+          "elevationLoss": null
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Crystal Lakes",
+    "legs": [
+      {
+        "from": "Crystal Lakes Trailhead",
+        "to": "Lower Crystal Lake Camp",
+        "komoot": {
+          "distance": {
+            "value": 3.84,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 580,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Lower Crystal Lake Camp",
+        "to": "Upper Crystal Lake Camp",
+        "komoot": {
+          "distance": {
+            "value": 977,
+            "unit": "m"
+          },
+          "elevationGain": {
+            "value": 120,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "mount-rainier",
+    "name": "Laughingwater Creek to Three Lakes",
+    "legs": [
+      {
+        "from": "Laughingwater Creek Trailhead",
+        "to": "Three Lakes Camp",
+        "komoot": {
+          "distance": {
+            "value": 9.12,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 850,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 60,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Easy Pass to Thunder Creek (Fisher Creek Traverse)",
+    "legs": [
+      {
+        "from": "Easy Pass Trail- SR 20",
+        "to": "Fisher Camp",
+        "komoot": {
+          "distance": {
+            "value": 8.37,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 870,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 440,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Fisher Camp",
+        "to": "Junction Camp",
+        "komoot": {
+          "distance": {
+            "value": 14,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 740,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Junction Camp",
+        "to": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+        "komoot": {
+          "distance": {
+            "value": 15.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 170,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 720,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "East Bank Trail: Ross Lake North",
+    "legs": [
+      {
+        "from": "East Bank Trailhead- SR 20",
+        "to": "Ruby Pasture Camp",
+        "komoot": {
+          "distance": {
+            "value": 4.49,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 110,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Ruby Pasture Camp",
+        "to": "Roland Creek Camp",
+        "komoot": {
+          "distance": {
+            "value": 5.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 200,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 240,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Thornton Lakes",
+    "legs": [
+      {
+        "from": "Thornton Lake Trailhead-Thornton Lake Rd",
+        "to": "Thornton Lake Camp",
+        "komoot": {
+          "distance": {
+            "value": 7.37,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 760,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 150,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Mineral King to Atwell Mill via Farewell Gap and Tar Gap",
+    "legs": [
+      {
+        "from": "Mineral King / Sawtooth Trailhead",
+        "to": "Farewell Gap",
+        "komoot": {
+          "distance": {
+            "value": 10.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 860,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Farewell Gap",
+        "to": "Mosquito Lakes",
+        "komoot": {
+          "distance": {
+            "value": 15.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 510,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 970,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Mosquito Lakes",
+        "to": "Tar Gap",
+        "komoot": {
+          "distance": {
+            "value": 7.54,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 130,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 620,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Tar Gap",
+        "to": "Atwell-Hockett",
+        "komoot": {
+          "distance": {
+            "value": 6.72,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 50,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 340,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sequoia-kings-canyon",
+    "name": "Jennie Lakes Wilderness Loop via JO Pass and Belle Canyon",
+    "legs": [
+      {
+        "from": "Big Meadows Trailhead",
+        "to": "JO Pass",
+        "komoot": {
+          "distance": {
+            "value": 12.9,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 730,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 180,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "JO Pass",
+        "to": "Belle Canyon",
+        "komoot": {
+          "distance": {
+            "value": 8.79,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 180,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 260,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Belle Canyon",
+        "to": "Big Meadows Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 17.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 340,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 800,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "Kaiser Loop Trail: Sample Meadow to Billy Creek",
+    "legs": [
+      {
+        "from": "Sample Meadow",
+        "to": "Billy Creek",
+        "komoot": {
+          "distance": {
+            "value": 19,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 430,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 700,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "French Trail: Logan Meadow to Cassidy/Miller",
+    "legs": [
+      {
+        "from": "Logan Meadow",
+        "to": "Piyau Dome",
+        "komoot": {
+          "distance": {
+            "value": 23.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1640,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 670,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Piyau Dome",
+        "to": "Cassidy/Miller",
+        "komoot": {
+          "distance": {
+            "value": 8.32,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 100,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 220,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "sierra-national-forest",
+    "name": "French Trail: Hells Half Acre to South Fork",
+    "legs": [
+      {
+        "from": "Hells Half Acre",
+        "to": "South Fork",
+        "komoot": {
+          "distance": {
+            "value": 3.94,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 140,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 70,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-canyon-full",
+    "name": "Rim to Rim via North Kaibab",
+    "legs": [
+      {
+        "from": "North Kaibab Trailhead",
+        "to": "CBG - Bright Angel Campground",
+        "komoot": {
+          "distance": {
+            "value": 28,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 510,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 2260,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "CBG - Bright Angel Campground",
+        "to": "Bright Angel Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 15.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1550,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 230,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "zion",
+    "name": "The Narrows Top-Down (Chamberlain's Ranch to Temple of Sinawava)",
+    "legs": [
+      {
+        "from": "Chamberlain's Ranch Trailhead",
+        "to": "Narrows 4",
+        "komoot": {
+          "distance": {
+            "value": 15.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 690,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 910,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Narrows 4",
+        "to": "Narrows 9",
+        "komoot": {
+          "distance": {
+            "value": 1.11,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 60,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Narrows 9",
+        "to": "Temple of Sinawava Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.41,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 530,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 700,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "yellowstone",
+    "name": "Pelican Valley / Astringent Creek to Wapiti Lake",
+    "legs": [
+      {
+        "from": "Pelican Valley Trailhead",
+        "to": "5P7 Upper Pelican (Backpacker, Stock)",
+        "komoot": {
+          "distance": {
+            "value": 22.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 340,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 190,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "5P7 Upper Pelican (Backpacker, Stock)",
+        "to": "Wapiti Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 28.5,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 430,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 610,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "north-cascades",
+    "name": "Big Beaver Trail to Beaver Pass",
+    "legs": [
+      {
+        "from": "Ross Dam Trailhead (Happy Flats)-SR 20",
+        "to": "Big Beaver Boat Camp",
+        "komoot": {
+          "distance": {
+            "value": 11.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 300,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 460,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Big Beaver Boat Camp",
+        "to": "Luna Camp",
+        "komoot": {
+          "distance": {
+            "value": 14.9,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 350,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 100,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Luna Camp",
+        "to": "Beaver Pass Camp",
+        "komoot": {
+          "distance": {
+            "value": 6.03,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 350,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 40,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Teton Crest Trail (South to North via Death Canyon Shelf)",
+    "legs": [
+      {
+        "from": "Granite Canyon Trailhead",
+        "to": "Granite South/Middle Fork",
+        "komoot": {
+          "distance": {
+            "value": 16,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 910,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 90,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Granite South/Middle Fork",
+        "to": "Death Canyon Shelf",
+        "komoot": {
+          "distance": {
+            "value": 9.1,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 370,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 260,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Death Canyon Shelf",
+        "to": "Cascade South Fork",
+        "komoot": {
+          "distance": {
+            "value": 45.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1120,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 1330,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Cascade South Fork",
+        "to": "Holly Lake",
+        "komoot": {
+          "distance": {
+            "value": 13.4,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 850,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 620,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Holly Lake",
+        "to": "String Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 9.97,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 790,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Teton Crest Trail Alternate via Open Canyon & Mt. Hunt Divide",
+    "legs": [
+      {
+        "from": "Granite Canyon Trailhead",
+        "to": "Granite Lower",
+        "komoot": {
+          "distance": {
+            "value": 5.25,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 210,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Granite Lower",
+        "to": "Granite/Mt. Hunt",
+        "komoot": {
+          "distance": {
+            "value": 11.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 960,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 140,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Granite/Mt. Hunt",
+        "to": "Open Canyon",
+        "komoot": {
+          "distance": {
+            "value": 3.67,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 460,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Open Canyon",
+        "to": "Death Canyon Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 8.22,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 160,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 580,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "grand-teton",
+    "name": "Cascade Canyon to Paintbrush Divide connector",
+    "legs": [
+      {
+        "from": "Jenny Lake Trailhead",
+        "to": "Cascade North Fork",
+        "komoot": {
+          "distance": {
+            "value": 12.7,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 520,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 30,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Cascade North Fork",
+        "to": "Holly Lake",
+        "komoot": {
+          "distance": {
+            "value": 8.21,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 680,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 370,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "Holly Lake",
+        "to": "Leigh Lake Trailhead",
+        "komoot": {
+          "distance": {
+            "value": 10.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 790,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "glacier",
+    "name": "Gunsight Pass Trail",
+    "legs": [
+      {
+        "from": "STE - Sperry Trail",
+        "to": "SPE - Sperry (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 10.3,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1050,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 10,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "SPE - Sperry (No Campfires)",
+        "to": "ELL - Lake Ellen Wilson (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 4.4,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 330,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "ELL - Lake Ellen Wilson (No Campfires)",
+        "to": "GUN - Gunsight Lake (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 7.75,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 360,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 550,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "glacier",
+    "name": "Ptarmigan Tunnel / Belly River Traverse",
+    "legs": [
+      {
+        "from": "IPE - Iceberg/Ptarmigan Trail",
+        "to": "ELH - Elizabeth Lake Head (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 20.9,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 780,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 790,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "ELH - Elizabeth Lake Head (No Campfires)",
+        "to": "HEL - Helen Lake (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 4.2,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 60,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 0,
+            "unit": "m"
+          }
+        }
+      },
+      {
+        "from": "HEL - Helen Lake (No Campfires)",
+        "to": "BRE - Belly River Trail",
+        "komoot": {
+          "distance": {
+            "value": 22.4,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 340,
+            "unit": "m"
+          },
+          "elevationLoss": {
+            "value": 270,
+            "unit": "m"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "Hoh River Trail to Glacier Meadows",
+    "legs": [
+      {
+        "from": "Hoh Visitor Center TH",
+        "to": "Five Mile Island",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Five Mile Island",
+        "to": "Happy Four",
+        "komoot": {
+          "distance": {
+            "value": 1.16,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 10,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Happy Four",
+        "to": "Olympus Guard Station",
+        "komoot": {
+          "distance": {
+            "value": 5.39,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 60,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Olympus Guard Station",
+        "to": "Glacier Meadows (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 12.6,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 1060,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "High Divide and Seven Lakes Basin",
+    "legs": [
+      {
+        "from": "Sol Duc TH",
+        "to": "Deer Lake (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 5.57,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 510,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Deer Lake (No Campfires)",
+        "to": "Lunch Lake (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 6.57,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 440,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Lunch Lake (No Campfires)",
+        "to": "Heart Lake (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 4.77,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 230,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Heart Lake (No Campfires)",
+        "to": "Sol Duc Park (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 1.27,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 0,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Sol Duc Park (No Campfires)",
+        "to": "Sol Duc TH",
+        "komoot": {
+          "distance": {
+            "value": 10.8,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 50,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "East Fork Quinault to Enchanted Valley",
+    "legs": [
+      {
+        "from": "Graves Creek TH",
+        "to": "Pony Bridge Campsite",
+        "komoot": {
+          "distance": {
+            "value": 3.98,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 190,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Pony Bridge Campsite",
+        "to": "O'Neil Creek Campsite",
+        "komoot": {
+          "distance": {
+            "value": 6.62,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "O'Neil Creek Campsite",
+        "to": "Pyrites Creek Campsite",
+        "komoot": {
+          "distance": {
+            "value": 5.11,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 110,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Pyrites Creek Campsite",
+        "to": "Enchanted Valley Campsite",
+        "komoot": {
+          "distance": {
+            "value": 5.56,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 180,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      }
+    ]
+  },
+  {
+    "park": "olympic",
+    "name": "Cape Alava and Sand Point Loop",
+    "legs": [
+      {
+        "from": "Ozette Ranger Station TH",
+        "to": "Cape Alava",
+        "komoot": {
+          "distance": {
+            "value": 5.54,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 70,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Cape Alava",
+        "to": "Sand Point (No Campfires)",
+        "komoot": {
+          "distance": {
+            "value": 5.16,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 20,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      },
+      {
+        "from": "Sand Point (No Campfires)",
+        "to": "Ozette Ranger Station TH",
+        "komoot": {
+          "distance": {
+            "value": 4.75,
+            "unit": "km"
+          },
+          "elevationGain": {
+            "value": 50,
+            "unit": "m"
+          },
+          "elevationLoss": null
+        }
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Salt Creek Campsite Corridor",
+    "legs": [
+      {
+        "from": "Salt Creek 1 (SC1)",
+        "to": "Salt Creek 2 (SC2)",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Salt Creek 2 (SC2)",
+        "to": "Salt Creek 3 (SC3)",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Salt Creek 3 (SC3)",
+        "to": "Salt Creek 4 (SC4)",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Island in the Sky / White Rim Campsite Corridor",
+    "legs": [
+      {
+        "from": "Alcove Spring Trailhead",
+        "to": "Gooseberry A",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Gooseberry A",
+        "to": "White Crack",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "White Crack",
+        "to": "Murphy A",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Murphy A",
+        "to": "Shafer Campsite",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "The Maze: Golden Stairs to Happy Canyon",
+    "legs": [
+      {
+        "from": "Golden Stairs",
+        "to": "Teapot Rock",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Teapot Rock",
+        "to": "Sunset Pass",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Sunset Pass",
+        "to": "The Neck",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "The Neck",
+        "to": "Happy Canyon",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      }
+    ]
+  },
+  {
+    "park": "canyonlands",
+    "name": "Needles: Devils Kitchen Campsite Corridor",
+    "legs": [
+      {
+        "from": "Devils Kitchen 1",
+        "to": "Devils Kitchen 2",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      },
+      {
+        "from": "Devils Kitchen 2",
+        "to": "Devils Kitchen 3",
+        "komoot": null,
+        "error": "locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('text=/^-?\\\\d+\\\\.\\\\d+,-?\\\\d+\\\\.\\\\d+$/').first()\u001b[22m\n"
+      }
+    ]
+  }
+]

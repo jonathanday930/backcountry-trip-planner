@@ -1,0 +1,90 @@
+[
+  {
+    "id": "dunes-backcountry",
+    "name": "Dunes Backcountry",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Dunefield",
+    "startingAreas": [
+      "Dunefield"
+    ]
+  },
+  {
+    "id": "buck-creek",
+    "name": "Buck Creek",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "escape-dunes",
+    "name": "Escape Dunes",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "indian-grove",
+    "name": "Indian Grove",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "little-medano",
+    "name": "Little Medano",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "aspen",
+    "name": "Aspen",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "cold-creek",
+    "name": "Cold Creek",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  },
+  {
+    "id": "sand-creek",
+    "name": "Sand Creek",
+    "lat": 37.7275049,
+    "lon": -105.6418004,
+    "type": "designated_campsite",
+    "context": "Sand Ramp Trail",
+    "startingAreas": [
+      "Sand Ramp Trail"
+    ]
+  }
+]

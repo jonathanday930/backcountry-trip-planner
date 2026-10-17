@@ -1,0 +1,38 @@
+[
+  {
+    "id": "copper-ridge-chilliwack-loop",
+    "name": "Copper Ridge / Chilliwack River Loop",
+    "stops": ["hannegan-pass-trail-mount-baker-wilderness", "boundary-camp", "silesia-camp", "egg-lake-camp", "copper-lake-camp", "indian-creek-camp", "us-cabin-camp", "copper-creek-camp", "boundary-camp", "hannegan-pass-trail-mount-baker-wilderness"],
+    "typicalNights": 4,
+    "notes": "NPS loop recommendation combining the Hannegan Pass approach, three Copper Ridge camps (Silesia, Egg Lake, Copper Lake), and the Chilliwack River camps. A route with the same trailhead on both ends still requires checking road access and river crossings."
+  },
+  {
+    "id": "devils-dome-loop",
+    "name": "Devil's Dome Loop",
+    "stops": ["east-bank-trailhead-sr-20", "ruby-pasture-camp", "roland-creek-camp", "may-creek-boat-camp", "devils-creek-hiker-camp", "lightning-creek-boat-camp", "deerlick-stock-camp", "desolation-camp", "nightmare-group-camp", "hozomeen-lake-camp", "hozomeen-lake-east-bank-trailhead-hozomeen-rd"],
+    "typicalNights": 3,
+    "notes": "The iconic 40–41 mile loop uses the East Bank Ross Lake Trail and Devil's Ridge/Jackita Ridge; much of the high ridge is outside the park in Pasayten Wilderness. Boat-camp entries are included only where the walking corridor reaches the Ross Lake shore; verify whether a particular permit allows that camp type."
+  },
+  {
+    "id": "rainbow-mcalester-loop",
+    "name": "Rainbow–McAlester Loop",
+    "stops": ["rainbow-loop-trailhead-stehekin-valley-rd", "rainbow-bridge-camp", "rainbow-ford-camp", "rainbow-meadows-camp", "rainbow-lake-camp", "dan-s-camp", "mcalester-lake-camp", "high-camp", "rainbow-loop-trailhead-stehekin-valley-rd"],
+    "typicalNights": 2,
+    "notes": "Popular Stehekin-area loop over McAlester Pass. Dan's Camp, Rainbow Meadows, Rainbow Lake and McAlester Lake are the individual-camp options; mileage varies with the chosen Rainbow Loop access."
+  },
+  {
+    "id": "big-little-beaver-loop",
+    "name": "Big Beaver / Little Beaver Traverse",
+    "routeStops": ["ross-dam-trailhead-happy-flats-sr-20", "pumpkin-mountain-camp", "beaver-pass-camp", "stillwell-camp", "twin-rocks-camp", "hozomeen-lake-east-bank-trailhead-hozomeen-rd"],
+    "stops": ["ross-dam-trailhead-happy-flats-sr-20", "pumpkin-mountain-camp", "big-beaver-stock-camp", "39-mile-camp", "beaver-pass-camp", "stillwell-camp", "twin-rocks-camp", "little-beaver-boat-camp-8", "hozomeen-lake-east-bank-trailhead-hozomeen-rd"],
+    "typicalNights": 5,
+    "notes": "Remote north-unit one-way route linking Big Beaver, Beaver Pass and Little Beaver. The NPS lists Big/Little Beaver as a dedicated corridor; lake-shore boat camps are not interchangeable with hiker camps, so the route should be confirmed with a ranger before booking."
+  },
+  {
+    "id": "thunder-park-cascade-pass",
+    "name": "Thunder Creek / Park Creek / Cascade Pass Traverse",
+    "stops": ["colonial-creek-campground-thunder-creek-trailhead-sr-20", "thunder-camp", "thunder-basin-camp", "junction-camp", "mcallister-camp", "tricouni-camp", "park-creek-camp", "two-mile-camp", "bridge-creek-group-camp", "cottonwood-camp", "basin-creek-camp", "pelton-basin-camp", "johannesburg-camp", "cascade-pass-trailhead-cascade-river-rd"],
+    "typicalNights": 5,
+    "notes": "NPS long-distance sampler corridor from the east side through Thunder Creek, Park Creek Pass and Cascade Pass. Bridge Creek and group/stock variants are colocated; this list keeps the regular individual camps where the source data provides them."
+  }
+]

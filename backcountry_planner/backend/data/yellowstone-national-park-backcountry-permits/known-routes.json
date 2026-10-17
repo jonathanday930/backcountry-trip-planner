@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bechler-river-trail",
+    "name": "Bechler River Trail",
+    "stops": ["bechler-ranger-station-trailhead", "9b2-bechler-ford-backpacker", "9b6-lower-bechler-canyon-ford-backpacker", "9b8-upper-bechler-canyon-ford-backpacker", "bechler", "cascade-creek-trailhead-bechler-area"],
+    "typicalNights": 3,
+    "notes": "Classic southwest Yellowstone one-way through Bechler Meadows and Bechler Canyon. The park lists multiple fords and river hazards; 9B2/9B6/9B8 are the app's named corridor camps. Published trip reports commonly put the core trail around 30–35 miles; verify seasonal ford conditions."
+  },
+  {
+    "id": "heart-lake-loop",
+    "name": "Heart Lake / Snake River Loop",
+    "stops": ["heart-lake-trailhead", "8j4-heart-river-backpacker", "heart-lake", "8c5-snake-heart-confluence-backpacker-stock", "heart-lake-trailhead"],
+    "typicalNights": 2,
+    "notes": "South Yellowstone loop around Heart Lake and the Snake/Heart confluence. The route is often reported as roughly 30–35 miles depending on the lake-side spur and campsite choice; this corridor includes every mapped backcountry camp on the loop."
+  },
+  {
+    "id": "slough-creek-trail",
+    "name": "Slough Creek Trail",
+    "stops": ["slough-creek-trailhead", "2s1-lower-slough-creek-backpacker-stock", "2s3-slough-creek-backpacker", "2s6-upper-slough-creek-backpacker", "upper-slough-boundary-no-road-access"],
+    "typicalNights": 2,
+    "notes": "One-way Lamar Valley corridor from Slough Creek trailhead to the upper meadow/boundary. The three backpacker camps are kept in order; stock-only alternatives are omitted."
+  },
+  {
+    "id": "lamar-river-trail",
+    "name": "Lamar River Trail",
+    "stops": ["lamar-river-trailhead", "3l3-lower-lamar-backpacker", "3l4-lower-lamar-bench-backpacker", "3l7-middle-lamar-backpacker", "upper-lamar", "lamar-river-trailhead"],
+    "typicalNights": 2,
+    "notes": "Open Lamar Valley out-and-back. The route includes every regular backpacker camp listed along the lower/middle Lamar corridor; the return to the trailhead is intentional because this is the common vehicle-friendly version."
+  },
+  {
+    "id": "specimen-ridge-fawn-pass-traverse",
+    "name": "Specimen Ridge to Fawn Pass Traverse",
+    "stops": ["specimen-ridge-trailhead", "specimen-ridge", "wd1-e-fork-specimen-creek-backpacker", "we1-specimen-creek-junction-backpacker-stock", "we4-specimen-creek-backpacker", "fawn-pass", "fawn-pass-trailhead"],
+    "typicalNights": 2,
+    "notes": "Northern Yellowstone high-country traverse linking Specimen Ridge and Specimen Creek to Fawn Pass. This is a route-finding-sensitive corridor; campsite order follows the mapped trail network and should be checked against current closures."
+  }
+]

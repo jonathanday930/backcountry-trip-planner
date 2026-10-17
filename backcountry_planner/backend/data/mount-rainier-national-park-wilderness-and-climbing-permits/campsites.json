@@ -1,0 +1,2424 @@
+[
+  {
+    "id": "backbone-ridge-trailhead",
+    "name": "Backbone Ridge Trailhead",
+    "lat": 46.70830894,
+    "lon": -121.5986962,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "bench-lake-trailhead",
+    "name": "Bench Lake Trailhead",
+    "lat": 46.76763684,
+    "lon": -121.7068944,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "box-canyon-trailhead",
+    "name": "Box Canyon Trailhead",
+    "lat": 46.75986455,
+    "lon": -121.6399982,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "buck-creek",
+    "name": "Buck Creek",
+    "lat": 46.99502889,
+    "lon": -121.5752505,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "carbon-river-entrance-trailhead-inaccessible-until-further-notice",
+    "name": "Carbon River Entrance Trailhead (Inaccessible until further notice)",
+    "lat": 46.99491966,
+    "lon": -121.9156493,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "chenuis-falls-trailhead-inaccessible-until-further-notice",
+    "name": "Chenuis Falls Trailhead (Inaccessible until further notice)",
+    "lat": 46.99042359,
+    "lon": -121.8442467,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "chinook-pass-trailhead-usfs",
+    "name": "Chinook Pass Trailhead - USFS",
+    "lat": 46.87174267,
+    "lon": -121.5154306,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "comet-falls-trailhead",
+    "name": "Comet Falls Trailhead",
+    "lat": 46.77903123,
+    "lon": -121.7824863,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "cougar-rock-trailhead",
+    "name": "Cougar Rock Trailhead",
+    "lat": 46.76668163,
+    "lon": -121.7911353,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "crystal-lakes-trailhead",
+    "name": "Crystal Lakes Trailhead",
+    "lat": 46.92281206,
+    "lon": -121.5335483,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "deer-creek-trailhead",
+    "name": "Deer Creek Trailhead",
+    "lat": 46.83382158,
+    "lon": -121.535451,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "eagle-peak-trailhead",
+    "name": "Eagle Peak Trailhead",
+    "lat": 46.74809908,
+    "lon": -121.8079248,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "eastside-cayuse-trailhead",
+    "name": "Eastside/Cayuse Trailhead",
+    "lat": 46.86428817,
+    "lon": -121.5322821,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "fryingpan-creek-trailhead",
+    "name": "Fryingpan Creek Trailhead",
+    "lat": 46.88830141,
+    "lon": -121.6108351,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "goat-lake-trailhead-usfs",
+    "name": "Goat Lake Trailhead - USFS",
+    "lat": 46.79266346,
+    "lon": -121.918425,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "golden-lakes-hancock-access",
+    "name": "Golden Lakes (Hancock Access)",
+    "lat": 46.89963688,
+    "lon": -121.9181883,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "green-lake-trailhead-inaccessible-until-further-notice",
+    "name": "Green Lake Trailhead (Inaccessible until further notice)",
+    "lat": 46.99217667,
+    "lon": -121.8507832,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "grove-of-the-patriarchs-trailhead",
+    "name": "Grove of the Patriarchs Trailhead",
+    "lat": 46.75816748,
+    "lon": -121.5576187,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "huckleberry-creek-trailhead-usfs",
+    "name": "Huckleberry Creek Trailhead - USFS",
+    "lat": 46.99515772,
+    "lon": -121.6180901,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "ipsut-creek-trailhead-inaccessible-until-further-notice",
+    "name": "Ipsut Creek Trailhead (Inaccessible until further notice)",
+    "lat": 46.97665364,
+    "lon": -121.8307824,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "kautz-creek-trailhead",
+    "name": "Kautz Creek Trailhead",
+    "lat": 46.73633552,
+    "lon": -121.8557757,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "klapatche-point-trailhead",
+    "name": "Klapatche Point Trailhead",
+    "lat": 46.84848724,
+    "lon": -121.9187128,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "lake-eleanor-trailhead-usfs",
+    "name": "Lake Eleanor Trailhead  - USFS",
+    "lat": 46.99547448,
+    "lon": -121.6446035,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "laughingwater-creek-trailhead",
+    "name": "Laughingwater Creek Trailhead",
+    "lat": 46.75092816,
+    "lon": -121.5583822,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "longmire-trailhead",
+    "name": "Longmire Trailhead",
+    "lat": 46.75170357,
+    "lon": -121.8118453,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "mowich-lake-trailhead-inaccessible-until-further-notice",
+    "name": "Mowich Lake Trailhead (Inaccessible until further notice)",
+    "lat": 46.93298568,
+    "lon": -121.8637484,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "narada-falls-trailhead",
+    "name": "Narada Falls Trailhead",
+    "lat": 46.77545062,
+    "lon": -121.7442946,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "nisqually-entrance-trailhead",
+    "name": "Nisqually Entrance Trailhead",
+    "lat": 46.74150772,
+    "lon": -121.9179302,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "north-boundary-winter",
+    "name": "North Boundary (Winter)",
+    "lat": 46.97798962,
+    "lon": -121.5363699,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "ohanapecosh-trailhead",
+    "name": "Ohanapecosh Trailhead",
+    "lat": 46.73728862,
+    "lon": -121.5647328,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "ollallie-creek-trailhead",
+    "name": "Ollallie Creek Trailhead",
+    "lat": 46.75637789,
+    "lon": -121.563085,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "owyhigh-lakes-trailhead",
+    "name": "Owyhigh Lakes Trailhead",
+    "lat": 46.89055921,
+    "lon": -121.5967334,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "paradise-trailhead",
+    "name": "Paradise Trailhead",
+    "lat": 46.78457231,
+    "lon": -121.7415196,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "paul-peak-trailhead-inaccessible-until-further-notice",
+    "name": "Paul Peak Trailhead (Inaccessible until further notice)",
+    "lat": 46.93509819,
+    "lon": -121.9074177,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "pinnacle-peak-trailhead",
+    "name": "Pinnacle Peak Trailhead",
+    "lat": 46.76850323,
+    "lon": -121.7316437,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "reflection-lake-trailhead",
+    "name": "Reflection Lake Trailhead",
+    "lat": 46.76888564,
+    "lon": -121.7239475,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "round-pass-trailhead",
+    "name": "Round Pass Trailhead",
+    "lat": 46.80166195,
+    "lon": -121.8985618,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "saint-andrew-s-creek-trailhead",
+    "name": "Saint Andrew's Creek Trailhead",
+    "lat": 46.83624928,
+    "lon": -121.9060085,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "shriner-peak-trailhead",
+    "name": "Shriner Peak Trailhead",
+    "lat": 46.80179223,
+    "lon": -121.5555446,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "south-puyallup-trailhead",
+    "name": "South Puyallup Trailhead",
+    "lat": 46.80682009,
+    "lon": -121.8912838,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "sunrise-point-trailhead",
+    "name": "Sunrise Point Trailhead",
+    "lat": 46.91751074,
+    "lon": -121.587896,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "sunrise-trailhead",
+    "name": "Sunrise Trailhead",
+    "lat": 46.9149308,
+    "lon": -121.6428307,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "tipsoo-lake-trailhead",
+    "name": "Tipsoo Lake Trailhead",
+    "lat": 46.86749766,
+    "lon": -121.5184089,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "tolmie-peak-trailhead-inaccessible-until-further-notice",
+    "name": "Tolmie Peak Trailhead (Inaccessible until further notice)",
+    "lat": 46.93413066,
+    "lon": -121.8657761,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "west-fork-white-river",
+    "name": "West Fork White River",
+    "lat": 46.99551449,
+    "lon": -121.6996867,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "west-side-road-trailhead-dry-creek",
+    "name": "West Side Road Trailhead (Dry Creek)",
+    "lat": 46.77859404,
+    "lon": -121.8847658,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "white-river-campground-trailhead",
+    "name": "White River Campground Trailhead",
+    "lat": 46.90237091,
+    "lon": -121.6434432,
+    "type": "trailhead",
+    "startingAreas": []
+  },
+  {
+    "id": "carbon-river-camp",
+    "name": "Carbon River Camp",
+    "lat": 46.950119,
+    "lon": -121.797621,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "carbon-river-camp-group-site",
+    "name": "Carbon River Camp (Group Site)",
+    "lat": 46.950119,
+    "lon": -121.797621,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "cataract-valley-camp",
+    "name": "Cataract Valley Camp",
+    "lat": 46.938587,
+    "lon": -121.808364,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "cataract-valley-camp-group-site",
+    "name": "Cataract Valley Camp (Group Site)",
+    "lat": 46.938587,
+    "lon": -121.808364,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "dick-creek-camp",
+    "name": "Dick Creek Camp",
+    "lat": 46.940605,
+    "lon": -121.78296,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "eagle-s-roost-camp",
+    "name": "Eagle's Roost Camp",
+    "lat": 46.916083,
+    "lon": -121.845505,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "fire-creek-camp",
+    "name": "Fire Creek Camp",
+    "lat": 46.966893,
+    "lon": -121.70359,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "fire-creek-camp-group-site",
+    "name": "Fire Creek Camp (Group Site)",
+    "lat": 46.966893,
+    "lon": -121.70359,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "granite-creek-camp",
+    "name": "Granite Creek Camp",
+    "lat": 46.920405,
+    "lon": -121.712414,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "granite-creek-camp-group-site",
+    "name": "Granite Creek Camp (Group Site)",
+    "lat": 46.920405,
+    "lon": -121.712414,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "ipsut-creek-camp",
+    "name": "Ipsut Creek Camp",
+    "lat": 46.975476,
+    "lon": -121.830218,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "ipsut-creek-camp-group-site",
+    "name": "Ipsut Creek Camp (Group Site)",
+    "lat": 46.975476,
+    "lon": -121.830218,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "james-camp",
+    "name": "James Camp",
+    "lat": 46.966699,
+    "lon": -121.732333,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "james-camp-group-site",
+    "name": "James Camp (Group Site)",
+    "lat": 46.966699,
+    "lon": -121.732333,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "mowich-lake-camp",
+    "name": "Mowich Lake Camp",
+    "lat": 46.932795,
+    "lon": -121.863243,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "mowich-lake-camp-group-site",
+    "name": "Mowich Lake Camp (Group Site)",
+    "lat": 46.932795,
+    "lon": -121.863243,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "mystic-camp",
+    "name": "Mystic Camp",
+    "lat": 46.915121,
+    "lon": -121.749628,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "mystic-camp-group-site",
+    "name": "Mystic Camp (Group Site)",
+    "lat": 46.915121,
+    "lon": -121.749628,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "so-mowich-river-camp",
+    "name": "So. Mowich River Camp",
+    "lat": 46.91524,
+    "lon": -121.894089,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "so-mowich-river-camp-group-site",
+    "name": "So. Mowich River Camp (Group Site)",
+    "lat": 46.91524,
+    "lon": -121.894089,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "yellowstone-cliffs-camp",
+    "name": "Yellowstone Cliffs Camp",
+    "lat": 46.959705,
+    "lon": -121.767346,
+    "type": "designated_campsite",
+    "context": "Carbon River Area Camps",
+    "startingAreas": [
+      "Carbon River Area Camps"
+    ]
+  },
+  {
+    "id": "golden-lakes-camp",
+    "name": "Golden Lakes Camp",
+    "lat": 46.879728,
+    "lon": -121.904112,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "golden-lakes-camp-group-site",
+    "name": "Golden Lakes Camp (Group Site)",
+    "lat": 46.879728,
+    "lon": -121.904112,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "klapatche-park-camp",
+    "name": "Klapatche Park Camp",
+    "lat": 46.835986,
+    "lon": -121.877423,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "lake-george-camp",
+    "name": "Lake George Camp",
+    "lat": 46.792839,
+    "lon": -121.902798,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "lake-george-camp-group-site",
+    "name": "Lake George Camp (Group Site)",
+    "lat": 46.792839,
+    "lon": -121.902798,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "maple-creek-camp",
+    "name": "Maple Creek Camp",
+    "lat": 46.757294,
+    "lon": -121.657393,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "maple-creek-camp-group-site",
+    "name": "Maple Creek Camp (Group Site)",
+    "lat": 46.757294,
+    "lon": -121.657393,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "no-puyallup-river-camp",
+    "name": "No. Puyallup River Camp",
+    "lat": 46.846061,
+    "lon": -121.869763,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "no-puyallup-river-camp-group-site",
+    "name": "No. Puyallup River Camp (Group Site)",
+    "lat": 46.846061,
+    "lon": -121.869763,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "paradise-river-camp",
+    "name": "Paradise River Camp",
+    "lat": 46.7702,
+    "lon": -121.7592,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "paradise-river-camp-group-site",
+    "name": "Paradise River Camp (Group Site)",
+    "lat": 46.7702,
+    "lon": -121.7592,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "pyramid-creek-camp",
+    "name": "Pyramid Creek Camp",
+    "lat": 46.780399,
+    "lon": -121.809816,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "snow-lake-camp",
+    "name": "Snow Lake Camp",
+    "lat": 46.758374,
+    "lon": -121.698693,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "so-puyallup-river-camp",
+    "name": "So. Puyallup River Camp",
+    "lat": 46.812298,
+    "lon": -121.86893,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "so-puyallup-river-camp-group-site",
+    "name": "So. Puyallup River Camp (Group Site)",
+    "lat": 46.812298,
+    "lon": -121.86893,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "berkeley-park-camp",
+    "name": "Berkeley Park Camp",
+    "lat": 46.936034,
+    "lon": -121.686867,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "berkeley-park-camp-group-site",
+    "name": "Berkeley Park Camp (Group Site)",
+    "lat": 46.936034,
+    "lon": -121.686867,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "deer-creek-camp",
+    "name": "Deer Creek Camp",
+    "lat": 46.834662,
+    "lon": -121.538575,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "devil-s-dream-camp",
+    "name": "Devil's Dream Camp",
+    "lat": 46.782109,
+    "lon": -121.835194,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "devil-s-dream-camp-group-site",
+    "name": "Devil's Dream Camp (Group Site)",
+    "lat": 46.782109,
+    "lon": -121.835194,
+    "type": "designated_campsite",
+    "context": "Longmire Area Camps",
+    "startingAreas": [
+      "Longmire Area Camps"
+    ]
+  },
+  {
+    "id": "dick-s-lake-camp",
+    "name": "Dick's Lake Camp",
+    "lat": 46.941198,
+    "lon": -121.594253,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "forest-lake-camp",
+    "name": "Forest Lake Camp",
+    "lat": 46.932366,
+    "lon": -121.652314,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "glacier-basin-camp",
+    "name": "Glacier Basin Camp",
+    "lat": 46.889168,
+    "lon": -121.701164,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "glacier-basin-camp-group-site",
+    "name": "Glacier Basin Camp (Group Site)",
+    "lat": 46.889168,
+    "lon": -121.701164,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "indian-bar-camp",
+    "name": "Indian Bar Camp",
+    "lat": 46.825786,
+    "lon": -121.639797,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "indian-bar-camp-group-site",
+    "name": "Indian Bar Camp (Group Site)",
+    "lat": 46.825786,
+    "lon": -121.639797,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "lake-eleanor-camp",
+    "name": "Lake Eleanor Camp",
+    "lat": 46.989684,
+    "lon": -121.654924,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "lake-eleanor-camp-group-site",
+    "name": "Lake Eleanor Camp (Group Site)",
+    "lat": 46.989684,
+    "lon": -121.654924,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "lower-crystal-lake-camp",
+    "name": "Lower Crystal Lake Camp",
+    "lat": 46.911349,
+    "lon": -121.513825,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "nickel-creek-camp",
+    "name": "Nickel Creek Camp",
+    "lat": 46.772278,
+    "lon": -121.624065,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "nickel-creek-camp-group-site",
+    "name": "Nickel Creek Camp (Group Site)",
+    "lat": 46.772278,
+    "lon": -121.624065,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "olallie-creek-camp",
+    "name": "Olallie Creek Camp",
+    "lat": 46.775578,
+    "lon": -121.589112,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "olallie-creek-camp-group-site",
+    "name": "Olallie Creek Camp (Group Site)",
+    "lat": 46.775578,
+    "lon": -121.589112,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "shriner-peak-camp",
+    "name": "Shriner Peak Camp",
+    "lat": 46.810237,
+    "lon": -121.531393,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "summerland-camp",
+    "name": "Summerland Camp",
+    "lat": 46.865223,
+    "lon": -121.659165,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "summerland-camp-group-site",
+    "name": "Summerland Camp (Group Site)",
+    "lat": 46.865223,
+    "lon": -121.659165,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "sunrise-camp",
+    "name": "Sunrise Camp",
+    "lat": 46.91102,
+    "lon": -121.659192,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "sunrise-camp-group-site",
+    "name": "Sunrise Camp (Group Site)",
+    "lat": 46.91102,
+    "lon": -121.659192,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "tamanos-creek-camp",
+    "name": "Tamanos Creek Camp",
+    "lat": 46.870695,
+    "lon": -121.586581,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "tamanos-creek-camp-group-site",
+    "name": "Tamanos Creek Camp (Group Site)",
+    "lat": 46.870695,
+    "lon": -121.586581,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "three-lakes-camp",
+    "name": "Three Lakes Camp",
+    "lat": 46.763103,
+    "lon": -121.473329,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "three-lakes-camp-group-site",
+    "name": "Three Lakes Camp (Group Site)",
+    "lat": 46.763103,
+    "lon": -121.473329,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "upper-crystal-lake-camp",
+    "name": "Upper Crystal Lake Camp",
+    "lat": 46.905956,
+    "lon": -121.508748,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "upper-palisades-lake-camp",
+    "name": "Upper Palisades Lake Camp",
+    "lat": 46.950247,
+    "lon": -121.591768,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "white-river-backpacker-camp",
+    "name": "White River Backpacker Camp",
+    "lat": 46.902518,
+    "lon": -121.637797,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "white-river-backpacker-camp-group-site",
+    "name": "White River Backpacker Camp (Group Site)",
+    "lat": 46.902518,
+    "lon": -121.637797,
+    "type": "designated_campsite",
+    "context": "White River Area Camps",
+    "startingAreas": [
+      "White River Area Camps"
+    ]
+  },
+  {
+    "id": "camp-curtis-alpine-camp",
+    "name": "Camp Curtis Alpine Camp",
+    "lat": 46.8735,
+    "lon": -121.7239,
+    "type": "designated_campsite",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "camp-muir-alpine-camp",
+    "name": "Camp Muir Alpine Camp",
+    "lat": 46.8355,
+    "lon": -121.7329,
+    "type": "designated_campsite",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "camp-schurman-alpine-camp",
+    "name": "Camp Schurman Alpine Camp",
+    "lat": 46.8701,
+    "lon": -121.734,
+    "type": "designated_campsite",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "emmons-flats-alpine-zone",
+    "name": "Emmons Flats Alpine Zone",
+    "lat": 46.8661,
+    "lon": -121.7339,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "ingraham-flats-alpine-zone",
+    "name": "Ingraham Flats Alpine Zone",
+    "lat": 46.84594642,
+    "lon": -121.732169,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "inter-glacier-alpine-zone",
+    "name": "Inter Glacier Alpine Zone",
+    "lat": 46.877949,
+    "lon": -121.7252063,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "kautz-climbing-alpine-zone",
+    "name": "Kautz Climbing Alpine Zone",
+    "lat": 46.82217499,
+    "lon": -121.7813132,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "muir-snowfield-alpine-zone",
+    "name": "Muir Snowfield Alpine Zone",
+    "lat": 46.82917409,
+    "lon": -121.7317457,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "wilson-alpine-zone",
+    "name": "Wilson Alpine Zone",
+    "lat": 46.81865446,
+    "lon": -121.7561484,
+    "type": "at_large",
+    "context": "High and Moderate Use Climbing Routes",
+    "startingAreas": [
+      "High and Moderate Use Climbing Routes"
+    ]
+  },
+  {
+    "id": "carbon-alpine-zone-curtis-ridge",
+    "name": "Carbon Alpine Zone (Curtis Ridge)",
+    "lat": 46.89416395,
+    "lon": -121.7646018,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "colonades-alpine-zone",
+    "name": "Colonades Alpine Zone",
+    "lat": 46.86068537,
+    "lon": -121.85744,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "cowlitz-glacier-alpine",
+    "name": "Cowlitz Glacier Alpine",
+    "lat": 46.82942957,
+    "lon": -121.7124695,
+    "type": "designated_campsite",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "emmons-glacier-alpine-zone",
+    "name": "Emmons Glacier Alpine Zone",
+    "lat": 46.86563674,
+    "lon": -121.7130141,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "little-tahoma-alpine-zone",
+    "name": "Little Tahoma Alpine Zone",
+    "lat": 46.84442605,
+    "lon": -121.680636,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "lower-nisqually-alpine-zone",
+    "name": "Lower Nisqually Alpine Zone",
+    "lat": 46.80727921,
+    "lon": -121.7421285,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "nisqually-alpine-zone",
+    "name": "Nisqually Alpine Zone",
+    "lat": 46.83328285,
+    "lon": -121.744483,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "ptarmigan-alpine-zone",
+    "name": "Ptarmigan Alpine Zone",
+    "lat": 46.90798046,
+    "lon": -121.8083749,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "summit-alpine-zone",
+    "name": "Summit Alpine Zone",
+    "lat": 46.85428694,
+    "lon": -121.7645501,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "thumb-rock-alpine-camp",
+    "name": "Thumb Rock Alpine Camp",
+    "lat": 46.8756,
+    "lon": -121.7713,
+    "type": "designated_campsite",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "tokaloo-alpine-zone",
+    "name": "Tokaloo Alpine Zone",
+    "lat": 46.83791658,
+    "lon": -121.8189497,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "winthrop-alpine-zone",
+    "name": "Winthrop Alpine Zone",
+    "lat": 46.8853238,
+    "lon": -121.7384519,
+    "type": "at_large",
+    "context": "Other Alpine Camps and Zones",
+    "startingAreas": [
+      "Other Alpine Camps and Zones"
+    ]
+  },
+  {
+    "id": "cougar-rock-winter-camp",
+    "name": "Cougar Rock Winter Camp",
+    "lat": 46.7669,
+    "lon": -121.7949,
+    "type": "designated_campsite",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "dead-horse-creek-winter-large-group-camp",
+    "name": "Dead Horse Creek Winter Large Group Camp",
+    "lat": 46.7878,
+    "lon": -121.7389,
+    "type": "designated_campsite",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "guide-house-winter-large-group-camp",
+    "name": "Guide House Winter Large Group Camp",
+    "lat": 46.7883,
+    "lon": -121.7349,
+    "type": "designated_campsite",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "ice-caves-basin-winter-cross-country-zone",
+    "name": "Ice Caves Basin Winter Cross Country Zone",
+    "lat": 46.7975,
+    "lon": -121.7151,
+    "type": "at_large",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "mazama-ridge-winter-cross-country-zone",
+    "name": "Mazama Ridge Winter Cross Country Zone",
+    "lat": 46.7868,
+    "lon": -121.7201,
+    "type": "at_large",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "paradise-area-winter-cross-country-zone",
+    "name": "Paradise Area Winter Cross Country Zone",
+    "lat": 46.788,
+    "lon": -121.736,
+    "type": "at_large",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "paradise-inn-winter-large-group-camp",
+    "name": "Paradise Inn Winter Large Group Camp",
+    "lat": 46.7877,
+    "lon": -121.7331,
+    "type": "designated_campsite",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "reflection-lakes-winter-cross-country-zone",
+    "name": "Reflection Lakes Winter Cross Country Zone",
+    "lat": 46.77,
+    "lon": -121.7268,
+    "type": "at_large",
+    "context": "Winter Camps and Zones",
+    "startingAreas": [
+      "Winter Camps and Zones"
+    ]
+  },
+  {
+    "id": "alki-crest-cross-country-zone",
+    "name": "Alki Crest Cross Country Zone",
+    "lat": 46.964726,
+    "lon": -121.8840523,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "carbon-river-west-cross-country-zone",
+    "name": "Carbon River West Cross Country Zone",
+    "lat": 46.95882015,
+    "lon": -121.8318046,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "chenuis-lakes-cross-country-zone",
+    "name": "Chenuis Lakes Cross Country Zone",
+    "lat": 46.97440565,
+    "lon": -121.7820533,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "crescent-lake-cross-country-zone",
+    "name": "Crescent Lake Cross Country Zone",
+    "lat": 46.95112863,
+    "lon": -121.7719903,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "echo-cliffs-cross-country-zone",
+    "name": "Echo Cliffs Cross Country Zone",
+    "lat": 46.93964028,
+    "lon": -121.796152,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "elizabeth-ridge-cross-country-zone",
+    "name": "Elizabeth Ridge Cross Country Zone",
+    "lat": 46.92999875,
+    "lon": -121.8895982,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "elysian-fields-cross-country-zone",
+    "name": "Elysian Fields Cross Country Zone",
+    "lat": 46.94348626,
+    "lon": -121.7620514,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "gove-peak-cross-country-zone",
+    "name": "Gove Peak Cross Country Zone",
+    "lat": 46.9630091,
+    "lon": -121.8631218,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-carbon-river-cross-country-zone",
+    "name": "Lower Carbon River Cross Country Zone",
+    "lat": 46.98143077,
+    "lon": -121.8890307,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-mowich-river-cross-country-zone",
+    "name": "Lower Mowich River Cross Country Zone",
+    "lat": 46.91075598,
+    "lon": -121.9100804,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-west-fork-cross-country-zone",
+    "name": "Lower West Fork Cross Country Zone",
+    "lat": 46.98625133,
+    "lon": -121.7119015,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mineral-mountain-cross-country-zone",
+    "name": "Mineral Mountain Cross Country Zone",
+    "lat": 46.90699312,
+    "lon": -121.7469857,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mist-park-cross-country-zone",
+    "name": "Mist Park Cross Country Zone",
+    "lat": 46.93489198,
+    "lon": -121.8224568,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "moraine-park-cross-country-zone",
+    "name": "Moraine Park Cross Country Zone",
+    "lat": 46.93416443,
+    "lon": -121.7643667,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mother-mountain-cross-country-zone",
+    "name": "Mother Mountain Cross Country Zone",
+    "lat": 46.94015307,
+    "lon": -121.8372984,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "north-carbon-river-cross-country-zone",
+    "name": "North Carbon River Cross Country Zone",
+    "lat": 46.97634196,
+    "lon": -121.8055816,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "northern-lakes-cross-country-zone",
+    "name": "Northern Lakes Cross Country Zone",
+    "lat": 46.97629983,
+    "lon": -121.742476,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "old-desolate-cross-country-zone",
+    "name": "Old Desolate Cross Country Zone",
+    "lat": 46.92817228,
+    "lon": -121.7518931,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "ptarmigan-ridge-cross-country-zone",
+    "name": "Ptarmigan Ridge Cross Country Zone",
+    "lat": 46.90798046,
+    "lon": -121.8083749,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "seattle-park-cross-country-zone",
+    "name": "Seattle Park Cross Country Zone",
+    "lat": 46.92736485,
+    "lon": -121.7916419,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "skyscraper-mountain-cross-country-zone",
+    "name": "Skyscraper Mountain Cross Country Zone",
+    "lat": 46.92918843,
+    "lon": -121.6988452,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "southern-spray-park-cross-country-zone",
+    "name": "Southern Spray Park Cross Country Zone",
+    "lat": 46.91481766,
+    "lon": -121.8304495,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tirzah-peak-cross-country-zone",
+    "name": "Tirzah Peak Cross Country Zone",
+    "lat": 46.98590918,
+    "lon": -121.7819388,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tyee-peak-cross-country-zone",
+    "name": "Tyee Peak Cross Country Zone",
+    "lat": 46.96555986,
+    "lon": -121.7577284,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-carbon-river-cross-country-zone",
+    "name": "Upper Carbon River Cross Country Zone",
+    "lat": 46.97289063,
+    "lon": -121.8517903,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-granite-creek-cross-country-zone",
+    "name": "Upper Granite Creek Cross Country Zone",
+    "lat": 46.91199346,
+    "lon": -121.7195829,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-mowich-river-cross-country-zone",
+    "name": "Upper Mowich River Cross Country Zone",
+    "lat": 46.89503643,
+    "lon": -121.8643206,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "vernal-park-cross-country-zone",
+    "name": "Vernal Park Cross Country Zone",
+    "lat": 46.93732342,
+    "lon": -121.7404294,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "virginia-peak-cross-country-zone",
+    "name": "Virginia Peak Cross Country Zone",
+    "lat": 46.95520468,
+    "lon": -121.9047331,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "west-fork-white-river-cross-country-zone",
+    "name": "West Fork White River Cross Country Zone",
+    "lat": 46.94585947,
+    "lon": -121.7032003,
+    "type": "at_large",
+    "context": "Carbon River Cross-Country Zones",
+    "startingAreas": [
+      "Carbon River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "colonades-cross-country-zone",
+    "name": "Colonades Cross Country Zone",
+    "lat": 46.86068537,
+    "lon": -121.85744,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "eagle-peak-cross-country-zone",
+    "name": "Eagle Peak Cross Country Zone",
+    "lat": 46.73906714,
+    "lon": -121.7876972,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "emerald-ridge-cross-country-zone",
+    "name": "Emerald Ridge Cross Country Zone",
+    "lat": 46.80600173,
+    "lon": -121.8690583,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "glacier-island-cross-country-zone",
+    "name": "Glacier Island Cross Country Zone",
+    "lat": 46.81792911,
+    "lon": -121.8254486,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "golden-lakes-cross-country-zone",
+    "name": "Golden Lakes Cross Country Zone",
+    "lat": 46.87035414,
+    "lon": -121.9097565,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "kenworthy-lakes-cross-country-zone",
+    "name": "Kenworthy Lakes Cross Country Zone",
+    "lat": 46.80722063,
+    "lon": -121.9145029,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-cowlitz-cross-country-zone",
+    "name": "Lower Cowlitz Cross Country Zone",
+    "lat": 46.73438641,
+    "lon": -121.6226548,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-kautz-creek-cross-country-zone",
+    "name": "Lower Kautz Creek Cross Country Zone",
+    "lat": 46.76029108,
+    "lon": -121.8334784,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mount-wow-cross-country-zone",
+    "name": "Mount Wow Cross Country Zone",
+    "lat": 46.7677863,
+    "lon": -121.903473,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "muddy-fork-of-the-cowlitz-cross-country-zone",
+    "name": "Muddy Fork of the Cowlitz Cross Country Zone",
+    "lat": 46.7853357,
+    "lon": -121.6632869,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "pyramid-peak-cross-country-zone",
+    "name": "Pyramid Peak Cross Country Zone",
+    "lat": 46.80178136,
+    "lon": -121.8137316,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "satulick-mountain-cross-country-zone",
+    "name": "Satulick Mountain Cross Country Zone",
+    "lat": 46.77528483,
+    "lon": -121.8400311,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "stevens-canyon-south-cross-country-zone",
+    "name": "Stevens Canyon South Cross Country Zone",
+    "lat": 46.74307568,
+    "lon": -121.6452399,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "stevens-ridge-cross-country-zone",
+    "name": "Stevens Ridge Cross Country Zone",
+    "lat": 46.79793409,
+    "lon": -121.6818778,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "sunset-park-cross-country-zone",
+    "name": "Sunset Park Cross Country Zone",
+    "lat": 46.85439601,
+    "lon": -121.8757867,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tatoosh-creek-east-cross-country-zone",
+    "name": "Tatoosh Creek East Cross Country Zone",
+    "lat": 46.75813934,
+    "lon": -121.7696305,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tatoosh-creek-west-cross-country-zone",
+    "name": "Tatoosh Creek West Cross Country Zone",
+    "lat": 46.75628322,
+    "lon": -121.7927038,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tatoosh-range-east-cross-country-zone",
+    "name": "Tatoosh Range East Cross Country Zone",
+    "lat": 46.74654693,
+    "lon": -121.6913466,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tatoosh-range-west-cross-country-zone",
+    "name": "Tatoosh Range West Cross Country Zone",
+    "lat": 46.74766879,
+    "lon": -121.7712692,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tum-tum-cross-country-zone",
+    "name": "Tum Tum Cross Country Zone",
+    "lat": 46.77948071,
+    "lon": -121.8684929,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-kautz-creek-cross-country-zone",
+    "name": "Upper Kautz Creek Cross Country Zone",
+    "lat": 46.79130856,
+    "lon": -121.8026359,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-nisqually-cross-country-zone",
+    "name": "Upper Nisqually Cross Country Zone",
+    "lat": 46.78818619,
+    "lon": -121.7612195,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "upper-west-side-road-cross-country-zone",
+    "name": "Upper West Side Road Cross Country Zone",
+    "lat": 46.82219242,
+    "lon": -121.8888405,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "williwakas-creek-cross-country-zone",
+    "name": "Williwakas Creek Cross Country Zone",
+    "lat": 46.80708216,
+    "lon": -121.698369,
+    "type": "at_large",
+    "context": "Longmire Cross-Country Zones",
+    "startingAreas": [
+      "Longmire Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "backbone-ridge-cross-country-zone",
+    "name": "Backbone Ridge Cross Country Zone",
+    "lat": 46.75297886,
+    "lon": -121.5962022,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "burnt-park-cross-country-zone",
+    "name": "Burnt Park Cross Country Zone",
+    "lat": 46.96382304,
+    "lon": -121.6193086,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "burroughs-mountain-cross-country-zone",
+    "name": "Burroughs Mountain Cross Country Zone",
+    "lat": 46.90259296,
+    "lon": -121.7118544,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "cayuse-pass-cross-country-zone",
+    "name": "Cayuse Pass Cross Country Zone",
+    "lat": 46.85690672,
+    "lon": -121.5497745,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "cowlitz-park-cross-country-zone",
+    "name": "Cowlitz Park Cross Country Zone",
+    "lat": 46.811155,
+    "lon": -121.6413421,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "crystal-mountain-cross-country-zone",
+    "name": "Crystal Mountain Cross Country Zone",
+    "lat": 46.9232889,
+    "lon": -121.5095639,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "deadwood-lakes-cross-country-zone",
+    "name": "Deadwood Lakes Cross Country Zone",
+    "lat": 46.89523496,
+    "lon": -121.5249588,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "dewey-creek-cross-country-zone",
+    "name": "Dewey Creek Cross Country Zone",
+    "lat": 46.83992569,
+    "lon": -121.5011396,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "double-peak-cross-country-zone",
+    "name": "Double Peak Cross Country Zone",
+    "lat": 46.83635917,
+    "lon": -121.5946271,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "fryingpan-creek-cross-country-zone",
+    "name": "Fryingpan Creek Cross Country Zone",
+    "lat": 46.86373694,
+    "lon": -121.6298941,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "goat-island-mountain-cross-country-zone",
+    "name": "Goat Island Mountain Cross Country Zone",
+    "lat": 46.8824824,
+    "lon": -121.6533692,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "governors-ridge-cross-country-zone",
+    "name": "Governors Ridge Cross Country Zone",
+    "lat": 46.8668396,
+    "lon": -121.5659428,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "grand-park-cross-country-zone",
+    "name": "Grand Park Cross Country Zone",
+    "lat": 46.96097003,
+    "lon": -121.6709882,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "green-park-cross-country-zone",
+    "name": "Green Park Cross Country Zone",
+    "lat": 46.94863162,
+    "lon": -121.6224179,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "huckleberry-park-cross-country-zone",
+    "name": "Huckleberry Park Cross Country Zone",
+    "lat": 46.92975333,
+    "lon": -121.6220603,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lake-eleanor-cross-country-zone",
+    "name": "Lake Eleanor Cross Country Zone",
+    "lat": 46.95101183,
+    "lon": -121.6679598,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "laughingwater-north-cross-country-zone",
+    "name": "Laughingwater North Cross Country Zone",
+    "lat": 46.78067127,
+    "lon": -121.5018921,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "laughingwater-south-cross-country-zone",
+    "name": "Laughingwater South Cross Country Zone",
+    "lat": 46.74796041,
+    "lon": -121.5256134,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lost-creek-cross-country-zone",
+    "name": "Lost Creek Cross Country Zone",
+    "lat": 46.97621569,
+    "lon": -121.5981841,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-crystal-mountain-cross-country-zone",
+    "name": "Lower Crystal Mountain Cross Country Zone",
+    "lat": 46.94951145,
+    "lon": -121.517451,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-fryingpan-cross-country-zone",
+    "name": "Lower Fryingpan Cross Country Zone",
+    "lat": 46.8752728,
+    "lon": -121.6107271,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-goat-island-mountain-cross-country-zone",
+    "name": "Lower Goat Island Mountain Cross Country Zone",
+    "lat": 46.89027772,
+    "lon": -121.6245799,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-ohanapecosh-cross-country-zone",
+    "name": "Lower Ohanapecosh Cross Country Zone",
+    "lat": 46.80267959,
+    "lon": -121.5881492,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "lower-palisades-cross-country-zone",
+    "name": "Lower Palisades Cross Country Zone",
+    "lat": 46.95678919,
+    "lon": -121.6088731,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mcneeley-peak-cross-country-zone",
+    "name": "McNeeley Peak Cross Country Zone",
+    "lat": 46.93911256,
+    "lon": -121.6637739,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "mount-ruth-cross-country-zone",
+    "name": "Mount Ruth Cross Country Zone",
+    "lat": 46.88680639,
+    "lon": -121.6888247,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "nickel-creek-cross-country-zone",
+    "name": "Nickel Creek Cross Country Zone",
+    "lat": 46.7844458,
+    "lon": -121.6343156,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "ohanapecosh-park-cross-country-zone",
+    "name": "Ohanapecosh Park Cross Country Zone",
+    "lat": 46.839826,
+    "lon": -121.637095,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "sarvent-cross-country-zone",
+    "name": "Sarvent Cross Country Zone",
+    "lat": 46.85435559,
+    "lon": -121.6200572,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "scarface-cross-country-zone",
+    "name": "Scarface Cross Country Zone",
+    "lat": 46.98836938,
+    "lon": -121.6685057,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "shriner-peak-cross-country-zone",
+    "name": "Shriner Peak Cross Country Zone",
+    "lat": 46.81070033,
+    "lon": -121.5071834,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "slide-mountain-cross-country-zone",
+    "name": "Slide Mountain Cross Country Zone",
+    "lat": 46.97564914,
+    "lon": -121.5809917,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "sunrise-ridge-north-cross-country-zone",
+    "name": "Sunrise Ridge North Cross Country Zone",
+    "lat": 46.94785373,
+    "lon": -121.5603306,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "sunrise-ridge-south-cross-country-zone",
+    "name": "Sunrise Ridge South Cross Country Zone",
+    "lat": 46.92330195,
+    "lon": -121.5552657,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "sunrise-rim-cross-country-zone",
+    "name": "Sunrise Rim Cross Country Zone",
+    "lat": 46.90492895,
+    "lon": -121.6156803,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  },
+  {
+    "id": "tamanos-mountain-cross-country-zone",
+    "name": "Tamanos Mountain Cross Country Zone",
+    "lat": 46.86584951,
+    "lon": -121.5975431,
+    "type": "at_large",
+    "context": "White River Cross-Country Zones",
+    "startingAreas": [
+      "White River Cross-Country Zones"
+    ]
+  }
+]

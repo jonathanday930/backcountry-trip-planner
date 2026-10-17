@@ -1,0 +1,30 @@
+[
+  {
+    "id": "salt-creek-campsite-corridor",
+    "name": "Salt Creek Campsite Corridor",
+    "stops": ["salt-creek-1-sc1", "salt-creek-2-sc2", "salt-creek-3-sc3", "salt-creek-4-sc4"],
+    "typicalNights": 2,
+    "notes": "Representative Needles District designated-site corridor. The park's Salt Creek map and permit rules control the exact itinerary, food-storage requirements, and seasonal access."
+  },
+  {
+    "id": "island-in-the-sky-white-rim",
+    "name": "Island in the Sky / White Rim Campsite Corridor",
+    "stops": ["alcove-spring-trailhead-island-in-the-sky", "gooseberry-a", "white-crack", "murphy-a", "shafer-campsite"],
+    "typicalNights": 3,
+    "notes": "Representative Island in the Sky and White Rim permit corridor. White Rim travel is primarily a 4WD/bicycle route; confirm vehicle, bicycle, road, and permit restrictions before treating this as a backpacking itinerary."
+  },
+  {
+    "id": "maze-golden-stairs-to-happy-canyon",
+    "name": "The Maze: Golden Stairs to Happy Canyon",
+    "stops": ["golden-stairs", "teapot-rock", "sunset-pass", "the-neck", "happy-canyon"],
+    "typicalNights": 3,
+    "notes": "Representative Maze District backcountry corridor assembled from the official zone/campsite map. Route-finding is difficult and water is scarce; the NPS requires carrying a topographic map and planning for remote travel."
+  },
+  {
+    "id": "needles-devils-kitchen-corridor",
+    "name": "Needles: Devils Kitchen Campsite Corridor",
+    "stops": ["devils-kitchen-1", "devils-kitchen-2", "devils-kitchen-3"],
+    "typicalNights": 2,
+    "notes": "Representative Needles District designated-site corridor. The named permit sites are alternatives within a district rather than a guaranteed linear itinerary; confirm the exact route and vehicle access at permit time."
+  }
+]

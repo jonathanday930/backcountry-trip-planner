@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dinkey-lakes-loop",
+    "name": "Dinkey Lakes Loop",
+    "stops": ["willow-meadow-dinkey-lake", "d5-willow-meadow-dinkey-lake", "d2-helms-meadow", "d3-cliff-lake", "d6-coyote", "willow-meadow-dinkey-lake"],
+    "typicalNights": 2,
+    "notes": "Classic Sierra National Forest lake-basin loop. The current Recreation.gov export supplies quota-entry/corridor points, not individual named tent pads; use the Dinkey Lakes Wilderness map to select actual campsites and comply with dispersed-camping setbacks."
+  },
+  {
+    "id": "ansel-adams-wilderness-mono-pass",
+    "name": "Ansel Adams Wilderness: Mono Pass / Lake Basin Traverse",
+    "stops": ["rattlesnake", "a35-rattlesnake-this-trailhead-is-for-entry-into-the-ansel-adams-wilderness", "crater", "a36-crater-this-trailhead-accesses-crater-lake-in-the-ansel-adams-wilderness-not-the-crater-lake-near-florence-lake", "mono-creek", "j61-mono-creek"],
+    "typicalNights": 3,
+    "notes": "Representative Ansel Adams Wilderness one-way corridor. Permit records are entry quotas and do not identify every legal backcountry campsite; route length depends on the selected lake basin and pass."
+  },
+  {
+    "id": "kaiser-wilderness-lakes-loop",
+    "name": "Kaiser Wilderness Lakes Loop",
+    "stops": ["norris-lake-jackass", "a64-norris-lake-jackass-lakes", "piyau-dome", "a53-piyau-dome", "cassidy-miller", "a54-cassidy-miller", "norris-lake-jackass"],
+    "typicalNights": 2,
+    "notes": "Kaiser Wilderness loop built from the permit corridors available in this app. These are quota-entry points rather than designated campsites; verify the Forest Service wilderness map and current fire restrictions."
+  }
+]

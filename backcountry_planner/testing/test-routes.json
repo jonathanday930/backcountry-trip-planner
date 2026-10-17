@@ -1,0 +1,2667 @@
+{
+  "routes": [
+    {
+      "park": "grand-canyon",
+      "name": "Corridor Classic",
+      "description": "3 days / 2 nights, Bright Angel Trail down and back",
+      "stops": [
+        {
+          "role": "start",
+          "id": "bright-angel-trailhead",
+          "name": "Bright Angel Trailhead",
+          "lat": 36.0573,
+          "lon": -112.1432
+        },
+        {
+          "role": "stop-1",
+          "id": "cig-havasupai-gardens-campground",
+          "name": "CIG - Havasupai Gardens Campground",
+          "lat": 36.0769503,
+          "lon": -112.1293021
+        },
+        {
+          "role": "stop-2",
+          "id": "cbg-bright-angel-campground",
+          "name": "CBG - Bright Angel Campground",
+          "lat": 36.1010842,
+          "lon": -112.0958727
+        },
+        {
+          "role": "end",
+          "id": "bright-angel-trailhead",
+          "name": "Bright Angel Trailhead",
+          "lat": 36.0573,
+          "lon": -112.1432
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon",
+      "name": "Hermit / Tonto Loop",
+      "description": "5 days / 4 nights via Tonto Trail",
+      "stops": [
+        {
+          "role": "start",
+          "id": "bright-angel-trailhead",
+          "name": "Bright Angel Trailhead",
+          "lat": 36.0573,
+          "lon": -112.1432
+        },
+        {
+          "role": "stop-1",
+          "id": "cig-havasupai-gardens-campground",
+          "name": "CIG - Havasupai Gardens Campground",
+          "lat": 36.0769503,
+          "lon": -112.1293021
+        },
+        {
+          "role": "stop-2",
+          "id": "bl4-horn-creek",
+          "name": "BL4 - Horn Creek",
+          "lat": 36.0848571,
+          "lon": -112.1438426
+        },
+        {
+          "role": "stop-3",
+          "id": "bl7-monument-creek",
+          "name": "BL7 - Monument Creek",
+          "lat": 36.082745,
+          "lon": -112.1865245
+        },
+        {
+          "role": "stop-4",
+          "id": "bm7-hermit-creek",
+          "name": "BM7 - Hermit Creek",
+          "lat": 36.0822199,
+          "lon": -112.2126769
+        },
+        {
+          "role": "end",
+          "id": "bright-angel-trailhead",
+          "name": "Bright Angel Trailhead",
+          "lat": 36.0573,
+          "lon": -112.1432
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon",
+      "name": "Hermit Creek to Hermit Rapids",
+      "description": "2 days / 1 night, out-and-back along the lower Hermit Trail to the Colorado River (replaces the Rim-to-Rim route's Bright Angel Canyon/Cottonwood corridor leg, whose extreme relief over a single long digitized segment is a documented hard case for elevation-noise filtering)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "bm7-hermit-creek",
+          "name": "BM7 - Hermit Creek",
+          "lat": 36.0822199,
+          "lon": -112.2126769
+        },
+        {
+          "role": "stop-1",
+          "id": "hermit-rapids-campground",
+          "name": "Hermit Rapids Campground",
+          "lat": 36.0995441,
+          "lon": -112.2093427
+        },
+        {
+          "role": "end",
+          "id": "bm7-hermit-creek",
+          "name": "BM7 - Hermit Creek",
+          "lat": 36.0822199,
+          "lon": -112.2126769
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain",
+      "name": "Fern Lake - Odessa Lake Traverse",
+      "description": "2 days / 1 night, point-to-point",
+      "stops": [
+        {
+          "role": "start",
+          "id": "fern-lake-trailhead",
+          "name": "Fern Lake Trailhead",
+          "lat": 40.354858,
+          "lon": -105.631125
+        },
+        {
+          "role": "stop-1",
+          "id": "028-fern-lake",
+          "name": "028 - Fern Lake",
+          "lat": 40.3386,
+          "lon": -105.678821
+        },
+        {
+          "role": "stop-2",
+          "id": "030-odessa-lake",
+          "name": "030 - Odessa Lake",
+          "lat": 40.332219,
+          "lon": -105.684488
+        },
+        {
+          "role": "end",
+          "id": "bear-lake-trailhead",
+          "name": "Bear Lake Trailhead",
+          "lat": 40.31196,
+          "lon": -105.645946
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain",
+      "name": "Wild Basin - Thunder Lake",
+      "description": "2 days / 1 night, out-and-back",
+      "stops": [
+        {
+          "role": "start",
+          "id": "wild-basin-trailhead",
+          "name": "Wild Basin Trailhead",
+          "lat": 40.207812,
+          "lon": -105.566487
+        },
+        {
+          "role": "stop-1",
+          "id": "055-thunder-lake",
+          "name": "055 - Thunder Lake",
+          "lat": 40.222224,
+          "lon": -105.643433
+        },
+        {
+          "role": "end",
+          "id": "wild-basin-trailhead",
+          "name": "Wild Basin Trailhead",
+          "lat": 40.207812,
+          "lon": -105.566487
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain",
+      "name": "East Inlet - Lake Verna",
+      "description": "2-3 days, out-and-back",
+      "stops": [
+        {
+          "role": "start",
+          "id": "east-inlet-trailhead",
+          "name": "East Inlet Trailhead",
+          "lat": 40.239626,
+          "lon": -105.800176
+        },
+        {
+          "role": "stop-1",
+          "id": "062-lower-east-inlet",
+          "name": "062 - Lower East Inlet",
+          "lat": 40.234236,
+          "lon": -105.769562
+        },
+        {
+          "role": "stop-2",
+          "id": "067-upper-east-inlet",
+          "name": "067 - Upper East Inlet",
+          "lat": 40.2293,
+          "lon": -105.716209
+        },
+        {
+          "role": "stop-3",
+          "id": "068-lake-verna",
+          "name": "068 - Lake Verna",
+          "lat": 40.227943,
+          "lon": -105.711715
+        },
+        {
+          "role": "end",
+          "id": "east-inlet-trailhead",
+          "name": "East Inlet Trailhead",
+          "lat": 40.239626,
+          "lon": -105.800176
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain",
+      "name": "Sandbeach Lake",
+      "description": "2 days / 1 night, out-and-back",
+      "stops": [
+        {
+          "role": "start",
+          "id": "sandbeach-lake-trailhead",
+          "name": "Sandbeach Lake Trailhead",
+          "lat": 40.2197,
+          "lon": -105.534428
+        },
+        {
+          "role": "stop-1",
+          "id": "049-sandbeach-lake",
+          "name": "049 - Sandbeach Lake",
+          "lat": 40.221224,
+          "lon": -105.601083
+        },
+        {
+          "role": "end",
+          "id": "sandbeach-lake-trailhead",
+          "name": "Sandbeach Lake Trailhead",
+          "lat": 40.2197,
+          "lon": -105.534428
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain",
+      "name": "Glacier Gorge",
+      "description": "2 days / 1 night, out-and-back",
+      "stops": [
+        {
+          "role": "start",
+          "id": "glacier-gorge-trailhead",
+          "name": "Glacier Gorge Trailhead",
+          "lat": 40.310344,
+          "lon": -105.640371
+        },
+        {
+          "role": "stop-1",
+          "id": "039-glacier-gorge",
+          "name": "039 - Glacier Gorge",
+          "lat": 40.281763,
+          "lon": -105.639663
+        },
+        {
+          "role": "end",
+          "id": "glacier-gorge-trailhead",
+          "name": "Glacier Gorge Trailhead",
+          "lat": 40.310344,
+          "lon": -105.640371
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Hellroaring Creek",
+      "description": "3 days / 2 nights, point-to-point up the Hellroaring Creek drainage (replaces the Black Canyon of the Yellowstone route's Blacktail Creek Trailhead-to-Turkey Pen and Turkey Pen-to-Yellowstone River Bridge legs, whose steep river-canyon relief over long digitized segments is a documented hard case for elevation-noise filtering; Hellroaring's gentler creek-valley terrain is already validated as accurate via its own trailhead leg)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "hellroaring-trailhead",
+          "name": "Hellroaring Trailhead",
+          "lat": 44.94903314,
+          "lon": -110.4505112
+        },
+        {
+          "role": "stop-1",
+          "id": "2h4-lower-hellroaring-creek-backpacker",
+          "name": "2H4 - Lower Hellroaring Creek",
+          "lat": 44.97503,
+          "lon": -110.46348
+        },
+        {
+          "role": "stop-2",
+          "id": "2h6-hellroaring-creek-backpacker",
+          "name": "2H6 - Hellroaring Creek",
+          "lat": 44.97669,
+          "lon": -110.44373
+        },
+        {
+          "role": "end",
+          "id": "2h9-upper-hellroaring-creek-backpacker",
+          "name": "2H9 - Upper Hellroaring Creek",
+          "lat": 45.00878,
+          "lon": -110.43404
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Bechler River Trail (Cascade Corner)",
+      "description": "5 days / 4 nights, point-to-point through Cascade Corner's waterfalls",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lone-star-trailhead",
+          "name": "Lone Star Trailhead",
+          "lat": 44.44445964,
+          "lon": -110.8045298
+        },
+        {
+          "role": "stop-1",
+          "id": "oa1-lone-star-backpacker-stock",
+          "name": "OA1 - Lone Star",
+          "lat": 44.41792,
+          "lon": -110.8129
+        },
+        {
+          "role": "stop-2",
+          "id": "9b5-colonnade-falls-backpacker",
+          "name": "9B5 - Colonnade Falls",
+          "lat": 44.23894,
+          "lon": -110.94605
+        },
+        {
+          "role": "stop-3",
+          "id": "9a3-dunanda-falls-backpacker",
+          "name": "9A3 - Dunanda Falls",
+          "lat": 44.24563,
+          "lon": -111.02618
+        },
+        {
+          "role": "end",
+          "id": "bechler-ranger-station-trailhead",
+          "name": "Bechler Ranger Station Trailhead",
+          "lat": 44.14986284,
+          "lon": -111.0454721
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Heart Lake / Mount Sheridan Loop",
+      "description": "3 days / 2 nights, loop via Heart Lake's east shore and Mount Sheridan",
+      "stops": [
+        {
+          "role": "start",
+          "id": "heart-lake-trailhead",
+          "name": "Heart Lake Trailhead",
+          "lat": 44.31743856,
+          "lon": -110.5982458
+        },
+        {
+          "role": "stop-1",
+          "id": "8h2-sheridan-creek-backpacker",
+          "name": "8H2 - Sheridan Creek",
+          "lat": 44.27054,
+          "lon": -110.50183
+        },
+        {
+          "role": "stop-2",
+          "id": "8j1-beaver-creek-backpacker",
+          "name": "8J1 - Beaver Creek",
+          "lat": 44.27703,
+          "lon": -110.47454
+        },
+        {
+          "role": "end",
+          "id": "heart-lake-trailhead",
+          "name": "Heart Lake Trailhead",
+          "lat": 44.31743856,
+          "lon": -110.5982458
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Dinkey Lakes Wilderness Loop",
+      "description": "3 days / 2 nights, loop",
+      "stops": [
+        {
+          "role": "start",
+          "id": "badger",
+          "name": "Badger",
+          "lat": 37.26948056,
+          "lon": -119.1196167
+        },
+        {
+          "role": "stop-1",
+          "id": "coyote",
+          "name": "Coyote",
+          "lat": 37.18713333,
+          "lon": -119.0926667
+        },
+        {
+          "role": "stop-2",
+          "id": "cliff-lake",
+          "name": "Cliff Lake",
+          "lat": 37.10575278,
+          "lon": -118.987775
+        },
+        {
+          "role": "end",
+          "id": "badger",
+          "name": "Badger",
+          "lat": 37.26948056,
+          "lon": -119.1196167
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Ansel Adams Wilderness: Fernandez to Isberg",
+      "description": "2 days / 1 night, point-to-point (Norris Lake/Jackass dropped from the original itinerary - it and Fernandez are on opposite sides of a real, but non-trail-connected in OSM, gap and produced a nonsense multi-km detour, not a genuine short hop)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "fernandez",
+          "name": "Fernandez",
+          "lat": 37.53469167,
+          "lon": -119.2986667
+        },
+        {
+          "role": "end",
+          "id": "isberg",
+          "name": "Isberg",
+          "lat": 37.54250139,
+          "lon": -119.2680653
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Woodchuck Country: Crown/Rancheria to Statum/Spanish",
+      "description": "2 days / 1 night, point-to-point (Woodchuck dropped from the original itinerary - same reason as above, a genuine OSM network gap to Crown/Rancheria, not a real short hop)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "crown-rancheria",
+          "name": "Crown/Rancheria",
+          "lat": 36.97765889,
+          "lon": -118.9541775
+        },
+        {
+          "role": "end",
+          "id": "statum-spanish",
+          "name": "Statum/Spanish",
+          "lat": 36.95073528,
+          "lon": -118.9678192
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Rattlesnake to Dutch/Crater Traverse",
+      "description": "2 days / 1 night, point-to-point through the Ansel Adams Wilderness's southern trailhead cluster (Corbet to Dutch)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "corbet",
+          "name": "Corbet",
+          "lat": 37.31509917,
+          "lon": -119.0411439
+        },
+        {
+          "role": "stop-1",
+          "id": "hooper",
+          "name": "Hooper",
+          "lat": 37.30615889,
+          "lon": -118.9507756
+        },
+        {
+          "role": "end",
+          "id": "dutch",
+          "name": "Dutch",
+          "lat": 37.2764,
+          "lon": -118.9771
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Kaiser Wilderness: Potter Pass - Sample Meadow Loop",
+      "description": "3 days / 2 nights, loop via Sample Meadow and Potter Cut-off",
+      "stops": [
+        {
+          "role": "start",
+          "id": "potter-pass",
+          "name": "Potter Pass",
+          "lat": 37.26713611,
+          "lon": -119.1530361
+        },
+        {
+          "role": "stop-1",
+          "id": "sample-meadow",
+          "name": "Sample Meadow",
+          "lat": 37.33464583,
+          "lon": -119.1555383
+        },
+        {
+          "role": "stop-2",
+          "id": "potter-cut-off",
+          "name": "Potter Cut-off",
+          "lat": 37.26840833,
+          "lon": -119.1502056
+        },
+        {
+          "role": "end",
+          "id": "potter-pass",
+          "name": "Potter Pass",
+          "lat": 37.26713611,
+          "lon": -119.1530361
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Rae Lakes Loop (Woods Creek up, Bubbs Creek down)",
+      "description": "3-4 days / loop, up Paradise Valley-Woods Creek Trail past Rae Lakes/Glen Pass, down Bubbs Creek Trail",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.7945068,-118.5807004",
+          "name": "Roads End Trailhead",
+          "lat": 36.7945068,
+          "lon": -118.5807004
+        },
+        {
+          "role": "stop-1",
+          "id": "woods-creek",
+          "name": "Woods Creek",
+          "lat": 36.790083,
+          "lon": -118.551278
+        },
+        {
+          "role": "stop-2",
+          "id": "bubbs-creek",
+          "name": "Bubbs Creek",
+          "lat": 36.787806,
+          "lon": -118.551278
+        },
+        {
+          "role": "end",
+          "id": "36.7945068,-118.5807004",
+          "name": "Roads End Trailhead",
+          "lat": 36.7945068,
+          "lon": -118.5807004
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Mineral King Franklin-Sawtooth-Timber Gap Loop",
+      "description": "3-4 days / loop, over Franklin Pass and Timber Gap out of Mineral King",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.4529702,-118.5966625",
+          "name": "Mineral King / Sawtooth Trailhead",
+          "lat": 36.4529702,
+          "lon": -118.5966625
+        },
+        {
+          "role": "stop-1",
+          "id": "franklin",
+          "name": "Franklin",
+          "lat": 36.417715,
+          "lon": -118.576405
+        },
+        {
+          "role": "stop-2",
+          "id": "timber-gap",
+          "name": "Timber Gap",
+          "lat": 36.456597,
+          "lon": -118.595015
+        },
+        {
+          "role": "end",
+          "id": "36.4529702,-118.5966625",
+          "name": "Mineral King / Sawtooth Trailhead",
+          "lat": 36.4529702,
+          "lon": -118.5966625
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Wolverton to Crescent Meadow via Alta and the High Sierra Trail",
+      "description": "3 days / 2 nights, point-to-point via Panther Gap/Alta, the High Sierra Trail, and Bearpaw/Hamilton Lakes, returning to Crescent Meadow",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.5774896,-118.7442094",
+          "name": "Wolverton Trailhead",
+          "lat": 36.5774896,
+          "lon": -118.7442094
+        },
+        {
+          "role": "stop-1",
+          "id": "alta",
+          "name": "Alta",
+          "lat": 36.584333,
+          "lon": -118.705222
+        },
+        {
+          "role": "stop-2",
+          "id": "high-sierra-trail",
+          "name": "High Sierra Trail",
+          "lat": 36.57,
+          "lon": -118.679
+        },
+        {
+          "role": "end",
+          "id": "36.5530351,-118.7478223",
+          "name": "Crescent Meadow Trailhead",
+          "lat": 36.5530351,
+          "lon": -118.7478223
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Eagle Lake Basecamp with White Chief Canyon Day Hike",
+      "description": "3 days / 2 nights, out-and-back, Eagle Lake as basecamp with a side trip into White Chief Canyon",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.4332639,-118.5920154",
+          "name": "Eagle-Mosquito Trailhead",
+          "lat": 36.4332639,
+          "lon": -118.5920154
+        },
+        {
+          "role": "stop-1",
+          "id": "eagle-lake",
+          "name": "Eagle Lake",
+          "lat": 36.417528,
+          "lon": -118.604722
+        },
+        {
+          "role": "stop-2",
+          "id": "white-chief",
+          "name": "White Chief",
+          "lat": 36.412,
+          "lon": -118.591
+        },
+        {
+          "role": "end",
+          "id": "36.4332639,-118.5920154",
+          "name": "Eagle-Mosquito Trailhead",
+          "lat": 36.4332639,
+          "lon": -118.5920154
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Tonahutu Creek - North Inlet Loop",
+      "description": "3-4 days / 2-3 nights, point-to-point loop via Big Meadows, Granite Falls, and Haynach Lake, crossing the Continental Divide between the Tonahutu and North Inlet drainages",
+      "stops": [
+        {
+          "role": "start",
+          "id": "green-mountain",
+          "name": "Green Mountain Trailhead",
+          "lat": 40.30735407,
+          "lon": -105.8413772
+        },
+        {
+          "role": "stop-1",
+          "id": "big-meadows-group-snow-free-average-june-13",
+          "name": "Big Meadows Group (Snow-free average: June 13)",
+          "lat": 40.31059,
+          "lon": -105.80741
+        },
+        {
+          "role": "stop-2",
+          "id": "granite-falls-waste-bag-snow-free-average-june-18",
+          "name": "Granite Falls [Waste Bag] (Snow-free average: June 18)",
+          "lat": 40.31983,
+          "lon": -105.77148
+        },
+        {
+          "role": "stop-3",
+          "id": "haynach-snow-free-average-july-7",
+          "name": "Haynach (Snow-free average: July 7)",
+          "lat": 40.33501,
+          "lon": -105.7541
+        },
+        {
+          "role": "stop-4",
+          "id": "north-inlet-junction-snow-free-average-june-11",
+          "name": "North Inlet Junction (Snow-free average: June 11)",
+          "lat": 40.28083,
+          "lon": -105.72056
+        },
+        {
+          "role": "end",
+          "id": "north-inlet",
+          "name": "North Inlet Trailhead",
+          "lat": 40.25683188,
+          "lon": -105.8144081
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Andrews Creek - Loch Vale (Sky Pond zone)",
+      "description": "2 days / 1 night, out-and-back to the backcountry site closest to Sky Pond and Andrews Glacier",
+      "stops": [
+        {
+          "role": "start",
+          "id": "glacier-gorge-jct",
+          "name": "Glacier Gorge Jct Trailhead",
+          "lat": 40.31076759,
+          "lon": -105.6399513
+        },
+        {
+          "role": "stop-1",
+          "id": "andrews-creek-waste-bag-snow-free-average-july-2",
+          "name": "Andrews Creek [Waste Bag] (Snow-free average: July 2)",
+          "lat": 40.2902,
+          "lon": -105.66499
+        },
+        {
+          "role": "end",
+          "id": "glacier-gorge-jct",
+          "name": "Glacier Gorge Jct Trailhead",
+          "lat": 40.31076759,
+          "lon": -105.6399513
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Longs Peak Boulderfield (Keyhole Route)",
+      "description": "2 days / 1 night, out-and-back high-camp for a Keyhole Route summit attempt",
+      "stops": [
+        {
+          "role": "start",
+          "id": "longs-peak",
+          "name": "Longs Peak Trailhead",
+          "lat": 40.2720577,
+          "lon": -105.5566218
+        },
+        {
+          "role": "stop-1",
+          "id": "boulderfield-snow-free-average-june-19",
+          "name": "Boulderfield (Snow-free average: June 19)",
+          "lat": 40.26378,
+          "lon": -105.61532
+        },
+        {
+          "role": "end",
+          "id": "longs-peak",
+          "name": "Longs Peak Trailhead",
+          "lat": 40.2720577,
+          "lon": -105.5566218
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Hague Creek - Poudre River Trail",
+      "description": "2-3 days / 1-2 nights, out-and-back into the remote north end of the park via Corral Creek Trailhead (the Flatiron stop was replaced with Mirror Lake further up the same Hague Creek drainage - the original Flatiron leg showed a real path-choice divergence from Komoot's own routing with no fixable network gap, confirmed via diagnostic)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "corral-creek",
+          "name": "Corral Creek Trailhead",
+          "lat": 40.51785,
+          "lon": -105.770918
+        },
+        {
+          "role": "stop-1",
+          "id": "hague-creek-snow-free-average-july-4",
+          "name": "Hague Creek (Snow-free average: July 4)",
+          "lat": 40.51683,
+          "lon": -105.74121
+        },
+        {
+          "role": "stop-2",
+          "id": "mirror-lake-snow-free-average-july-13",
+          "name": "Mirror Lake (Snow-free average: July 13)",
+          "lat": 40.53368,
+          "lon": -105.69655
+        },
+        {
+          "role": "end",
+          "id": "corral-creek",
+          "name": "Corral Creek Trailhead",
+          "lat": 40.51785,
+          "lon": -105.770918
+        }
+      ]
+    },
+    {
+      "park": "joshua-tree",
+      "name": "California Riding and Hiking Trail (west to east)",
+      "description": "3 days / 2 nights, point-to-point (Black Rock Zone dropped from the original itinerary - a diffuse at-large-camping zone centroid, not a real trail point; the final Twin Tanks-to-North-Entrance exit leg also dropped - a confirmed real path-choice divergence from Komoot's own routing, not a fixable gap)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "covington-flats",
+          "name": "Covington Flats",
+          "lat": 34.0104,
+          "lon": -116.3058
+        },
+        {
+          "role": "stop-1",
+          "id": "juniper-flats",
+          "name": "Juniper Flats",
+          "lat": 33.9773,
+          "lon": -116.1651
+        },
+        {
+          "role": "stop-2",
+          "id": "geo-tour-road",
+          "name": "Geo Tour Road",
+          "lat": 33.9853,
+          "lon": -116.0821
+        },
+        {
+          "role": "end",
+          "id": "twin-tanks",
+          "name": "Twin Tanks",
+          "lat": 33.9895,
+          "lon": -116.0229
+        }
+      ]
+    },
+    {
+      "park": "joshua-tree",
+      "name": "Boy Scout Trail thru-hike",
+      "description": "3 days / 3 nights, point-to-point",
+      "stops": [
+        {
+          "role": "start",
+          "id": "boy-scout-trail-keys-west",
+          "name": "Boy Scout Trail (Keys West)",
+          "lat": 34.041,
+          "lon": -116.1857
+        },
+        {
+          "role": "stop-1",
+          "id": "boy-scout-trail-campsite-15",
+          "name": "Boy Scout Trail Campsite #15",
+          "lat": 34.05618,
+          "lon": -116.17804
+        },
+        {
+          "role": "stop-2",
+          "id": "boy-scout-trail-campsite-9",
+          "name": "Boy Scout Trail Campsite #9",
+          "lat": 34.08608,
+          "lon": -116.19369
+        },
+        {
+          "role": "stop-3",
+          "id": "boy-scout-trail-campsite-6",
+          "name": "Boy Scout Trail Campsite #6",
+          "lat": 34.09314,
+          "lon": -116.19533
+        },
+        {
+          "role": "stop-4",
+          "id": "boy-scout-trail-campsite-3",
+          "name": "Boy Scout Trail Campsite #3",
+          "lat": 34.10539,
+          "lon": -116.17268
+        },
+        {
+          "role": "end",
+          "id": "indian-cove",
+          "name": "Indian Cove",
+          "lat": 34.1132,
+          "lon": -116.1555
+        }
+      ]
+    },
+    {
+      "park": "joshua-tree",
+      "name": "Pine City to Geo Tour Road traverse",
+      "description": "2-3 days / 2 nights, point-to-point through the park's central trailhead cluster (replaces an earlier zone-centroid-based route whose at-large-camping zone endpoints snapped onto distant, unrelated network segments; also drops the Indian Cove-to-Pine-City opening leg, a confirmed real path-choice divergence from Komoot's own routing)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "pine-city",
+          "name": "Pine City",
+          "lat": 34.0235,
+          "lon": -116.0777
+        },
+        {
+          "role": "stop-1",
+          "id": "pleasant-valley",
+          "name": "Pleasant Valley",
+          "lat": 33.9234,
+          "lon": -116.054
+        },
+        {
+          "role": "end",
+          "id": "geo-tour-road",
+          "name": "Geo Tour Road",
+          "lat": 33.9853,
+          "lon": -116.0821
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Cascade Pass - Sahale Glacier Camp",
+      "description": "3 days / 2 nights, out-and-back via Pelton Basin",
+      "stops": [
+        {
+          "role": "start",
+          "id": "cascade-pass-trailhead-cascade-river-rd",
+          "name": "Cascade Pass Trailhead-Cascade River Rd",
+          "lat": 48.47552749,
+          "lon": -121.0749949
+        },
+        {
+          "role": "stop-1",
+          "id": "pelton-basin-camp",
+          "name": "Pelton Basin Camp",
+          "lat": 48.46231467,
+          "lon": -121.0488725
+        },
+        {
+          "role": "stop-2",
+          "id": "sahale-glacier-camp",
+          "name": "Sahale Glacier Camp",
+          "lat": 48.48514798,
+          "lon": -121.0451822
+        },
+        {
+          "role": "end",
+          "id": "cascade-pass-trailhead-cascade-river-rd",
+          "name": "Cascade Pass Trailhead-Cascade River Rd",
+          "lat": 48.47552749,
+          "lon": -121.0749949
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Copper Ridge Loop",
+      "description": "4 days / 3 nights, loop (counter-clockwise via Chilliwack River then Copper Ridge)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "hannegan-pass-trail-mount-baker-wilderness",
+          "name": "Hannegan Pass Trail- Mount Baker Wilderness",
+          "lat": 48.91013,
+          "lon": -121.59219
+        },
+        {
+          "role": "stop-1",
+          "id": "boundary-camp",
+          "name": "Boundary Camp",
+          "lat": 48.88736691,
+          "lon": -121.5238464
+        },
+        {
+          "role": "stop-2",
+          "id": "indian-creek-camp",
+          "name": "Indian Creek Camp",
+          "lat": 48.93492843,
+          "lon": -121.3944677
+        },
+        {
+          "role": "stop-3",
+          "id": "copper-lake-camp",
+          "name": "Copper Lake Camp",
+          "lat": 48.91858267,
+          "lon": -121.4490697
+        },
+        {
+          "role": "end",
+          "id": "hannegan-pass-trail-mount-baker-wilderness",
+          "name": "Hannegan Pass Trail- Mount Baker Wilderness",
+          "lat": 48.91013,
+          "lon": -121.59219
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Thunder Creek - Park Creek Pass - Stehekin",
+      "description": "4 days / 3 nights, point-to-point (Colonial Creek to Park Creek Camp via McAllister and Junction Camps)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "colonial-creek-campground-thunder-creek-trailhead-sr-20",
+          "name": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+          "lat": 48.68524108,
+          "lon": -121.0926023
+        },
+        {
+          "role": "stop-1",
+          "id": "mcallister-camp",
+          "name": "McAllister Camp",
+          "lat": 48.62200118,
+          "lon": -121.0576908
+        },
+        {
+          "role": "stop-2",
+          "id": "junction-camp",
+          "name": "Junction Camp",
+          "lat": 48.58603534,
+          "lon": -121.0233482
+        },
+        {
+          "role": "end",
+          "id": "park-creek-camp",
+          "name": "Park Creek Camp",
+          "lat": 48.42848802,
+          "lon": -120.9154133
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "PCT: Bridge Creek to Stehekin",
+      "description": "3 days / 2 nights, point-to-point (Pacific Crest Trail, Rainy Pass area to Stehekin via Bridge Creek and Tumwater Camp)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "bridge-creek-pct-trail-sr-20",
+          "name": "Bridge Creek (PCT) Trail- SR 20",
+          "lat": 48.5044626,
+          "lon": -120.7180706
+        },
+        {
+          "role": "stop-1",
+          "id": "fireweed-camp",
+          "name": "Fireweed Camp",
+          "lat": 48.46722606,
+          "lon": -120.7175394
+        },
+        {
+          "role": "stop-2",
+          "id": "tumwater-camp",
+          "name": "Tumwater Camp",
+          "lat": 48.38991046,
+          "lon": -120.8441352
+        },
+        {
+          "role": "end",
+          "id": "old-wagon-trail-pct-high-bridge-stehekin-valley-road",
+          "name": "Old Wagon Trail (PCT) @ High Bridge - Stehekin Valley Road",
+          "lat": 48.38002,
+          "lon": -120.83799
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "West Rim Trail",
+      "description": "4 days / 3 nights, point-to-point (Lava Point to the Grotto, camping in Potato Hollow then along the Rim)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lava-point-trailhead",
+          "name": "Lava Point Trailhead",
+          "lat": 37.38175,
+          "lon": -113.02295
+        },
+        {
+          "role": "stop-1",
+          "id": "west-rim-8",
+          "name": "West Rim 8",
+          "lat": 37.32135,
+          "lon": -112.98696
+        },
+        {
+          "role": "stop-2",
+          "id": "west-rim-5",
+          "name": "West Rim 5",
+          "lat": 37.29055,
+          "lon": -112.98712
+        },
+        {
+          "role": "stop-3",
+          "id": "west-rim-3",
+          "name": "West Rim 3",
+          "lat": 37.28494,
+          "lon": -112.98229
+        },
+        {
+          "role": "end",
+          "id": "grotto-trailhead",
+          "name": "Grotto Trailhead",
+          "lat": 37.25922,
+          "lon": -112.95134
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "West Rim Trail: Lava Point to Potato Hollow",
+      "description": "2 days / 1 night, point-to-point along the northern half of the West Rim Trail (replaces two routes through the Narrows slot canyon and La Verkin Creek corridor, whose extreme vertical relief over very short digitized segments is a documented hard case for elevation-noise filtering; the open-rim West Rim corridor is already validated as accurate)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lava-point-trailhead",
+          "name": "Lava Point Trailhead",
+          "lat": 37.38175,
+          "lon": -113.02295
+        },
+        {
+          "role": "stop-1",
+          "id": "west-rim-8",
+          "name": "West Rim 8",
+          "lat": 37.32135,
+          "lon": -112.98696
+        },
+        {
+          "role": "stop-2",
+          "id": "west-rim-7",
+          "name": "West Rim 7",
+          "lat": 37.32048,
+          "lon": -112.99103
+        },
+        {
+          "role": "end",
+          "id": "west-rim-6",
+          "name": "West Rim 6",
+          "lat": 37.30458,
+          "lon": -112.98809
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "Wildcat Canyon to Hop Valley",
+      "description": "1 day / 1 night, point-to-point through the Kolob Terrace backcountry (Hop Valley B to Hop Valley Trailhead)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "hop-valley-b",
+          "name": "Hop Valley B",
+          "lat": 37.40152,
+          "lon": -113.13786
+        },
+        {
+          "role": "end",
+          "id": "hop-valley-trailhead",
+          "name": "Hop Valley Trailhead",
+          "lat": 37.34044,
+          "lon": -113.11313
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "Zion Traverse: Lee Pass to Hop Valley",
+      "description": "3 days / 2 nights, point-to-point (western half of the Zion Traverse/Trans-Zion Trek)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lee-pass-trailhead",
+          "name": "Lee Pass Trailhead",
+          "lat": 37.45155,
+          "lon": -113.19155
+        },
+        {
+          "role": "stop-1",
+          "id": "la-verkin-creek-11",
+          "name": "La Verkin Creek 11",
+          "lat": 37.41723,
+          "lon": -113.14319
+        },
+        {
+          "role": "stop-2",
+          "id": "hop-valley-a",
+          "name": "Hop Valley A",
+          "lat": 37.40383,
+          "lon": -113.13919
+        },
+        {
+          "role": "end",
+          "id": "hop-valley-trailhead",
+          "name": "Hop Valley Trailhead",
+          "lat": 37.34044,
+          "lon": -113.11313
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Wonderland Trail Eastside: Summerland - Panhandle Gap - Indian Bar",
+      "description": "3 days / 2 nights, point-to-point (ends at Nickel Creek Camp rather than continuing to Box Canyon Trailhead - that final short exit leg is a confirmed real path-choice divergence from Komoot's own routing, not a fixable gap)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "fryingpan-creek-trailhead",
+          "name": "Fryingpan Creek Trailhead",
+          "lat": 46.88830141,
+          "lon": -121.6108351
+        },
+        {
+          "role": "stop-1",
+          "id": "summerland-camp",
+          "name": "Summerland Camp",
+          "lat": 46.865223,
+          "lon": -121.659165
+        },
+        {
+          "role": "stop-2",
+          "id": "indian-bar-camp",
+          "name": "Indian Bar Camp",
+          "lat": 46.825786,
+          "lon": -121.639797
+        },
+        {
+          "role": "end",
+          "id": "nickel-creek-camp",
+          "name": "Nickel Creek Camp",
+          "lat": 46.772278,
+          "lon": -121.624065
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Wonderland Trail Southside: Longmire to Nickel Creek",
+      "description": "3 days / 2 nights, point-to-point",
+      "stops": [
+        {
+          "role": "start",
+          "id": "longmire-trailhead",
+          "name": "Longmire Trailhead",
+          "lat": 46.75170357,
+          "lon": -121.8118453
+        },
+        {
+          "role": "stop-1",
+          "id": "paradise-river-camp",
+          "name": "Paradise River Camp",
+          "lat": 46.7702,
+          "lon": -121.7592
+        },
+        {
+          "role": "stop-2",
+          "id": "maple-creek-camp",
+          "name": "Maple Creek Camp",
+          "lat": 46.757294,
+          "lon": -121.657393
+        },
+        {
+          "role": "end",
+          "id": "nickel-creek-camp",
+          "name": "Nickel Creek Camp",
+          "lat": 46.772278,
+          "lon": -121.624065
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Wonderland Trail Westside: South Puyallup to South Mowich River",
+      "description": "4 days / 3 nights, point-to-point",
+      "stops": [
+        {
+          "role": "start",
+          "id": "south-puyallup-trailhead",
+          "name": "South Puyallup Trailhead",
+          "lat": 46.80682009,
+          "lon": -121.8912838
+        },
+        {
+          "role": "stop-1",
+          "id": "devil-s-dream-camp",
+          "name": "Devil's Dream Camp",
+          "lat": 46.782109,
+          "lon": -121.835194
+        },
+        {
+          "role": "stop-2",
+          "id": "klapatche-park-camp",
+          "name": "Klapatche Park Camp",
+          "lat": 46.835986,
+          "lon": -121.877423
+        },
+        {
+          "role": "stop-3",
+          "id": "golden-lakes-camp",
+          "name": "Golden Lakes Camp",
+          "lat": 46.879728,
+          "lon": -121.904112
+        },
+        {
+          "role": "end",
+          "id": "so-mowich-river-camp",
+          "name": "So. Mowich River Camp",
+          "lat": 46.91524,
+          "lon": -121.894089
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Northern Loop Trail: Sunrise to Dick Creek",
+      "description": "3 days / 2 nights, point-to-point (opening leg of the Northern Loop)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "sunrise-trailhead",
+          "name": "Sunrise Trailhead",
+          "lat": 46.9149308,
+          "lon": -121.6428307
+        },
+        {
+          "role": "stop-1",
+          "id": "berkeley-park-camp",
+          "name": "Berkeley Park Camp",
+          "lat": 46.936034,
+          "lon": -121.686867
+        },
+        {
+          "role": "stop-2",
+          "id": "granite-creek-camp",
+          "name": "Granite Creek Camp",
+          "lat": 46.920405,
+          "lon": -121.712414
+        },
+        {
+          "role": "stop-3",
+          "id": "mystic-camp",
+          "name": "Mystic Camp",
+          "lat": 46.915121,
+          "lon": -121.749628
+        },
+        {
+          "role": "end",
+          "id": "dick-creek-camp",
+          "name": "Dick Creek Camp",
+          "lat": 46.940605,
+          "lon": -121.78296
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon-full",
+      "name": "Corridor Classic (South Kaibab / Bright Angel)",
+      "description": "3 days / 2 nights, point-to-point (South Kaibab down, Bright Angel up via Havasupai Gardens)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "south-kaibab-trailhead",
+          "name": "South Kaibab Trailhead",
+          "lat": 36.052942,
+          "lon": -112.083642
+        },
+        {
+          "role": "stop-1",
+          "id": "cbg-bright-angel-campground",
+          "name": "CBG - Bright Angel Campground",
+          "lat": 36.101282,
+          "lon": -112.095894
+        },
+        {
+          "role": "stop-2",
+          "id": "cig-havasupai-gardens-campground",
+          "name": "CIG - Havasupai Gardens Campground",
+          "lat": 36.077034,
+          "lon": -112.129107
+        },
+        {
+          "role": "end",
+          "id": "bright-angel-trailhead",
+          "name": "Bright Angel Trailhead",
+          "lat": 36.057196,
+          "lon": -112.14394
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon-full",
+      "name": "Rim to Rim: North Kaibab Approach",
+      "description": "2 days / 1 night, out-and-back (northern half of a Rim-to-Rim trip; the middle Cottonwood-to-Bright-Angel Campground leg is tested separately as a short out-and-back below, since that single long steep segment has no intermediate real campsite to break it into shorter, more filter-friendly pieces)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "north-kaibab-trailhead",
+          "name": "North Kaibab Trailhead",
+          "lat": 36.21705,
+          "lon": -112.056796
+        },
+        {
+          "role": "stop-1",
+          "id": "ccg-cottonwood-campground",
+          "name": "CCG - Cottonwood Campground",
+          "lat": 36.170559,
+          "lon": -112.040147
+        },
+        {
+          "role": "end",
+          "id": "north-kaibab-trailhead",
+          "name": "North Kaibab Trailhead",
+          "lat": 36.21705,
+          "lon": -112.056796
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon-full",
+      "name": "Rim to Rim: South Kaibab Approach",
+      "description": "2 days / 1 night, out-and-back (southern half of a Rim-to-Rim trip)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "south-kaibab-trailhead",
+          "name": "South Kaibab Trailhead",
+          "lat": 36.052942,
+          "lon": -112.083642
+        },
+        {
+          "role": "stop-1",
+          "id": "cbg-bright-angel-campground",
+          "name": "CBG - Bright Angel Campground",
+          "lat": 36.101282,
+          "lon": -112.095894
+        },
+        {
+          "role": "end",
+          "id": "south-kaibab-trailhead",
+          "name": "South Kaibab Trailhead",
+          "lat": 36.052942,
+          "lon": -112.083642
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon-full",
+      "name": "Thunder River - Deer Creek Loop (Bill Hall)",
+      "description": "4 days / 3 nights, loop via Thunder River, Tapeats Creek and Deer Creek",
+      "stops": [
+        {
+          "role": "start",
+          "id": "bill-hall-trailhead",
+          "name": "Bill Hall Trailhead",
+          "lat": 36.434853,
+          "lon": -112.429919
+        },
+        {
+          "role": "stop-1",
+          "id": "aw7-upper-tapeats-campsite",
+          "name": "AW7 - Upper Tapeats Campsite",
+          "lat": 36.390699,
+          "lon": -112.452742
+        },
+        {
+          "role": "stop-2",
+          "id": "ax7-deer-creek-campsite",
+          "name": "AX7 - Deer Creek - Campsite",
+          "lat": 36.395515,
+          "lon": -112.505261
+        },
+        {
+          "role": "end",
+          "id": "bill-hall-trailhead",
+          "name": "Bill Hall Trailhead",
+          "lat": 36.434853,
+          "lon": -112.429919
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "Kolob Arch / La Verkin Creek Corridor",
+      "description": "2-3 days, point-to-point deeper into the La Verkin Creek drainage toward Kolob Arch, using campsites further along the corridor than previously tested",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lee-pass-trailhead",
+          "name": "Lee Pass Trailhead",
+          "lat": 37.45155,
+          "lon": -113.19155
+        },
+        {
+          "role": "stop-1",
+          "id": "la-verkin-creek-2",
+          "name": "La Verkin Creek 2",
+          "lat": 37.41441,
+          "lon": -113.19284
+        },
+        {
+          "role": "stop-2",
+          "id": "la-verkin-creek-7",
+          "name": "La Verkin Creek 7",
+          "lat": 37.41542,
+          "lon": -113.15464
+        },
+        {
+          "role": "end",
+          "id": "la-verkin-creek-13",
+          "name": "La Verkin Creek 13",
+          "lat": 37.43129,
+          "lon": -113.12698
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "Southwest Desert: Coal Pits Wash to Huber Wash",
+      "description": "2 days / 1 night, point-to-point loop-style traverse of Zion's Southwest Desert backcountry zone connecting the Coal Pits Wash and Huber Wash trailheads",
+      "stops": [
+        {
+          "role": "start",
+          "id": "coal-pits-wash-trailhead",
+          "name": "Coal Pits Wash Trailhead",
+          "lat": 37.17043,
+          "lon": -113.08125
+        },
+        {
+          "role": "stop-1",
+          "id": "southwest-desert-1",
+          "name": "Southwest Desert 1",
+          "lat": 37.20598,
+          "lon": -113.05572
+        },
+        {
+          "role": "end",
+          "id": "southwest-desert-4",
+          "name": "Southwest Desert 4",
+          "lat": 37.21299,
+          "lon": -113.07806
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Lost Lake Trail (North Fork)",
+      "description": "3 days / 2 nights, out-and-back up the North Fork of the Big Thompson River via Boundary Creek to Lost Lake, in the park's remote North Fork zone near Dunraven",
+      "stops": [
+        {
+          "role": "start",
+          "id": "dunraven",
+          "name": "Dunraven Trailhead",
+          "lat": 40.4756908,
+          "lon": -105.4604118
+        },
+        {
+          "role": "stop-1",
+          "id": "boundary-creek-snow-free-average-june-2",
+          "name": "Boundary Creek (Snow-free average: June 2)",
+          "lat": 40.49796,
+          "lon": -105.51826
+        },
+        {
+          "role": "stop-2",
+          "id": "lost-lake-snow-free-average-july-6",
+          "name": "Lost Lake (Snow-free average: July 6)",
+          "lat": 40.50812,
+          "lon": -105.59838
+        },
+        {
+          "role": "end",
+          "id": "dunraven",
+          "name": "Dunraven Trailhead",
+          "lat": 40.4756908,
+          "lon": -105.4604118
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Lawn Lake Trail (Mummy Range)",
+      "description": "2-3 days, out-and-back via Cutbank to Lawn Lake, site of the 1982 Lawn Lake Dam failure flood",
+      "stops": [
+        {
+          "role": "start",
+          "id": "lawn-lake",
+          "name": "Lawn Lake Trailhead",
+          "lat": 40.40720117,
+          "lon": -105.6263543
+        },
+        {
+          "role": "stop-1",
+          "id": "cutbank-snow-free-average-may-21",
+          "name": "Cutbank (Snow-free average: May 21)",
+          "lat": 40.43369,
+          "lon": -105.63695
+        },
+        {
+          "role": "stop-2",
+          "id": "lawn-lake-snow-free-average-june-26",
+          "name": "Lawn Lake (Snow-free average: June 26)",
+          "lat": 40.46628,
+          "lon": -105.62786
+        },
+        {
+          "role": "end",
+          "id": "lawn-lake",
+          "name": "Lawn Lake Trailhead",
+          "lat": 40.40720117,
+          "lon": -105.6263543
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Cub Lake to Fern Lake Trail",
+      "description": "1-2 days, point-to-point via Cub Creek and The Pool, a classic Bear Lake-corridor traverse ending at Fern Lake Trailhead",
+      "stops": [
+        {
+          "role": "start",
+          "id": "cub-lake",
+          "name": "Cub Lake Trailhead",
+          "lat": 40.35618972,
+          "lon": -105.6156182
+        },
+        {
+          "role": "stop-1",
+          "id": "cub-creek-snow-free-average-may-13",
+          "name": "Cub Creek (Snow-free average: May 13)",
+          "lat": 40.3477,
+          "lon": -105.63872
+        },
+        {
+          "role": "end",
+          "id": "fern-lake",
+          "name": "Fern Lake Trailhead",
+          "lat": 40.35489295,
+          "lon": -105.6309782
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Wild Basin: Ouzel Lake to Thunder Lake",
+      "description": "3 days / 2 nights, lollipop route past Ouzel Falls/Lake to Thunder Lake beneath Tanima Peak and Mt. Alice",
+      "stops": [
+        {
+          "role": "start",
+          "id": "wild-basin",
+          "name": "Wild Basin Trailhead",
+          "lat": 40.20801888,
+          "lon": -105.5665735
+        },
+        {
+          "role": "stop-1",
+          "id": "ouzel-lake-snow-free-average-june-16",
+          "name": "Ouzel Lake (Snow-free average: June 16)",
+          "lat": 40.20003,
+          "lon": -105.63121
+        },
+        {
+          "role": "stop-2",
+          "id": "thunder-lake-snow-free-average-july-5",
+          "name": "Thunder Lake (Snow-free average: July 5)",
+          "lat": 40.22459,
+          "lon": -105.64369
+        },
+        {
+          "role": "end",
+          "id": "wild-basin",
+          "name": "Wild Basin Trailhead",
+          "lat": 40.20801888,
+          "lon": -105.5665735
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "East Inlet to Lake Verna",
+      "description": "3 days / 2 nights, out-and-back along the East Inlet drainage via Lower East Inlet to Lake Verna",
+      "stops": [
+        {
+          "role": "start",
+          "id": "east-inlet",
+          "name": "East Inlet Trailhead",
+          "lat": 40.23969648,
+          "lon": -105.8002082
+        },
+        {
+          "role": "stop-1",
+          "id": "lower-east-inlet-snow-free-average-may-23",
+          "name": "Lower East Inlet (Snow-free average: May 23)",
+          "lat": 40.23431,
+          "lon": -105.76949
+        },
+        {
+          "role": "stop-2",
+          "id": "lake-verna-snow-free-average-july-9",
+          "name": "Lake Verna (Snow-free average: July 9)",
+          "lat": 40.22801,
+          "lon": -105.71149
+        },
+        {
+          "role": "end",
+          "id": "east-inlet",
+          "name": "East Inlet Trailhead",
+          "lat": 40.23969648,
+          "lon": -105.8002082
+        }
+      ]
+    },
+    {
+      "park": "rocky-mountain-full",
+      "name": "Never Summer Range: Grand Ditch to Skeleton Gulch",
+      "description": "3 days / 2 nights, out-and-back along the historic Grand Ditch past Ditch Camp to Skeleton Gulch",
+      "stops": [
+        {
+          "role": "start",
+          "id": "colorado-river",
+          "name": "Colorado River Trailhead",
+          "lat": 40.40087179,
+          "lon": -105.8487441
+        },
+        {
+          "role": "stop-1",
+          "id": "ditch-camp-snow-free-average-june-26",
+          "name": "Ditch Camp (Snow-free average: June 26)",
+          "lat": 40.45793,
+          "lon": -105.86209
+        },
+        {
+          "role": "stop-2",
+          "id": "skeleton-gulch-snow-free-average-july-8",
+          "name": "Skeleton Gulch (Snow-free average: July 8)",
+          "lat": 40.45886,
+          "lon": -105.88044
+        },
+        {
+          "role": "end",
+          "id": "colorado-river",
+          "name": "Colorado River Trailhead",
+          "lat": 40.40087179,
+          "lon": -105.8487441
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Slough Creek Trail",
+      "description": "2 days / 1 night, out-and-back through Slough Creek's broad meadows, a classic Northern Range trout-fishing corridor",
+      "stops": [
+        {
+          "role": "start",
+          "id": "slough-creek-trailhead",
+          "name": "Slough Creek Trailhead",
+          "lat": 44.94356355,
+          "lon": -110.3079313
+        },
+        {
+          "role": "stop-1",
+          "id": "2s1-lower-slough-creek-backpacker-stock",
+          "name": "2S1 Lower Slough Creek (Backpacker, Stock)",
+          "lat": 44.97002,
+          "lon": -110.23647
+        },
+        {
+          "role": "end",
+          "id": "slough-creek-trailhead",
+          "name": "Slough Creek Trailhead",
+          "lat": 44.94356355,
+          "lon": -110.3079313
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Specimen Ridge Trail",
+      "description": "2 days / 1 night, point-to-point over Amethyst Mountain via the Agate Creek campsite, ending with a Lamar River ford at the Lamar River Trailhead",
+      "stops": [
+        {
+          "role": "start",
+          "id": "specimen-ridge-trailhead",
+          "name": "Specimen Ridge Trailhead",
+          "lat": 44.91230301,
+          "lon": -110.3873459
+        },
+        {
+          "role": "stop-1",
+          "id": "2y1-agate-creek-backpacker",
+          "name": "2Y1 Agate Creek (Backpacker)",
+          "lat": 44.852,
+          "lon": -110.35822
+        },
+        {
+          "role": "end",
+          "id": "lamar-river-trailhead",
+          "name": "Lamar River Trailhead",
+          "lat": 44.86917795,
+          "lon": -110.1662232
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "DeLacy Creek to Old Faithful via Shoshone Lake",
+      "description": "2-3 days, point-to-point along Shoshone Lake's shore and through Shoshone Geyser Basin to the Lone Star Trailhead",
+      "stops": [
+        {
+          "role": "start",
+          "id": "delacy-creek-trailhead",
+          "name": "DeLacy Creek Trailhead",
+          "lat": 44.44677594,
+          "lon": -110.7016143
+        },
+        {
+          "role": "stop-1",
+          "id": "8s2-delacy-creek-backpacker-non-motorized-boat",
+          "name": "8S2 DeLacy Creek (Backpacker, Non-Motorized Boat)",
+          "lat": 44.40949,
+          "lon": -110.70652
+        },
+        {
+          "role": "stop-2",
+          "id": "8g1-shoshone-meadows-backpacker-llama",
+          "name": "8G1 Shoshone Meadows (Backpacker, Llama)",
+          "lat": 44.37364,
+          "lon": -110.81721
+        },
+        {
+          "role": "end",
+          "id": "lone-star-trailhead",
+          "name": "Lone Star Trailhead",
+          "lat": 44.44445964,
+          "lon": -110.8045298
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Owyhigh Lakes Trail: Deer Creek to White River",
+      "description": "Point-to-point day hike or 1-night backpack over Owyhigh Lakes pass, from the Deer Creek Trailhead on SR 123 past Deer Creek Camp to the Owyhigh Lakes Trailhead near White River Road.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "deer-creek-trailhead",
+          "name": "Deer Creek Trailhead",
+          "lat": 46.83382158,
+          "lon": -121.535451
+        },
+        {
+          "role": "stop-1",
+          "id": "deer-creek-camp",
+          "name": "Deer Creek Camp",
+          "lat": 46.834662,
+          "lon": -121.538575
+        },
+        {
+          "role": "end",
+          "id": "owyhigh-lakes-trailhead",
+          "name": "Owyhigh Lakes Trailhead",
+          "lat": 46.89055921,
+          "lon": -121.5967334
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Glacier Basin to Inter Glacier",
+      "description": "Out-and-back overnight, the standard Emmons Glacier climbers' approach: White River Campground Trailhead up the Glacier Basin Trail to Glacier Basin Camp, continuing to the Inter Glacier alpine zone.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "white-river-campground-trailhead",
+          "name": "White River Campground Trailhead",
+          "lat": 46.90237091,
+          "lon": -121.6434432
+        },
+        {
+          "role": "stop-1",
+          "id": "glacier-basin-camp",
+          "name": "Glacier Basin Camp",
+          "lat": 46.889168,
+          "lon": -121.701164
+        },
+        {
+          "role": "end",
+          "id": "inter-glacier-alpine-zone",
+          "name": "Inter Glacier Alpine Zone",
+          "lat": 46.877949,
+          "lon": -121.7252063
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Crystal Lakes",
+      "description": "Out-and-back day hike/overnight from Crystal Lakes Trailhead on SR 410 up to Lower and Upper Crystal Lake Camps.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "crystal-lakes-trailhead",
+          "name": "Crystal Lakes Trailhead",
+          "lat": 46.92281206,
+          "lon": -121.5335483
+        },
+        {
+          "role": "stop-1",
+          "id": "lower-crystal-lake-camp",
+          "name": "Lower Crystal Lake Camp",
+          "lat": 46.911349,
+          "lon": -121.513825
+        },
+        {
+          "role": "end",
+          "id": "upper-crystal-lake-camp",
+          "name": "Upper Crystal Lake Camp",
+          "lat": 46.905956,
+          "lon": -121.508748
+        }
+      ]
+    },
+    {
+      "park": "mount-rainier",
+      "name": "Laughingwater Creek to Three Lakes",
+      "description": "Out-and-back overnight on the Laughingwater Creek Trail to its PCT junction at Three Lakes Camp.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "laughingwater-creek-trailhead",
+          "name": "Laughingwater Creek Trailhead",
+          "lat": 46.75092816,
+          "lon": -121.5583822
+        },
+        {
+          "role": "end",
+          "id": "three-lakes-camp",
+          "name": "Three Lakes Camp",
+          "lat": 46.763103,
+          "lon": -121.473329
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Easy Pass to Thunder Creek (Fisher Creek Traverse)",
+      "description": "Point-to-point multi-day thru-hike over Easy Pass and down Fisher Creek to a layover at Junction Camp, then out via Thunder Creek to Colonial Creek Campground.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "easy-pass-trail-sr-20",
+          "name": "Easy Pass Trail- SR 20",
+          "lat": 48.58819821,
+          "lon": -120.8030571
+        },
+        {
+          "role": "stop-1",
+          "id": "fisher-camp",
+          "name": "Fisher Camp",
+          "lat": 48.56768968,
+          "lon": -120.8589539
+        },
+        {
+          "role": "stop-2",
+          "id": "junction-camp",
+          "name": "Junction Camp",
+          "lat": 48.58603534,
+          "lon": -121.0233482
+        },
+        {
+          "role": "end",
+          "id": "colonial-creek-campground-thunder-creek-trailhead-sr-20",
+          "name": "Colonial Creek Campground (Thunder Creek Trailhead)- SR 20",
+          "lat": 48.68524108,
+          "lon": -121.0926023
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "East Bank Trail: Ross Lake North",
+      "description": "Point-to-point overnight along the East Bank Trail on Ross Lake's east shore, from the East Bank Trailhead north past Ruby Pasture Camp to Roland Creek Camp.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "east-bank-trailhead-sr-20",
+          "name": "East Bank Trailhead- SR 20",
+          "lat": 48.70815408,
+          "lon": -120.9782432
+        },
+        {
+          "role": "stop-1",
+          "id": "ruby-pasture-camp",
+          "name": "Ruby Pasture Camp",
+          "lat": 48.72839369,
+          "lon": -121.0140407
+        },
+        {
+          "role": "end",
+          "id": "roland-creek-camp",
+          "name": "Roland Creek Camp",
+          "lat": 48.77135763,
+          "lon": -121.0209648
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Thornton Lakes",
+      "description": "Out-and-back overnight on the steep Thornton Lakes Trail to Thornton Lake Camp.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "thornton-lake-trailhead-thornton-lake-rd",
+          "name": "Thornton Lake Trailhead-Thornton Lake Rd",
+          "lat": 48.65339769,
+          "lon": -121.3255031
+        },
+        {
+          "role": "end",
+          "id": "thornton-lake-camp",
+          "name": "Thornton Lake Camp",
+          "lat": 48.68105549,
+          "lon": -121.3302369
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Mineral King to Atwell Mill via Farewell Gap and Tar Gap",
+      "description": "4-5 days, point-to-point across the southern Mineral King backcountry: Farewell Canyon Trail to Farewell Gap, north past Mosquito Lakes and Tar Gap, exiting via the Atwell-Hockett Trail near Atwell Mill",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.4529702,-118.5966625",
+          "name": "Mineral King / Sawtooth Trailhead",
+          "lat": 36.4529702,
+          "lon": -118.5966625
+        },
+        {
+          "role": "stop-1",
+          "id": "farewell-gap",
+          "name": "Farewell Gap",
+          "lat": 36.399278,
+          "lon": -118.571722
+        },
+        {
+          "role": "stop-2",
+          "id": "mosquito-lakes",
+          "name": "Mosquito Lakes",
+          "lat": 36.433,
+          "lon": -118.61
+        },
+        {
+          "role": "stop-3",
+          "id": "tar-gap",
+          "name": "Tar Gap",
+          "lat": 36.450806,
+          "lon": -118.613861
+        },
+        {
+          "role": "end",
+          "id": "atwell-hockett",
+          "name": "Atwell-Hockett",
+          "lat": 36.464556,
+          "lon": -118.667167
+        }
+      ]
+    },
+    {
+      "park": "sequoia-kings-canyon",
+      "name": "Jennie Lakes Wilderness Loop via JO Pass and Belle Canyon",
+      "description": "3 days / 2 nights, loop from Big Meadows Trailhead crossing into Sequoia-Kings Canyon backcountry at JO Pass and returning via the Belle Canyon pass",
+      "stops": [
+        {
+          "role": "start",
+          "id": "36.718138,-118.833305",
+          "name": "Big Meadows Trailhead",
+          "lat": 36.718138,
+          "lon": -118.833305
+        },
+        {
+          "role": "stop-1",
+          "id": "jo-pass",
+          "name": "JO Pass",
+          "lat": 36.675722,
+          "lon": -118.74425
+        },
+        {
+          "role": "stop-2",
+          "id": "belle-canyon",
+          "name": "Belle Canyon",
+          "lat": 36.701861,
+          "lon": -118.725972
+        },
+        {
+          "role": "end",
+          "id": "36.718138,-118.833305",
+          "name": "Big Meadows Trailhead",
+          "lat": 36.718138,
+          "lon": -118.833305
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "Kaiser Loop Trail: Sample Meadow to Billy Creek",
+      "description": "2-3 days, point-to-point along the Kaiser Loop Trail's north segment, from Sample Meadow past Potter Pass/Twin Lakes toward the Billy Creek trailhead area near George Lake",
+      "stops": [
+        {
+          "role": "start",
+          "id": "sample-meadow",
+          "name": "Sample Meadow",
+          "lat": 37.33464583,
+          "lon": -119.1555383
+        },
+        {
+          "role": "end",
+          "id": "billy-creek",
+          "name": "Billy Creek",
+          "lat": 37.23786944,
+          "lon": -119.2260111
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "French Trail: Logan Meadow to Cassidy/Miller",
+      "description": "3-4 days, point-to-point along the French Trail above the South Fork San Joaquin River, from Logan Meadow through Piyau Dome to the Cassidy/Miller crossing",
+      "stops": [
+        {
+          "role": "start",
+          "id": "logan-meadow",
+          "name": "Logan Meadow",
+          "lat": 37.34848056,
+          "lon": -119.3361944
+        },
+        {
+          "role": "stop-1",
+          "id": "piyau-dome",
+          "name": "Piyau Dome",
+          "lat": 37.49354139,
+          "lon": -119.2606231
+        },
+        {
+          "role": "end",
+          "id": "cassidy-miller",
+          "name": "Cassidy/Miller",
+          "lat": 37.5038375,
+          "lon": -119.2404367
+        }
+      ]
+    },
+    {
+      "park": "sierra-national-forest",
+      "name": "French Trail: Hells Half Acre to South Fork",
+      "description": "1-2 days, point-to-point along the French Trail's Hells Half Acre to South Fork segment above the South Fork San Joaquin River",
+      "stops": [
+        {
+          "role": "start",
+          "id": "hells-half-acre",
+          "name": "Hells Half Acre",
+          "lat": 37.4327025,
+          "lon": -119.2789511
+        },
+        {
+          "role": "end",
+          "id": "south-fork",
+          "name": "South Fork",
+          "lat": 37.45227361,
+          "lon": -119.2680633
+        }
+      ]
+    },
+    {
+      "park": "grand-canyon-full",
+      "name": "Rim to Rim via North Kaibab",
+      "description": "3-4 days, point-to-point classic Rim-to-Rim: North Kaibab Trail down through Bright Angel Campground/Phantom Ranch, then up Bright Angel Trail to the South Rim",
+      "stops": [
+        {
+          "role": "start",
+          "id": "north-kaibab-trailhead",
+          "name": "North Kaibab Trailhead",
+          "lat": 36.21705,
+          "lon": -112.056796
+        },
+        {
+          "role": "end",
+          "id": "cbg-bright-angel-campground",
+          "name": "CBG - Bright Angel Campground",
+          "lat": 36.101282,
+          "lon": -112.095894
+        }
+      ]
+    },
+    {
+      "park": "zion",
+      "name": "The Narrows Top-Down (Chamberlain's Ranch to Temple of Sinawava)",
+      "description": "2 days / 1-2 nights, point-to-point permit thru-hike of the Virgin River Narrows from Chamberlain's Ranch down through the numbered backcountry campsites to Temple of Sinawava",
+      "stops": [
+        {
+          "role": "start",
+          "id": "chamberlain-s-ranch-trailhead",
+          "name": "Chamberlain's Ranch Trailhead",
+          "lat": 37.38533,
+          "lon": -112.83898
+        },
+        {
+          "role": "stop-1",
+          "id": "narrows-4",
+          "name": "Narrows 4",
+          "lat": 37.35168,
+          "lon": -112.94922
+        },
+        {
+          "role": "stop-2",
+          "id": "narrows-9",
+          "name": "Narrows 9",
+          "lat": 37.34402,
+          "lon": -112.95123
+        },
+        {
+          "role": "end",
+          "id": "temple-of-sinawava-trailhead",
+          "name": "Temple of Sinawava Trailhead",
+          "lat": 37.28501,
+          "lon": -112.94743
+        }
+      ]
+    },
+    {
+      "park": "yellowstone",
+      "name": "Pelican Valley / Astringent Creek to Wapiti Lake",
+      "description": "4-5 days, point-to-point through prime grizzly habitat via Pelican Creek and Astringent Creek to the Wapiti Lake Trailhead near Canyon",
+      "stops": [
+        {
+          "role": "start",
+          "id": "pelican-valley-trailhead",
+          "name": "Pelican Valley Trailhead",
+          "lat": 44.55898888,
+          "lon": -110.3077723
+        },
+        {
+          "role": "stop-1",
+          "id": "5p7-upper-pelican-backpacker-stock",
+          "name": "5P7 Upper Pelican (Backpacker, Stock)",
+          "lat": 44.7093,
+          "lon": -110.20736
+        },
+        {
+          "role": "end",
+          "id": "wapiti-lake-trailhead",
+          "name": "Wapiti Lake Trailhead",
+          "lat": 44.70773282,
+          "lon": -110.5002751
+        }
+      ]
+    },
+    {
+      "park": "north-cascades",
+      "name": "Big Beaver Trail to Beaver Pass",
+      "description": "Multi-day point-to-point from Ross Dam Trailhead along Ross Lake to Big Beaver Camp, then up the Big Beaver Trail through old growth to Luna Camp and on to Beaver Pass Camp.",
+      "stops": [
+        {
+          "role": "start",
+          "id": "ross-dam-trailhead-happy-flats-sr-20",
+          "name": "Ross Dam Trailhead (Happy Flats)-SR 20",
+          "lat": 48.72779352,
+          "lon": -121.062752
+        },
+        {
+          "role": "stop-1",
+          "id": "big-beaver-boat-camp",
+          "name": "Big Beaver Boat Camp",
+          "lat": 48.77508314,
+          "lon": -121.0588336
+        },
+        {
+          "role": "stop-2",
+          "id": "luna-camp",
+          "name": "Luna Camp",
+          "lat": 48.83457713,
+          "lon": -121.2024161
+        },
+        {
+          "role": "end",
+          "id": "beaver-pass-camp",
+          "name": "Beaver Pass Camp",
+          "lat": 48.87244241,
+          "lon": -121.2472479
+        }
+      ]
+    },
+    {
+      "park": "grand-teton",
+      "name": "Teton Crest Trail (South to North via Death Canyon Shelf)",
+      "description": "5 days / 4 nights, classic southbound itinerary: Granite Canyon TH -> Granite Canyon -> Death Canyon Shelf -> South Fork Cascade Canyon -> Holly Lake -> String Lake TH",
+      "stops": [
+        {
+          "role": "start",
+          "id": "granite-canyon-trailhead",
+          "name": "Granite Canyon Trailhead",
+          "lat": 43.60737997,
+          "lon": -110.7931008
+        },
+        {
+          "role": "stop-1",
+          "id": "granite-south-middle-fork",
+          "name": "Granite South/Middle Fork",
+          "lat": 43.609082,
+          "lon": -110.922961
+        },
+        {
+          "role": "stop-2",
+          "id": "death-canyon-shelf",
+          "name": "Death Canyon Shelf",
+          "lat": 43.66743313366447,
+          "lon": -110.89244916440015
+        },
+        {
+          "role": "stop-3",
+          "id": "cascade-south-fork",
+          "name": "Cascade South Fork",
+          "lat": 43.750311,
+          "lon": -110.832402
+        },
+        {
+          "role": "stop-4",
+          "id": "holly-lake",
+          "name": "Holly Lake",
+          "lat": 43.79270767586673,
+          "lon": -110.79816295068137
+        },
+        {
+          "role": "end",
+          "id": "string-lake-trailhead",
+          "name": "String Lake Trailhead",
+          "lat": 43.78916816,
+          "lon": -110.7316673
+        }
+      ]
+    },
+    {
+      "park": "grand-teton",
+      "name": "Teton Crest Trail Alternate via Open Canyon & Mt. Hunt Divide",
+      "description": "Alternate southern approach: Granite Canyon TH -> Granite Lower -> Granite/Mt. Hunt -> Open Canyon -> Death Canyon TH (trail geometry test; Death Canyon TH is closed for the 2026 permit season but the trail itself is unaffected)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "granite-canyon-trailhead",
+          "name": "Granite Canyon Trailhead",
+          "lat": 43.60737997,
+          "lon": -110.7931008
+        },
+        {
+          "role": "stop-1",
+          "id": "granite-lower",
+          "name": "Granite Lower",
+          "lat": 43.615153,
+          "lon": -110.829471
+        },
+        {
+          "role": "stop-2",
+          "id": "granite-mt-hunt",
+          "name": "Granite/Mt. Hunt",
+          "lat": 43.629378833281365,
+          "lon": -110.85050254870217
+        },
+        {
+          "role": "stop-3",
+          "id": "open-canyon",
+          "name": "Open Canyon",
+          "lat": 43.637259,
+          "lon": -110.832667
+        },
+        {
+          "role": "end",
+          "id": "death-canyon-trailhead-closed-2026-season",
+          "name": "Death Canyon Trailhead",
+          "lat": 43.65604579,
+          "lon": -110.7813789
+        }
+      ]
+    },
+    {
+      "park": "grand-teton",
+      "name": "Cascade Canyon to Paintbrush Divide connector",
+      "description": "Common TCT day-3/4 alternate: Jenny Lake TH up Cascade Canyon, North Fork, over Paintbrush Divide to Holly Lake, out via Leigh Lake TH",
+      "stops": [
+        {
+          "role": "start",
+          "id": "jenny-lake-trailhead",
+          "name": "Jenny Lake Trailhead",
+          "lat": 43.75161074,
+          "lon": -110.7254002
+        },
+        {
+          "role": "stop-1",
+          "id": "cascade-north-fork",
+          "name": "Cascade North Fork",
+          "lat": 43.781538,
+          "lon": -110.82918
+        },
+        {
+          "role": "stop-2",
+          "id": "holly-lake",
+          "name": "Holly Lake",
+          "lat": 43.79270767586673,
+          "lon": -110.79816295068137
+        },
+        {
+          "role": "end",
+          "id": "leigh-lake-trailhead",
+          "name": "Leigh Lake Trailhead",
+          "lat": 43.78408867,
+          "lon": -110.7273658
+        }
+      ]
+    },
+    {
+      "park": "glacier",
+      "name": "Gunsight Pass Trail",
+      "description": "3 days / 2 nights, Sperry Trailhead to Gunsight Lake via Lincoln Pass and Gunsight Pass",
+      "stops": [
+        {
+          "role": "start",
+          "id": "ste-sperry-trail",
+          "name": "STE - Sperry Trail",
+          "lat": 48.6169611,
+          "lon": -113.8755885
+        },
+        {
+          "role": "stop-1",
+          "id": "spe-sperry-no-campfires",
+          "name": "SPE - Sperry (No Campfires)",
+          "lat": 48.60361,
+          "lon": -113.78605
+        },
+        {
+          "role": "stop-2",
+          "id": "ell-lake-ellen-wilson-no-campfires",
+          "name": "ELL - Lake Ellen Wilson (No Campfires)",
+          "lat": 48.60516,
+          "lon": -113.75369
+        },
+        {
+          "role": "end",
+          "id": "gun-gunsight-lake-no-campfires",
+          "name": "GUN - Gunsight Lake (No Campfires)",
+          "lat": 48.62711,
+          "lon": -113.70864
+        }
+      ]
+    },
+    {
+      "park": "glacier",
+      "name": "Ptarmigan Tunnel / Belly River Traverse",
+      "description": "3 days / 2 nights, Many Glacier to Belly River via Ptarmigan Tunnel (Northern Circle segment)",
+      "stops": [
+        {
+          "role": "start",
+          "id": "ipe-iceberg-ptarmigan-trail",
+          "name": "IPE - Iceberg/Ptarmigan Trail",
+          "lat": 48.7967109,
+          "lon": -113.6568733
+        },
+        {
+          "role": "stop-1",
+          "id": "elh-elizabeth-lake-head-no-campfires",
+          "name": "ELH - Elizabeth Lake Head (No Campfires)",
+          "lat": 48.87233,
+          "lon": -113.72714
+        },
+        {
+          "role": "stop-2",
+          "id": "hel-helen-lake-no-campfires",
+          "name": "HEL - Helen Lake (No Campfires)",
+          "lat": 48.8408765,
+          "lon": -113.7453624
+        },
+        {
+          "role": "end",
+          "id": "bre-belly-river-trail",
+          "name": "BRE - Belly River Trail",
+          "lat": 48.9959071,
+          "lon": -113.6596809
+        }
+      ]
+    },
+    {
+      "park": "olympic",
+      "name": "Hoh River Trail to Glacier Meadows",
+      "description": "Point-to-point corridor from the Hoh trailhead to Glacier Meadows",
+      "stops": [
+        { "role": "start", "id": "hoh-visitor-center", "name": "Hoh Visitor Center TH", "lat": 47.8602506856459, "lon": -123.934852725376 },
+        { "role": "stop-1", "id": "five-mile-island", "name": "Five Mile Island", "lat": 47.8668753885913, "lon": -123.841174586313 },
+        { "role": "stop-2", "id": "happy-four", "name": "Happy Four", "lat": 47.8676102907573, "lon": -123.82920343462 },
+        { "role": "stop-3", "id": "olympus-guard-station", "name": "Olympus Guard Station", "lat": 47.8777635057153, "lon": -123.765793684179 },
+        { "role": "end", "id": "glacier-meadows-no-campfires", "name": "Glacier Meadows (No Campfires)", "lat": 47.8322760491945, "lon": -123.691467239578 }
+      ]
+    },
+    {
+      "park": "olympic",
+      "name": "High Divide and Seven Lakes Basin",
+      "description": "Two-night loop via Deer Lake, Seven Lakes Basin and Sol Duc Park",
+      "stops": [
+        { "role": "start", "id": "sol-duc", "name": "Sol Duc TH", "lat": 47.9549596548613, "lon": -123.8348768581 },
+        { "role": "stop-1", "id": "deer-lake-no-campfires", "name": "Deer Lake (No Campfires)", "lat": 47.9265225190066, "lon": -123.822116791273 },
+        { "role": "stop-2", "id": "lunch-lake-no-campfires", "name": "Lunch Lake (No Campfires)", "lat": 47.9166975598455, "lon": -123.784136445319 },
+        { "role": "stop-3", "id": "heart-lake-no-campfires", "name": "Heart Lake (No Campfires)", "lat": 47.9108533740182, "lon": -123.733120657316 },
+        { "role": "stop-4", "id": "sol-duc-park-no-campfires", "name": "Sol Duc Park (No Campfires)", "lat": 47.9194916347572, "lon": -123.728760415454 },
+        { "role": "end", "id": "sol-duc", "name": "Sol Duc TH", "lat": 47.9549596548613, "lon": -123.8348768581 }
+      ]
+    },
+    {
+      "park": "olympic",
+      "name": "East Fork Quinault to Enchanted Valley",
+      "description": "Two-night out-and-back corridor from Graves Creek",
+      "stops": [
+        { "role": "start", "id": "graves-creek", "name": "Graves Creek TH", "lat": 47.5727744777703, "lon": -123.569739838568 },
+        { "role": "stop-1", "id": "pony-bridge-campsite-2-5-miles-from-trailhead", "name": "Pony Bridge Campsite", "lat": 47.5966495901973, "lon": -123.541478244494 },
+        { "role": "stop-2", "id": "o-neil-creek-campsite-7-miles-from-trailhead", "name": "O'Neil Creek Campsite", "lat": 47.6157643938584, "lon": -123.472509040131 },
+        { "role": "stop-3", "id": "pyrites-creek-campsite-10-miles-from-trailhead", "name": "Pyrites Creek Campsite", "lat": 47.6402250454062, "lon": -123.432556452945 },
+        { "role": "end", "id": "enchanted-valley-campsite-14-miles-from-trailhead", "name": "Enchanted Valley Campsite", "lat": 47.6723622756025, "lon": -123.389358775031 }
+      ]
+    },
+    {
+      "park": "olympic",
+      "name": "Cape Alava and Sand Point Loop",
+      "description": "One-night coastal loop from Ozette Ranger Station",
+      "stops": [
+        { "role": "start", "id": "ozette-ranger-station", "name": "Ozette Ranger Station TH", "lat": 48.1545207110671, "lon": -124.668921377897 },
+        { "role": "stop-1", "id": "cape-alava", "name": "Cape Alava", "lat": 48.1635310405745, "lon": -124.732794492392 },
+        { "role": "stop-2", "id": "sand-point-no-campfires", "name": "Sand Point (No Campfires)", "lat": 48.125782232556, "lon": -124.709381602983 },
+        { "role": "end", "id": "ozette-ranger-station", "name": "Ozette Ranger Station TH", "lat": 48.1545207110671, "lon": -124.668921377897 }
+      ]
+    },
+    {
+      "park": "great-smoky-mountains",
+      "name": "Appalachian Trail through the Smokies",
+      "description": "Representative shelter-to-shelter Appalachian Trail section",
+      "stops": [
+        { "role": "start", "id": "cosby-knob-backpacker-stock", "name": "Cosby Knob (Backpacker Stock)" },
+        { "role": "stop-1", "id": "tricorner-knob-backpacker-stock", "name": "Tricorner Knob (Backpacker Stock)" },
+        { "role": "stop-2", "id": "pecks-corner-backpacker-stock", "name": "Pecks Corner (Backpacker Stock)" },
+        { "role": "stop-3", "id": "icewater-spring-backpacker", "name": "Icewater Spring (Backpacker)" },
+        { "role": "end", "id": "mount-collins-backpacker", "name": "Mount Collins (Backpacker)" }
+      ]
+    },
+    {
+      "park": "great-smoky-mountains",
+      "name": "Cades Cove to Spence Field",
+      "description": "Anthony Creek access toward Spence Field",
+      "stops": [
+        { "role": "start", "id": "anthony-creek-trailhead", "name": "Anthony Creek Trailhead" },
+        { "role": "stop-1", "id": "campsite-9-anthony-creek-backpacker", "name": "Campsite 9 (Anthony Creek)" },
+        { "role": "stop-2", "id": "spence-field-backpacker-stock", "name": "Spence Field (Backpacker Stock)" },
+        { "role": "end", "id": "mollies-ridge-backpacker-stock", "name": "Mollies Ridge (Backpacker Stock)" }
+      ]
+    },
+    {
+      "park": "great-smoky-mountains",
+      "name": "Deep Creek and Forney Ridge Loop",
+      "description": "Representative eastern Smokies corridor",
+      "stops": [
+        { "role": "start", "id": "deep-creek-trailhead-south", "name": "Deep Creek Trailhead (South)" },
+        { "role": "stop-1", "id": "campsite-60-bumgardner-branch-backpacker-stock", "name": "Campsite 60 (Bumgardner Branch)" },
+        { "role": "stop-2", "id": "campsite-69-huggins-backpacker", "name": "Campsite 69 (Huggins)" },
+        { "role": "stop-3", "id": "campsite-74-lower-forney-backpacker-stock", "name": "Campsite 74 (Lower Forney)" },
+        { "role": "end", "id": "campsite-66-lower-noland-creek-backpacker-boats-only", "name": "Campsite 66 (Lower Noland Creek)" }
+      ]
+    },
+    {
+      "park": "great-smoky-mountains",
+      "name": "Big Creek to Appalachian Trail Shelters",
+      "description": "Big Creek access to the northeastern shelter corridor",
+      "stops": [
+        { "role": "start", "id": "big-creek-trailhead", "name": "Big Creek Trailhead" },
+        { "role": "stop-1", "id": "cosby-knob-backpacker-stock", "name": "Cosby Knob (Backpacker Stock)" },
+        { "role": "stop-2", "id": "tricorner-knob-backpacker-stock", "name": "Tricorner Knob (Backpacker Stock)" },
+        { "role": "end", "id": "mount-sterling-backpacker", "name": "Mount Sterling (Backpacker)" }
+      ]
+    },
+    {
+      "park": "canyonlands",
+      "name": "Salt Creek Campsite Corridor",
+      "description": "Needles District designated-site corridor",
+      "stops": [
+        { "role": "start", "id": "salt-creek-1-sc1", "name": "Salt Creek 1 (SC1)" },
+        { "role": "stop-1", "id": "salt-creek-2-sc2", "name": "Salt Creek 2 (SC2)" },
+        { "role": "stop-2", "id": "salt-creek-3-sc3", "name": "Salt Creek 3 (SC3)" },
+        { "role": "end", "id": "salt-creek-4-sc4", "name": "Salt Creek 4 (SC4)" }
+      ]
+    },
+    {
+      "park": "canyonlands",
+      "name": "Island in the Sky / White Rim Campsite Corridor",
+      "description": "Representative Island in the Sky and White Rim corridor",
+      "stops": [
+        { "role": "start", "id": "alcove-spring-trailhead-island-in-the-sky", "name": "Alcove Spring Trailhead" },
+        { "role": "stop-1", "id": "gooseberry-a", "name": "Gooseberry A" },
+        { "role": "stop-2", "id": "white-crack", "name": "White Crack" },
+        { "role": "stop-3", "id": "murphy-a", "name": "Murphy A" },
+        { "role": "end", "id": "shafer-campsite", "name": "Shafer Campsite" }
+      ]
+    },
+    {
+      "park": "canyonlands",
+      "name": "The Maze: Golden Stairs to Happy Canyon",
+      "description": "Representative Maze District corridor",
+      "stops": [
+        { "role": "start", "id": "golden-stairs", "name": "Golden Stairs" },
+        { "role": "stop-1", "id": "teapot-rock", "name": "Teapot Rock" },
+        { "role": "stop-2", "id": "sunset-pass", "name": "Sunset Pass" },
+        { "role": "stop-3", "id": "the-neck", "name": "The Neck" },
+        { "role": "end", "id": "happy-canyon", "name": "Happy Canyon" }
+      ]
+    },
+    {
+      "park": "canyonlands",
+      "name": "Needles: Devils Kitchen Campsite Corridor",
+      "description": "Needles District designated-site corridor",
+      "stops": [
+        { "role": "start", "id": "devils-kitchen-1", "name": "Devils Kitchen 1" },
+        { "role": "stop-1", "id": "devils-kitchen-2", "name": "Devils Kitchen 2" },
+        { "role": "end", "id": "devils-kitchen-3", "name": "Devils Kitchen 3" }
+      ]
+    },
+    {
+      "park": "yosemite",
+      "name": "High Sierra Camps: May Lake to Vogelsang",
+      "description": "Representative high-country corridor",
+      "stops": [
+        { "role": "start", "id": "may-lake-trailhead", "name": "May Lake Trailhead" },
+        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
+        { "role": "end", "id": "lyell-canyon-trailhead", "name": "Lyell Canyon Trailhead" }
+      ]
+    },
+    {
+      "park": "yosemite",
+      "name": "Yosemite Valley to Vogelsang",
+      "description": "Representative Yosemite Valley high-country route",
+      "stops": [
+        { "role": "start", "id": "yosemite-valley-backpackers-campground", "name": "Yosemite Valley Backpackers Campground" },
+        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
+        { "role": "end", "id": "may-lake-trailhead", "name": "May Lake Trailhead" }
+      ]
+    },
+    {
+      "park": "yosemite",
+      "name": "Glen Aulin and Tuolumne Meadows",
+      "description": "Representative Tuolumne high-country corridor",
+      "stops": [
+        { "role": "start", "id": "glen-aulin-trailhead", "name": "Glen Aulin Trailhead" },
+        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
+        { "role": "end", "id": "lyell-canyon-trailhead", "name": "Lyell Canyon Trailhead" }
+      ]
+    },
+    {
+      "park": "yosemite",
+      "name": "Hetch Hetchy to Lake Eleanor",
+      "description": "Representative northern Yosemite corridor",
+      "stops": [
+        { "role": "start", "id": "lake-eleanor-trailhead", "name": "Lake Eleanor Trailhead" },
+        { "role": "end", "id": "lake-eleanor-campground", "name": "Lake Eleanor Campground" }
+      ]
+    }
+  ]
+}

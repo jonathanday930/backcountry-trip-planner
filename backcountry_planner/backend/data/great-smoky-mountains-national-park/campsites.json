@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "campsite-1-cooper-road-backpacker",
+    "name": "Campsite 1 (Cooper Road) (Backpacker)",
+    "lat": 35.6191994599871,
+    "lon": -83.9233087137261,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-2-cane-creek-backpacker",
+    "name": "Campsite 2 (Cane Creek) (Backpacker)",
+    "lat": 35.6446318251986,
+    "lon": -83.8935841667758,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-3-hesse-creek-backpacker-stock",
+    "name": "Campsite 3 (Hesse Creek) (Backpacker Stock)",
+    "lat": 35.6631991076528,
+    "lon": -83.846366534388,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-5-rich-mountain-backpacker-stock",
+    "name": "Campsite 5 (Rich Mountain) (Backpacker Stock)",
+    "lat": 35.6284681598777,
+    "lon": -83.7895933723362,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-6-turkeypen-ridge-backpacker",
+    "name": "Campsite 6 (Turkeypen Ridge) (Backpacker)",
+    "lat": 35.6207620284449,
+    "lon": -83.7665635837424,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-9-anthony-creek-backpacker",
+    "name": "Campsite 9 (Anthony Creek) (Backpacker)",
+    "lat": 35.5787433848993,
+    "lon": -83.7412965166209,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-10-ledbetter-ridge-backpacker",
+    "name": "Campsite 10 (Ledbetter Ridge) (Backpacker)",
+    "lat": 35.5775861184047,
+    "lon": -83.760377023281,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-12-forge-creek-backpacker",
+    "name": "Campsite 12 (Forge Creek) (Backpacker)",
+    "lat": 35.5417221615486,
+    "lon": -83.8336832867543,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-13-sheep-pen-gap-backpacker-stock",
+    "name": "Campsite 13 (Sheep Pen Gap) (Backpacker Stock)",
+    "lat": 35.5209722937364,
+    "lon": -83.8725430490225,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-14-flint-gap-backpacker",
+    "name": "Campsite 14 (Flint Gap) (Backpacker)",
+    "lat": 35.5661951596789,
+    "lon": -83.925131043263,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-15-rabbit-creek-backpacker",
+    "name": "Campsite 15 (Rabbit Creek) (Backpacker)",
+    "lat": 35.5941282184426,
+    "lon": -83.905336501878,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-16-scott-gap-backpacker",
+    "name": "Campsite 16 (Scott Gap) (Backpacker)",
+    "lat": 35.5943225970103,
+    "lon": -83.9174154833378,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-17-little-bottoms-backpacker",
+    "name": "Campsite 17 (Little Bottoms) (Backpacker)",
+    "lat": 35.6117423256479,
+    "lon": -83.9048480378067,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-18-west-prong-backpacker",
+    "name": "Campsite 18 (West Prong) (Backpacker)",
+    "lat": 35.6282202500645,
+    "lon": -83.7053619297092,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-19-upper-henderson-backpacker-stock",
+    "name": "Campsite 19 (Upper Henderson) (Backpacker Stock)",
+    "lat": 35.6409468639067,
+    "lon": -83.6392643646587,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-20-king-branch-backpacker-stock",
+    "name": "Campsite 20 (King Branch) (Backpacker Stock)",
+    "lat": 35.6481107778902,
+    "lon": -83.6058744499459,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-21-mile-53-backpacker",
+    "name": "Campsite 21 (Mile 53) (Backpacker)",
+    "lat": 35.6369981197674,
+    "lon": -83.5452797411671,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-23-camp-creek-backpacker",
+    "name": "Campsite 23 (Camp Creek) (Backpacker)",
+    "lat": 35.5995774472415,
+    "lon": -83.5679121715095,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-24-rough-creek-backpacker",
+    "name": "Campsite 24 (Rough Creek) (Backpacker)",
+    "lat": 35.6160182620332,
+    "lon": -83.5300674668401,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-26-dripping-spring-mountain-backpacker",
+    "name": "Campsite 26 (Dripping Spring Mountain) (Backpacker)",
+    "lat": 35.6093128188316,
+    "lon": -83.5918441231078,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-27-lower-jakes-gap-backpacker-stock",
+    "name": "Campsite 27 (Lower Jakes Gap) (Backpacker Stock)",
+    "lat": 35.6230626516201,
+    "lon": -83.6029302521294,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-28-marks-cove-backpacker-stock",
+    "name": "Campsite 28 (Marks Cove) (Backpacker Stock)",
+    "lat": 35.5977334143656,
+    "lon": -83.6150214095104,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-30-three-forks-backpacker",
+    "name": "Campsite 30 (Three Forks) (Backpacker)",
+    "lat": 35.5949251292913,
+    "lon": -83.5146259337398,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-29-otter-creek-backpacker",
+    "name": "Campsite 29 (Otter Creek) (Backpacker)",
+    "lat": 35.7294991199885,
+    "lon": -83.2535126061218,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-31-porters-flat-backpacker",
+    "name": "Campsite 31 (Porters Flat) (Backpacker)",
+    "lat": 35.66064003461,
+    "lon": -83.3816139638133,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-32-engine-creek-backpacker",
+    "name": "Campsite 32 (Engine Creek) (Backpacker)",
+    "lat": 35.7068361972327,
+    "lon": -83.4200008247782,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-33-settlers-camp-backpacker",
+    "name": "Campsite 33 (Settlers Camp) (Backpacker)",
+    "lat": 35.7487992590786,
+    "lon": -83.3443771567803,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-34-sugar-cove-backpacker",
+    "name": "Campsite 34 (Sugar Cove) (Backpacker)",
+    "lat": 35.74935247074,
+    "lon": -83.2537741721403,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-35-gilliland-creek-backpacker-stock",
+    "name": "Campsite 35 (Gilliland Creek) (Backpacker Stock)",
+    "lat": 35.7728032670572,
+    "lon": -83.1807694000877,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-36-upper-walnut-bottom-backpacker-stock",
+    "name": "Campsite 36 (Upper Walnut Bottom) (Backpacker Stock)",
+    "lat": 35.711938304809,
+    "lon": -83.1668058434149,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-37-lower-walnut-bottom-backpacker",
+    "name": "Campsite 37 (Lower Walnut Bottom) (Backpacker)",
+    "lat": 35.7183147292414,
+    "lon": -83.1646242230294,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-38-mount-sterling-backpacker",
+    "name": "Campsite 38 (Mount Sterling) (Backpacker)",
+    "lat": 35.7023181858357,
+    "lon": -83.1224382084565,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-39-pretty-hollow-backpacker-stock",
+    "name": "Campsite 39 (Pretty Hollow) (Backpacker Stock)",
+    "lat": 35.643043487567,
+    "lon": -83.1282775982326,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-40-big-hemlock-backpacker",
+    "name": "Campsite 40 (Big Hemlock) (Backpacker)",
+    "lat": 35.6017164487552,
+    "lon": -83.1310556445023,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-41-caldwell-fork-backpacker-stock",
+    "name": "Campsite 41 (Caldwell Fork) (Backpacker Stock)",
+    "lat": 35.5841955014213,
+    "lon": -83.1221817011246,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-42-spruce-mountain-backpacker",
+    "name": "Campsite 42 (Spruce Mountain) (Backpacker)",
+    "lat": 35.6068879705035,
+    "lon": -83.1805343973445,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-44-mcgee-spring-backpacker-stock",
+    "name": "Campsite 44 (McGee Spring) (Backpacker Stock)",
+    "lat": 35.6392995451379,
+    "lon": -83.2391809866132,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-47-enloe-creek-backpacker",
+    "name": "Campsite 47 (Enloe Creek) (Backpacker)",
+    "lat": 35.6103342436305,
+    "lon": -83.2547431125046,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-48-upper-chasteen-backpacker",
+    "name": "Campsite 48 (Upper Chasteen) (Backpacker)",
+    "lat": 35.5979637811037,
+    "lon": -83.2930476657171,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-49-cabin-flats-backpacker-stock",
+    "name": "Campsite 49 (Cabin Flats) (Backpacker Stock)",
+    "lat": 35.6155922378915,
+    "lon": -83.3284247943687,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-50-lower-chasteen-creek-backpacker-stock",
+    "name": "Campsite 50 (Lower Chasteen Creek) (Backpacker Stock)",
+    "lat": 35.578015232617,
+    "lon": -83.3128256334962,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-46-estes-branch-backpacker",
+    "name": "Campsite 46 (Estes Branch) (Backpacker)",
+    "lat": 35.5111930864918,
+    "lon": -83.3990296311126,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-51-georges-branch-backpacker",
+    "name": "Campsite 51 (Georges Branch) (Backpacker)",
+    "lat": 35.5035485622164,
+    "lon": -83.3943101733757,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-52-newton-bald-backpacker-stock",
+    "name": "Campsite 52 (Newton Bald) (Backpacker Stock)",
+    "lat": 35.5429913540678,
+    "lon": -83.3672524355514,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-53-poke-patch-backpacker",
+    "name": "Campsite 53 (Poke Patch) (Backpacker)",
+    "lat": 35.5626097956056,
+    "lon": -83.4236955751906,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-54-nettle-creek-backpacker",
+    "name": "Campsite 54 (Nettle Creek) (Backpacker)",
+    "lat": 35.5400077848315,
+    "lon": -83.4144564989682,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-55-pole-road-backpacker-stock",
+    "name": "Campsite 55 (Pole Road) (Backpacker Stock)",
+    "lat": 35.5303063464607,
+    "lon": -83.4221935131201,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-56-burnt-spruce-backpacker",
+    "name": "Campsite 56 (Burnt Spruce) (Backpacker)",
+    "lat": 35.5267252083018,
+    "lon": -83.4214242312432,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-57-bryson-place-backpacker-stock",
+    "name": "Campsite 57 (Bryson Place) (Backpacker Stock)",
+    "lat": 35.520726017092,
+    "lon": -83.4189725021792,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-58-nicks-nest-branch-backpacker",
+    "name": "Campsite 58 (Nicks Nest Branch) (Backpacker)",
+    "lat": 35.5169797481169,
+    "lon": -83.4250673938451,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-59-mccracken-branch-backpacker",
+    "name": "Campsite 59 (McCracken Branch) (Backpacker)",
+    "lat": 35.513877748959,
+    "lon": -83.4255693945119,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-60-bumgardner-branch-backpacker-stock",
+    "name": "Campsite 60 (Bumgardner Branch) (Backpacker Stock)",
+    "lat": 35.4931732564407,
+    "lon": -83.4268532909466,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-61-bald-creek-backpacker-stock",
+    "name": "Campsite 61 (Bald Creek) (Backpacker Stock)",
+    "lat": 35.5294318510991,
+    "lon": -83.4652839911632,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-62-upper-ripshin-backpacker-stock",
+    "name": "Campsite 62 (Upper Ripshin) (Backpacker Stock)",
+    "lat": 35.5139547579058,
+    "lon": -83.4696834089621,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-63-jerry-flats-backpacker-stock",
+    "name": "Campsite 63 (Jerry Flats) (Backpacker Stock)",
+    "lat": 35.5061665714302,
+    "lon": -83.4872044579193,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-64-mill-creek-backpacker-stock",
+    "name": "Campsite 64 (Mill Creek) (Backpacker Stock)",
+    "lat": 35.4978038080993,
+    "lon": -83.5018934059559,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-65-bear-pen-branch-backpacker",
+    "name": "Campsite 65 (Bear Pen Branch) (Backpacker)",
+    "lat": 35.471372079358,
+    "lon": -83.5192988776411,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-66-lower-noland-creek-backpacker-boats-only",
+    "name": "Campsite 66 (Lower Noland Creek) (Backpacker) - Boats Only",
+    "lat": 35.4483988050608,
+    "lon": -83.5251473577643,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-67-goldmine-branch-backpacker",
+    "name": "Campsite 67 (Goldmine Branch) (Backpacker)",
+    "lat": 35.4547042855744,
+    "lon": -83.5484795883623,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-68-steeltrap-backpacker",
+    "name": "Campsite 68 (Steeltrap) (Backpacker)",
+    "lat": 35.5437264473177,
+    "lon": -83.5076984362338,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-69-huggins-backpacker",
+    "name": "Campsite 69 (Huggins) (Backpacker)",
+    "lat": 35.5239166750146,
+    "lon": -83.5406671867412,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-70-jonas-creek-backpacker-stock",
+    "name": "Campsite 70 (Jonas Creek) (Backpacker Stock)",
+    "lat": 35.5131017473478,
+    "lon": -83.5580426534457,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-71-ccc-backpacker-stock",
+    "name": "Campsite 71 (CCC) (Backpacker Stock)",
+    "lat": 35.4976854411303,
+    "lon": -83.5615545968671,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-74-lower-forney-backpacker-stock",
+    "name": "Campsite 74 (Lower Forney) (Backpacker Stock)",
+    "lat": 35.4672237225968,
+    "lon": -83.5655235505714,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-75-poplar-flats-backpacker",
+    "name": "Campsite 75 (Poplar Flats) (Backpacker)",
+    "lat": 35.4862499317889,
+    "lon": -83.5921599236415,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-82-calhoun-backpacker-stock",
+    "name": "Campsite 82 (Calhoun) (Backpacker Stock)",
+    "lat": 35.5171696894297,
+    "lon": -83.6418294982327,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-83-bone-valley-backpacker-stock",
+    "name": "Campsite 83 (Bone Valley) (Backpacker Stock)",
+    "lat": 35.5000928354161,
+    "lon": -83.6803997012851,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-84-sugar-fork-backpacker",
+    "name": "Campsite 84 (Sugar Fork) (Backpacker)",
+    "lat": 35.4949553242289,
+    "lon": -83.6884731464185,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-85-sawdust-pile-backpacker-stock",
+    "name": "Campsite 85 (Sawdust Pile) (Backpacker Stock)",
+    "lat": 35.4791771667929,
+    "lon": -83.6963221387557,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-86-proctor-backpacker-stock",
+    "name": "Campsite 86 (Proctor) (Backpacker Stock)",
+    "lat": 35.4745212686417,
+    "lon": -83.7245842531607,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-88-possum-hollow-backpacker",
+    "name": "Campsite 88 (Possum Hollow) (Backpacker)",
+    "lat": 35.4783247120159,
+    "lon": -83.7412857580313,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-89-lower-ekaneetlee-backpacker",
+    "name": "Campsite 89 (Lower Ekaneetlee) (Backpacker)",
+    "lat": 35.4976752275298,
+    "lon": -83.7638328202285,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-90-lost-cove-backpacker-stock",
+    "name": "Campsite 90 (Lost Cove) (Backpacker Stock)",
+    "lat": 35.4839670567343,
+    "lon": -83.7767083600028,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-91-upper-lost-cove-backpacker",
+    "name": "Campsite 91 (Upper Lost Cove) (Backpacker)",
+    "lat": 35.4921208985607,
+    "lon": -83.7901150249884,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-92-upper-flats-backpacker-stock",
+    "name": "Campsite 92 (Upper Flats) (Backpacker Stock)",
+    "lat": 35.496753577116,
+    "lon": -83.8325980514589,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-93-twentymile-creek-backpacker",
+    "name": "Campsite 93 (Twentymile Creek) (Backpacker)",
+    "lat": 35.4730858625226,
+    "lon": -83.8520298207196,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-95-dalton-branch-backpacker-stock",
+    "name": "Campsite 95 (Dalton Branch) (Backpacker Stock)",
+    "lat": 35.4903742217929,
+    "lon": -83.8804015822671,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-96-eagle-creek-island-backpacker",
+    "name": "Campsite 96 (Eagle Creek Island) (Backpacker)",
+    "lat": 35.5059687043923,
+    "lon": -83.7602480488084,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-97-big-walnut-backpacker",
+    "name": "Campsite 97 (Big Walnut) (Backpacker)",
+    "lat": 35.5256261090577,
+    "lon": -83.7543832927547,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-113-birch-spring-gap-backpacker-stock",
+    "name": "Campsite 113 (Birch Spring Gap) (Backpacker Stock)",
+    "lat": 35.5013715400646,
+    "lon": -83.8132400203107,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-72-gunter-branch-backpacker-boats-only",
+    "name": "Campsite 72 (Gunter Branch) (Backpacker) - Boats Only",
+    "lat": 35.4552284743147,
+    "lon": -83.5910220986909,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-73-lone-pine-backpacker-boats-only",
+    "name": "Campsite 73 (Lone Pine) (Backpacker) - Boats Only",
+    "lat": 35.4343592799569,
+    "lon": -83.5939779112516,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-76-kirkland-creek-backpacker",
+    "name": "Campsite 76 (Kirkland Creek) (Backpacker)",
+    "lat": 35.4478316494112,
+    "lon": -83.6362442038069,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-77-pilkey-creek-backpacker-stock",
+    "name": "Campsite 77 (Pilkey Creek) (Backpacker Stock)",
+    "lat": 35.4485313111711,
+    "lon": -83.6707895755784,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-78-double-island-backpacker-boats-only",
+    "name": "Campsite 78 (Double Island) (Backpacker) - Boats Only",
+    "lat": 35.4333869203701,
+    "lon": -83.647964756868,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-81-north-shore-backpacker-stock",
+    "name": "Campsite 81 (North Shore) (Backpacker Stock)",
+    "lat": 35.450255212608,
+    "lon": -83.7034308307682,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-87-jerry-hollow-backpacker-boats-only",
+    "name": "Campsite 87 (Jerry Hollow) (Backpacker) - Boats Only",
+    "lat": 35.4556451356146,
+    "lon": -83.7845912585797,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "campsite-98-chambers-creek-backpacker-stock",
+    "name": "Campsite 98 (Chambers Creek) (Backpacker Stock)",
+    "lat": 35.4501947853611,
+    "lon": -83.6092554601713,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "davenport-gap-backpacker-stock",
+    "name": "Davenport Gap (Backpacker Stock)",
+    "lat": 35.7692982843883,
+    "lon": -83.1234863548114,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "cosby-knob-backpacker-stock",
+    "name": "Cosby Knob (Backpacker Stock)",
+    "lat": 35.7282857474893,
+    "lon": -83.1820077089885,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "tricorner-knob-backpacker-stock",
+    "name": "Tricorner Knob (Backpacker Stock)",
+    "lat": 35.6938473446793,
+    "lon": -83.2566457640907,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "pecks-corner-backpacker-stock",
+    "name": "Pecks Corner (Backpacker Stock)",
+    "lat": 35.6508102458962,
+    "lon": -83.3085265872322,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "icewater-spring-backpacker",
+    "name": "Icewater Spring (Backpacker)",
+    "lat": 35.6298231000561,
+    "lon": -83.3863305877863,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "mount-collins-backpacker",
+    "name": "Mount Collins (Backpacker)",
+    "lat": 35.594088454019,
+    "lon": -83.4710408816313,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "double-spring-gap-backpacker",
+    "name": "Double Spring Gap (Backpacker)",
+    "lat": 35.5652348357191,
+    "lon": -83.5426149591131,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "silers-bald-backpacker-stock",
+    "name": "Silers Bald (Backpacker Stock)",
+    "lat": 35.5642717445454,
+    "lon": -83.5682737115625,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "derrick-knob-backpacker",
+    "name": "Derrick Knob (Backpacker)",
+    "lat": 35.5664739441173,
+    "lon": -83.6418485548669,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "spence-field-backpacker-stock",
+    "name": "Spence Field (Backpacker Stock)",
+    "lat": 35.5618319674714,
+    "lon": -83.7326786758802,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "russell-field-backpacker-stock",
+    "name": "Russell Field (Backpacker Stock)",
+    "lat": 35.5617980801173,
+    "lon": -83.7665501406764,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "mollies-ridge-backpacker-stock",
+    "name": "Mollies Ridge (Backpacker Stock)",
+    "lat": 35.5458516568286,
+    "lon": -83.7936346764991,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "mount-leconte-backpacker",
+    "name": "Mount LeConte (Backpacker)",
+    "lat": 35.6531868788714,
+    "lon": -83.438849151667,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "kephart-backpacker-stock",
+    "name": "Kephart (Backpacker Stock)",
+    "lat": 35.6101561706708,
+    "lon": -83.3685435607367,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "laurel-gap-backpacker-stock",
+    "name": "Laurel Gap (Backpacker Stock)",
+    "lat": 35.6653883803695,
+    "lon": -83.1876891984976,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "ace-gap-trailhead",
+    "name": "Ace Gap Trailhead",
+    "lat": 35.6456021550001,
+    "lon": -83.8052886409999,
+    "type": "trailhead"
+  },
+  {
+    "id": "anthony-creek-trailhead",
+    "name": "Anthony Creek Trailhead",
+    "lat": 35.6031571500001,
+    "lon": -83.767038627,
+    "type": "trailhead"
+  },
+  {
+    "id": "balsam-mountain-trailhead",
+    "name": "Balsam Mountain Trailhead",
+    "lat": 35.6336274770001,
+    "lon": -83.1790907559999,
+    "type": "trailhead"
+  },
+  {
+    "id": "baskins-creek-trailhead",
+    "name": "Baskins Creek Trailhead",
+    "lat": 35.694251179,
+    "lon": -83.466637545,
+    "type": "trailhead"
+  },
+  {
+    "id": "beech-gap-trailhead",
+    "name": "Beech Gap Trailhead",
+    "lat": 35.624153076,
+    "lon": -83.211370965,
+    "type": "trailhead"
+  },
+  {
+    "id": "big-creek-trailhead",
+    "name": "Big Creek Trailhead",
+    "lat": 35.751864605,
+    "lon": -83.1101782429999,
+    "type": "trailhead"
+  },
+  {
+    "id": "big-fork-ridge-trailhead",
+    "name": "Big Fork Ridge Trailhead",
+    "lat": 35.617198978,
+    "lon": -83.119825138,
+    "type": "trailhead"
+  },
+  {
+    "id": "bote-mountain-trailhead",
+    "name": "Bote Mountain Trailhead",
+    "lat": 35.6281120570001,
+    "lon": -83.725564516,
+    "type": "trailhead"
+  },
+  {
+    "id": "bradley-fork-trailhead",
+    "name": "Bradley Fork Trailhead",
+    "lat": 35.5630828600001,
+    "lon": -83.310704191,
+    "type": "trailhead"
+  },
+  {
+    "id": "cataloochee-divide-trailhead",
+    "name": "Cataloochee Divide Trailhead",
+    "lat": 35.6326277840001,
+    "lon": -83.044986517,
+    "type": "trailhead"
+  },
+  {
+    "id": "chestnut-branch-trailhead",
+    "name": "Chestnut Branch Trailhead",
+    "lat": 35.7594878060001,
+    "lon": -83.105948642,
+    "type": "trailhead"
+  },
+  {
+    "id": "chestnut-top-trailhead",
+    "name": "Chestnut Top Trailhead",
+    "lat": 35.6604953620001,
+    "lon": -83.708930413,
+    "type": "trailhead"
+  },
+  {
+    "id": "chimney-tops-trailhead",
+    "name": "Chimney Tops Trailhead",
+    "lat": 35.635445266,
+    "lon": -83.469762342,
+    "type": "trailhead"
+  },
+  {
+    "id": "cooper-road-trailhead",
+    "name": "Cooper Road Trailhead",
+    "lat": 35.6106388440001,
+    "lon": -83.9328638759999,
+    "type": "trailhead"
+  },
+  {
+    "id": "cove-mountain-trailhead",
+    "name": "Cove Mountain Trailhead",
+    "lat": 35.6879716760001,
+    "lon": -83.538186965,
+    "type": "trailhead"
+  },
+  {
+    "id": "crib-gap-trailhead",
+    "name": "Crib Gap Trailhead",
+    "lat": 35.609544251,
+    "lon": -83.743970121,
+    "type": "trailhead"
+  },
+  {
+    "id": "curry-mountain-trailhead",
+    "name": "Curry Mountain Trailhead",
+    "lat": 35.6755187690001,
+    "lon": -83.646374596,
+    "type": "trailhead"
+  },
+  {
+    "id": "deep-creek-trailhead-north",
+    "name": "Deep Creek Trailhead (North)",
+    "lat": 35.464767134,
+    "lon": -83.4337895209999,
+    "type": "trailhead"
+  },
+  {
+    "id": "deep-creek-trailhead-south",
+    "name": "Deep Creek Trailhead (South)",
+    "lat": 35.464767134,
+    "lon": -83.4337895209999,
+    "type": "trailhead"
+  },
+  {
+    "id": "fork-ridge-trailhead",
+    "name": "Fork Ridge Trailhead",
+    "lat": 35.5902722590001,
+    "lon": -83.469627039,
+    "type": "trailhead"
+  },
+  {
+    "id": "gabes-mountain-trailhead",
+    "name": "Gabes Mountain Trailhead",
+    "lat": 35.7578463030001,
+    "lon": -83.209628973,
+    "type": "trailhead"
+  },
+  {
+    "id": "gold-mine-trailhead",
+    "name": "Gold Mine Trailhead",
+    "lat": 35.645621953,
+    "lon": -83.909696671,
+    "type": "trailhead"
+  },
+  {
+    "id": "grapeyard-ridge-trailhead",
+    "name": "Grapeyard Ridge Trailhead",
+    "lat": 35.7079660850001,
+    "lon": -83.382659721,
+    "type": "trailhead"
+  },
+  {
+    "id": "gregory-bald-trailhead",
+    "name": "Gregory Bald Trailhead",
+    "lat": 35.542938431,
+    "lon": -83.8943656609999,
+    "type": "trailhead"
+  },
+  {
+    "id": "gregory-ridge-trailhead",
+    "name": "Gregory Ridge Trailhead",
+    "lat": 35.5625929380001,
+    "lon": -83.845741248,
+    "type": "trailhead"
+  },
+  {
+    "id": "hannah-mountain-trailhead",
+    "name": "Hannah Mountain Trailhead",
+    "lat": 35.5429158310001,
+    "lon": -83.8944456609999,
+    "type": "trailhead"
+  },
+  {
+    "id": "hemphill-bald-trailhead",
+    "name": "Hemphill Bald Trailhead",
+    "lat": 35.5632496650001,
+    "lon": -83.1615624469999,
+    "type": "trailhead"
+  },
+  {
+    "id": "huskey-gap-trailhead",
+    "name": "Huskey Gap Trailhead",
+    "lat": 35.6632073700001,
+    "lon": -83.52639866,
+    "type": "trailhead"
+  },
+  {
+    "id": "indian-grave-gap-trailhead",
+    "name": "Indian Grave Gap Trailhead",
+    "lat": 35.6233083510001,
+    "lon": -83.815729542,
+    "type": "trailhead"
+  },
+  {
+    "id": "jakes-creek-trailhead",
+    "name": "Jakes Creek Trailhead",
+    "lat": 35.6520177670001,
+    "lon": -83.581226875,
+    "type": "trailhead"
+  },
+  {
+    "id": "kanati-fork-trailhead",
+    "name": "Kanati Fork Trailhead",
+    "lat": 35.587917761,
+    "lon": -83.363858108,
+    "type": "trailhead"
+  },
+  {
+    "id": "kephart-prong-trailhead",
+    "name": "Kephart Prong Trailhead",
+    "lat": 35.585751561,
+    "lon": -83.358337106,
+    "type": "trailhead"
+  },
+  {
+    "id": "laurel-falls-trailhead",
+    "name": "Laurel Falls Trailhead",
+    "lat": 35.6719816720001,
+    "lon": -83.580537776,
+    "type": "trailhead"
+  },
+  {
+    "id": "lead-cove-trailhead",
+    "name": "Lead Cove Trailhead",
+    "lat": 35.6068359490001,
+    "lon": -83.7448842209999,
+    "type": "trailhead"
+  },
+  {
+    "id": "little-cataloochee-trailhead",
+    "name": "Little Cataloochee Trailhead",
+    "lat": 35.676164891,
+    "lon": -83.087264332,
+    "type": "trailhead"
+  },
+  {
+    "id": "little-greenbrier-trailhead",
+    "name": "Little Greenbrier Trailhead",
+    "lat": 35.694187873,
+    "lon": -83.645976197,
+    "type": "trailhead"
+  },
+  {
+    "id": "little-river-trailhead",
+    "name": "Little River Trailhead",
+    "lat": 35.653676267,
+    "lon": -83.580190875,
+    "type": "trailhead"
+  },
+  {
+    "id": "low-gap-trailhead",
+    "name": "Low Gap Trailhead",
+    "lat": 35.7559317020001,
+    "lon": -83.2078084719999,
+    "type": "trailhead"
+  },
+  {
+    "id": "lower-mount-cammerer-trailhead",
+    "name": "Lower Mount Cammerer Trailhead",
+    "lat": 35.751988602,
+    "lon": -83.204967571,
+    "type": "trailhead"
+  },
+  {
+    "id": "lumber-ridge-trailhead",
+    "name": "Lumber Ridge Trailhead",
+    "lat": 35.6408380600001,
+    "lon": -83.689259807,
+    "type": "trailhead"
+  },
+  {
+    "id": "maddron-bald-trailhead",
+    "name": "Maddron Bald Trailhead",
+    "lat": 35.769498304,
+    "lon": -83.2667646899999,
+    "type": "trailhead"
+  },
+  {
+    "id": "meigs-creek-trailhead",
+    "name": "Meigs Creek Trailhead",
+    "lat": 35.6694909660001,
+    "lon": -83.6620890999999,
+    "type": "trailhead"
+  },
+  {
+    "id": "middle-prong-trailhead",
+    "name": "Middle Prong Trailhead",
+    "lat": 35.6181137560001,
+    "lon": -83.669751799,
+    "type": "trailhead"
+  },
+  {
+    "id": "mingus-creek-trailhead",
+    "name": "Mingus Creek Trailhead",
+    "lat": 35.5206789490001,
+    "lon": -83.309782288,
+    "type": "trailhead"
+  },
+  {
+    "id": "mount-sterling-trailhead",
+    "name": "Mount Sterling Trailhead",
+    "lat": 35.7002283940001,
+    "lon": -83.097429936,
+    "type": "trailhead"
+  },
+  {
+    "id": "newton-bald-trailhead",
+    "name": "Newton Bald Trailhead",
+    "lat": 35.552634256,
+    "lon": -83.30982789,
+    "type": "trailhead"
+  },
+  {
+    "id": "noland-creek-trailhead",
+    "name": "Noland Creek Trailhead",
+    "lat": 35.4582007280001,
+    "lon": -83.5270041479999,
+    "type": "trailhead"
+  },
+  {
+    "id": "noland-divide-trailhead-north",
+    "name": "Noland Divide Trailhead (North)",
+    "lat": 35.4598275330001,
+    "lon": -83.438507722,
+    "type": "trailhead"
+  },
+  {
+    "id": "noland-divide-trailhead-south",
+    "name": "Noland Divide Trailhead (South)",
+    "lat": 35.4598275330001,
+    "lon": -83.438507722,
+    "type": "trailhead"
+  },
+  {
+    "id": "old-settlers-trailhead",
+    "name": "Old Settlers Trailhead",
+    "lat": 35.7077468860001,
+    "lon": -83.3801372189999,
+    "type": "trailhead"
+  },
+  {
+    "id": "old-sugarlands-trailhead",
+    "name": "Old Sugarlands Trailhead",
+    "lat": 35.675905475,
+    "lon": -83.4866859489999,
+    "type": "trailhead"
+  },
+  {
+    "id": "palmer-creek-trailhead",
+    "name": "Palmer Creek Trailhead",
+    "lat": 35.6281706770001,
+    "lon": -83.173837855,
+    "type": "trailhead"
+  },
+  {
+    "id": "porters-creek-trailhead",
+    "name": "Porters Creek Trailhead",
+    "lat": 35.696799882,
+    "lon": -83.3882120219999,
+    "type": "trailhead"
+  },
+  {
+    "id": "pretty-hollow-gap-trailhead",
+    "name": "Pretty Hollow Gap Trailhead",
+    "lat": 35.6265894790001,
+    "lon": -83.1124096359999,
+    "type": "trailhead"
+  },
+  {
+    "id": "rabbit-creek-trailhead",
+    "name": "Rabbit Creek Trailhead",
+    "lat": 35.607858143,
+    "lon": -83.936199577,
+    "type": "trailhead"
+  },
+  {
+    "id": "rainbow-falls-trailhead",
+    "name": "Rainbow Falls Trailhead",
+    "lat": 35.6757116750001,
+    "lon": -83.485660149,
+    "type": "trailhead"
+  },
+  {
+    "id": "rich-mountain-trailhead",
+    "name": "Rich Mountain Trailhead",
+    "lat": 35.6446568550001,
+    "lon": -83.805215641,
+    "type": "trailhead"
+  },
+  {
+    "id": "rich-mountain-loop-trailhead",
+    "name": "Rich Mountain Loop Trailhead",
+    "lat": 35.60673805,
+    "lon": -83.778250031,
+    "type": "trailhead"
+  },
+  {
+    "id": "rough-fork-trailhead",
+    "name": "Rough Fork Trailhead",
+    "lat": 35.616252978,
+    "lon": -83.120872538,
+    "type": "trailhead"
+  },
+  {
+    "id": "roundtop-trailhead",
+    "name": "Roundtop Trailhead",
+    "lat": 35.6924542720001,
+    "lon": -83.646080897,
+    "type": "trailhead"
+  },
+  {
+    "id": "schoolhouse-gap-trailhead",
+    "name": "Schoolhouse Gap Trailhead",
+    "lat": 35.6271912550001,
+    "lon": -83.726601917,
+    "type": "trailhead"
+  },
+  {
+    "id": "smokemont-loop-trailhead",
+    "name": "Smokemont Loop Trailhead",
+    "lat": 35.555713557,
+    "lon": -83.311808291,
+    "type": "trailhead"
+  },
+  {
+    "id": "snake-den-ridge-trailhead",
+    "name": "Snake Den Ridge Trailhead",
+    "lat": 35.753142902,
+    "lon": -83.2103724729999,
+    "type": "trailhead"
+  },
+  {
+    "id": "spruce-mountain-trailhead",
+    "name": "Spruce Mountain Trailhead",
+    "lat": 35.611056574,
+    "lon": -83.184441857,
+    "type": "trailhead"
+  },
+  {
+    "id": "sugarland-mountains-trailhead",
+    "name": "Sugarland Mountains Trailhead",
+    "lat": 35.671750871,
+    "lon": -83.580522376,
+    "type": "trailhead"
+  },
+  {
+    "id": "thomas-divide-trailhead-north",
+    "name": "Thomas Divide Trailhead (North)",
+    "lat": 35.4652243350001,
+    "lon": -83.419183317,
+    "type": "trailhead"
+  },
+  {
+    "id": "thomas-divide-trailhead-south",
+    "name": "Thomas Divide Trailhead (South)",
+    "lat": 35.4652243350001,
+    "lon": -83.419183317,
+    "type": "trailhead"
+  },
+  {
+    "id": "trillium-gap-trailhead",
+    "name": "Trillium Gap Trailhead",
+    "lat": 35.6802662760001,
+    "lon": -83.462669343,
+    "type": "trailhead"
+  },
+  {
+    "id": "tunnel-bypass-trailhead",
+    "name": "Tunnel Bypass Trailhead",
+    "lat": 35.4586230290001,
+    "lon": -83.5374869509999,
+    "type": "trailhead"
+  },
+  {
+    "id": "twentymile-trailhead",
+    "name": "Twentymile Trailhead",
+    "lat": 35.467073417,
+    "lon": -83.877298851,
+    "type": "trailhead"
+  },
+  {
+    "id": "west-prong-trailhead",
+    "name": "West Prong Trailhead",
+    "lat": 35.64090896,
+    "lon": -83.691135607,
+    "type": "trailhead"
+  }
+]

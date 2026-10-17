@@ -1,0 +1,2263 @@
+[
+  {
+    "id": "mccreary-trailhead",
+    "name": "McCreary Trailhead",
+    "lat": 37.4945878,
+    "lon": -119.2739317,
+    "type": "trailhead"
+  },
+  {
+    "id": "kamook-trailhead",
+    "name": "Kamook Trailhead",
+    "lat": 37.4146387,
+    "lon": -119.6362842,
+    "type": "trailhead"
+  },
+  {
+    "id": "sotcher-lake-trailhead",
+    "name": "Sotcher Lake Trailhead",
+    "lat": 37.6273632,
+    "lon": -119.0764659,
+    "type": "trailhead"
+  },
+  {
+    "id": "norris-trailhead",
+    "name": "Norris Trailhead",
+    "lat": 37.5274264,
+    "lon": -119.3153807,
+    "type": "trailhead"
+  },
+  {
+    "id": "jackass-lakes-trailhead",
+    "name": "Jackass Lakes Trailhead",
+    "lat": 37.5079056,
+    "lon": -119.3342243,
+    "type": "trailhead"
+  },
+  {
+    "id": "tamarack-creek-trailhead",
+    "name": "Tamarack Creek Trailhead",
+    "lat": 37.7506966,
+    "lon": -119.7335878,
+    "type": "trailhead"
+  },
+  {
+    "id": "virginia-creek-trailhead",
+    "name": "Virginia Creek Trailhead",
+    "lat": 37.547686,
+    "lon": -119.80613,
+    "type": "trailhead"
+  },
+  {
+    "id": "lukens-lake-trailhead",
+    "name": "Lukens Lake Trailhead",
+    "lat": 37.8504919,
+    "lon": -119.6152949,
+    "type": "trailhead"
+  },
+  {
+    "id": "mono-meadow-trailhead",
+    "name": "Mono Meadow Trailhead",
+    "lat": 37.6713395,
+    "lon": -119.5851357,
+    "type": "trailhead"
+  },
+  {
+    "id": "westfall-meadow-trailhead",
+    "name": "Westfall Meadow Trailhead",
+    "lat": 37.6636307,
+    "lon": -119.6241793,
+    "type": "trailhead"
+  },
+  {
+    "id": "meadow-loop-trailhead",
+    "name": "Meadow Loop Trailhead",
+    "lat": 37.535074,
+    "lon": -119.6577004,
+    "type": "trailhead"
+  },
+  {
+    "id": "four-mile-trail-trailhead",
+    "name": "Four Mile Trail Trailhead",
+    "lat": 37.733972,
+    "lon": -119.6018175,
+    "type": "trailhead"
+  },
+  {
+    "id": "laurel-lakes-trailhead",
+    "name": "Laurel Lakes Trailhead",
+    "lat": 37.6231907,
+    "lon": -118.9067861,
+    "type": "trailhead"
+  },
+  {
+    "id": "convict-lake-loop-trailhead",
+    "name": "Convict Lake Loop Trailhead",
+    "lat": 37.5951204,
+    "lon": -118.8526936,
+    "type": "trailhead"
+  },
+  {
+    "id": "parker-lake-trailhead",
+    "name": "Parker Lake Trailhead",
+    "lat": 37.8529927,
+    "lon": -119.1346035,
+    "type": "trailhead"
+  },
+  {
+    "id": "saddlebag-lake-trailhead",
+    "name": "Saddlebag Lake Trailhead",
+    "lat": 37.9658296,
+    "lon": -119.2706174,
+    "type": "trailhead"
+  },
+  {
+    "id": "gardisky-lake-trailhead",
+    "name": "Gardisky Lake Trailhead",
+    "lat": 37.9505,
+    "lon": -119.2610766,
+    "type": "trailhead"
+  },
+  {
+    "id": "warren-fork-trailhead",
+    "name": "Warren Fork Trailhead",
+    "lat": 37.9522761,
+    "lon": -119.2258835,
+    "type": "trailhead"
+  },
+  {
+    "id": "lake-eleanor-trailhead",
+    "name": "Lake Eleanor Trailhead",
+    "lat": 37.9882834,
+    "lon": -119.8873092,
+    "type": "trailhead"
+  },
+  {
+    "id": "carlon-falls-trailhead",
+    "name": "Carlon Falls Trailhead",
+    "lat": 37.814361,
+    "lon": -119.861497,
+    "type": "trailhead"
+  },
+  {
+    "id": "minaret-lake-trailhead",
+    "name": "Minaret Lake Trailhead",
+    "lat": 37.6273932,
+    "lon": -119.0863292,
+    "type": "trailhead"
+  },
+  {
+    "id": "yost-creek-and-fern-lake-trailhead",
+    "name": "Yost Creek and Fern Lake Trailhead",
+    "lat": 37.7615397,
+    "lon": -119.1132,
+    "type": "trailhead"
+  },
+  {
+    "id": "mammoth-rock-trailhead",
+    "name": "Mammoth Rock Trailhead",
+    "lat": 37.6185798,
+    "lon": -118.9933178,
+    "type": "trailhead"
+  },
+  {
+    "id": "deer-lakes-trailhead",
+    "name": "Deer Lakes Trailhead",
+    "lat": 37.6035615,
+    "lon": -119.0111607,
+    "type": "trailhead"
+  },
+  {
+    "id": "shadow-creek-trailhead",
+    "name": "Shadow Creek Trailhead",
+    "lat": 37.6818583,
+    "lon": -119.0861133,
+    "type": "trailhead"
+  },
+  {
+    "id": "elizabeth-lake-trailhead",
+    "name": "Elizabeth Lake Trailhead",
+    "lat": 37.8706401,
+    "lon": -119.3558046,
+    "type": "trailhead"
+  },
+  {
+    "id": "edison-ferry-pickup",
+    "name": "Edison Ferry Pickup",
+    "lat": 37.4064928,
+    "lon": -118.9416074,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "ten-lakes-trailhead",
+    "name": "Ten Lakes Trailhead",
+    "lat": 37.8522919,
+    "lon": -119.5759045,
+    "type": "trailhead"
+  },
+  {
+    "id": "duck-pass-trailhead",
+    "name": "Duck Pass Trailhead",
+    "lat": 37.5912233,
+    "lon": -118.9891231,
+    "type": "trailhead"
+  },
+  {
+    "id": "mammoth-rock-trail",
+    "name": "Mammoth Rock Trail",
+    "lat": 37.6289582,
+    "lon": -118.9569555,
+    "type": "trailhead"
+  },
+  {
+    "id": "old-big-oak-flat-road-trailhead",
+    "name": "Old Big Oak Flat Road Trailhead",
+    "lat": 37.7144859,
+    "lon": -119.7362604,
+    "type": "trailhead"
+  },
+  {
+    "id": "pohono-trailhead",
+    "name": "Pohono Trailhead",
+    "lat": 37.7150931,
+    "lon": -119.67675,
+    "type": "trailhead"
+  },
+  {
+    "id": "rockslides-trailhead",
+    "name": "Rockslides Trailhead",
+    "lat": 37.723913,
+    "lon": -119.6452623,
+    "type": "trailhead"
+  },
+  {
+    "id": "happy-isles-trailhead",
+    "name": "Happy Isles Trailhead",
+    "lat": 37.7328208,
+    "lon": -119.5577795,
+    "type": "trailhead"
+  },
+  {
+    "id": "yosemite-falls-trailhead",
+    "name": "Yosemite Falls Trailhead",
+    "lat": 37.7427246,
+    "lon": -119.6031922,
+    "type": "trailhead"
+  },
+  {
+    "id": "four-mile-trailhead",
+    "name": "Four Mile Trailhead",
+    "lat": 37.7287186,
+    "lon": -119.5733729,
+    "type": "trailhead"
+  },
+  {
+    "id": "tamarack-flat-trailhead",
+    "name": "Tamarack Flat Trailhead",
+    "lat": 37.7652974,
+    "lon": -119.7743922,
+    "type": "trailhead"
+  },
+  {
+    "id": "south-fork-of-the-tuolumne-trailhead",
+    "name": "South Fork of the Tuolumne Trailhead",
+    "lat": 37.7843808,
+    "lon": -119.741373,
+    "type": "trailhead"
+  },
+  {
+    "id": "white-wolf-trailhead",
+    "name": "White Wolf Trailhead",
+    "lat": 37.8698292,
+    "lon": -119.6489521,
+    "type": "trailhead"
+  },
+  {
+    "id": "lower-gaylor-lake-trailhead",
+    "name": "Lower Gaylor Lake Trailhead",
+    "lat": 37.8796185,
+    "lon": -119.3026643,
+    "type": "trailhead"
+  },
+  {
+    "id": "mono-parker-trailhead",
+    "name": "Mono/Parker Trailhead",
+    "lat": 37.8909381,
+    "lon": -119.2626761,
+    "type": "trailhead"
+  },
+  {
+    "id": "poopenaut-valley-trailhead",
+    "name": "Poopenaut Valley Trailhead",
+    "lat": 37.9102076,
+    "lon": -119.8145624,
+    "type": "trailhead"
+  },
+  {
+    "id": "shingle-springs-trailhead",
+    "name": "Shingle Springs Trailhead",
+    "lat": 38.0129321,
+    "lon": -119.8858058,
+    "type": "trailhead"
+  },
+  {
+    "id": "quartz-mountain-trailhead",
+    "name": "Quartz Mountain Trailhead",
+    "lat": 37.5307844,
+    "lon": -119.447327,
+    "type": "trailhead"
+  },
+  {
+    "id": "wawona-point-trailhead",
+    "name": "Wawona Point Trailhead",
+    "lat": 37.5367782,
+    "lon": -119.6538612,
+    "type": "trailhead"
+  },
+  {
+    "id": "bishop-creek-trailhead",
+    "name": "Bishop Creek Trailhead",
+    "lat": 37.5794774,
+    "lon": -119.6808093,
+    "type": "trailhead"
+  },
+  {
+    "id": "deer-camp-trailhead",
+    "name": "Deer Camp Trailhead",
+    "lat": 37.6476664,
+    "lon": -119.7028148,
+    "type": "trailhead"
+  },
+  {
+    "id": "sherwin-lakes-trailhead",
+    "name": "Sherwin Lakes Trailhead",
+    "lat": 37.6244978,
+    "lon": -118.945793,
+    "type": "trailhead"
+  },
+  {
+    "id": "nunatak-tioga-tarns-trailhead",
+    "name": "Nunatak Tioga Tarns Trailhead",
+    "lat": 37.9312703,
+    "lon": -119.2506299,
+    "type": "trailhead"
+  },
+  {
+    "id": "hull-creek-campground",
+    "name": "Hull Creek Campground",
+    "lat": 38.0939,
+    "lon": -120.0422,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "smith-peak-trailhead",
+    "name": "Smith Peak Trailhead",
+    "lat": 37.926345,
+    "lon": -119.795174,
+    "type": "trailhead"
+  },
+  {
+    "id": "mono-creek-trailhead",
+    "name": "Mono Creek Trailhead",
+    "lat": 37.3812195,
+    "lon": -119.010341,
+    "type": "trailhead"
+  },
+  {
+    "id": "bear-ridge-trailhead",
+    "name": "Bear Ridge Trailhead",
+    "lat": 37.3690275,
+    "lon": -118.9806864,
+    "type": "trailhead"
+  },
+  {
+    "id": "lake-eleanor-campground",
+    "name": "Lake Eleanor Campground",
+    "lat": 37.9847574,
+    "lon": -119.8752618,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "kamook-staging-area",
+    "name": "Kamook Staging Area",
+    "lat": 37.4148353,
+    "lon": -119.636101,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lone-seqouia-campground",
+    "name": "Lone Seqouia Campground",
+    "lat": 37.4275959,
+    "lon": -119.6671458,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lower-virginia-creek-primitive-campground",
+    "name": "Lower Virginia Creek Primitive Campground",
+    "lat": 38.063714,
+    "lon": -119.227452,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "upper-virginia-creek-primitive-campground",
+    "name": "Upper Virginia Creek Primitive Campground",
+    "lat": 38.0582551,
+    "lon": -119.2389717,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "upper-chiquito-campground",
+    "name": "Upper Chiquito Campground",
+    "lat": 37.5027188,
+    "lon": -119.4098052,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lyell-canyon-trailhead",
+    "name": "Lyell Canyon Trailhead",
+    "lat": 37.8766313,
+    "lon": -119.3456662,
+    "type": "trailhead"
+  },
+  {
+    "id": "chiquito-trailhead",
+    "name": "Chiquito Trailhead",
+    "lat": 37.5096686,
+    "lon": -119.418152,
+    "type": "trailhead"
+  },
+  {
+    "id": "chilkoot-campground",
+    "name": "Chilkoot Campground",
+    "lat": 37.3687244,
+    "lon": -119.5378593,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "yosemite-valley-backpackers-campground",
+    "name": "Yosemite Valley Backpackers Campground",
+    "lat": 37.7444426,
+    "lon": -119.5668229,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bowler-group-camp",
+    "name": "Bowler Group Camp",
+    "lat": 37.5091825,
+    "lon": -119.3279769,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lower-jackass-lake-campground",
+    "name": "Lower Jackass Lake Campground",
+    "lat": 37.5279617,
+    "lon": -119.3463601,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "upper-jackass-lake-campground",
+    "name": "Upper Jackass Lake Campground",
+    "lat": 37.530588,
+    "lon": -119.3599603,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "bridalveil-falls-trailhead",
+    "name": "Bridalveil Falls Trailhead",
+    "lat": 37.71673,
+    "lon": -119.65094,
+    "type": "trailhead"
+  },
+  {
+    "id": "mono-creek-overflow-campground",
+    "name": "Mono Creek Overflow Campground",
+    "lat": 37.3601641,
+    "lon": -118.987195,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "convict-creek-trailhead",
+    "name": "Convict Creek Trailhead",
+    "lat": 37.6001807,
+    "lon": -118.8538084,
+    "type": "trailhead"
+  },
+  {
+    "id": "merced-grove-trailhead",
+    "name": "Merced Grove Trailhead",
+    "lat": 37.7630742,
+    "lon": -119.8422442,
+    "type": "trailhead"
+  },
+  {
+    "id": "pines-campground",
+    "name": "Pines Campground",
+    "lat": 37.8184258,
+    "lon": -120.095082,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "south-fork-campground",
+    "name": "South Fork Campground",
+    "lat": 37.8375651,
+    "lon": -120.0450818,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lumsden-campground",
+    "name": "Lumsden Campground",
+    "lat": 37.838407,
+    "lon": -120.051129,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "lumsden-bridge-campground",
+    "name": "Lumsden Bridge Campground",
+    "lat": 37.8474899,
+    "lon": -120.033213,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "cherry-valley-campground",
+    "name": "Cherry Valley Campground",
+    "lat": 37.9870573,
+    "lon": -119.91755,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "greys-mountain-campground",
+    "name": "Greys Mountain Campground",
+    "lat": 37.3970487,
+    "lon": -119.5653604,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "texas-flat-group-campground",
+    "name": "Texas Flat Group Campground",
+    "lat": 37.4255683,
+    "lon": -119.5426091,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "kelty-meadow-campground",
+    "name": "Kelty Meadow Campground",
+    "lat": 37.440827,
+    "lon": -119.544915,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "fresno-dome-campground",
+    "name": "Fresno Dome Campground",
+    "lat": 37.4553612,
+    "lon": -119.549426,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "big-sandy-campground",
+    "name": "Big Sandy Campground",
+    "lat": 37.4675775,
+    "lon": -119.5819045,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "summit-campground",
+    "name": "Summit Campground",
+    "lat": 37.5087328,
+    "lon": -119.6947805,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "fernandez-trailhead",
+    "name": "Fernandez Trailhead",
+    "lat": 37.5316274,
+    "lon": -119.3008181,
+    "type": "trailhead"
+  },
+  {
+    "id": "red-cones-trailhead",
+    "name": "Red Cones Trailhead",
+    "lat": 37.6129475,
+    "lon": -119.0212732,
+    "type": "trailhead"
+  },
+  {
+    "id": "walker-lake-trailhead",
+    "name": "Walker Lake Trailhead",
+    "lat": 37.8723588,
+    "lon": -119.1590493,
+    "type": "trailhead"
+  },
+  {
+    "id": "lundy-canyon-trailhead",
+    "name": "Lundy Canyon Trailhead",
+    "lat": 38.0224738,
+    "lon": -119.2619159,
+    "type": "trailhead"
+  },
+  {
+    "id": "swinging-bridge-trailhead",
+    "name": "Swinging Bridge Trailhead",
+    "lat": 37.5464264,
+    "lon": -119.6304193,
+    "type": "trailhead"
+  },
+  {
+    "id": "chilnualna-falls-horse-trailhead",
+    "name": "Chilnualna Falls Horse Trailhead",
+    "lat": 37.5506822,
+    "lon": -119.635941,
+    "type": "trailhead"
+  },
+  {
+    "id": "horse-creek-trailhead",
+    "name": "Horse Creek Trailhead",
+    "lat": 38.1461912,
+    "lon": -119.3787296,
+    "type": "trailhead"
+  },
+  {
+    "id": "robinson-creek-trailhead",
+    "name": "Robinson Creek Trailhead",
+    "lat": 38.1469946,
+    "lon": -119.3817541,
+    "type": "trailhead"
+  },
+  {
+    "id": "star-lakes-trailhead",
+    "name": "Star Lakes Trailhead",
+    "lat": 37.5032787,
+    "lon": -119.5563047,
+    "type": "trailhead"
+  },
+  {
+    "id": "green-creek-trailhead",
+    "name": "Green Creek Trailhead",
+    "lat": 38.1121949,
+    "lon": -119.2753615,
+    "type": "trailhead"
+  },
+  {
+    "id": "bull-buck-trailhead",
+    "name": "Bull Buck Trailhead",
+    "lat": 37.4301037,
+    "lon": -119.5831102,
+    "type": "trailhead"
+  },
+  {
+    "id": "grizzly-lake-trailhead",
+    "name": "Grizzly Lake Trailhead",
+    "lat": 37.4903135,
+    "lon": -119.4685396,
+    "type": "trailhead"
+  },
+  {
+    "id": "mammoth-trailhead",
+    "name": "Mammoth Trailhead",
+    "lat": 37.5456365,
+    "lon": -119.2294444,
+    "type": "trailhead"
+  },
+  {
+    "id": "tuolumne-grove-trailhead",
+    "name": "Tuolumne Grove Trailhead",
+    "lat": 37.7582945,
+    "lon": -119.8057189,
+    "type": "trailhead"
+  },
+  {
+    "id": "glass-creek-meadow-trailhead",
+    "name": "Glass Creek Meadow Trailhead",
+    "lat": 37.7476386,
+    "lon": -119.0235591,
+    "type": "trailhead"
+  },
+  {
+    "id": "mccleod-flat-staging-area",
+    "name": "McCleod Flat Staging Area",
+    "lat": 37.350518,
+    "lon": -119.5561355,
+    "type": "trailhead"
+  },
+  {
+    "id": "rainbow-falls-trailhead",
+    "name": "Rainbow Falls Trailhead",
+    "lat": 37.613953,
+    "lon": -119.0766618,
+    "type": "trailhead"
+  },
+  {
+    "id": "dewey-point-meadow-trailhead",
+    "name": "Dewey Point Meadow Trailhead",
+    "lat": 37.6740161,
+    "lon": -119.6514486,
+    "type": "trailhead"
+  },
+  {
+    "id": "dewey-point-ridge-trailhead",
+    "name": "Dewey Point Ridge Trailhead",
+    "lat": 37.6723621,
+    "lon": -119.6561105,
+    "type": "trailhead"
+  },
+  {
+    "id": "railroad-flat-campground",
+    "name": "Railroad Flat Campground",
+    "lat": 37.6176352,
+    "lon": -120.020057,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "wildhaven-yosemite-glamping",
+    "name": "Wildhaven Yosemite Glamping",
+    "lat": 37.4702283,
+    "lon": -119.9636479,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "gaylor-lakes-trailhead",
+    "name": "Gaylor Lakes Trailhead",
+    "lat": 37.910224,
+    "lon": -119.2582829,
+    "type": "trailhead"
+  },
+  {
+    "id": "mount-dana-trailhead",
+    "name": "Mount Dana Trailhead",
+    "lat": 37.9108198,
+    "lon": -119.257642,
+    "type": "trailhead"
+  },
+  {
+    "id": "may-lake-trailhead",
+    "name": "May Lake Trailhead",
+    "lat": 37.8207456,
+    "lon": -119.4781111,
+    "type": "trailhead"
+  },
+  {
+    "id": "dog-lake-trailhead",
+    "name": "Dog Lake Trailhead",
+    "lat": 37.8783537,
+    "lon": -119.3389739,
+    "type": "trailhead"
+  },
+  {
+    "id": "lewis-creek-trailhead",
+    "name": "Lewis Creek Trailhead",
+    "lat": 37.4167004,
+    "lon": -119.6264459,
+    "type": "trailhead"
+  },
+  {
+    "id": "vogelsang-backpacker-camp",
+    "name": "Vogelsang Backpacker Camp",
+    "lat": 37.797011,
+    "lon": -119.3441668,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "fresno-dome-drailhead",
+    "name": "Fresno Dome Drailhead",
+    "lat": 37.4600122,
+    "lon": -119.528761,
+    "type": "trailhead"
+  },
+  {
+    "id": "young-lakes-trailhead",
+    "name": "Young Lakes Trailhead",
+    "lat": 37.8774353,
+    "lon": -119.3535845,
+    "type": "trailhead"
+  },
+  {
+    "id": "bridalveil-creek-trailhead",
+    "name": "Bridalveil Creek Trailhead",
+    "lat": 37.6619656,
+    "lon": -119.619273,
+    "type": "trailhead"
+  },
+  {
+    "id": "camp-host",
+    "name": "Camp host",
+    "lat": 37.824592,
+    "lon": -120.0040562,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "washburn-trailhead",
+    "name": "Washburn Trailhead",
+    "lat": 37.5066407,
+    "lon": -119.6275909,
+    "type": "trailhead"
+  },
+  {
+    "id": "mariposa-grove-trailhead",
+    "name": "Mariposa Grove Trailhead",
+    "lat": 37.5026442,
+    "lon": -119.6098975,
+    "type": "trailhead"
+  },
+  {
+    "id": "murphy-creek-trailhead",
+    "name": "Murphy Creek Trailhead",
+    "lat": 37.8343715,
+    "lon": -119.4632582,
+    "type": "trailhead"
+  },
+  {
+    "id": "dusty-daisy-campsite",
+    "name": "dusty Daisy campsite",
+    "lat": 37.4161376,
+    "lon": -119.5905093,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "circle-grove-campsite",
+    "name": "circle grove campsite",
+    "lat": 37.4214367,
+    "lon": -119.5872159,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "creekside-campsite",
+    "name": "creekside campsite",
+    "lat": 37.4157042,
+    "lon": -119.5842079,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "rush-creek-trailhead",
+    "name": "Rush Creek Trailhead",
+    "lat": 37.7832939,
+    "lon": -119.1281851,
+    "type": "trailhead"
+  },
+  {
+    "id": "gibbs-lake-trailhead",
+    "name": "Gibbs Lake Trailhead",
+    "lat": 37.9196992,
+    "lon": -119.1529432,
+    "type": "trailhead"
+  },
+  {
+    "id": "glacier-canyon-trailhead",
+    "name": "Glacier Canyon Trailhead",
+    "lat": 37.9208672,
+    "lon": -119.2545211,
+    "type": "trailhead"
+  },
+  {
+    "id": "bear-creek-cutoff-trailhead",
+    "name": "Bear Creek Cutoff Trailhead",
+    "lat": 37.3621588,
+    "lon": -118.9855545,
+    "type": "trailhead"
+  },
+  {
+    "id": "bennettville-trailhead",
+    "name": "Bennettville Trailhead",
+    "lat": 37.9386198,
+    "lon": -119.2510013,
+    "type": "trailhead"
+  },
+  {
+    "id": "ostrander-lake-trailhead",
+    "name": "Ostrander Lake Trailhead",
+    "lat": 37.666839,
+    "lon": -119.6037608,
+    "type": "trailhead"
+  },
+  {
+    "id": "box-springs",
+    "name": "Box Springs",
+    "lat": 38.1280077,
+    "lon": -119.908264,
+    "type": "trailhead"
+  },
+  {
+    "id": "bourland-meadow",
+    "name": "Bourland Meadow",
+    "lat": 38.10431,
+    "lon": -119.9192,
+    "type": "trailhead"
+  },
+  {
+    "id": "yosemite-creek-trailhead",
+    "name": "Yosemite Creek Trailhead",
+    "lat": 37.8265816,
+    "lon": -119.5967481,
+    "type": "trailhead"
+  },
+  {
+    "id": "may-lake-to-snow-creek-trailhead",
+    "name": "May Lake to Snow Creek Trailhead",
+    "lat": 37.8111825,
+    "lon": -119.5088375,
+    "type": "trailhead"
+  },
+  {
+    "id": "porcupine-creek-trailhead",
+    "name": "Porcupine Creek Trailhead",
+    "lat": 37.8066667,
+    "lon": -119.5461054,
+    "type": "trailhead"
+  },
+  {
+    "id": "mirror-lake-trailhead",
+    "name": "Mirror Lake Trailhead",
+    "lat": 37.7397848,
+    "lon": -119.5598529,
+    "type": "trailhead"
+  },
+  {
+    "id": "snow-creek-trailhead",
+    "name": "Snow Creek Trailhead",
+    "lat": 37.759409,
+    "lon": -119.5389694,
+    "type": "trailhead"
+  },
+  {
+    "id": "lakes-canyon-trailhead",
+    "name": "Lakes Canyon Trailhead",
+    "lat": 38.0312425,
+    "lon": -119.219529,
+    "type": "trailhead"
+  },
+  {
+    "id": "stud-horse-trailhead",
+    "name": "Stud Horse Trailhead",
+    "lat": 37.5305485,
+    "lon": -119.6265167,
+    "type": "trailhead"
+  },
+  {
+    "id": "valentine-lake-trailhead",
+    "name": "Valentine Lake Trailhead",
+    "lat": 37.6253522,
+    "lon": -118.9243586,
+    "type": "trailhead"
+  },
+  {
+    "id": "glacier-point-trailhead",
+    "name": "Glacier Point Trailhead",
+    "lat": 37.7276338,
+    "lon": -119.5734499,
+    "type": "trailhead"
+  },
+  {
+    "id": "tuolumne-canyon-trailhead",
+    "name": "Tuolumne Canyon Trailhead",
+    "lat": 37.837469,
+    "lon": -120.0614539,
+    "type": "trailhead"
+  },
+  {
+    "id": "virginia-lakes-trailhead",
+    "name": "Virginia Lakes Trailhead",
+    "lat": 38.0479559,
+    "lon": -119.2631632,
+    "type": "trailhead"
+  },
+  {
+    "id": "lower-chiquito-campground",
+    "name": "Lower Chiquito Campground",
+    "lat": 37.4130377,
+    "lon": -119.3854719,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "little-jackass-campground",
+    "name": "Little Jackass Campground",
+    "lat": 37.3997725,
+    "lon": -119.336189,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "granite-creek-campground",
+    "name": "Granite Creek Campground",
+    "lat": 37.5413277,
+    "lon": -119.2689863,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "clover-meadow-campground",
+    "name": "Clover Meadow Campground",
+    "lat": 37.5284927,
+    "lon": -119.2807679,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "little-sandy-campground",
+    "name": "Little Sandy Campground",
+    "lat": 37.4580462,
+    "lon": -119.5666418,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "soda-springs-campground",
+    "name": "Soda Springs Campground",
+    "lat": 37.3812068,
+    "lon": -119.389286,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "china-bar-campground",
+    "name": "China Bar Campground",
+    "lat": 37.3700911,
+    "lon": -119.3026614,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "logan-meadow-campground",
+    "name": "Logan Meadow Campground",
+    "lat": 37.3517206,
+    "lon": -119.3405342,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "placer-campground",
+    "name": "Placer Campground",
+    "lat": 37.3728558,
+    "lon": -119.3620831,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "soquel-campground",
+    "name": "Soquel Campground",
+    "lat": 37.4043664,
+    "lon": -119.5621276,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "hamby-trailhead",
+    "name": "Hamby Trailhead",
+    "lat": 37.8523991,
+    "lon": -120.1308927,
+    "type": "trailhead"
+  },
+  {
+    "id": "cathedral-lakes-trailhead",
+    "name": "Cathedral Lakes Trailhead",
+    "lat": 37.8724957,
+    "lon": -119.3750955,
+    "type": "trailhead"
+  },
+  {
+    "id": "glen-aulin-trailhead",
+    "name": "Glen Aulin Trailhead",
+    "lat": 37.8788538,
+    "lon": -119.3583561,
+    "type": "trailhead"
+  },
+  {
+    "id": "alder-creek-mosquito-creek-trailhead",
+    "name": "Alder Creek-Mosquito Creek Trailhead",
+    "lat": 37.5749102,
+    "lon": -119.6799222,
+    "type": "trailhead"
+  },
+  {
+    "id": "alder-creek-trailhead",
+    "name": "Alder Creek Trailhead",
+    "lat": 37.5412403,
+    "lon": -119.6521234,
+    "type": "trailhead"
+  },
+  {
+    "id": "pine-cliff-resort-rv-and-campground",
+    "name": "Pine Cliff Resort RV and Campground",
+    "lat": 37.7966564,
+    "lon": -119.076582,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "chilnualna-falls-trailhead",
+    "name": "Chilnualna Falls Trailhead",
+    "lat": 37.5485648,
+    "lon": -119.6336822,
+    "type": "trailhead"
+  },
+  {
+    "id": "sierra-meadows",
+    "name": "Sierra Meadows",
+    "lat": 37.361774,
+    "lon": -119.6971593,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "sunrise-lakes-trailhead",
+    "name": "Sunrise Lakes Trailhead",
+    "lat": 37.8257315,
+    "lon": -119.4699952,
+    "type": "trailhead"
+  },
+  {
+    "id": "olmsted-point-trailhead",
+    "name": "Olmsted Point Trailhead",
+    "lat": 37.8106747,
+    "lon": -119.4854718,
+    "type": "trailhead"
+  },
+  {
+    "id": "high-trailhead",
+    "name": "High Trailhead",
+    "lat": 37.6829123,
+    "lon": -119.0845879,
+    "type": "trailhead"
+  },
+  {
+    "id": "44",
+    "name": "44",
+    "lat": 37.785967,
+    "lon": -119.1260555,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "42",
+    "name": "42",
+    "lat": 37.7858861,
+    "lon": -119.1256361,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "43",
+    "name": "43",
+    "lat": 37.7857868,
+    "lon": -119.1258329,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "45",
+    "name": "45",
+    "lat": 37.7855936,
+    "lon": -119.1264161,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "46",
+    "name": "46",
+    "lat": 37.7855734,
+    "lon": -119.1261607,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "41",
+    "name": "41",
+    "lat": 37.785524,
+    "lon": -119.1257325,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "47",
+    "name": "47",
+    "lat": 37.7852982,
+    "lon": -119.1264697,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "48",
+    "name": "48",
+    "lat": 37.7853317,
+    "lon": -119.126241,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "50",
+    "name": "50",
+    "lat": 37.7849816,
+    "lon": -119.126483,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "49",
+    "name": "49",
+    "lat": 37.7850412,
+    "lon": -119.1262432,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "52",
+    "name": "52",
+    "lat": 37.784682,
+    "lon": -119.1264012,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "51",
+    "name": "51",
+    "lat": 37.7847735,
+    "lon": -119.1261529,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "54",
+    "name": "54",
+    "lat": 37.7844292,
+    "lon": -119.1264111,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "53",
+    "name": "53",
+    "lat": 37.7845053,
+    "lon": -119.1261613,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "55",
+    "name": "55",
+    "lat": 37.7841908,
+    "lon": -119.1264062,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "35",
+    "name": "35",
+    "lat": 37.78431,
+    "lon": -119.1258747,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "36",
+    "name": "36",
+    "lat": 37.7841228,
+    "lon": -119.1258119,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "37",
+    "name": "37",
+    "lat": 37.7844591,
+    "lon": -119.125573,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "38",
+    "name": "38",
+    "lat": 37.7846394,
+    "lon": -119.1257056,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "39",
+    "name": "39",
+    "lat": 37.7849597,
+    "lon": -119.1257921,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "40",
+    "name": "40",
+    "lat": 37.7852646,
+    "lon": -119.1257715,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "56",
+    "name": "56",
+    "lat": 37.7839506,
+    "lon": -119.1263403,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "57",
+    "name": "57",
+    "lat": 37.7839488,
+    "lon": -119.1261015,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "58",
+    "name": "58",
+    "lat": 37.7836386,
+    "lon": -119.1263525,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "59",
+    "name": "59",
+    "lat": 37.7836451,
+    "lon": -119.1260964,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "60",
+    "name": "60",
+    "lat": 37.7833797,
+    "lon": -119.1263963,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "61",
+    "name": "61",
+    "lat": 37.7832878,
+    "lon": -119.1260448,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "63",
+    "name": "63",
+    "lat": 37.7832492,
+    "lon": -119.1257626,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "65",
+    "name": "65",
+    "lat": 37.7831955,
+    "lon": -119.1254843,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "31",
+    "name": "31",
+    "lat": 37.783252,
+    "lon": -119.1253756,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "32",
+    "name": "32",
+    "lat": 37.783509,
+    "lon": -119.1254189,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "33",
+    "name": "33",
+    "lat": 37.7837989,
+    "lon": -119.1253706,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "34",
+    "name": "34",
+    "lat": 37.7840577,
+    "lon": -119.1254978,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "62",
+    "name": "62",
+    "lat": 37.7830043,
+    "lon": -119.1259307,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "64",
+    "name": "64",
+    "lat": 37.7829707,
+    "lon": -119.1256349,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "28",
+    "name": "28",
+    "lat": 37.7826663,
+    "lon": -119.1254621,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "1",
+    "name": "1",
+    "lat": 37.7828887,
+    "lon": -119.1263349,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "lat": 37.7826591,
+    "lon": -119.1266311,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "lat": 37.7825869,
+    "lon": -119.1263663,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "4",
+    "name": "4",
+    "lat": 37.7823535,
+    "lon": -119.1266938,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "5",
+    "name": "5",
+    "lat": 37.7822795,
+    "lon": -119.12644,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "6",
+    "name": "6",
+    "lat": 37.7821076,
+    "lon": -119.1269109,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "7",
+    "name": "7",
+    "lat": 37.7820118,
+    "lon": -119.1266528,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "8",
+    "name": "8",
+    "lat": 37.7818943,
+    "lon": -119.1269847,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "9",
+    "name": "9",
+    "lat": 37.7816238,
+    "lon": -119.1271515,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "11",
+    "name": "11",
+    "lat": 37.7813635,
+    "lon": -119.1272719,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "10",
+    "name": "10",
+    "lat": 37.7813383,
+    "lon": -119.1270078,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "13",
+    "name": "13",
+    "lat": 37.7811152,
+    "lon": -119.1270718,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "16",
+    "name": "16",
+    "lat": 37.7809752,
+    "lon": -119.1271041,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "14",
+    "name": "14",
+    "lat": 37.7809381,
+    "lon": -119.1274498,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "12",
+    "name": "12",
+    "lat": 37.7811116,
+    "lon": -119.1274284,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "22",
+    "name": "22",
+    "lat": 37.7818329,
+    "lon": -119.1266447,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "23",
+    "name": "23",
+    "lat": 37.7817542,
+    "lon": -119.1264075,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "24",
+    "name": "24",
+    "lat": 37.7818835,
+    "lon": -119.1261236,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "25",
+    "name": "25",
+    "lat": 37.7820858,
+    "lon": -119.1259991,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "26",
+    "name": "26",
+    "lat": 37.7823576,
+    "lon": -119.1257647,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "27",
+    "name": "27",
+    "lat": 37.7825284,
+    "lon": -119.1255714,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "21",
+    "name": "21",
+    "lat": 37.7815833,
+    "lon": -119.1266093,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "20",
+    "name": "20",
+    "lat": 37.7813377,
+    "lon": -119.1266886,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "19",
+    "name": "19",
+    "lat": 37.7811882,
+    "lon": -119.1267445,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "17",
+    "name": "17",
+    "lat": 37.7809007,
+    "lon": -119.1268813,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "18",
+    "name": "18",
+    "lat": 37.7810672,
+    "lon": -119.1268169,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "15",
+    "name": "15",
+    "lat": 37.7808099,
+    "lon": -119.1272951,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "112",
+    "name": "112",
+    "lat": 37.8003042,
+    "lon": -119.0724343,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "113",
+    "name": "113",
+    "lat": 37.8002621,
+    "lon": -119.072301,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "114",
+    "name": "114",
+    "lat": 37.8003338,
+    "lon": -119.0721455,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "115",
+    "name": "115",
+    "lat": 37.8004149,
+    "lon": -119.0720356,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "116",
+    "name": "116",
+    "lat": 37.8005397,
+    "lon": -119.0719511,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "117",
+    "name": "117",
+    "lat": 37.8006564,
+    "lon": -119.0719598,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "118",
+    "name": "118",
+    "lat": 37.8007732,
+    "lon": -119.0720375,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "119",
+    "name": "119",
+    "lat": 37.8008574,
+    "lon": -119.0721847,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "120",
+    "name": "120",
+    "lat": 37.8008761,
+    "lon": -119.0723268,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "121",
+    "name": "121",
+    "lat": 37.8008494,
+    "lon": -119.0724727,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "122",
+    "name": "122",
+    "lat": 37.8007425,
+    "lon": -119.0730702,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "123",
+    "name": "123",
+    "lat": 37.8007364,
+    "lon": -119.0731892,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "124",
+    "name": "124",
+    "lat": 37.8006967,
+    "lon": -119.0733161,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "125",
+    "name": "125",
+    "lat": 37.8005879,
+    "lon": -119.0734145,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "126",
+    "name": "126",
+    "lat": 37.8004704,
+    "lon": -119.073463,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "127",
+    "name": "127",
+    "lat": 37.800339,
+    "lon": -119.0734269,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "128",
+    "name": "128",
+    "lat": 37.8002442,
+    "lon": -119.0733179,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "129",
+    "name": "129",
+    "lat": 37.800206,
+    "lon": -119.0731035,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "144",
+    "name": "144",
+    "lat": 37.7995866,
+    "lon": -119.0743342,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "143",
+    "name": "143",
+    "lat": 37.7995251,
+    "lon": -119.0745279,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "142",
+    "name": "142",
+    "lat": 37.7995711,
+    "lon": -119.0746822,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "141",
+    "name": "141",
+    "lat": 37.7996583,
+    "lon": -119.0747296,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "140",
+    "name": "140",
+    "lat": 37.7997677,
+    "lon": -119.0748273,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "139",
+    "name": "139",
+    "lat": 37.799883,
+    "lon": -119.0748007,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "138",
+    "name": "138",
+    "lat": 37.8000199,
+    "lon": -119.0747293,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "137",
+    "name": "137",
+    "lat": 37.8000825,
+    "lon": -119.074627,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "136",
+    "name": "136",
+    "lat": 37.8002872,
+    "lon": -119.074476,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "135",
+    "name": "135",
+    "lat": 37.8003845,
+    "lon": -119.0743883,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "134",
+    "name": "134",
+    "lat": 37.8004278,
+    "lon": -119.0742919,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "133",
+    "name": "133",
+    "lat": 37.8004434,
+    "lon": -119.0741221,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "132",
+    "name": "132",
+    "lat": 37.800412,
+    "lon": -119.073966,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "131",
+    "name": "131",
+    "lat": 37.8003132,
+    "lon": -119.0738653,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "130",
+    "name": "130",
+    "lat": 37.8002165,
+    "lon": -119.0738341,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "164",
+    "name": "164",
+    "lat": 37.7985121,
+    "lon": -119.0734853,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "163",
+    "name": "163",
+    "lat": 37.7983972,
+    "lon": -119.0733355,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "162",
+    "name": "162",
+    "lat": 37.7982794,
+    "lon": -119.0732603,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "161",
+    "name": "161",
+    "lat": 37.7981372,
+    "lon": -119.0732854,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "160",
+    "name": "160",
+    "lat": 37.7980644,
+    "lon": -119.0733498,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "159",
+    "name": "159",
+    "lat": 37.7979745,
+    "lon": -119.0734896,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "158",
+    "name": "158",
+    "lat": 37.7979494,
+    "lon": -119.0736232,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "157",
+    "name": "157",
+    "lat": 37.7977549,
+    "lon": -119.0739511,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "156",
+    "name": "156",
+    "lat": 37.7977505,
+    "lon": -119.074127,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "155",
+    "name": "155",
+    "lat": 37.797802,
+    "lon": -119.0742674,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "154",
+    "name": "154",
+    "lat": 37.7979013,
+    "lon": -119.0743613,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "153",
+    "name": "153",
+    "lat": 37.7979833,
+    "lon": -119.0744105,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "152",
+    "name": "152",
+    "lat": 37.7981242,
+    "lon": -119.0744425,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "151",
+    "name": "151",
+    "lat": 37.7984265,
+    "lon": -119.0746284,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "150",
+    "name": "150",
+    "lat": 37.7985695,
+    "lon": -119.0746758,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "149",
+    "name": "149",
+    "lat": 37.798697,
+    "lon": -119.0746712,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "148",
+    "name": "148",
+    "lat": 37.7987988,
+    "lon": -119.0745558,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "147",
+    "name": "147",
+    "lat": 37.7988494,
+    "lon": -119.0744077,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "146",
+    "name": "146",
+    "lat": 37.7988495,
+    "lon": -119.0742698,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "145",
+    "name": "145",
+    "lat": 37.7988278,
+    "lon": -119.0741306,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "66",
+    "name": "66",
+    "lat": 37.79929,
+    "lon": -119.067247,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "67",
+    "name": "67",
+    "lat": 37.7993611,
+    "lon": -119.0673752,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "68",
+    "name": "68",
+    "lat": 37.7995795,
+    "lon": -119.0676567,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "69",
+    "name": "69",
+    "lat": 37.7997006,
+    "lon": -119.0677687,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "70",
+    "name": "70",
+    "lat": 37.7997921,
+    "lon": -119.0679176,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "71",
+    "name": "71",
+    "lat": 37.7997602,
+    "lon": -119.0681269,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "111",
+    "name": "111",
+    "lat": 37.8004637,
+    "lon": -119.0715943,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "110",
+    "name": "110",
+    "lat": 37.8006038,
+    "lon": -119.0716156,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "109",
+    "name": "109",
+    "lat": 37.8007157,
+    "lon": -119.0715392,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "108",
+    "name": "108",
+    "lat": 37.8008107,
+    "lon": -119.0714554,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "107",
+    "name": "107",
+    "lat": 37.8008422,
+    "lon": -119.0713199,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "106",
+    "name": "106",
+    "lat": 37.8008212,
+    "lon": -119.0711624,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "105",
+    "name": "105",
+    "lat": 37.8007945,
+    "lon": -119.0710342,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "104",
+    "name": "104",
+    "lat": 37.8007216,
+    "lon": -119.0708998,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "103",
+    "name": "103",
+    "lat": 37.800772,
+    "lon": -119.0704344,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "102",
+    "name": "102",
+    "lat": 37.8007541,
+    "lon": -119.0702575,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "101",
+    "name": "101",
+    "lat": 37.8006636,
+    "lon": -119.0701322,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "100",
+    "name": "100",
+    "lat": 37.8005407,
+    "lon": -119.0700982,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "99",
+    "name": "99",
+    "lat": 37.8004238,
+    "lon": -119.0700563,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "98",
+    "name": "98",
+    "lat": 37.8003086,
+    "lon": -119.0701386,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "97",
+    "name": "97",
+    "lat": 37.8002529,
+    "lon": -119.0702685,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "96",
+    "name": "96",
+    "lat": 37.800193,
+    "lon": -119.0704636,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "95",
+    "name": "95",
+    "lat": 37.8001384,
+    "lon": -119.0706261,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "94",
+    "name": "94",
+    "lat": 37.8000285,
+    "lon": -119.0707863,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "93",
+    "name": "93",
+    "lat": 37.8000293,
+    "lon": -119.0709703,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "92",
+    "name": "92",
+    "lat": 37.8001024,
+    "lon": -119.0710877,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "91",
+    "name": "91",
+    "lat": 37.7996064,
+    "lon": -119.0691385,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "90",
+    "name": "90",
+    "lat": 37.7996121,
+    "lon": -119.0693763,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "85",
+    "name": "85",
+    "lat": 37.800366,
+    "lon": -119.0694252,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "84",
+    "name": "84",
+    "lat": 37.8005294,
+    "lon": -119.0694661,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "83",
+    "name": "83",
+    "lat": 37.8006261,
+    "lon": -119.0694238,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "82",
+    "name": "82",
+    "lat": 37.8006999,
+    "lon": -119.0693088,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "81",
+    "name": "81",
+    "lat": 37.8006898,
+    "lon": -119.0691686,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "80",
+    "name": "80",
+    "lat": 37.8006999,
+    "lon": -119.06895,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "76",
+    "name": "76",
+    "lat": 37.8004436,
+    "lon": -119.0682998,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "75",
+    "name": "75",
+    "lat": 37.8003026,
+    "lon": -119.0683666,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "74",
+    "name": "74",
+    "lat": 37.8002079,
+    "lon": -119.0684459,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "73",
+    "name": "73",
+    "lat": 37.8001613,
+    "lon": -119.0685889,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "30",
+    "name": "30",
+    "lat": 37.798571,
+    "lon": -119.0698124,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "29",
+    "name": "29",
+    "lat": 37.7984541,
+    "lon": -119.0699486,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "reversed-peak-east",
+    "name": "Reversed Peak - East",
+    "lat": 37.8145524,
+    "lon": -119.0799816,
+    "type": "trailhead"
+  },
+  {
+    "id": "emerald-lake-trailhead",
+    "name": "Emerald Lake Trailhead",
+    "lat": 37.5915409,
+    "lon": -118.990838,
+    "type": "trailhead"
+  },
+  {
+    "id": "doc-moyle-s-camp",
+    "name": "Doc Moyle's Camp",
+    "lat": 37.7106166,
+    "lon": -119.3149298,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "sentinel-dome-trailhead",
+    "name": "Sentinel Dome Trailhead",
+    "lat": 37.7124616,
+    "lon": -119.5865786,
+    "type": "trailhead"
+  },
+  {
+    "id": "goat-meadow-dispersed-campsite",
+    "name": "Goat Meadow Dispersed Campsite",
+    "lat": 37.4913491,
+    "lon": -119.6244085,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "mcgurk-meadow-trailhead",
+    "name": "McGurk Meadow Trailhead",
+    "lat": 37.6704475,
+    "lon": -119.6281017,
+    "type": "trailhead"
+  },
+  {
+    "id": "wawona-horse-camp",
+    "name": "Wawona Horse Camp",
+    "lat": 37.5393998,
+    "lon": -119.6522216,
+    "type": "designated_campsite"
+  },
+  {
+    "id": "soda-springs-trailhead",
+    "name": "Soda Springs Trailhead",
+    "lat": 37.8720699,
+    "lon": -119.3706395,
+    "type": "trailhead"
+  },
+  {
+    "id": "mather-ranger-station-trailhead",
+    "name": "Mather Ranger Station Trailhead",
+    "lat": 37.8931108,
+    "lon": -119.841344,
+    "type": "trailhead"
+  }
+]
