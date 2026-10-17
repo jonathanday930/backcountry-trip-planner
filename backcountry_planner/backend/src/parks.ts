@@ -110,14 +110,6 @@ export const PARKS: ParkConfig[] = [
     permits: [{ id: '4098362', label: 'Olympic National Park Wilderness Permit' }],
   },
   {
-    id: 'great-smoky-mountains',
-    name: 'Great Smoky Mountains National Park',
-    dataDir: 'great-smoky-mountains-national-park',
-    center: [35.6031, -83.4906],
-    npsParkCode: 'grsm',
-    permits: [{ id: '4675347', label: 'Great Smoky Mountains Backcountry Permits' }],
-  },
-  {
     id: 'canyonlands',
     name: 'Canyonlands National Park',
     dataDir: 'canyonlands-national-park-overnight-backcountry-permits',

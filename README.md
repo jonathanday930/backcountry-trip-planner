@@ -71,7 +71,7 @@ Overlays are available for parks where the managing agency publishes a zone map.
 
 ## Parks covered
 
-Yellowstone, Grand Canyon, Mount Rainier, North Cascades, Zion, Sequoia & Kings Canyon, Joshua Tree, Sierra National Forest, Rocky Mountain, Grand Teton, Glacier, Olympic, Great Smoky Mountains, Canyonlands, and Yosemite.
+Yellowstone, Grand Canyon, Mount Rainier, North Cascades, Zion, Sequoia & Kings Canyon, Joshua Tree, Sierra National Forest, Rocky Mountain, Grand Teton, Glacier, Olympic, Canyonlands, and Yosemite.
 
 ## How it works
 
@@ -111,9 +111,13 @@ Open http://localhost:5173.
 
 ### Elevation data and first-run speed
 
-The large elevation rasters (`backend/data/<park>/dem/`) are not stored in git. Fetch them for a park with the script described in [`backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md). Without them, the app falls back to live USGS point queries, which is slower and needs internet access.
+The large elevation rasters (`backend/data/<park>/dem/`) are not stored in git. They are attached to the repo's [`dem-v1` release](https://github.com/jonathanday930/backcountry-trip-planner/releases/tag/dem-v1) as one archive per park.
 
-The first request for a park is the slow one, because the server loads that park's trail network and elevation data on demand. On a laptop with the elevation data fetched, the first route in a large park (Joshua Tree) took about 12 seconds, the first "Explore routes" list took about 6 seconds, and a smaller park (Grand Teton) came back in under a second. After that, repeat requests return in well under a second until the server restarts. Expect it to be slower on a first visit, and slower still without the local elevation data (elevation results are cached to disk as they are fetched, so later routes speed up).
+**Demo mode (on by default).** When a park has no local elevation data, the sidebar shows a **Download elevation data** button. Click it and the server downloads that park's archive from GitHub, unpacks it, and recalculates routes from the local data, with a progress bar while it runs. Archives are roughly 40 to 700 MB depending on the park. Set `DEMO_MODE=false` in `backend/.env` to turn the button off, for example on a deployment that ships its data in the image.
+
+Without the download, the app falls back to live USGS point queries, which is slower and needs internet access. You can also fetch the data yourself with the script described in [`backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md).
+
+The first request for a park is the slow one, because the server loads that park's trail network and elevation data on demand. On a laptop with the elevation data in place, the first route in a large park (Joshua Tree) took about 12 seconds, the first "Explore routes" list took about 6 seconds, and a smaller park (Grand Teton) came back in under a second. After that, repeat requests return in well under a second until the server restarts.
 
 ## Documentation
 

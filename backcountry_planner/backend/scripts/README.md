@@ -786,3 +786,18 @@ heap and not a sorted array if you're touching that file.
 | `../src/scripts/scanDemCorruption.ts` | Scan all fetched parks for Int16 wraparound corruption. **Run after every DEM fetch.** |
 | `../../frontend/src/RotatedImageOverlay.ts` | Leaflet layer that warps an image to 3 lat/lon corners instead of an axis-aligned rectangle — renders a scanned zone map overlay (step 5) with its rotation/skew correction intact |
 | `../src/scripts/warmElevationCache.ts <parkId\|all>` | Pre-warm the live-EPQS fallback cache for a park with no local DEM yet — mostly obsolete now that `fetchDem.ts` covers all 11 parks, but still correct if a park is ever registered without running `fetchDem.ts` first |
+
+
+## Publishing elevation data
+
+The app's demo-mode "Download elevation data" button (`backend/src/demDownload.ts`) fetches one
+`dem-<dataDir>.tar.gz` per park from a GitHub release (default tag `dem-v1`). To (re)publish after
+fetching or fixing a park's DEM:
+
+```bash
+backend/scripts/package-dem.sh /some/output/dir      # one archive per registered park that has dem/
+gh release upload dem-v1 /some/output/dir/dem-<dataDir>.tar.gz --clobber
+```
+
+Asset names must stay `dem-<dataDir>.tar.gz`, with `dem/` as the archive's top-level folder. Run
+`scanDemCorruption.ts` before packaging, as with any fetch. Release assets are limited to 2GB each.

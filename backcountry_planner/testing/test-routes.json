@@ -2490,11 +2490,41 @@
       "name": "Hoh River Trail to Glacier Meadows",
       "description": "Point-to-point corridor from the Hoh trailhead to Glacier Meadows",
       "stops": [
-        { "role": "start", "id": "hoh-visitor-center", "name": "Hoh Visitor Center TH", "lat": 47.8602506856459, "lon": -123.934852725376 },
-        { "role": "stop-1", "id": "five-mile-island", "name": "Five Mile Island", "lat": 47.8668753885913, "lon": -123.841174586313 },
-        { "role": "stop-2", "id": "happy-four", "name": "Happy Four", "lat": 47.8676102907573, "lon": -123.82920343462 },
-        { "role": "stop-3", "id": "olympus-guard-station", "name": "Olympus Guard Station", "lat": 47.8777635057153, "lon": -123.765793684179 },
-        { "role": "end", "id": "glacier-meadows-no-campfires", "name": "Glacier Meadows (No Campfires)", "lat": 47.8322760491945, "lon": -123.691467239578 }
+        {
+          "role": "start",
+          "id": "hoh-visitor-center",
+          "name": "Hoh Visitor Center TH",
+          "lat": 47.8602506856459,
+          "lon": -123.934852725376
+        },
+        {
+          "role": "stop-1",
+          "id": "five-mile-island",
+          "name": "Five Mile Island",
+          "lat": 47.8668753885913,
+          "lon": -123.841174586313
+        },
+        {
+          "role": "stop-2",
+          "id": "happy-four",
+          "name": "Happy Four",
+          "lat": 47.8676102907573,
+          "lon": -123.82920343462
+        },
+        {
+          "role": "stop-3",
+          "id": "olympus-guard-station",
+          "name": "Olympus Guard Station",
+          "lat": 47.8777635057153,
+          "lon": -123.765793684179
+        },
+        {
+          "role": "end",
+          "id": "glacier-meadows-no-campfires",
+          "name": "Glacier Meadows (No Campfires)",
+          "lat": 47.8322760491945,
+          "lon": -123.691467239578
+        }
       ]
     },
     {
@@ -2502,12 +2532,48 @@
       "name": "High Divide and Seven Lakes Basin",
       "description": "Two-night loop via Deer Lake, Seven Lakes Basin and Sol Duc Park",
       "stops": [
-        { "role": "start", "id": "sol-duc", "name": "Sol Duc TH", "lat": 47.9549596548613, "lon": -123.8348768581 },
-        { "role": "stop-1", "id": "deer-lake-no-campfires", "name": "Deer Lake (No Campfires)", "lat": 47.9265225190066, "lon": -123.822116791273 },
-        { "role": "stop-2", "id": "lunch-lake-no-campfires", "name": "Lunch Lake (No Campfires)", "lat": 47.9166975598455, "lon": -123.784136445319 },
-        { "role": "stop-3", "id": "heart-lake-no-campfires", "name": "Heart Lake (No Campfires)", "lat": 47.9108533740182, "lon": -123.733120657316 },
-        { "role": "stop-4", "id": "sol-duc-park-no-campfires", "name": "Sol Duc Park (No Campfires)", "lat": 47.9194916347572, "lon": -123.728760415454 },
-        { "role": "end", "id": "sol-duc", "name": "Sol Duc TH", "lat": 47.9549596548613, "lon": -123.8348768581 }
+        {
+          "role": "start",
+          "id": "sol-duc",
+          "name": "Sol Duc TH",
+          "lat": 47.9549596548613,
+          "lon": -123.8348768581
+        },
+        {
+          "role": "stop-1",
+          "id": "deer-lake-no-campfires",
+          "name": "Deer Lake (No Campfires)",
+          "lat": 47.9265225190066,
+          "lon": -123.822116791273
+        },
+        {
+          "role": "stop-2",
+          "id": "lunch-lake-no-campfires",
+          "name": "Lunch Lake (No Campfires)",
+          "lat": 47.9166975598455,
+          "lon": -123.784136445319
+        },
+        {
+          "role": "stop-3",
+          "id": "heart-lake-no-campfires",
+          "name": "Heart Lake (No Campfires)",
+          "lat": 47.9108533740182,
+          "lon": -123.733120657316
+        },
+        {
+          "role": "stop-4",
+          "id": "sol-duc-park-no-campfires",
+          "name": "Sol Duc Park (No Campfires)",
+          "lat": 47.9194916347572,
+          "lon": -123.728760415454
+        },
+        {
+          "role": "end",
+          "id": "sol-duc",
+          "name": "Sol Duc TH",
+          "lat": 47.9549596548613,
+          "lon": -123.8348768581
+        }
       ]
     },
     {
@@ -2515,11 +2581,41 @@
       "name": "East Fork Quinault to Enchanted Valley",
       "description": "Two-night out-and-back corridor from Graves Creek",
       "stops": [
-        { "role": "start", "id": "graves-creek", "name": "Graves Creek TH", "lat": 47.5727744777703, "lon": -123.569739838568 },
-        { "role": "stop-1", "id": "pony-bridge-campsite-2-5-miles-from-trailhead", "name": "Pony Bridge Campsite", "lat": 47.5966495901973, "lon": -123.541478244494 },
-        { "role": "stop-2", "id": "o-neil-creek-campsite-7-miles-from-trailhead", "name": "O'Neil Creek Campsite", "lat": 47.6157643938584, "lon": -123.472509040131 },
-        { "role": "stop-3", "id": "pyrites-creek-campsite-10-miles-from-trailhead", "name": "Pyrites Creek Campsite", "lat": 47.6402250454062, "lon": -123.432556452945 },
-        { "role": "end", "id": "enchanted-valley-campsite-14-miles-from-trailhead", "name": "Enchanted Valley Campsite", "lat": 47.6723622756025, "lon": -123.389358775031 }
+        {
+          "role": "start",
+          "id": "graves-creek",
+          "name": "Graves Creek TH",
+          "lat": 47.5727744777703,
+          "lon": -123.569739838568
+        },
+        {
+          "role": "stop-1",
+          "id": "pony-bridge-campsite-2-5-miles-from-trailhead",
+          "name": "Pony Bridge Campsite",
+          "lat": 47.5966495901973,
+          "lon": -123.541478244494
+        },
+        {
+          "role": "stop-2",
+          "id": "o-neil-creek-campsite-7-miles-from-trailhead",
+          "name": "O'Neil Creek Campsite",
+          "lat": 47.6157643938584,
+          "lon": -123.472509040131
+        },
+        {
+          "role": "stop-3",
+          "id": "pyrites-creek-campsite-10-miles-from-trailhead",
+          "name": "Pyrites Creek Campsite",
+          "lat": 47.6402250454062,
+          "lon": -123.432556452945
+        },
+        {
+          "role": "end",
+          "id": "enchanted-valley-campsite-14-miles-from-trailhead",
+          "name": "Enchanted Valley Campsite",
+          "lat": 47.6723622756025,
+          "lon": -123.389358775031
+        }
       ]
     },
     {
@@ -2527,56 +2623,34 @@
       "name": "Cape Alava and Sand Point Loop",
       "description": "One-night coastal loop from Ozette Ranger Station",
       "stops": [
-        { "role": "start", "id": "ozette-ranger-station", "name": "Ozette Ranger Station TH", "lat": 48.1545207110671, "lon": -124.668921377897 },
-        { "role": "stop-1", "id": "cape-alava", "name": "Cape Alava", "lat": 48.1635310405745, "lon": -124.732794492392 },
-        { "role": "stop-2", "id": "sand-point-no-campfires", "name": "Sand Point (No Campfires)", "lat": 48.125782232556, "lon": -124.709381602983 },
-        { "role": "end", "id": "ozette-ranger-station", "name": "Ozette Ranger Station TH", "lat": 48.1545207110671, "lon": -124.668921377897 }
-      ]
-    },
-    {
-      "park": "great-smoky-mountains",
-      "name": "Appalachian Trail through the Smokies",
-      "description": "Representative shelter-to-shelter Appalachian Trail section",
-      "stops": [
-        { "role": "start", "id": "cosby-knob-backpacker-stock", "name": "Cosby Knob (Backpacker Stock)" },
-        { "role": "stop-1", "id": "tricorner-knob-backpacker-stock", "name": "Tricorner Knob (Backpacker Stock)" },
-        { "role": "stop-2", "id": "pecks-corner-backpacker-stock", "name": "Pecks Corner (Backpacker Stock)" },
-        { "role": "stop-3", "id": "icewater-spring-backpacker", "name": "Icewater Spring (Backpacker)" },
-        { "role": "end", "id": "mount-collins-backpacker", "name": "Mount Collins (Backpacker)" }
-      ]
-    },
-    {
-      "park": "great-smoky-mountains",
-      "name": "Cades Cove to Spence Field",
-      "description": "Anthony Creek access toward Spence Field",
-      "stops": [
-        { "role": "start", "id": "anthony-creek-trailhead", "name": "Anthony Creek Trailhead" },
-        { "role": "stop-1", "id": "campsite-9-anthony-creek-backpacker", "name": "Campsite 9 (Anthony Creek)" },
-        { "role": "stop-2", "id": "spence-field-backpacker-stock", "name": "Spence Field (Backpacker Stock)" },
-        { "role": "end", "id": "mollies-ridge-backpacker-stock", "name": "Mollies Ridge (Backpacker Stock)" }
-      ]
-    },
-    {
-      "park": "great-smoky-mountains",
-      "name": "Deep Creek and Forney Ridge Loop",
-      "description": "Representative eastern Smokies corridor",
-      "stops": [
-        { "role": "start", "id": "deep-creek-trailhead-south", "name": "Deep Creek Trailhead (South)" },
-        { "role": "stop-1", "id": "campsite-60-bumgardner-branch-backpacker-stock", "name": "Campsite 60 (Bumgardner Branch)" },
-        { "role": "stop-2", "id": "campsite-69-huggins-backpacker", "name": "Campsite 69 (Huggins)" },
-        { "role": "stop-3", "id": "campsite-74-lower-forney-backpacker-stock", "name": "Campsite 74 (Lower Forney)" },
-        { "role": "end", "id": "campsite-66-lower-noland-creek-backpacker-boats-only", "name": "Campsite 66 (Lower Noland Creek)" }
-      ]
-    },
-    {
-      "park": "great-smoky-mountains",
-      "name": "Big Creek to Appalachian Trail Shelters",
-      "description": "Big Creek access to the northeastern shelter corridor",
-      "stops": [
-        { "role": "start", "id": "big-creek-trailhead", "name": "Big Creek Trailhead" },
-        { "role": "stop-1", "id": "cosby-knob-backpacker-stock", "name": "Cosby Knob (Backpacker Stock)" },
-        { "role": "stop-2", "id": "tricorner-knob-backpacker-stock", "name": "Tricorner Knob (Backpacker Stock)" },
-        { "role": "end", "id": "mount-sterling-backpacker", "name": "Mount Sterling (Backpacker)" }
+        {
+          "role": "start",
+          "id": "ozette-ranger-station",
+          "name": "Ozette Ranger Station TH",
+          "lat": 48.1545207110671,
+          "lon": -124.668921377897
+        },
+        {
+          "role": "stop-1",
+          "id": "cape-alava",
+          "name": "Cape Alava",
+          "lat": 48.1635310405745,
+          "lon": -124.732794492392
+        },
+        {
+          "role": "stop-2",
+          "id": "sand-point-no-campfires",
+          "name": "Sand Point (No Campfires)",
+          "lat": 48.125782232556,
+          "lon": -124.709381602983
+        },
+        {
+          "role": "end",
+          "id": "ozette-ranger-station",
+          "name": "Ozette Ranger Station TH",
+          "lat": 48.1545207110671,
+          "lon": -124.668921377897
+        }
       ]
     },
     {
@@ -2584,10 +2658,26 @@
       "name": "Salt Creek Campsite Corridor",
       "description": "Needles District designated-site corridor",
       "stops": [
-        { "role": "start", "id": "salt-creek-1-sc1", "name": "Salt Creek 1 (SC1)" },
-        { "role": "stop-1", "id": "salt-creek-2-sc2", "name": "Salt Creek 2 (SC2)" },
-        { "role": "stop-2", "id": "salt-creek-3-sc3", "name": "Salt Creek 3 (SC3)" },
-        { "role": "end", "id": "salt-creek-4-sc4", "name": "Salt Creek 4 (SC4)" }
+        {
+          "role": "start",
+          "id": "salt-creek-1-sc1",
+          "name": "Salt Creek 1 (SC1)"
+        },
+        {
+          "role": "stop-1",
+          "id": "salt-creek-2-sc2",
+          "name": "Salt Creek 2 (SC2)"
+        },
+        {
+          "role": "stop-2",
+          "id": "salt-creek-3-sc3",
+          "name": "Salt Creek 3 (SC3)"
+        },
+        {
+          "role": "end",
+          "id": "salt-creek-4-sc4",
+          "name": "Salt Creek 4 (SC4)"
+        }
       ]
     },
     {
@@ -2595,11 +2685,31 @@
       "name": "Island in the Sky / White Rim Campsite Corridor",
       "description": "Representative Island in the Sky and White Rim corridor",
       "stops": [
-        { "role": "start", "id": "alcove-spring-trailhead-island-in-the-sky", "name": "Alcove Spring Trailhead" },
-        { "role": "stop-1", "id": "gooseberry-a", "name": "Gooseberry A" },
-        { "role": "stop-2", "id": "white-crack", "name": "White Crack" },
-        { "role": "stop-3", "id": "murphy-a", "name": "Murphy A" },
-        { "role": "end", "id": "shafer-campsite", "name": "Shafer Campsite" }
+        {
+          "role": "start",
+          "id": "alcove-spring-trailhead-island-in-the-sky",
+          "name": "Alcove Spring Trailhead"
+        },
+        {
+          "role": "stop-1",
+          "id": "gooseberry-a",
+          "name": "Gooseberry A"
+        },
+        {
+          "role": "stop-2",
+          "id": "white-crack",
+          "name": "White Crack"
+        },
+        {
+          "role": "stop-3",
+          "id": "murphy-a",
+          "name": "Murphy A"
+        },
+        {
+          "role": "end",
+          "id": "shafer-campsite",
+          "name": "Shafer Campsite"
+        }
       ]
     },
     {
@@ -2607,11 +2717,31 @@
       "name": "The Maze: Golden Stairs to Happy Canyon",
       "description": "Representative Maze District corridor",
       "stops": [
-        { "role": "start", "id": "golden-stairs", "name": "Golden Stairs" },
-        { "role": "stop-1", "id": "teapot-rock", "name": "Teapot Rock" },
-        { "role": "stop-2", "id": "sunset-pass", "name": "Sunset Pass" },
-        { "role": "stop-3", "id": "the-neck", "name": "The Neck" },
-        { "role": "end", "id": "happy-canyon", "name": "Happy Canyon" }
+        {
+          "role": "start",
+          "id": "golden-stairs",
+          "name": "Golden Stairs"
+        },
+        {
+          "role": "stop-1",
+          "id": "teapot-rock",
+          "name": "Teapot Rock"
+        },
+        {
+          "role": "stop-2",
+          "id": "sunset-pass",
+          "name": "Sunset Pass"
+        },
+        {
+          "role": "stop-3",
+          "id": "the-neck",
+          "name": "The Neck"
+        },
+        {
+          "role": "end",
+          "id": "happy-canyon",
+          "name": "Happy Canyon"
+        }
       ]
     },
     {
@@ -2619,9 +2749,21 @@
       "name": "Needles: Devils Kitchen Campsite Corridor",
       "description": "Needles District designated-site corridor",
       "stops": [
-        { "role": "start", "id": "devils-kitchen-1", "name": "Devils Kitchen 1" },
-        { "role": "stop-1", "id": "devils-kitchen-2", "name": "Devils Kitchen 2" },
-        { "role": "end", "id": "devils-kitchen-3", "name": "Devils Kitchen 3" }
+        {
+          "role": "start",
+          "id": "devils-kitchen-1",
+          "name": "Devils Kitchen 1"
+        },
+        {
+          "role": "stop-1",
+          "id": "devils-kitchen-2",
+          "name": "Devils Kitchen 2"
+        },
+        {
+          "role": "end",
+          "id": "devils-kitchen-3",
+          "name": "Devils Kitchen 3"
+        }
       ]
     },
     {
@@ -2629,9 +2771,21 @@
       "name": "High Sierra Camps: May Lake to Vogelsang",
       "description": "Representative high-country corridor",
       "stops": [
-        { "role": "start", "id": "may-lake-trailhead", "name": "May Lake Trailhead" },
-        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
-        { "role": "end", "id": "lyell-canyon-trailhead", "name": "Lyell Canyon Trailhead" }
+        {
+          "role": "start",
+          "id": "may-lake-trailhead",
+          "name": "May Lake Trailhead"
+        },
+        {
+          "role": "stop-1",
+          "id": "vogelsang-backpacker-camp",
+          "name": "Vogelsang Backpacker Camp"
+        },
+        {
+          "role": "end",
+          "id": "lyell-canyon-trailhead",
+          "name": "Lyell Canyon Trailhead"
+        }
       ]
     },
     {
@@ -2639,9 +2793,21 @@
       "name": "Yosemite Valley to Vogelsang",
       "description": "Representative Yosemite Valley high-country route",
       "stops": [
-        { "role": "start", "id": "yosemite-valley-backpackers-campground", "name": "Yosemite Valley Backpackers Campground" },
-        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
-        { "role": "end", "id": "may-lake-trailhead", "name": "May Lake Trailhead" }
+        {
+          "role": "start",
+          "id": "yosemite-valley-backpackers-campground",
+          "name": "Yosemite Valley Backpackers Campground"
+        },
+        {
+          "role": "stop-1",
+          "id": "vogelsang-backpacker-camp",
+          "name": "Vogelsang Backpacker Camp"
+        },
+        {
+          "role": "end",
+          "id": "may-lake-trailhead",
+          "name": "May Lake Trailhead"
+        }
       ]
     },
     {
@@ -2649,9 +2815,21 @@
       "name": "Glen Aulin and Tuolumne Meadows",
       "description": "Representative Tuolumne high-country corridor",
       "stops": [
-        { "role": "start", "id": "glen-aulin-trailhead", "name": "Glen Aulin Trailhead" },
-        { "role": "stop-1", "id": "vogelsang-backpacker-camp", "name": "Vogelsang Backpacker Camp" },
-        { "role": "end", "id": "lyell-canyon-trailhead", "name": "Lyell Canyon Trailhead" }
+        {
+          "role": "start",
+          "id": "glen-aulin-trailhead",
+          "name": "Glen Aulin Trailhead"
+        },
+        {
+          "role": "stop-1",
+          "id": "vogelsang-backpacker-camp",
+          "name": "Vogelsang Backpacker Camp"
+        },
+        {
+          "role": "end",
+          "id": "lyell-canyon-trailhead",
+          "name": "Lyell Canyon Trailhead"
+        }
       ]
     },
     {
@@ -2659,8 +2837,16 @@
       "name": "Hetch Hetchy to Lake Eleanor",
       "description": "Representative northern Yosemite corridor",
       "stops": [
-        { "role": "start", "id": "lake-eleanor-trailhead", "name": "Lake Eleanor Trailhead" },
-        { "role": "end", "id": "lake-eleanor-campground", "name": "Lake Eleanor Campground" }
+        {
+          "role": "start",
+          "id": "lake-eleanor-trailhead",
+          "name": "Lake Eleanor Trailhead"
+        },
+        {
+          "role": "end",
+          "id": "lake-eleanor-campground",
+          "name": "Lake Eleanor Campground"
+        }
       ]
     }
   ]
