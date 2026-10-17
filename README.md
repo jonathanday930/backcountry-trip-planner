@@ -14,6 +14,20 @@ The app lives in [`backcountry_planner/`](backcountry_planner/).
 - **Curated routes and trip chat.** Browse known named routes, or ask the built-in chat assistant for help planning.
 - **Zone maps.** Scanned park zone maps can be overlaid on the map.
 
+## Screenshots
+
+**A planned 3-night route in Grand Teton.** Overnight stops split the trip into days, each drawn in its own color, with per-leg distance and elevation gain/loss and a closure warning.
+
+![Planned multi-day route with day-by-day distance and elevation](backcountry_planner/docs/screenshots/planned-route.png)
+
+**Explore curated routes.** Start from a classic named route, preview its corridor on the map, then customize campsites and overnight stops.
+
+![Known routes list with a route corridor previewed on the map](backcountry_planner/docs/screenshots/route-preview.png)
+
+**Browse the park.** Trails, walkable roads, trailheads, campsites, an official zone map overlay, and live park alert pins.
+
+![Park map with trails, campsites, and zone overlay](backcountry_planner/docs/screenshots/explore.png)
+
 ## Parks covered
 
 Yellowstone, Grand Canyon, Mount Rainier, North Cascades, Zion, Sequoia & Kings Canyon, Joshua Tree, Sierra National Forest, Rocky Mountain, Grand Teton, Glacier, Olympic, Great Smoky Mountains, Canyonlands, and Yosemite.
