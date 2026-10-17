@@ -67,14 +67,6 @@ The same park with the overlay off. The trails and markers are all there, but no
 
 ![Joshua Tree with the overlay off](backcountry_planner/docs/screenshots/joshua-tree-no-overlay.png)
 
-**Why it helps when planning**
-
-- **See where you are allowed to be.** Zone boundaries are what your permit and the park's rules are written against. Seeing them next to your route makes it obvious which area each stretch falls in.
-- **Plan across zones.** If a route crosses from one area into another, you can see it before you book, instead of finding out from a paper map at the trailhead.
-- **Pick better stops in at-large areas.** Where there are no numbered campsites, the overlay shows which area a candidate camping spot belongs to.
-- **Combine official and routable.** The scanned map is the authoritative picture but cannot give you mileage. The planner can, so you get the park's own map and on-trail distance and elevation in one view.
-- **Switch it off when it is in the way.** The overlay is a toggle in the top right of the map, so the plain topo view is one click away.
-
 Overlays are available for parks where the managing agency publishes a zone map. Check the park's current rules for what each zone allows.
 
 ## Parks covered
