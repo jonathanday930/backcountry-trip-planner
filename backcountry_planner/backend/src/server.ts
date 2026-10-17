@@ -14,6 +14,7 @@ import { buildRouteSubgraph, UnroutableStopError, type ResolvedStop } from './ro
 import { authRouter } from './auth.js'
 import { savedRoutesRouter } from './savedRoutes.js'
 import { chatRouter } from './chat.js'
+import { DEMO_MODE, getDemStatus, startDemDownload } from './demDownload.js'
 import { getKnownRoutes } from './tools/knownRoutes.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -46,6 +47,23 @@ app.use('/api/chat', chatRouter)
 
 app.get('/api/parks', (_req, res) => {
   res.json(PARKS.map((p) => ({ id: p.id, name: p.name, center: p.center })))
+})
+
+app.get('/api/config', (_req, res) => {
+  res.json({ demoMode: DEMO_MODE })
+})
+
+app.get('/api/dem/status', (req, res) => {
+  const park = PARKS.find((p) => p.id === String(req.query.park ?? ''))
+  if (!park) return res.status(400).json({ error: 'Unknown park' })
+  res.json(getDemStatus(park.dataDir))
+})
+
+app.post('/api/dem/download', (req, res) => {
+  if (!DEMO_MODE) return res.status(403).json({ error: 'Elevation downloads are disabled (demo mode is off).' })
+  const status = startDemDownload(String(req.query.park ?? ''))
+  if (!status) return res.status(400).json({ error: 'Unknown park' })
+  res.status(202).json(status)
 })
 
 app.get('/api/known-routes', async (req, res) => {

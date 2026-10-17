@@ -45,6 +45,14 @@ for (const signal of ['SIGINT', 'SIGTERM'] as const) {
   })
 }
 
+/** Drops a park's cached per-edge elevation profiles, e.g. after its DEM raster is installed and
+ * profiles computed from the live-API fallback are stale. */
+export function clearEdgeProfiles(dataDir: string): void {
+  for (const key of [...edgeProfileCache.keys()]) {
+    if (key.startsWith(`${dataDir}:`)) edgeProfileCache.delete(key)
+  }
+}
+
 /** Number of distinct coordinates with a cached elevation, for warm-up progress reporting. */
 export function getElevationCacheSize(): number {
   return elevationCache.size

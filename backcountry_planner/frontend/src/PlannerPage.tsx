@@ -4,6 +4,7 @@ import { MapContainer, TileLayer, Marker, Popup, Polyline, GeoJSON, useMap, useM
 import L from 'leaflet'
 import type { FeatureCollection } from 'geojson'
 import ChatWidget from './ChatWidget'
+import DemoElevationBanner from './DemoElevationBanner'
 import { RotatedImageOverlay } from './RotatedImageOverlay'
 
 interface Campsite {
@@ -721,6 +722,8 @@ export default function PlannerPage() {
   const [pendingPoint, setPendingPoint] = useState<{ lat: number; lon: number } | null>(null)
   const [route, setRoute] = useState<RouteResult | null>(null)
   const [loading, setLoading] = useState(false)
+  /** Bumped when a park's elevation raster finishes downloading, to recompute with local data. */
+  const [demVersion, setDemVersion] = useState(0)
   const [error, setError] = useState<string | null>(null)
   const [editingIndex, setEditingIndex] = useState<number | null>(null)
   const [searchText, setSearchText] = useState('')
@@ -954,7 +957,7 @@ export default function PlannerPage() {
     return () => {
       cancelled = true
     }
-  }, [stops, parkId])
+  }, [stops, parkId, demVersion])
 
   function setAsStart(value: string) {
     setStops((prev) => {
@@ -1234,6 +1237,16 @@ export default function PlannerPage() {
           )}
         </div>
         <p className="subtitle">Backcountry trip planner &mdash; on-trail distance &amp; elevation</p>
+        {parkId && (
+          <DemoElevationBanner
+            parkId={parkId}
+            onInstalled={() => {
+              setDemVersion((v) => v + 1)
+              setKnownRoutes([])
+              if (view === 'explore') loadKnownRoutes()
+            }}
+          />
+        )}
 
         <div className="view-tabs">
           <button className={view === 'planner' ? 'active' : ''} onClick={() => openView('planner')}>

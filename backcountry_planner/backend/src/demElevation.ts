@@ -24,6 +24,17 @@ function loadManifest(dataDir: string): DemManifest | null {
   return manifest
 }
 
+/** Forgets everything cached for a park so a raster installed (or replaced) at runtime is picked up. */
+export function resetDemCache(dataDir: string): void {
+  manifestCache.delete(dataDir)
+  for (const key of [...tileCache.keys()]) {
+    if (key.startsWith(`${dataDir}:`)) {
+      tileCacheBytes -= tileCache.get(key)!.byteLength
+      tileCache.delete(key)
+    }
+  }
+}
+
 /** Whether a park has a local elevation raster downloaded (see fetchDem.ts) — if not, callers should fall back to the live USGS API. */
 export function hasDem(dataDir: string): boolean {
   return loadManifest(dataDir) !== null
