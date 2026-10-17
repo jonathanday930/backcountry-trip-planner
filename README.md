@@ -13,7 +13,7 @@ The app lives in [`backcountry_planner/`](backcountry_planner/).
 - **Saved routes.** Sign in with Google to save and revisit trips.
 - **Curated routes.** Browse known named routes and customize their campsites and stops.
 - **Live park alerts.** Official NPS closures and hazards shown as pins on the map (see [below](#live-park-alerts)).
-- **Zone maps.** Scanned park zone maps can be overlaid on the map.
+- **Zone maps.** Official scanned park zone maps can be overlaid on the map (see [below](#official-zone-map-overlay)).
 
 ## Screenshots
 
@@ -54,6 +54,28 @@ Alerts are optional. Without a key everything else in the app works normally.
 Optional: to pin non-road alerts on the map, also set `HF_TOKEN` (a Hugging Face access token). `HAZARD_LOCATOR_MODEL` picks the small model used for matching and has a default. Without `HF_TOKEN`, those alerts simply appear in the Park Alerts list.
 
 Alerts are informational only. Always confirm closures and permit rules with the managing agency before you go.
+
+## Official zone map overlay
+
+Some parks do not manage backcountry camping campsite by campsite. They divide the park into zones or areas, and your permit is for an area. The only official map of those areas is often a scanned PDF. For these parks, the planner can lay the park's own zone map directly over the live map, lined up to real coordinates, with a toggle to switch it on and off.
+
+**Joshua Tree** is a good example. With the overlay on, you can see the park's color-coded backcountry areas (Black Rock, Covington, Jumbo Flats, Pinto Mountains, Eagle Mountains, and more) sitting right on top of the trails, roads, and camping markers:
+
+![Joshua Tree with the official zone map overlay on](backcountry_planner/docs/screenshots/joshua-tree-overlay.png)
+
+The same park with the overlay off. The trails and markers are all there, but nothing tells you where one zone ends and the next begins:
+
+![Joshua Tree with the overlay off](backcountry_planner/docs/screenshots/joshua-tree-no-overlay.png)
+
+**Why it helps when planning**
+
+- **See where you are allowed to be.** Zone boundaries are what your permit and the park's rules are written against. Seeing them next to your route makes it obvious which area each stretch falls in.
+- **Plan across zones.** If a route crosses from one area into another, you can see it before you book, instead of finding out from a paper map at the trailhead.
+- **Pick better stops in at-large areas.** Where there are no numbered campsites, the overlay shows which area a candidate camping spot belongs to.
+- **Combine official and routable.** The scanned map is the authoritative picture but cannot give you mileage. The planner can, so you get the park's own map and on-trail distance and elevation in one view.
+- **Switch it off when it is in the way.** The overlay is a toggle in the top right of the map, so the plain topo view is one click away.
+
+Overlays are available for parks where the managing agency publishes a zone map. Check the park's current rules for what each zone allows.
 
 ## Parks covered
 
