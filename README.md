@@ -11,7 +11,8 @@ The app lives in [`backcountry_planner/`](backcountry_planner/).
 - **Campsites and any map point.** Click a permitted backcountry campsite or drop a pin anywhere on the map.
 - **Multi-day trips.** Mark overnight stops and each day of the trek is colored and totaled separately.
 - **Saved routes.** Sign in with Google to save and revisit trips.
-- **Curated routes and trip chat.** Browse known named routes, or ask the built-in chat assistant for help planning.
+- **Curated routes.** Browse known named routes and customize their campsites and stops.
+- **AI trip assistant.** A chat agent that checks live weather, closures, and permit availability (see [below](#ai-trip-planning-assistant)).
 - **Zone maps.** Scanned park zone maps can be overlaid on the map.
 
 ## Screenshots
@@ -27,6 +28,52 @@ The app lives in [`backcountry_planner/`](backcountry_planner/).
 **Browse the park.** Trails, walkable roads, trailheads, campsites, an official zone map overlay, and live park alert pins.
 
 ![Park map with trails, campsites, and zone overlay](backcountry_planner/docs/screenshots/explore.png)
+
+## AI trip-planning assistant
+
+Every park page has a **Trip planning chat** panel. It is not a generic chatbot: it is a tool-calling agent that looks things up before it answers, so questions about conditions, permits, and mileage get real data instead of guesses from training data. It knows which park you are in and what route you currently have on the map.
+
+**What it can do**
+
+| Ask it | It uses |
+|---|---|
+| "What's the weather at the trailhead this weekend?" | Live forecasts from the National Weather Service (api.weather.gov, no key needed) |
+| "Are any trails closed?" | Official National Park Service alerts and road events (for NPS parks), or the park's conditions page as a fallback |
+| "Is there a permit open for the first week of August?" | Recreation.gov's live availability, cached for 6 hours |
+| "What's a good 3-night route here?" | The park's curated list of real named routes, with live mileage computed by the routing engine |
+| "Can I do this in 4 nights at 10 miles a day?" | A deterministic itinerary solver that splits a corridor across nights using the same routing the map uses, so its numbers always match the app |
+
+It also answers general gear, safety, and logistics questions conversationally, and shows small activity chips in the chat while it runs each lookup. Today's date is passed in, so "next weekend" resolves correctly.
+
+**Setting it up**
+
+The chat is optional. Without a key the rest of the app works normally and the chat returns a friendly error.
+
+1. Get an Anthropic API key at https://console.anthropic.com/settings/keys.
+2. Copy `backcountry_planner/backend/.env.example` to `backcountry_planner/backend/.env` and set:
+
+   ```bash
+   ANTHROPIC_API_KEY=sk-ant-...
+   CHAT_MODEL=claude-haiku-4-5   # optional, this is the default
+   CHAT_MAX_TOKENS=1024          # optional, max length of a reply
+   NPS_API_KEY=                  # optional, enables official NPS closures and map hazard pins
+   ```
+
+3. Restart the backend (`npm run dev`) and open any park.
+
+`NPS_API_KEY` is free from https://www.nps.gov/subjects/developer/get-started.htm. On Fly.io, set these with `fly secrets set` instead of a `.env` file.
+
+**Choosing a model or provider**
+
+Change `CHAT_MODEL` to swap Claude models with no code changes. A cheaper small model is the default because most questions are quick lookups. There is also an experimental Hugging Face path (`LLM_PROVIDER=huggingface`, plus `HF_TOKEN` and `HF_MODEL`). Both providers share the same tools, but Claude is noticeably more reliable at deciding when to call a tool, so Anthropic is the recommended default.
+
+**Cost and safety notes**
+
+- Chat history is kept in the browser only, never stored on the server, and the server trims it to the last 20 turns per request to cap cost.
+- Replies are capped by `CHAT_MAX_TOKENS`.
+- The assistant gives planning help, not guarantees. Confirm closures and permit rules with the managing agency.
+
+If you also set `HF_TOKEN`, a small model is used to pin non-road NPS alerts to places on the map. Without it, those alerts appear in a "Park Alerts" list instead.
 
 ## Parks covered
 
