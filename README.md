@@ -109,9 +109,11 @@ cd backcountry_planner/frontend && npm run dev    # app on http://localhost:5173
 
 Open http://localhost:5173.
 
-### Elevation data
+### Elevation data and first-run speed
 
-The large elevation rasters (`backend/data/<park>/dem/`) are not stored in git. Fetch them for a park with the script described in [`backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md). Without them, the app falls back to live USGS point queries, which are slower.
+The large elevation rasters (`backend/data/<park>/dem/`) are not stored in git. Fetch them for a park with the script described in [`backend/scripts/README.md`](backcountry_planner/backend/scripts/README.md). Without them, the app falls back to live USGS point queries, which is slower and needs internet access.
+
+The first request for a park is the slow one, because the server loads that park's trail network and elevation data on demand. On a laptop with the elevation data fetched, the first route in a large park (Joshua Tree) took about 12 seconds, the first "Explore routes" list took about 6 seconds, and a smaller park (Grand Teton) came back in under a second. After that, repeat requests return in well under a second until the server restarts. Expect it to be slower on a first visit, and slower still without the local elevation data (elevation results are cached to disk as they are fetched, so later routes speed up).
 
 ## Documentation
 
